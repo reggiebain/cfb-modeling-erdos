@@ -1,4 +1,4 @@
-# Blue Chip's Ahoy
+# Blue Chips Ahoy!
 ### *Predicting college sports success analyzing talent accumulation and on-field success. A 2024 Erdös Institute Project.*
 ## Authors 
 - Reggie Bain &nbsp;<a href="https://www.linkedin.com/in/reggiebain/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; width:auto;"/></a> &nbsp; <a href="https://github.com/reggiebain"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="height: 1em; width: auto;"/></a>
