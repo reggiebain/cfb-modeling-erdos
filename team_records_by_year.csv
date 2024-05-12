@@ -1,0 +1,2950 @@
+team,team_id,year,conference,games_played,expected_wins,wins,losses,home_wins,home_losses,away_wins,away_losses
+Air Force,2005,2000,Mountain West,12,0.0,9,3,5,1,3,2
+Akron,2006,2000,Mid-American,11,0.0,6,5,3,3,3,2
+Alabama,333,2000,SEC,11,0.0,3,8,3,3,0,5
+Arizona,12,2000,Pac-10,11,0.0,5,6,2,4,3,2
+Arizona State,9,2000,Pac-10,12,0.0,6,6,3,3,3,2
+Arkansas,8,2000,SEC,12,0.0,6,6,5,2,1,3
+Arkansas State,2032,2000,Big West,11,0.0,1,10,1,4,0,6
+Army,349,2000,Conference USA,11,0.0,1,10,1,4,0,6
+Auburn,2,2000,SEC,13,0.0,9,4,7,0,2,2
+Ball State,2050,2000,Mid-American,11,0.0,5,6,2,3,3,3
+Baylor,239,2000,Big 12,11,0.0,2,9,1,5,1,4
+Boise State,68,2000,Big West,12,0.0,10,2,5,0,4,2
+Boston College,103,2000,Big East,12,0.0,7,5,5,1,1,4
+Bowling Green,189,2000,Mid-American,11,0.0,2,9,1,4,1,5
+Buffalo,2084,2000,Mid-American,11,0.0,2,9,2,3,0,6
+BYU,252,2000,Mountain West,12,0.0,6,6,4,2,2,4
+California,25,2000,Pac-10,11,0.0,3,8,2,3,1,5
+Central Michigan,2117,2000,Mid-American,11,0.0,2,9,2,3,0,6
+Cincinnati,2132,2000,Conference USA,12,0.0,7,5,6,0,1,4
+Clemson,228,2000,ACC,12,0.0,9,3,6,1,3,1
+Colorado,38,2000,Big 12,11,0.0,3,8,1,4,2,4
+Colorado State,36,2000,Mountain West,12,0.0,10,2,6,0,3,2
+Connecticut,41,2000,FBS Independents,11,0.0,3,8,1,4,2,4
+Duke,150,2000,ACC,11,0.0,0,11,0,5,0,6
+East Carolina,151,2000,Conference USA,12,0.0,8,4,4,2,3,2
+Eastern Michigan,2199,2000,Mid-American,11,0.0,3,8,3,3,0,5
+Florida,57,2000,SEC,13,0.0,10,3,7,0,2,2
+Florida State,52,2000,ACC,13,0.0,11,2,7,0,4,1
+Fresno State,278,2000,Western Athletic,12,0.0,7,5,5,0,2,4
+Georgia,61,2000,SEC,12,0.0,8,4,5,1,2,3
+Georgia Tech,59,2000,ACC,12,0.0,9,3,5,1,4,1
+Hawai'i,62,2000,Western Athletic,12,0.0,3,9,3,5,0,4
+Houston,248,2000,Conference USA,11,0.0,3,8,2,2,1,6
+Illinois,356,2000,Big Ten,11,0.0,5,6,4,2,1,4
+Indiana,84,2000,Big Ten,11,0.0,3,8,3,3,0,5
+Iowa,2294,2000,Big Ten,12,0.0,3,9,2,4,1,5
+Iowa State,66,2000,Big 12,12,0.0,9,3,4,2,4,1
+Kansas,2305,2000,Big 12,11,0.0,4,7,3,3,1,4
+Kansas State,2306,2000,Big 12,14,0.0,11,3,7,1,3,1
+Kent State,2309,2000,Mid-American,11,0.0,1,10,0,5,1,5
+Kentucky,96,2000,SEC,11,0.0,2,9,2,4,0,5
+Louisiana,309,2000,FBS Independents,11,0.0,1,10,0,5,1,5
+Louisiana Monroe,2433,2000,FBS Independents,11,0.0,1,10,1,4,0,6
+Louisiana Tech,2348,2000,FBS Independents,12,0.0,3,9,2,2,1,7
+Louisville,97,2000,Conference USA,12,0.0,9,3,6,1,3,1
+LSU,99,2000,SEC,12,0.0,8,4,6,1,1,3
+Marshall,276,2000,Mid-American,13,0.0,8,5,4,1,2,4
+Maryland,120,2000,ACC,11,0.0,5,6,4,2,1,4
+Memphis,235,2000,Conference USA,11,0.0,4,7,2,4,2,3
+Miami,2390,2000,Big East,12,0.0,11,1,6,0,4,1
+Miami (OH),193,2000,Mid-American,11,0.0,6,5,3,1,3,4
+Michigan,130,2000,Big Ten,12,0.0,9,3,6,0,2,3
+Michigan State,127,2000,Big Ten,11,0.0,5,6,4,2,1,4
+Middle Tennessee,2393,2000,FBS Independents,11,0.0,6,5,5,0,1,5
+Minnesota,135,2000,Big Ten,12,0.0,6,6,4,2,2,3
+Mississippi State,344,2000,SEC,12,0.0,8,4,4,1,3,3
+Missouri,142,2000,Big 12,11,0.0,3,8,2,4,1,4
+Navy,2426,2000,FBS Independents,11,0.0,1,10,1,5,0,5
+NC State,152,2000,ACC,12,0.0,8,4,5,1,2,3
+Nebraska,158,2000,Big 12,12,0.0,10,2,6,0,3,2
+Nevada,2440,2000,Western Athletic,12,0.0,2,10,1,4,1,6
+New Mexico,167,2000,Mountain West,12,0.0,5,7,3,3,2,4
+New Mexico State,166,2000,Big West,11,0.0,3,8,2,3,1,5
+North Carolina,153,2000,ACC,11,0.0,6,5,3,3,3,2
+Northern Illinois,2459,2000,Mid-American,11,0.0,6,5,4,1,2,4
+North Texas,249,2000,Big West,11,0.0,3,8,2,3,1,5
+Northwestern,77,2000,Big Ten,12,0.0,8,4,5,1,3,2
+Notre Dame,87,2000,FBS Independents,12,0.0,9,3,6,1,3,1
+Ohio,195,2000,Mid-American,11,0.0,7,4,4,1,3,3
+Ohio State,194,2000,Big Ten,12,0.0,8,4,4,2,4,1
+Oklahoma,201,2000,Big 12,13,0.0,13,0,7,0,4,0
+Oklahoma State,197,2000,Big 12,11,0.0,3,8,2,4,1,4
+Ole Miss,145,2000,SEC,12,0.0,7,5,5,2,2,2
+Oregon,2483,2000,Pac-10,12,0.0,10,2,6,0,3,2
+Oregon State,204,2000,Pac-10,12,0.0,11,1,6,0,4,1
+Penn State,213,2000,Big Ten,12,0.0,5,7,4,2,1,5
+Pittsburgh,221,2000,Big East,12,0.0,7,5,5,1,2,3
+Purdue,2509,2000,Big Ten,12,0.0,8,4,6,0,2,3
+Rice,242,2000,Western Athletic,11,0.0,3,8,3,2,0,6
+Rutgers,164,2000,Big East,11,0.0,3,8,2,4,1,4
+San Diego State,21,2000,Mountain West,11,0.0,3,8,0,5,3,3
+San José State,23,2000,Western Athletic,12,0.0,7,5,3,2,4,3
+SMU,2567,2000,Western Athletic,12,0.0,3,9,3,3,0,6
+South Carolina,2579,2000,SEC,12,0.0,8,4,5,1,2,3
+Southern Mississippi,2572,2000,Conference USA,12,0.0,8,4,2,2,5,2
+South Florida,58,2000,FBS Independents,11,0.0,7,4,6,0,1,4
+Stanford,24,2000,Pac-10,11,0.0,5,6,3,3,2,3
+Syracuse,183,2000,Big East,11,0.0,6,5,4,2,2,3
+TCU,2628,2000,Western Athletic,12,0.0,10,2,6,0,4,1
+Temple,218,2000,Big East,11,0.0,4,7,2,4,2,3
+Tennessee,2633,2000,SEC,12,0.0,8,4,5,1,3,2
+Texas,251,2000,Big 12,12,0.0,9,3,6,0,3,2
+Texas A&M,245,2000,Big 12,12,0.0,7,5,4,2,3,2
+Texas Tech,2641,2000,Big 12,13,0.0,7,6,6,2,1,3
+Toledo,2649,2000,Mid-American,11,0.0,10,1,6,0,4,1
+Tulane,2655,2000,Conference USA,11,0.0,6,5,4,1,2,4
+Tulsa,202,2000,Western Athletic,12,0.0,5,7,3,3,2,4
+UAB,5,2000,Conference USA,11,0.0,7,4,4,2,3,2
+UCF,2116,2000,FBS Independents,11,0.0,7,4,4,1,3,3
+UCLA,26,2000,Pac-10,12,0.0,6,6,5,2,1,3
+UNLV,2439,2000,Mountain West,13,0.0,8,5,5,0,2,5
+USC,30,2000,Pac-10,12,0.0,5,7,3,5,2,2
+Utah,254,2000,Mountain West,11,0.0,4,7,1,5,3,2
+Utah State,328,2000,Big West,11,0.0,5,6,3,2,2,4
+UTEP,2638,2000,Western Athletic,12,0.0,8,4,5,0,3,3
+Vanderbilt,238,2000,SEC,11,0.0,3,8,1,5,2,3
+Virginia,258,2000,ACC,12,0.0,6,6,4,2,2,3
+Virginia Tech,259,2000,Big East,12,0.0,11,1,6,0,4,1
+Wake Forest,154,2000,ACC,11,0.0,2,9,1,5,1,4
+Washington,264,2000,Pac-10,12,0.0,11,1,6,0,4,1
+Washington State,265,2000,Pac-10,11,0.0,4,7,1,5,3,2
+Western Michigan,2711,2000,Mid-American,12,0.0,9,3,5,0,4,2
+West Virginia,277,2000,Big East,12,0.0,7,5,4,3,2,2
+Wisconsin,275,2000,Big Ten,13,0.0,9,4,4,3,4,1
+Wyoming,2751,2000,Mountain West,11,0.0,1,10,1,4,0,6
+Air Force,2005,2001,Mountain West,12,0.0,6,6,4,2,2,4
+Akron,2006,2001,Mid-American,11,0.0,4,7,3,1,1,6
+Alabama,333,2001,SEC,12,0.0,7,5,4,3,3,2
+Arizona,12,2001,Pac-10,11,0.0,5,6,2,4,3,2
+Arizona State,9,2001,Pac-10,11,0.0,4,7,4,3,0,4
+Arkansas,8,2001,SEC,12,0.0,7,5,6,1,1,4
+Arkansas State,2032,2001,Sun Belt,11,0.0,2,9,2,4,0,5
+Army,349,2001,Conference USA,11,0.0,3,8,2,3,1,5
+Auburn,2,2001,SEC,12,0.0,7,5,5,2,2,3
+Ball State,2050,2001,Mid-American,11,0.0,5,6,2,3,3,3
+Baylor,239,2001,Big 12,11,0.0,3,8,3,4,0,4
+Boise State,68,2001,Western Athletic,12,0.0,8,4,5,1,3,3
+Boston College,103,2001,Big East,12,0.0,8,4,5,1,3,3
+Bowling Green,189,2001,Mid-American,11,0.0,8,3,4,1,4,2
+Buffalo,2084,2001,Mid-American,11,0.0,3,8,1,4,2,4
+BYU,252,2001,Mountain West,14,0.0,12,2,6,1,6,1
+California,25,2001,Pac-10,11,0.0,1,10,0,6,1,4
+Central Michigan,2117,2001,Mid-American,11,0.0,3,8,2,3,1,5
+Cincinnati,2132,2001,Conference USA,12,0.0,7,5,3,3,4,2
+Clemson,228,2001,ACC,12,0.0,7,5,3,3,4,2
+Colorado,38,2001,Big 12,13,0.0,10,3,5,1,5,2
+Colorado State,36,2001,Mountain West,12,0.0,7,5,4,3,3,2
+Connecticut,41,2001,FBS Independents,11,0.0,2,9,1,4,1,5
+Duke,150,2001,ACC,11,0.0,0,11,0,6,0,5
+East Carolina,151,2001,Conference USA,12,0.0,6,6,2,3,4,3
+Eastern Michigan,2199,2001,Mid-American,11,0.0,2,9,2,3,0,6
+Florida,57,2001,SEC,12,0.0,10,2,7,1,3,1
+Florida State,52,2001,ACC,12,0.0,8,4,4,2,4,2
+Fresno State,278,2001,Western Athletic,14,0.0,11,3,5,2,6,1
+Georgia,61,2001,SEC,12,0.0,8,4,4,3,4,1
+Georgia Tech,59,2001,ACC,13,0.0,8,5,3,3,5,2
+Hawai'i,62,2001,Western Athletic,12,0.0,9,3,7,2,2,1
+Houston,248,2001,Conference USA,11,0.0,0,11,0,6,0,5
+Illinois,356,2001,Big Ten,12,0.0,10,2,6,1,4,1
+Indiana,84,2001,Big Ten,11,0.0,5,6,3,3,2,3
+Iowa,2294,2001,Big Ten,12,0.0,7,5,5,1,2,4
+Iowa State,66,2001,Big 12,12,0.0,7,5,4,3,3,2
+Kansas,2305,2001,Big 12,11,0.0,3,8,2,5,1,3
+Kansas State,2306,2001,Big 12,12,0.0,6,6,4,3,2,3
+Kent State,2309,2001,Mid-American,11,0.0,6,5,4,1,2,4
+Kentucky,96,2001,SEC,11,0.0,2,9,1,5,1,4
+Louisiana,309,2001,Sun Belt,11,0.0,3,8,2,3,1,5
+Louisiana Monroe,2433,2001,Sun Belt,11,0.0,2,9,1,4,1,5
+Louisiana Tech,2348,2001,Western Athletic,12,0.0,7,5,4,1,3,4
+Louisville,97,2001,Conference USA,13,0.0,11,2,6,0,5,2
+LSU,99,2001,SEC,13,0.0,10,3,6,2,4,1
+Marshall,276,2001,Mid-American,13,0.0,11,2,7,0,4,2
+Maryland,120,2001,ACC,12,0.0,10,2,7,0,3,2
+Memphis,235,2001,Conference USA,11,0.0,5,6,4,2,1,4
+Miami,2390,2001,Big East,12,0.0,12,0,7,0,5,0
+Miami (OH),193,2001,Mid-American,12,0.0,7,5,4,1,3,4
+Michigan,130,2001,Big Ten,12,0.0,8,4,5,1,3,3
+Michigan State,127,2001,Big Ten,12,0.0,7,5,4,2,3,3
+Middle Tennessee,2393,2001,Sun Belt,11,0.0,8,3,5,0,3,3
+Minnesota,135,2001,Big Ten,11,0.0,4,7,4,2,0,5
+Mississippi State,344,2001,SEC,11,0.0,3,8,3,4,0,4
+Missouri,142,2001,Big 12,11,0.0,4,7,2,4,2,3
+Navy,2426,2001,FBS Independents,10,0.0,0,10,0,6,0,4
+NC State,152,2001,ACC,12,0.0,7,5,3,4,4,1
+Nebraska,158,2001,Big 12,13,0.0,11,2,8,0,3,2
+Nevada,2440,2001,Western Athletic,11,0.0,3,8,2,3,1,5
+New Mexico,167,2001,Mountain West,11,0.0,6,5,4,2,2,3
+New Mexico State,166,2001,Sun Belt,12,0.0,5,7,2,2,3,5
+North Carolina,153,2001,ACC,13,0.0,8,5,5,1,3,4
+Northern Illinois,2459,2001,Mid-American,11,0.0,6,5,5,1,1,4
+North Texas,249,2001,Sun Belt,12,0.0,5,7,3,2,2,5
+Northwestern,77,2001,Big Ten,11,0.0,4,7,2,3,2,4
+Notre Dame,87,2001,FBS Independents,11,0.0,5,6,4,2,1,4
+Ohio,195,2001,Mid-American,11,0.0,1,10,0,5,1,5
+Ohio State,194,2001,Big Ten,12,0.0,7,5,4,2,3,3
+Oklahoma,201,2001,Big 12,13,0.0,11,2,7,1,4,1
+Oklahoma State,197,2001,Big 12,11,0.0,4,7,2,4,2,3
+Ole Miss,145,2001,SEC,11,0.0,7,4,4,2,3,2
+Oregon,2483,2001,Pac-10,12,0.0,11,1,6,1,5,0
+Oregon State,204,2001,Pac-10,11,0.0,5,6,4,1,1,5
+Penn State,213,2001,Big Ten,11,0.0,5,6,3,3,2,3
+Pittsburgh,221,2001,Big East,12,0.0,7,5,3,3,4,2
+Purdue,2509,2001,Big Ten,12,0.0,6,6,4,2,2,4
+Rice,242,2001,Western Athletic,12,0.0,8,4,5,0,3,4
+Rutgers,164,2001,Big East,11,0.0,2,9,1,6,1,3
+San Diego State,21,2001,Mountain West,11,0.0,3,8,2,4,1,4
+San José State,23,2001,Western Athletic,12,0.0,3,9,2,2,1,7
+SMU,2567,2001,Western Athletic,11,0.0,4,7,2,4,2,3
+South Carolina,2579,2001,SEC,12,0.0,9,3,7,1,2,2
+Southern Mississippi,2572,2001,Conference USA,11,0.0,6,5,4,1,2,4
+South Florida,58,2001,FBS Independents,11,0.0,8,3,7,0,1,3
+Stanford,24,2001,Pac-10,12,0.0,9,3,5,2,4,1
+Syracuse,183,2001,Big East,13,0.0,10,3,6,1,4,2
+TCU,2628,2001,Conference USA,12,0.0,6,6,2,2,4,4
+Temple,218,2001,Big East,11,0.0,4,7,3,3,1,4
+Tennessee,2633,2001,SEC,13,0.0,11,2,6,1,5,1
+Texas,251,2001,Big 12,13,0.0,11,2,6,2,5,0
+Texas A&M,245,2001,Big 12,12,0.0,8,4,6,1,2,3
+Texas Tech,2641,2001,Big 12,12,0.0,7,5,4,3,3,2
+Toledo,2649,2001,Mid-American,12,0.0,10,2,7,0,3,2
+Troy,2653,2001,FBS Independents,11,0.0,7,4,5,0,2,4
+Tulane,2655,2001,Conference USA,12,0.0,3,9,2,3,1,6
+Tulsa,202,2001,Western Athletic,11,0.0,1,10,1,5,0,5
+UAB,5,2001,Conference USA,11,0.0,6,5,4,1,2,4
+UCF,2116,2001,FBS Independents,11,0.0,6,5,5,0,1,5
+UCLA,26,2001,Pac-10,11,0.0,7,4,4,1,3,3
+UNLV,2439,2001,Mountain West,11,0.0,4,7,1,4,3,3
+USC,30,2001,Pac-10,12,0.0,6,6,4,2,2,4
+Utah,254,2001,Mountain West,12,0.0,8,4,6,0,2,4
+Utah State,328,2001,FBS Independents,11,0.0,4,7,3,2,1,5
+UTEP,2638,2001,Western Athletic,11,0.0,2,9,2,3,0,6
+Vanderbilt,238,2001,SEC,11,0.0,2,9,1,5,1,4
+Virginia,258,2001,ACC,12,0.0,5,7,4,3,1,4
+Virginia Tech,259,2001,Big East,12,0.0,8,4,4,3,4,1
+Wake Forest,154,2001,ACC,11,0.0,6,5,2,4,4,1
+Washington,264,2001,Pac-10,12,0.0,8,4,6,0,2,4
+Washington State,265,2001,Pac-10,12,0.0,10,2,6,1,4,1
+Western Michigan,2711,2001,Mid-American,11,0.0,5,6,4,1,1,5
+West Virginia,277,2001,Big East,11,0.0,3,8,3,3,0,5
+Wisconsin,275,2001,Big Ten,12,0.0,5,7,3,4,2,3
+Wyoming,2751,2001,Mountain West,11,0.0,2,9,1,5,1,4
+Air Force,2005,2002,Mountain West,13,0.0,8,5,4,3,4,2
+Akron,2006,2002,Mid-American,12,0.0,4,8,3,2,1,6
+Alabama,333,2002,SEC,13,0.0,10,3,5,2,5,1
+Arizona,12,2002,Pac-10,12,0.0,4,8,3,4,1,4
+Arizona State,9,2002,Pac-10,14,0.0,8,6,5,3,3,3
+Arkansas,8,2002,SEC,14,0.0,9,5,6,3,3,2
+Arkansas State,2032,2002,Sun Belt,13,0.0,6,7,4,3,2,4
+Army,349,2002,Conference USA,12,0.0,1,11,0,6,1,5
+Auburn,2,2002,SEC,13,0.0,9,4,6,2,3,2
+Ball State,2050,2002,Mid-American,12,0.0,6,6,4,1,2,5
+Baylor,239,2002,Big 12,12,0.0,3,9,3,3,0,6
+Boise State,68,2002,Western Athletic,13,0.0,12,1,7,0,5,1
+Boston College,103,2002,Big East,13,0.0,9,4,6,1,3,3
+Bowling Green,189,2002,Mid-American,12,0.0,9,3,6,0,3,3
+Buffalo,2084,2002,Mid-American,12,0.0,1,11,0,6,1,5
+BYU,252,2002,Mountain West,12,0.0,5,7,4,2,1,5
+California,25,2002,Pac-10,12,0.0,7,5,4,3,3,2
+Central Michigan,2117,2002,Mid-American,12,0.0,4,8,2,4,2,4
+Cincinnati,2132,2002,Conference USA,14,0.0,7,7,4,4,3,3
+Clemson,228,2002,ACC,13,0.0,7,6,5,2,2,4
+Colorado,38,2002,Big 12,14,0.0,9,5,5,3,4,2
+Colorado State,36,2002,Mountain West,14,0.0,10,4,4,2,6,2
+Connecticut,41,2002,FBS Independents,12,0.0,6,6,3,3,3,3
+Duke,150,2002,ACC,12,0.0,2,10,1,5,1,5
+East Carolina,151,2002,Conference USA,12,0.0,4,8,3,2,1,6
+Eastern Michigan,2199,2002,Mid-American,12,0.0,3,9,3,3,0,6
+Florida,57,2002,SEC,13,0.0,8,5,5,3,3,2
+Florida State,52,2002,ACC,14,0.0,9,5,5,2,4,3
+Fresno State,278,2002,Western Athletic,14,0.0,9,5,6,1,3,4
+Georgia,61,2002,SEC,14,0.0,13,1,7,1,6,0
+Georgia Tech,59,2002,ACC,13,0.0,7,6,4,2,3,4
+Hawai'i,62,2002,Western Athletic,14,0.0,10,4,7,2,3,2
+Houston,248,2002,Conference USA,12,0.0,5,7,3,3,2,4
+Illinois,356,2002,Big Ten,12,0.0,5,7,3,4,2,3
+Indiana,84,2002,Big Ten,12,0.0,3,9,3,3,0,6
+Iowa,2294,2002,Big Ten,13,0.0,11,2,6,1,5,1
+Iowa State,66,2002,Big 12,14,0.0,7,7,6,2,1,5
+Kansas,2305,2002,Big 12,12,0.0,2,10,1,5,1,5
+Kansas State,2306,2002,Big 12,13,0.0,11,2,7,1,4,1
+Kent State,2309,2002,Mid-American,12,0.0,3,9,2,4,1,5
+Kentucky,96,2002,SEC,12,0.0,7,5,4,3,3,2
+Louisiana,309,2002,Sun Belt,12,0.0,3,9,3,2,0,7
+Louisiana Monroe,2433,2002,Sun Belt,12,0.0,3,9,3,3,0,6
+Louisiana Tech,2348,2002,Western Athletic,12,0.0,4,8,4,1,0,7
+Louisville,97,2002,Conference USA,13,0.0,7,6,3,3,4,3
+LSU,99,2002,SEC,13,0.0,8,5,6,2,2,3
+Marshall,276,2002,Mid-American,13,0.0,11,2,8,0,3,2
+Maryland,120,2002,ACC,14,0.0,11,3,6,2,5,1
+Memphis,235,2002,Conference USA,12,0.0,3,9,3,3,0,6
+Miami,2390,2002,Big East,13,0.0,12,1,6,0,6,0
+Miami (OH),193,2002,Mid-American,12,0.0,7,5,2,3,5,2
+Michigan,130,2002,Big Ten,13,0.0,10,3,6,1,4,2
+Michigan State,127,2002,Big Ten,12,0.0,4,8,3,5,1,3
+Middle Tennessee,2393,2002,Sun Belt,12,0.0,4,8,3,2,1,6
+Minnesota,135,2002,Big Ten,13,0.0,8,5,6,2,2,3
+Mississippi State,344,2002,SEC,12,0.0,3,9,2,4,1,5
+Missouri,142,2002,Big 12,12,0.0,5,7,3,3,2,4
+Navy,2426,2002,FBS Independents,12,0.0,2,10,1,6,1,4
+NC State,152,2002,ACC,14,0.0,11,3,6,1,5,2
+Nebraska,158,2002,Big 12,14,0.0,7,7,6,2,1,5
+Nevada,2440,2002,Western Athletic,12,0.0,5,7,4,2,1,5
+New Mexico,167,2002,Mountain West,14,0.0,7,7,5,2,2,5
+New Mexico State,166,2002,Sun Belt,12,0.0,7,5,5,0,2,5
+North Carolina,153,2002,ACC,12,0.0,3,9,0,6,3,3
+Northern Illinois,2459,2002,Mid-American,12,0.0,8,4,4,2,4,2
+North Texas,249,2002,Sun Belt,13,0.0,8,5,4,1,4,4
+Northwestern,77,2002,Big Ten,12,0.0,3,9,2,4,1,5
+Notre Dame,87,2002,FBS Independents,13,0.0,10,3,5,2,5,1
+Ohio,195,2002,Mid-American,12,0.0,4,8,3,2,1,6
+Ohio State,194,2002,Big Ten,14,0.0,14,0,8,0,5,0
+Oklahoma,201,2002,Big 12,14,0.0,12,2,7,0,5,2
+Oklahoma State,197,2002,Big 12,13,0.0,8,5,7,1,1,4
+Ole Miss,145,2002,SEC,13,0.0,7,6,7,1,0,5
+Oregon,2483,2002,Pac-10,13,0.0,7,6,5,3,2,3
+Oregon State,204,2002,Pac-10,13,0.0,8,5,6,2,2,3
+Penn State,213,2002,Big Ten,13,0.0,9,4,7,1,2,3
+Pittsburgh,221,2002,Big East,13,0.0,9,4,5,2,4,2
+Purdue,2509,2002,Big Ten,13,0.0,7,6,4,3,3,3
+Rice,242,2002,Western Athletic,11,0.0,4,7,2,3,2,4
+Rutgers,164,2002,Big East,12,0.0,1,11,1,5,0,6
+San Diego State,21,2002,Mountain West,13,0.0,4,9,2,3,2,6
+San José State,23,2002,Western Athletic,13,0.0,6,7,2,2,4,5
+SMU,2567,2002,Western Athletic,12,0.0,3,9,2,4,1,5
+South Carolina,2579,2002,SEC,12,0.0,5,7,3,3,2,4
+Southern Mississippi,2572,2002,Conference USA,13,0.0,7,6,5,1,2,5
+South Florida,58,2002,FBS Independents,11,0.0,9,2,6,0,3,2
+Stanford,24,2002,Pac-10,11,0.0,2,9,2,3,0,6
+Syracuse,183,2002,Big East,12,0.0,4,8,3,3,1,5
+TCU,2628,2002,Conference USA,12,0.0,10,2,6,0,4,2
+Temple,218,2002,Big East,12,0.0,4,8,2,5,2,3
+Tennessee,2633,2002,SEC,13,0.0,8,5,5,4,3,1
+Texas,251,2002,Big 12,13,0.0,11,2,6,0,5,2
+Texas A&M,245,2002,Big 12,12,0.0,6,6,3,4,3,2
+Texas Tech,2641,2002,Big 12,14,0.0,9,5,6,1,3,4
+Toledo,2649,2002,Mid-American,14,0.0,9,5,5,2,4,3
+Troy,2653,2002,FBS Independents,12,0.0,4,8,4,1,0,7
+Tulane,2655,2002,Conference USA,13,0.0,8,5,5,2,3,3
+Tulsa,202,2002,Western Athletic,12,0.0,1,11,1,5,0,6
+UAB,5,2002,Conference USA,12,0.0,5,7,4,2,1,5
+UCF,2116,2002,Mid-American,12,0.0,7,5,4,2,3,3
+UCLA,26,2002,Pac-10,13,0.0,8,5,2,4,6,1
+UNLV,2439,2002,Mountain West,12,0.0,5,7,3,3,2,4
+USC,30,2002,Pac-10,13,0.0,11,2,7,0,4,2
+Utah,254,2002,Mountain West,11,0.0,5,6,3,2,2,4
+Utah State,328,2002,FBS Independents,11,0.0,4,7,3,2,1,5
+UTEP,2638,2002,Western Athletic,12,0.0,2,10,2,3,0,7
+Vanderbilt,238,2002,SEC,12,0.0,2,10,2,5,0,5
+Virginia,258,2002,ACC,14,0.0,9,5,7,1,2,4
+Virginia Tech,259,2002,Big East,14,0.0,10,4,7,2,3,2
+Wake Forest,154,2002,ACC,13,0.0,7,6,5,2,2,4
+Washington,264,2002,Pac-10,13,0.0,7,6,5,3,2,3
+Washington State,265,2002,Pac-10,13,0.0,10,3,6,2,4,1
+Western Michigan,2711,2002,Mid-American,12,0.0,4,8,2,4,2,4
+West Virginia,277,2002,Big East,13,0.0,9,4,4,2,5,2
+Wisconsin,275,2002,Big Ten,14,0.0,8,6,6,3,2,3
+Wyoming,2751,2002,Mountain West,12,0.0,2,10,2,3,0,7
+Air Force,2005,2003,Mountain West,12,0.0,7,5,5,1,2,4
+Akron,2006,2003,Mid-American,12,0.0,7,5,3,1,2,4
+Alabama,333,2003,SEC,13,0.0,4,9,3,5,1,4
+Arizona,12,2003,Pac-10,12,0.0,2,10,2,5,0,5
+Arizona State,9,2003,Pac-10,12,0.0,5,7,4,2,1,5
+Arkansas,8,2003,SEC,13,0.0,9,4,6,2,3,2
+Arkansas State,2032,2003,Sun Belt,12,0.0,5,7,2,1,1,6
+Army,349,2003,Conference USA,13,0.0,0,13,0,6,0,7
+Auburn,2,2003,SEC,13,0.0,8,5,6,2,2,3
+Ball State,2050,2003,Mid-American,12,0.0,4,8,3,3,1,5
+Baylor,239,2003,Big 12,12,0.0,3,9,2,4,0,5
+Boise State,68,2003,Western Athletic,14,0.0,13,1,7,0,6,1
+Boston College,103,2003,Big East,13,0.0,8,5,2,4,6,1
+Bowling Green,189,2003,Mid-American,14,0.0,11,3,7,1,4,2
+Buffalo,2084,2003,Mid-American,12,0.0,1,11,1,5,0,6
+BYU,252,2003,Mountain West,12,0.0,4,8,1,5,3,3
+California,25,2003,Pac-10,14,0.0,8,6,5,2,3,4
+Central Michigan,2117,2003,Mid-American,12,0.0,3,9,3,3,0,6
+Cincinnati,2132,2003,Conference USA,12,0.0,5,7,4,2,1,5
+Clemson,228,2003,ACC,13,0.0,9,4,7,1,2,3
+Colorado,38,2003,Big 12,12,0.0,5,7,3,3,2,4
+Colorado State,36,2003,Mountain West,13,0.0,7,6,4,4,3,2
+Connecticut,41,2003,FBS Independents,12,0.0,9,3,5,1,4,2
+Duke,150,2003,ACC,12,0.0,4,8,3,4,1,4
+East Carolina,151,2003,Conference USA,12,0.0,1,11,0,6,1,5
+Eastern Michigan,2199,2003,Mid-American,12,0.0,3,9,3,4,0,5
+Florida,57,2003,SEC,13,0.0,8,5,3,4,4,1
+Florida State,52,2003,ACC,13,0.0,10,3,5,2,5,1
+Fresno State,278,2003,Western Athletic,14,0.0,9,5,6,1,3,4
+Georgia,61,2003,SEC,14,0.0,11,3,6,1,5,2
+Georgia Tech,59,2003,ACC,13,0.0,7,6,4,2,3,4
+Hawai'i,62,2003,Western Athletic,14,0.0,9,5,6,1,2,4
+Houston,248,2003,Conference USA,13,0.0,7,6,3,3,4,3
+Illinois,356,2003,Big Ten,12,0.0,1,11,1,5,0,6
+Indiana,84,2003,Big Ten,12,0.0,2,10,2,4,0,6
+Iowa,2294,2003,Big Ten,13,0.0,10,3,7,0,3,3
+Iowa State,66,2003,Big 12,12,0.0,2,10,2,5,0,5
+Kansas,2305,2003,Big 12,13,0.0,6,7,5,3,1,4
+Kansas State,2306,2003,Big 12,15,0.0,11,4,8,1,3,3
+Kent State,2309,2003,Mid-American,12,0.0,5,7,3,3,2,4
+Kentucky,96,2003,SEC,12,0.0,4,8,3,4,1,4
+Louisiana,309,2003,Sun Belt,12,0.0,4,8,3,3,1,5
+Louisiana Monroe,2433,2003,Sun Belt,12,0.0,1,11,0,5,1,6
+Louisiana Tech,2348,2003,Western Athletic,12,0.0,5,7,1,4,4,3
+Louisville,97,2003,Conference USA,13,0.0,9,4,5,2,4,2
+LSU,99,2003,SEC,14,0.0,13,1,7,1,6,0
+Marshall,276,2003,Mid-American,12,0.0,8,4,4,1,4,3
+Maryland,120,2003,ACC,13,0.0,10,3,6,0,4,3
+Memphis,235,2003,Conference USA,13,0.0,9,4,5,2,4,2
+Miami,2390,2003,Big East,13,0.0,11,2,6,1,5,1
+Miami (OH),193,2003,Mid-American,14,0.0,13,1,5,0,8,1
+Michigan,130,2003,Big Ten,13,0.0,10,3,7,0,3,3
+Michigan State,127,2003,Big Ten,13,0.0,8,5,5,2,3,3
+Middle Tennessee,2393,2003,Sun Belt,12,0.0,4,8,2,4,2,4
+Minnesota,135,2003,Big Ten,13,0.0,10,3,6,2,4,1
+Mississippi State,344,2003,SEC,12,0.0,2,10,2,4,0,6
+Missouri,142,2003,Big 12,13,0.0,8,5,7,0,1,5
+Navy,2426,2003,FBS Independents,13,0.0,8,5,6,1,2,4
+NC State,152,2003,ACC,13,0.0,8,5,6,1,2,4
+Nebraska,158,2003,Big 12,13,0.0,10,3,7,1,3,2
+Nevada,2440,2003,Western Athletic,12,0.0,6,6,3,3,3,3
+New Mexico,167,2003,Mountain West,13,0.0,8,5,5,3,3,2
+New Mexico State,166,2003,Sun Belt,12,0.0,3,9,2,3,1,6
+North Carolina,153,2003,ACC,12,0.0,2,10,1,5,1,5
+Northern Illinois,2459,2003,Mid-American,12,0.0,10,2,7,0,3,2
+North Texas,249,2003,Sun Belt,13,0.0,9,4,5,1,4,3
+Northwestern,77,2003,Big Ten,13,0.0,6,7,2,4,4,3
+Notre Dame,87,2003,FBS Independents,12,0.0,5,7,3,3,2,4
+Ohio,195,2003,Mid-American,12,0.0,2,10,2,4,0,6
+Ohio State,194,2003,Big Ten,13,0.0,11,2,9,0,2,2
+Oklahoma,201,2003,Big 12,14,0.0,12,2,7,1,5,1
+Oklahoma State,197,2003,Big 12,13,0.0,9,4,6,1,3,3
+Ole Miss,145,2003,SEC,13,0.0,10,3,6,2,4,1
+Oregon,2483,2003,Pac-10,13,0.0,8,5,5,1,3,4
+Oregon State,204,2003,Pac-10,13,0.0,8,5,6,1,2,4
+Penn State,213,2003,Big Ten,12,0.0,3,9,3,4,0,5
+Pittsburgh,221,2003,Big East,13,0.0,8,5,4,2,4,3
+Purdue,2509,2003,Big Ten,13,0.0,9,4,6,2,3,2
+Rice,242,2003,Western Athletic,12,0.0,5,7,3,3,2,4
+Rutgers,164,2003,Big East,12,0.0,5,7,3,3,2,4
+San Diego State,21,2003,Mountain West,12,0.0,6,6,3,2,2,4
+San José State,23,2003,Western Athletic,11,0.0,3,8,2,3,1,5
+SMU,2567,2003,Western Athletic,12,0.0,0,12,0,6,0,6
+South Carolina,2579,2003,SEC,12,0.0,5,7,5,3,0,4
+Southern Mississippi,2572,2003,Conference USA,13,0.0,9,4,5,2,4,2
+South Florida,58,2003,Conference USA,11,0.0,7,4,4,2,3,2
+Stanford,24,2003,Pac-10,11,0.0,4,7,3,3,1,4
+Syracuse,183,2003,Big East,12,0.0,6,6,5,2,1,4
+TCU,2628,2003,Conference USA,13,0.0,11,2,6,0,5,2
+Temple,218,2003,Big East,12,0.0,1,11,0,5,1,6
+Tennessee,2633,2003,SEC,13,0.0,10,3,6,1,4,2
+Texas,251,2003,Big 12,13,0.0,10,3,5,2,5,1
+Texas A&M,245,2003,Big 12,12,0.0,4,8,4,3,0,5
+Texas Tech,2641,2003,Big 12,13,0.0,8,5,6,1,2,4
+Toledo,2649,2003,Mid-American,12,0.0,8,4,6,0,2,4
+Troy,2653,2003,FBS Independents,12,0.0,6,6,4,0,2,6
+Tulane,2655,2003,Conference USA,12,0.0,5,7,2,3,2,4
+Tulsa,202,2003,Western Athletic,13,0.0,8,5,4,2,3,3
+UAB,5,2003,Conference USA,12,0.0,5,7,2,3,3,4
+UCF,2116,2003,Mid-American,12,0.0,3,9,2,2,0,7
+UCLA,26,2003,Pac-10,13,0.0,6,7,5,1,1,6
+UNLV,2439,2003,Mountain West,12,0.0,6,6,2,4,4,2
+USC,30,2003,Pac-10,13,0.0,12,1,7,0,5,1
+Utah,254,2003,Mountain West,12,0.0,10,2,5,1,5,1
+Utah State,328,2003,Sun Belt,12,0.0,3,9,3,2,0,7
+UTEP,2638,2003,Western Athletic,13,0.0,2,11,1,6,1,5
+Vanderbilt,238,2003,SEC,12,0.0,2,10,2,5,0,5
+Virginia,258,2003,ACC,13,0.0,8,5,6,1,2,4
+Virginia Tech,259,2003,Big East,13,0.0,8,5,6,1,2,4
+Wake Forest,154,2003,ACC,12,0.0,5,7,3,4,2,3
+Washington,264,2003,Pac-10,12,0.0,6,6,5,2,1,4
+Washington State,265,2003,Pac-10,13,0.0,10,3,6,0,4,3
+Western Michigan,2711,2003,Mid-American,12,0.0,5,7,3,3,2,4
+West Virginia,277,2003,Big East,13,0.0,8,5,5,3,3,2
+Wisconsin,275,2003,Big Ten,13,0.0,7,6,4,3,3,3
+Wyoming,2751,2003,Mountain West,12,0.0,4,8,3,3,1,5
+Air Force,2005,2004,Mountain West,11,0.0,5,6,3,4,2,2
+Akron,2006,2004,Mid-American,11,0.0,6,5,3,2,3,3
+Alabama,333,2004,SEC,12,0.0,6,6,5,2,1,4
+Arizona,12,2004,Pac-10,11,0.0,3,8,2,5,1,3
+Arizona State,9,2004,Pac-10,12,0.0,9,3,6,0,3,3
+Arkansas,8,2004,SEC,11,0.0,5,6,3,3,2,3
+Arkansas State,2032,2004,Sun Belt,11,0.0,3,8,2,2,1,6
+Army,349,2004,Conference USA,11,0.0,2,9,1,4,1,5
+Auburn,2,2004,SEC,13,0.0,13,0,8,0,5,0
+Ball State,2050,2004,Mid-American,11,0.0,2,9,2,3,0,6
+Baylor,239,2004,Big 12,11,0.0,3,8,2,3,0,5
+Boise State,68,2004,Western Athletic,12,0.0,11,1,7,0,4,1
+Boston College,103,2004,Big East,12,0.0,9,3,4,1,4,2
+Bowling Green,189,2004,Mid-American,12,0.0,9,3,5,0,4,3
+Buffalo,2084,2004,Mid-American,11,0.0,2,9,2,3,0,6
+BYU,252,2004,Mountain West,11,0.0,5,6,3,3,2,3
+California,25,2004,Pac-10,12,0.0,10,2,5,1,5,1
+Central Michigan,2117,2004,Mid-American,11,0.0,4,7,4,1,0,6
+Cincinnati,2132,2004,Conference USA,12,0.0,7,5,5,1,2,4
+Clemson,228,2004,ACC,11,0.0,6,5,5,1,1,4
+Colorado,38,2004,Big 12,13,0.0,8,5,4,2,4,3
+Colorado State,36,2004,Mountain West,11,0.0,4,7,2,3,1,4
+Connecticut,41,2004,Big East,12,0.0,8,4,6,1,1,3
+Duke,150,2004,ACC,11,0.0,2,9,2,3,0,6
+East Carolina,151,2004,Conference USA,11,0.0,2,9,2,3,0,6
+Eastern Michigan,2199,2004,Mid-American,11,0.0,4,7,2,4,2,3
+Florida,57,2004,SEC,12,0.0,7,5,5,2,2,2
+Florida State,52,2004,ACC,12,0.0,9,3,5,1,4,2
+Fresno State,278,2004,Western Athletic,12,0.0,9,3,5,1,4,2
+Georgia,61,2004,SEC,12,0.0,10,2,5,1,4,1
+Georgia Tech,59,2004,ACC,12,0.0,7,5,4,3,3,2
+Hawai'i,62,2004,Western Athletic,13,0.0,8,5,7,0,1,4
+Houston,248,2004,Conference USA,11,0.0,3,8,3,2,0,6
+Illinois,356,2004,Big Ten,11,0.0,3,8,3,4,0,4
+Indiana,84,2004,Big Ten,11,0.0,3,8,2,3,1,5
+Iowa,2294,2004,Big Ten,12,0.0,10,2,7,0,3,2
+Iowa State,66,2004,Big 12,12,0.0,7,5,5,2,2,3
+Kansas,2305,2004,Big 12,11,0.0,4,7,3,3,1,4
+Kansas State,2306,2004,Big 12,11,0.0,4,7,3,4,1,3
+Kent State,2309,2004,Mid-American,11,0.0,5,6,3,2,2,4
+Kentucky,96,2004,SEC,11,0.0,2,9,2,4,0,5
+Louisiana,309,2004,Sun Belt,11,0.0,4,7,3,2,1,5
+Louisiana Monroe,2433,2004,Sun Belt,11,0.0,5,6,3,2,1,4
+Louisiana Tech,2348,2004,Western Athletic,12,0.0,6,6,4,1,2,5
+Louisville,97,2004,Conference USA,12,0.0,11,1,6,0,5,1
+LSU,99,2004,SEC,12,0.0,9,3,7,0,2,3
+Marshall,276,2004,Mid-American,12,0.0,6,6,4,1,2,5
+Maryland,120,2004,ACC,11,0.0,5,6,4,2,1,4
+Memphis,235,2004,Conference USA,12,0.0,8,4,4,2,4,2
+Miami,2390,2004,ACC,12,0.0,9,3,4,2,5,1
+Miami (OH),193,2004,Mid-American,13,0.0,8,5,5,1,3,4
+Michigan,130,2004,Big Ten,12,0.0,9,3,6,0,3,3
+Michigan State,127,2004,Big Ten,12,0.0,5,7,4,2,1,5
+Middle Tennessee,2393,2004,Sun Belt,11,0.0,5,6,4,1,1,5
+Minnesota,135,2004,Big Ten,12,0.0,7,5,5,1,1,4
+Mississippi State,344,2004,SEC,11,0.0,3,8,3,4,0,4
+Missouri,142,2004,Big 12,11,0.0,5,6,3,3,2,3
+Navy,2426,2004,FBS Independents,12,0.0,10,2,8,1,2,1
+NC State,152,2004,ACC,11,0.0,5,6,3,4,2,2
+Nebraska,158,2004,Big 12,11,0.0,5,6,4,2,1,4
+Nevada,2440,2004,Western Athletic,12,0.0,5,7,5,1,0,6
+New Mexico,167,2004,Mountain West,12,0.0,7,5,3,2,4,3
+New Mexico State,166,2004,Sun Belt,11,0.0,5,6,4,1,0,5
+North Carolina,153,2004,ACC,12,0.0,6,6,4,2,2,3
+Northern Illinois,2459,2004,Mid-American,12,0.0,9,3,4,1,4,2
+North Texas,249,2004,Sun Belt,12,0.0,7,5,4,1,3,3
+Northwestern,77,2004,Big Ten,12,0.0,6,6,5,1,1,5
+Notre Dame,87,2004,FBS Independents,12,0.0,6,6,3,3,3,3
+Ohio,195,2004,Mid-American,11,0.0,4,7,2,3,2,4
+Ohio State,194,2004,Big Ten,12,0.0,8,4,6,1,2,3
+Oklahoma,201,2004,Big 12,13,0.0,12,1,8,1,4,0
+Oklahoma State,197,2004,Big 12,12,0.0,7,5,4,2,3,3
+Ole Miss,145,2004,SEC,11,0.0,4,7,3,3,1,4
+Oregon,2483,2004,Pac-10,11,0.0,5,6,3,3,2,3
+Oregon State,204,2004,Pac-10,12,0.0,7,5,4,2,3,3
+Penn State,213,2004,Big Ten,11,0.0,4,7,3,3,1,4
+Pittsburgh,221,2004,Big East,12,0.0,8,4,5,1,3,3
+Purdue,2509,2004,Big Ten,12,0.0,7,5,4,3,3,2
+Rice,242,2004,Western Athletic,11,0.0,3,8,3,2,0,6
+Rutgers,164,2004,Big East,11,0.0,4,7,3,2,1,4
+San Diego State,21,2004,Mountain West,11,0.0,4,7,2,2,1,5
+San José State,23,2004,Western Athletic,11,0.0,2,9,2,3,0,6
+SMU,2567,2004,Western Athletic,11,0.0,3,8,3,2,0,6
+South Carolina,2579,2004,SEC,11,0.0,6,5,3,3,3,2
+Southern Mississippi,2572,2004,Conference USA,12,0.0,7,5,3,2,4,3
+South Florida,58,2004,Conference USA,11,0.0,4,7,2,4,2,3
+Stanford,24,2004,Pac-10,11,0.0,4,7,3,3,1,4
+Syracuse,183,2004,Big East,12,0.0,6,6,4,1,2,5
+TCU,2628,2004,Conference USA,11,0.0,5,6,4,2,1,4
+Temple,218,2004,Big East,11,0.0,2,9,1,4,0,5
+Tennessee,2633,2004,SEC,13,0.0,10,3,5,3,5,0
+Texas,251,2004,Big 12,12,0.0,11,1,7,0,4,1
+Texas A&M,245,2004,Big 12,12,0.0,7,5,5,2,2,3
+Texas Tech,2641,2004,Big 12,12,0.0,8,4,4,1,4,3
+Toledo,2649,2004,Mid-American,13,0.0,9,4,5,0,4,4
+Troy,2653,2004,Sun Belt,12,0.0,7,5,5,0,2,5
+Tulane,2655,2004,Conference USA,11,0.0,5,6,3,2,1,4
+Tulsa,202,2004,Western Athletic,12,0.0,4,8,3,2,0,6
+UAB,5,2004,Conference USA,12,0.0,7,5,4,2,3,3
+UCF,2116,2004,Mid-American,11,0.0,0,11,0,5,0,6
+UCLA,26,2004,Pac-10,12,0.0,6,6,3,4,3,2
+UNLV,2439,2004,Mountain West,11,0.0,2,9,1,4,1,5
+USC,30,2004,Pac-10,13,0.0,13,0,6,0,7,0
+Utah,254,2004,Mountain West,12,0.0,12,0,7,0,5,0
+Utah State,328,2004,Sun Belt,11,0.0,3,8,2,2,1,6
+UTEP,2638,2004,Western Athletic,12,0.0,8,4,5,2,3,2
+Vanderbilt,238,2004,SEC,11,0.0,2,9,2,4,0,5
+Virginia,258,2004,ACC,12,0.0,8,4,5,1,3,3
+Virginia Tech,259,2004,ACC,13,0.0,10,3,6,2,4,1
+Wake Forest,154,2004,ACC,11,0.0,4,7,3,3,1,4
+Washington,264,2004,Pac-10,11,0.0,1,10,1,5,0,5
+Washington State,265,2004,Pac-10,11,0.0,5,6,1,4,4,2
+Western Michigan,2711,2004,Mid-American,11,0.0,1,10,1,4,0,6
+West Virginia,277,2004,Big East,12,0.0,8,4,5,2,3,2
+Wisconsin,275,2004,Big Ten,12,0.0,9,3,6,1,3,2
+Wyoming,2751,2004,Mountain West,12,0.0,7,5,4,1,2,4
+Air Force,2005,2005,Mountain West,11,0.0,4,7,3,3,1,4
+Akron,2006,2005,Mid-American,13,0.0,7,6,3,3,4,3
+Alabama,333,2005,SEC,12,0.0,10,2,7,1,3,1
+Arizona,12,2005,Pac-10,11,0.0,3,8,2,4,1,4
+Arizona State,9,2005,Pac-10,12,0.0,7,5,4,3,3,2
+Arkansas,8,2005,SEC,11,0.0,4,7,3,3,1,4
+Arkansas State,2032,2005,Sun Belt,12,0.0,6,6,4,2,1,4
+Army,349,2005,FBS Independents,11,0.0,4,7,2,5,2,2
+Auburn,2,2005,SEC,12,0.0,9,3,6,2,3,1
+Ball State,2050,2005,Mid-American,11,0.0,4,7,1,3,3,4
+Baylor,239,2005,Big 12,11,0.0,5,6,1,3,3,3
+Boise State,68,2005,Western Athletic,13,0.0,9,4,6,0,3,4
+Boston College,103,2005,ACC,12,0.0,9,3,6,1,3,2
+Bowling Green,189,2005,Mid-American,11,0.0,6,5,2,3,4,2
+Buffalo,2084,2005,Mid-American,11,0.0,1,10,0,5,1,5
+BYU,252,2005,Mountain West,12,0.0,6,6,3,3,3,3
+California,25,2005,Pac-10,12,0.0,8,4,5,2,3,2
+Central Michigan,2117,2005,Mid-American,11,0.0,6,5,2,3,4,2
+Cincinnati,2132,2005,Big East,11,0.0,4,7,3,2,1,5
+Clemson,228,2005,ACC,12,0.0,8,4,4,2,4,2
+Colorado,38,2005,Big 12,13,0.0,7,6,5,3,2,3
+Colorado State,36,2005,Mountain West,12,0.0,6,6,4,1,2,5
+Connecticut,41,2005,Big East,11,0.0,5,6,4,2,1,4
+Duke,150,2005,ACC,11,0.0,1,10,1,5,0,5
+East Carolina,151,2005,Conference USA,11,0.0,5,6,3,2,2,4
+Eastern Michigan,2199,2005,Mid-American,11,0.0,4,7,2,3,2,4
+Florida,57,2005,SEC,12,0.0,9,3,8,0,1,3
+Florida Atlantic,2226,2005,Sun Belt,11,0.0,2,9,1,4,1,5
+Florida International,2229,2005,Sun Belt,11,0.0,5,6,3,1,2,5
+Florida State,52,2005,ACC,13,0.0,8,5,6,2,2,3
+Fresno State,278,2005,Western Athletic,13,0.0,8,5,5,1,3,4
+Georgia,61,2005,SEC,13,0.0,10,3,5,2,5,1
+Georgia Tech,59,2005,ACC,12,0.0,7,5,4,2,3,3
+Hawai'i,62,2005,Western Athletic,12,0.0,5,7,3,4,2,3
+Houston,248,2005,Conference USA,12,0.0,6,6,2,4,3,2
+Illinois,356,2005,Big Ten,11,0.0,2,9,2,4,0,5
+Indiana,84,2005,Big Ten,11,0.0,4,7,3,3,1,4
+Iowa,2294,2005,Big Ten,12,0.0,7,5,5,1,2,4
+Iowa State,66,2005,Big 12,12,0.0,7,5,5,2,2,3
+Kansas,2305,2005,Big 12,12,0.0,7,5,6,1,1,4
+Kansas State,2306,2005,Big 12,11,0.0,5,6,4,2,1,4
+Kent State,2309,2005,Mid-American,11,0.0,1,10,1,4,0,6
+Kentucky,96,2005,SEC,11,0.0,3,8,2,4,1,4
+Louisiana,309,2005,Sun Belt,11,0.0,6,5,3,2,3,3
+Louisiana Monroe,2433,2005,Sun Belt,11,0.0,5,6,2,3,3,3
+Louisiana Tech,2348,2005,Western Athletic,11,0.0,7,4,4,1,3,3
+Louisville,97,2005,Big East,12,0.0,9,3,6,0,3,3
+LSU,99,2005,SEC,13,0.0,11,2,6,2,5,0
+Marshall,276,2005,Conference USA,11,0.0,4,7,3,3,1,4
+Maryland,120,2005,ACC,11,0.0,5,6,1,4,4,2
+Memphis,235,2005,Conference USA,12,0.0,7,5,4,2,3,3
+Miami,2390,2005,ACC,12,0.0,9,3,5,1,4,2
+Miami (OH),193,2005,Mid-American,11,0.0,7,4,3,2,4,2
+Michigan,130,2005,Big Ten,12,0.0,7,5,4,3,3,2
+Michigan State,127,2005,Big Ten,11,0.0,5,6,3,3,2,3
+Middle Tennessee,2393,2005,Sun Belt,11,0.0,4,7,1,4,3,3
+Minnesota,135,2005,Big Ten,12,0.0,7,5,4,3,3,2
+Mississippi State,344,2005,SEC,11,0.0,3,8,2,4,1,4
+Missouri,142,2005,Big 12,12,0.0,7,5,5,2,2,3
+Navy,2426,2005,FBS Independents,12,0.0,8,4,5,2,3,2
+NC State,152,2005,ACC,12,0.0,7,5,5,3,2,2
+Nebraska,158,2005,Big 12,12,0.0,8,4,6,2,2,2
+Nevada,2440,2005,Western Athletic,12,0.0,9,3,5,1,4,2
+New Mexico,167,2005,Mountain West,11,0.0,6,5,2,3,4,2
+New Mexico State,166,2005,Western Athletic,12,0.0,0,12,0,6,0,6
+North Carolina,153,2005,ACC,11,0.0,5,6,4,2,1,4
+Northern Illinois,2459,2005,Mid-American,12,0.0,7,5,4,2,3,3
+North Texas,249,2005,Sun Belt,11,0.0,2,9,0,5,2,4
+Northwestern,77,2005,Big Ten,12,0.0,7,5,4,2,3,3
+Notre Dame,87,2005,FBS Independents,12,0.0,9,3,4,2,5,1
+Ohio,195,2005,Mid-American,11,0.0,4,7,3,2,1,5
+Ohio State,194,2005,Big Ten,12,0.0,10,2,7,1,3,1
+Oklahoma,201,2005,Big 12,12,0.0,8,4,6,1,2,3
+Oklahoma State,197,2005,Big 12,11,0.0,4,7,3,3,1,4
+Ole Miss,145,2005,SEC,11,0.0,3,8,2,4,1,4
+Oregon,2483,2005,Pac-10,12,0.0,10,2,5,1,5,1
+Oregon State,204,2005,Pac-10,11,0.0,5,6,3,3,2,3
+Penn State,213,2005,Big Ten,12,0.0,11,1,7,0,4,1
+Pittsburgh,221,2005,Big East,11,0.0,5,6,5,1,0,5
+Purdue,2509,2005,Big Ten,11,0.0,5,6,3,3,2,3
+Rice,242,2005,Conference USA,11,0.0,1,10,1,4,0,6
+Rutgers,164,2005,Big East,12,0.0,7,5,3,3,3,2
+San Diego State,21,2005,Mountain West,12,0.0,5,7,3,3,2,4
+San José State,23,2005,Western Athletic,11,0.0,3,8,3,2,0,6
+SMU,2567,2005,Conference USA,11,0.0,5,6,3,3,2,3
+South Carolina,2579,2005,SEC,12,0.0,7,5,5,2,2,3
+Southern Mississippi,2572,2005,Conference USA,12,0.0,7,5,3,2,4,3
+South Florida,58,2005,Big East,12,0.0,6,6,4,1,2,5
+Stanford,24,2005,Pac-10,11,0.0,5,6,1,5,4,1
+Syracuse,183,2005,Big East,11,0.0,1,10,1,5,0,5
+TCU,2628,2005,Mountain West,12,0.0,11,1,5,0,6,1
+Temple,218,2005,FBS Independents,11,0.0,0,11,0,5,0,6
+Tennessee,2633,2005,SEC,11,0.0,5,6,3,3,2,3
+Texas,251,2005,Big 12,13,0.0,13,0,7,0,6,0
+Texas A&M,245,2005,Big 12,11,0.0,5,6,4,2,1,4
+Texas Tech,2641,2005,Big 12,12,0.0,9,3,7,0,2,3
+Toledo,2649,2005,Mid-American,12,0.0,9,3,4,1,5,2
+Troy,2653,2005,Sun Belt,11,0.0,4,7,3,2,1,5
+Tulane,2655,2005,Conference USA,11,0.0,2,9,0,5,1,4
+Tulsa,202,2005,Conference USA,13,0.0,9,4,4,2,5,2
+UAB,5,2005,Conference USA,11,0.0,5,6,1,3,3,3
+UCF,2116,2005,Conference USA,13,0.0,8,5,4,2,4,3
+UCLA,26,2005,Pac-10,12,0.0,10,2,7,0,3,2
+UNLV,2439,2005,Mountain West,11,0.0,2,9,2,3,0,6
+USC,30,2005,Pac-10,13,0.0,12,1,6,0,6,1
+Utah,254,2005,Mountain West,12,0.0,7,5,5,2,2,3
+Utah State,328,2005,Western Athletic,11,0.0,3,8,2,3,1,5
+UTEP,2638,2005,Conference USA,12,0.0,8,4,5,2,3,2
+Vanderbilt,238,2005,SEC,11,0.0,5,6,2,4,3,2
+Virginia,258,2005,ACC,12,0.0,7,5,5,1,2,4
+Virginia Tech,259,2005,ACC,13,0.0,11,2,6,1,5,1
+Wake Forest,154,2005,ACC,11,0.0,4,7,3,3,1,4
+Washington,264,2005,Pac-10,11,0.0,2,9,1,5,1,4
+Washington State,265,2005,Pac-10,11,0.0,4,7,2,4,2,3
+Western Michigan,2711,2005,Mid-American,11,0.0,7,4,4,1,3,3
+West Virginia,277,2005,Big East,12,0.0,11,1,5,1,6,0
+Wisconsin,275,2005,Big Ten,13,0.0,10,3,5,1,5,2
+Wyoming,2751,2005,Mountain West,11,0.0,4,7,2,3,2,4
+Air Force,2005,2006,Mountain West,12,0.0,4,8,2,4,2,4
+Akron,2006,2006,Mid-American,12,0.0,5,7,4,1,1,6
+Alabama,333,2006,SEC,13,0.0,6,7,6,3,0,4
+Arizona,12,2006,Pac-10,12,0.0,6,6,3,4,3,2
+Arizona State,9,2006,Pac-10,13,0.0,7,6,4,2,3,4
+Arkansas,8,2006,SEC,14,0.0,10,4,5,2,5,2
+Arkansas State,2032,2006,Sun Belt,12,0.0,6,6,3,2,3,4
+Army,349,2006,FBS Independents,12,0.0,3,9,2,3,1,6
+Auburn,2,2006,SEC,13,0.0,11,2,6,2,5,0
+Ball State,2050,2006,Mid-American,12,0.0,5,7,2,4,3,3
+Baylor,239,2006,Big 12,12,0.0,4,8,2,4,1,4
+Boise State,68,2006,Western Athletic,13,0.0,13,0,6,0,7,0
+Boston College,103,2006,ACC,13,0.0,10,3,8,0,2,3
+Bowling Green,189,2006,Mid-American,12,0.0,4,8,2,3,2,5
+Buffalo,2084,2006,Mid-American,12,0.0,2,10,2,3,0,7
+BYU,252,2006,Mountain West,13,0.0,11,2,6,0,5,2
+California,25,2006,Pac-10,13,0.0,10,3,8,0,2,3
+Central Michigan,2117,2006,Mid-American,14,0.0,10,4,5,1,5,3
+Cincinnati,2132,2006,Big East,13,0.0,8,5,7,1,1,4
+Clemson,228,2006,ACC,13,0.0,8,5,5,2,3,3
+Colorado,38,2006,Big 12,12,0.0,2,10,2,4,0,6
+Colorado State,36,2006,Mountain West,12,0.0,4,8,2,3,1,5
+Connecticut,41,2006,Big East,12,0.0,4,8,3,4,1,4
+Duke,150,2006,ACC,12,0.0,0,12,0,7,0,5
+East Carolina,151,2006,Conference USA,13,0.0,7,6,4,3,3,3
+Eastern Michigan,2199,2006,Mid-American,12,0.0,1,11,1,4,0,7
+Florida,57,2006,SEC,14,0.0,13,1,8,0,5,1
+Florida Atlantic,2226,2006,Sun Belt,12,0.0,5,7,3,2,2,5
+Florida International,2229,2006,Sun Belt,12,0.0,0,12,0,5,0,7
+Florida State,52,2006,ACC,13,0.0,7,6,4,4,3,2
+Fresno State,278,2006,Western Athletic,12,0.0,4,8,3,3,1,5
+Georgia,61,2006,SEC,13,0.0,9,4,5,3,4,1
+Georgia Tech,59,2006,ACC,14,0.0,9,5,6,2,3,3
+Hawai'i,62,2006,Western Athletic,14,0.0,11,3,8,1,3,2
+Houston,248,2006,Conference USA,14,0.0,10,4,7,1,3,3
+Illinois,356,2006,Big Ten,12,0.0,2,10,1,6,1,4
+Indiana,84,2006,Big Ten,12,0.0,5,7,3,4,2,3
+Iowa,2294,2006,Big Ten,13,0.0,6,7,4,4,2,3
+Iowa State,66,2006,Big 12,12,0.0,4,8,4,3,0,5
+Kansas,2305,2006,Big 12,12,0.0,6,6,5,2,1,4
+Kansas State,2306,2006,Big 12,13,0.0,7,6,6,3,1,3
+Kent State,2309,2006,Mid-American,12,0.0,6,6,3,2,3,4
+Kentucky,96,2006,SEC,13,0.0,8,5,7,1,1,4
+Louisiana,309,2006,Sun Belt,12,0.0,6,6,3,3,3,3
+Louisiana Monroe,2433,2006,Sun Belt,12,0.0,4,8,2,3,2,5
+Louisiana Tech,2348,2006,Western Athletic,13,0.0,3,10,2,3,1,7
+Louisville,97,2006,Big East,13,0.0,12,1,6,0,6,1
+LSU,99,2006,SEC,13,0.0,11,2,9,0,2,2
+Marshall,276,2006,Conference USA,12,0.0,5,7,4,1,1,6
+Maryland,120,2006,ACC,13,0.0,9,4,7,1,2,3
+Memphis,235,2006,Conference USA,12,0.0,2,10,1,6,1,4
+Miami,2390,2006,ACC,13,0.0,7,6,4,2,2,4
+Miami (OH),193,2006,Mid-American,12,0.0,2,10,0,5,2,5
+Michigan,130,2006,Big Ten,13,0.0,11,2,7,1,4,1
+Michigan State,127,2006,Big Ten,12,0.0,4,8,2,5,2,3
+Middle Tennessee,2393,2006,Sun Belt,13,0.0,7,6,3,2,4,4
+Minnesota,135,2006,Big Ten,13,0.0,6,7,4,3,2,4
+Mississippi State,344,2006,SEC,12,0.0,3,9,1,6,2,3
+Missouri,142,2006,Big 12,13,0.0,8,5,6,2,2,3
+Navy,2426,2006,FBS Independents,13,0.0,9,4,4,3,5,1
+NC State,152,2006,ACC,12,0.0,3,9,3,4,0,5
+Nebraska,158,2006,Big 12,14,0.0,9,5,6,2,3,3
+Nevada,2440,2006,Western Athletic,13,0.0,8,5,5,2,3,3
+New Mexico,167,2006,Mountain West,13,0.0,6,7,3,4,3,3
+New Mexico State,166,2006,Western Athletic,12,0.0,4,8,3,4,1,4
+North Carolina,153,2006,ACC,12,0.0,3,9,2,5,1,4
+Northern Illinois,2459,2006,Mid-American,13,0.0,7,6,4,2,3,4
+North Texas,249,2006,Sun Belt,12,0.0,3,9,2,3,1,6
+Northwestern,77,2006,Big Ten,12,0.0,4,8,2,4,2,4
+Notre Dame,87,2006,FBS Independents,13,0.0,10,3,6,1,4,2
+Ohio,195,2006,Mid-American,14,0.0,9,5,4,2,5,3
+Ohio State,194,2006,Big Ten,13,0.0,12,1,7,1,5,0
+Oklahoma,201,2006,Big 12,14,0.0,11,3,7,2,4,1
+Oklahoma State,197,2006,Big 12,13,0.0,7,6,4,2,3,4
+Ole Miss,145,2006,SEC,12,0.0,4,8,4,3,0,5
+Oregon,2483,2006,Pac-10,13,0.0,7,6,5,2,2,4
+Oregon State,204,2006,Pac-10,14,0.0,10,4,5,2,5,2
+Penn State,213,2006,Big Ten,13,0.0,9,4,7,1,2,3
+Pittsburgh,221,2006,Big East,12,0.0,6,6,3,4,3,2
+Purdue,2509,2006,Big Ten,14,0.0,8,6,5,2,3,4
+Rice,242,2006,Conference USA,13,0.0,7,6,3,2,4,4
+Rutgers,164,2006,Big East,13,0.0,11,2,5,0,5,2
+San Diego State,21,2006,Mountain West,12,0.0,3,9,3,3,0,6
+San José State,23,2006,Western Athletic,13,0.0,9,4,7,1,2,3
+SMU,2567,2006,Conference USA,12,0.0,6,6,5,1,1,5
+South Carolina,2579,2006,SEC,13,0.0,8,5,4,4,4,1
+Southern Mississippi,2572,2006,Conference USA,14,0.0,9,5,6,1,3,4
+South Florida,58,2006,Big East,13,0.0,9,4,5,1,4,3
+Stanford,24,2006,Pac-10,12,0.0,1,11,0,5,1,6
+Syracuse,183,2006,Big East,12,0.0,4,8,3,3,1,5
+TCU,2628,2006,Mountain West,13,0.0,11,2,6,1,5,1
+Temple,218,2006,FBS Independents,12,0.0,1,11,1,4,0,7
+Tennessee,2633,2006,SEC,13,0.0,9,4,5,2,4,2
+Texas,251,2006,Big 12,13,0.0,10,3,5,2,5,1
+Texas A&M,245,2006,Big 12,13,0.0,9,4,5,3,4,1
+Texas Tech,2641,2006,Big 12,13,0.0,8,5,4,2,4,3
+Toledo,2649,2006,Mid-American,12,0.0,5,7,4,2,1,5
+Troy,2653,2006,Sun Belt,13,0.0,8,5,5,1,3,4
+Tulane,2655,2006,Conference USA,12,0.0,4,8,3,2,1,6
+Tulsa,202,2006,Conference USA,13,0.0,8,5,4,1,3,4
+UAB,5,2006,Conference USA,12,0.0,3,9,3,3,0,6
+UCF,2116,2006,Conference USA,12,0.0,4,8,1,5,2,3
+UCLA,26,2006,Pac-10,13,0.0,7,6,6,2,1,4
+UNLV,2439,2006,Mountain West,12,0.0,2,10,1,4,0,6
+USC,30,2006,Pac-10,13,0.0,11,2,6,0,5,2
+Utah,254,2006,Mountain West,13,0.0,8,5,5,2,3,3
+Utah State,328,2006,Western Athletic,12,0.0,1,11,1,4,0,7
+UTEP,2638,2006,Conference USA,12,0.0,5,7,3,3,2,4
+Vanderbilt,238,2006,SEC,12,0.0,4,8,2,4,2,4
+Virginia,258,2006,ACC,12,0.0,5,7,4,2,1,5
+Virginia Tech,259,2006,ACC,13,0.0,10,3,7,2,3,1
+Wake Forest,154,2006,ACC,14,0.0,11,3,4,3,7,0
+Washington,264,2006,Pac-10,12,0.0,5,7,3,3,2,4
+Washington State,265,2006,Pac-10,12,0.0,6,6,3,4,3,2
+Western Michigan,2711,2006,Mid-American,13,0.0,8,5,5,0,3,5
+West Virginia,277,2006,Big East,13,0.0,11,2,7,1,4,1
+Wisconsin,275,2006,Big Ten,13,0.0,12,1,8,0,4,1
+Wyoming,2751,2006,Mountain West,12,0.0,6,6,4,2,2,4
+Air Force,2005,2007,Mountain West,13,0.0,9,4,6,1,3,3
+Akron,2006,2007,Mid-American,12,0.0,4,8,3,2,1,6
+Alabama,333,2007,SEC,13,0.0,7,6,4,3,3,3
+Arizona,12,2007,Pac-10,12,0.0,5,7,4,2,1,5
+Arizona State,9,2007,Pac-10,13,0.0,10,3,7,1,3,2
+Arkansas,8,2007,SEC,13,0.0,8,5,5,3,2,2
+Arkansas State,2032,2007,Sun Belt,12,0.0,5,7,5,1,0,6
+Army,349,2007,FBS Independents,12,0.0,3,9,3,2,0,7
+Auburn,2,2007,SEC,13,0.0,9,4,7,2,2,2
+Ball State,2050,2007,Mid-American,13,0.0,7,6,3,3,4,3
+Baylor,239,2007,Big 12,12,0.0,3,9,1,4,1,5
+Boise State,68,2007,Western Athletic,13,0.0,10,3,7,0,3,3
+Boston College,103,2007,ACC,14,0.0,11,3,6,2,5,1
+Bowling Green,189,2007,Mid-American,13,0.0,8,5,4,1,4,4
+Buffalo,2084,2007,Mid-American,12,0.0,5,7,3,2,2,5
+BYU,252,2007,Mountain West,13,0.0,11,2,7,0,4,2
+California,25,2007,Pac-10,13,0.0,7,6,4,2,3,4
+Central Michigan,2117,2007,Mid-American,14,0.0,8,6,4,3,4,3
+Cincinnati,2132,2007,Big East,13,0.0,10,3,5,2,5,1
+Clemson,228,2007,ACC,13,0.0,9,4,5,2,4,2
+Colorado,38,2007,Big 12,13,0.0,6,7,4,4,2,3
+Colorado State,36,2007,Mountain West,12,0.0,3,9,1,4,1,5
+Connecticut,41,2007,Big East,13,0.0,9,4,7,0,2,4
+Duke,150,2007,ACC,12,0.0,1,11,0,5,1,6
+East Carolina,151,2007,Conference USA,13,0.0,8,5,5,2,3,3
+Eastern Michigan,2199,2007,Mid-American,12,0.0,4,8,2,3,2,5
+Florida,57,2007,SEC,13,0.0,9,4,6,3,3,1
+Florida Atlantic,2226,2007,Sun Belt,13,0.0,8,5,4,2,4,3
+Florida International,2229,2007,Sun Belt,12,0.0,1,11,1,4,0,7
+Florida State,52,2007,ACC,13,0.0,7,6,5,2,2,4
+Fresno State,278,2007,Western Athletic,13,0.0,9,4,6,1,3,3
+Georgia,61,2007,SEC,13,0.0,11,2,7,1,4,1
+Georgia Tech,59,2007,ACC,13,0.0,7,6,4,3,3,3
+Hawai'i,62,2007,Western Athletic,13,0.0,12,1,5,0,5,1
+Houston,248,2007,Conference USA,13,0.0,8,5,4,2,3,3
+Illinois,356,2007,Big Ten,13,0.0,9,4,5,2,4,2
+Indiana,84,2007,Big Ten,13,0.0,7,6,5,2,2,4
+Iowa,2294,2007,Big Ten,12,0.0,6,6,4,2,2,4
+Iowa State,66,2007,Big 12,12,0.0,3,9,3,4,0,5
+Kansas,2305,2007,Big 12,13,0.0,12,1,7,1,5,0
+Kansas State,2306,2007,Big 12,12,0.0,5,7,4,2,1,5
+Kent State,2309,2007,Mid-American,12,0.0,3,9,1,4,2,5
+Kentucky,96,2007,SEC,13,0.0,8,5,5,3,3,2
+Louisiana,309,2007,Sun Belt,12,0.0,3,9,1,5,2,4
+Louisiana Monroe,2433,2007,Sun Belt,12,0.0,6,6,3,2,3,4
+Louisiana Tech,2348,2007,Western Athletic,12,0.0,5,7,3,2,2,5
+Louisville,97,2007,Big East,12,0.0,6,6,4,2,2,4
+LSU,99,2007,SEC,14,0.0,12,2,7,1,5,1
+Marshall,276,2007,Conference USA,12,0.0,3,9,3,3,0,6
+Maryland,120,2007,ACC,13,0.0,6,7,3,3,3,4
+Memphis,235,2007,Conference USA,13,0.0,7,6,4,3,3,3
+Miami,2390,2007,ACC,12,0.0,5,7,4,3,1,4
+Miami (OH),193,2007,Mid-American,13,0.0,6,7,4,1,2,6
+Michigan,130,2007,Big Ten,13,0.0,9,4,5,3,4,1
+Michigan State,127,2007,Big Ten,13,0.0,7,6,5,3,2,3
+Middle Tennessee,2393,2007,Sun Belt,12,0.0,5,7,2,3,3,4
+Minnesota,135,2007,Big Ten,12,0.0,1,11,1,5,0,5
+Mississippi State,344,2007,SEC,13,0.0,8,5,5,2,3,3
+Missouri,142,2007,Big 12,14,0.0,12,2,6,1,6,1
+Navy,2426,2007,FBS Independents,13,0.0,8,5,4,4,4,1
+NC State,152,2007,ACC,12,0.0,5,7,3,4,2,3
+Nebraska,158,2007,Big 12,12,0.0,5,7,4,3,1,4
+Nevada,2440,2007,Western Athletic,13,0.0,6,7,4,2,2,5
+New Mexico,167,2007,Mountain West,13,0.0,9,4,6,1,3,3
+New Mexico State,166,2007,Western Athletic,13,0.0,4,9,4,3,0,6
+North Carolina,153,2007,ACC,12,0.0,4,8,4,2,0,6
+Northern Illinois,2459,2007,Mid-American,12,0.0,2,10,1,5,1,5
+North Texas,249,2007,Sun Belt,12,0.0,2,10,2,3,0,7
+Northwestern,77,2007,Big Ten,12,0.0,6,6,4,3,2,3
+Notre Dame,87,2007,FBS Independents,12,0.0,3,9,1,6,2,3
+Ohio,195,2007,Mid-American,12,0.0,6,6,4,2,2,4
+Ohio State,194,2007,Big Ten,13,0.0,11,2,6,2,5,0
+Oklahoma,201,2007,Big 12,14,0.0,11,3,7,1,4,2
+Oklahoma State,197,2007,Big 12,13,0.0,7,6,5,2,2,4
+Ole Miss,145,2007,SEC,12,0.0,3,9,2,5,1,4
+Oregon,2483,2007,Pac-10,13,0.0,9,4,6,2,3,2
+Oregon State,204,2007,Pac-10,13,0.0,9,4,6,1,3,3
+Penn State,213,2007,Big Ten,13,0.0,9,4,6,1,3,3
+Pittsburgh,221,2007,Big East,12,0.0,5,7,4,3,1,4
+Purdue,2509,2007,Big Ten,13,0.0,8,5,5,2,3,3
+Rice,242,2007,Conference USA,12,0.0,3,9,1,5,2,4
+Rutgers,164,2007,Big East,13,0.0,8,5,4,3,3,2
+San Diego State,21,2007,Mountain West,12,0.0,4,8,1,4,2,4
+San José State,23,2007,Western Athletic,12,0.0,5,7,4,1,1,6
+SMU,2567,2007,Conference USA,12,0.0,1,11,1,5,0,6
+South Carolina,2579,2007,SEC,12,0.0,6,6,4,3,2,3
+Southern Mississippi,2572,2007,Conference USA,13,0.0,7,6,3,3,4,3
+South Florida,58,2007,Big East,13,0.0,9,4,5,1,4,3
+Stanford,24,2007,Pac-10,12,0.0,4,8,2,6,2,2
+Syracuse,183,2007,Big East,12,0.0,2,10,1,6,1,4
+TCU,2628,2007,Mountain West,13,0.0,8,5,5,1,3,4
+Temple,218,2007,Mid-American,12,0.0,4,8,3,3,1,5
+Tennessee,2633,2007,SEC,14,0.0,10,4,8,0,2,4
+Texas,251,2007,Big 12,13,0.0,10,3,6,2,4,1
+Texas A&M,245,2007,Big 12,13,0.0,7,6,6,2,1,4
+Texas Tech,2641,2007,Big 12,13,0.0,9,4,5,1,4,3
+Toledo,2649,2007,Mid-American,12,0.0,5,7,5,2,0,5
+Troy,2653,2007,Sun Belt,12,0.0,8,4,4,1,4,3
+Tulane,2655,2007,Conference USA,12,0.0,4,8,1,5,2,3
+Tulsa,202,2007,Conference USA,14,0.0,10,4,6,1,4,3
+UAB,5,2007,Conference USA,12,0.0,2,10,1,3,0,7
+UCF,2116,2007,Conference USA,14,0.0,10,4,6,1,4,3
+UCLA,26,2007,Pac-10,13,0.0,6,7,4,2,2,5
+UNLV,2439,2007,Mountain West,12,0.0,2,10,1,5,1,5
+USC,30,2007,Pac-10,13,0.0,11,2,6,1,5,1
+Utah,254,2007,Mountain West,13,0.0,9,4,5,1,4,3
+Utah State,328,2007,Western Athletic,12,0.0,2,10,0,5,2,5
+UTEP,2638,2007,Conference USA,12,0.0,4,8,3,3,1,5
+Vanderbilt,238,2007,SEC,12,0.0,5,7,4,4,1,3
+Virginia,258,2007,ACC,13,0.0,9,4,5,2,4,2
+Virginia Tech,259,2007,ACC,14,0.0,11,3,6,2,5,1
+Wake Forest,154,2007,ACC,13,0.0,9,4,6,1,3,3
+Washington,264,2007,Pac-10,13,0.0,4,9,2,5,2,4
+Washington State,265,2007,Pac-10,12,0.0,5,7,4,2,1,5
+Western Kentucky,98,2007,FBS Independents,12,0.0,7,5,4,1,3,4
+Western Michigan,2711,2007,Mid-American,12,0.0,5,7,2,4,3,3
+West Virginia,277,2007,Big East,13,0.0,11,2,5,1,6,1
+Wisconsin,275,2007,Big Ten,13,0.0,9,4,7,0,2,4
+Wyoming,2751,2007,Mountain West,12,0.0,5,7,4,2,1,5
+Air Force,2005,2008,Mountain West,13,0.0,8,5,3,3,5,1
+Akron,2006,2008,Mid-American,12,0.0,5,7,1,4,4,3
+Alabama,333,2008,SEC,14,0.0,12,2,7,0,4,0
+Arizona,12,2008,Pac-10,13,0.0,8,5,5,2,2,3
+Arizona State,9,2008,Pac-10,12,0.0,5,7,4,3,1,4
+Arkansas,8,2008,SEC,12,0.0,5,7,3,3,1,4
+Arkansas State,2032,2008,Sun Belt,12,0.0,6,6,4,1,2,5
+Army,349,2008,FBS Independents,12,0.0,3,9,2,4,1,4
+Auburn,2,2008,SEC,12,0.0,5,7,4,3,1,4
+Ball State,2050,2008,Mid-American,14,0.0,12,2,6,0,6,0
+Baylor,239,2008,Big 12,12,0.0,4,8,3,3,0,5
+Boise State,68,2008,Western Athletic,13,0.0,12,1,6,0,6,0
+Boston College,103,2008,ACC,14,0.0,9,5,5,2,4,1
+Bowling Green,189,2008,Mid-American,12,0.0,6,6,1,4,5,2
+Buffalo,2084,2008,Mid-American,14,0.0,8,6,4,2,3,3
+BYU,252,2008,Mountain West,13,0.0,10,3,6,0,4,2
+California,25,2008,Pac-10,13,0.0,9,4,7,0,1,4
+Central Michigan,2117,2008,Mid-American,13,0.0,8,5,4,1,4,3
+Cincinnati,2132,2008,Big East,14,0.0,11,3,6,0,5,2
+Clemson,228,2008,ACC,13,0.0,7,6,5,2,2,2
+Colorado,38,2008,Big 12,12,0.0,5,7,4,2,0,5
+Colorado State,36,2008,Mountain West,13,0.0,7,6,3,2,2,3
+Connecticut,41,2008,Big East,13,0.0,8,5,4,2,3,3
+Duke,150,2008,ACC,12,0.0,4,8,3,4,1,4
+East Carolina,151,2008,Conference USA,14,0.0,9,5,4,1,4,3
+Eastern Michigan,2199,2008,Mid-American,12,0.0,3,9,2,3,1,6
+Florida,57,2008,SEC,14,0.0,13,1,6,1,4,0
+Florida Atlantic,2226,2008,Sun Belt,13,0.0,7,6,4,1,2,5
+Florida International,2229,2008,Sun Belt,12,0.0,5,7,3,2,2,5
+Florida State,52,2008,ACC,13,0.0,9,4,5,3,3,1
+Fresno State,278,2008,Western Athletic,13,0.0,7,6,2,3,5,2
+Georgia,61,2008,SEC,13,0.0,10,3,4,2,5,0
+Georgia Tech,59,2008,ACC,13,0.0,9,4,6,1,3,2
+Hawai'i,62,2008,Western Athletic,14,0.0,7,7,4,2,2,4
+Houston,248,2008,Conference USA,13,0.0,8,5,4,1,2,4
+Illinois,356,2008,Big Ten,12,0.0,5,7,4,2,1,4
+Indiana,84,2008,Big Ten,12,0.0,3,9,3,5,0,4
+Iowa,2294,2008,Big Ten,13,0.0,9,4,6,1,2,3
+Iowa State,66,2008,Big 12,12,0.0,2,10,2,4,0,6
+Kansas,2305,2008,Big 12,13,0.0,8,5,5,2,1,3
+Kansas State,2306,2008,Big 12,12,0.0,5,7,4,3,1,4
+Kent State,2309,2008,Mid-American,12,0.0,4,8,2,4,2,4
+Kentucky,96,2008,SEC,13,0.0,7,6,4,3,2,3
+Louisiana,309,2008,Sun Belt,12,0.0,6,6,4,1,2,5
+Louisiana Monroe,2433,2008,Sun Belt,12,0.0,4,8,3,2,1,5
+Louisiana Tech,2348,2008,Western Athletic,13,0.0,8,5,5,1,2,4
+Louisville,97,2008,Big East,12,0.0,5,7,4,4,1,3
+LSU,99,2008,SEC,14,0.0,9,5,6,3,2,2
+Marshall,276,2008,Conference USA,12,0.0,4,8,3,3,1,5
+Maryland,120,2008,ACC,13,0.0,8,5,6,1,1,4
+Memphis,235,2008,Conference USA,13,0.0,6,7,4,3,2,3
+Miami,2390,2008,ACC,13,0.0,7,6,4,2,3,3
+Miami (OH),193,2008,Mid-American,12,0.0,2,10,1,5,1,5
+Michigan,130,2008,Big Ten,12,0.0,3,9,2,5,1,4
+Michigan State,127,2008,Big Ten,13,0.0,9,4,6,1,3,2
+Middle Tennessee,2393,2008,Sun Belt,12,0.0,5,7,4,1,1,6
+Minnesota,135,2008,Big Ten,13,0.0,7,6,3,3,3,2
+Mississippi State,344,2008,SEC,12,0.0,4,8,4,2,0,6
+Missouri,142,2008,Big 12,14,0.0,10,4,5,1,3,1
+Navy,2426,2008,FBS Independents,13,0.0,8,5,4,2,3,2
+NC State,152,2008,ACC,13,0.0,6,7,4,3,2,3
+Nebraska,158,2008,Big 12,13,0.0,9,4,6,2,2,2
+Nevada,2440,2008,Western Athletic,13,0.0,7,6,3,3,4,2
+New Mexico,167,2008,Mountain West,12,0.0,4,8,3,3,1,5
+New Mexico State,166,2008,Western Athletic,12,0.0,3,9,1,5,2,4
+North Carolina,153,2008,ACC,13,0.0,8,5,5,2,3,2
+Northern Illinois,2459,2008,Mid-American,13,0.0,6,7,4,2,2,4
+North Texas,249,2008,Sun Belt,12,0.0,1,11,0,5,1,6
+Northwestern,77,2008,Big Ten,13,0.0,9,4,5,2,4,1
+Notre Dame,87,2008,FBS Independents,13,0.0,7,6,4,2,2,4
+Ohio,195,2008,Mid-American,12,0.0,4,8,2,3,2,5
+Ohio State,194,2008,Big Ten,13,0.0,10,3,6,1,4,1
+Oklahoma,201,2008,Big 12,14,0.0,12,2,6,0,5,0
+Oklahoma State,197,2008,Big 12,13,0.0,9,4,6,1,3,2
+Ole Miss,145,2008,SEC,13,0.0,9,4,5,2,3,2
+Oregon,2483,2008,Pac-10,13,0.0,10,3,5,1,4,2
+Oregon State,204,2008,Pac-10,13,0.0,9,4,5,1,3,3
+Penn State,213,2008,Big Ten,13,0.0,11,2,7,0,4,1
+Pittsburgh,221,2008,Big East,13,0.0,9,4,4,2,5,1
+Purdue,2509,2008,Big Ten,12,0.0,4,8,4,3,0,5
+Rice,242,2008,Conference USA,13,0.0,10,3,6,0,3,3
+Rutgers,164,2008,Big East,13,0.0,8,5,4,2,2,3
+San Diego State,21,2008,Mountain West,12,0.0,2,10,2,3,0,6
+San José State,23,2008,Western Athletic,12,0.0,6,6,3,3,3,3
+SMU,2567,2008,Conference USA,12,0.0,1,11,1,5,0,6
+South Carolina,2579,2008,SEC,13,0.0,7,6,5,2,2,3
+Southern Mississippi,2572,2008,Conference USA,13,0.0,7,6,3,3,3,3
+South Florida,58,2008,Big East,13,0.0,8,5,4,2,3,3
+Stanford,24,2008,Pac-10,12,0.0,5,7,4,1,1,6
+Syracuse,183,2008,Big East,12,0.0,3,9,2,4,1,5
+TCU,2628,2008,Mountain West,13,0.0,11,2,6,0,4,2
+Temple,218,2008,Mid-American,12,0.0,5,7,3,2,2,5
+Tennessee,2633,2008,SEC,12,0.0,5,7,4,3,1,4
+Texas,251,2008,Big 12,13,0.0,12,1,7,0,3,1
+Texas A&M,245,2008,Big 12,12,0.0,4,8,2,5,2,3
+Texas Tech,2641,2008,Big 12,13,0.0,11,2,7,0,4,1
+Toledo,2649,2008,Mid-American,12,0.0,3,9,1,5,2,4
+Troy,2653,2008,Sun Belt,13,0.0,8,5,5,0,3,4
+Tulane,2655,2008,Conference USA,12,0.0,2,10,2,4,0,6
+Tulsa,202,2008,Conference USA,14,0.0,11,3,6,1,4,2
+UAB,5,2008,Conference USA,12,0.0,4,8,1,3,2,5
+UCF,2116,2008,Conference USA,12,0.0,4,8,2,4,2,4
+UCLA,26,2008,Pac-10,12,0.0,4,8,3,4,1,4
+UNLV,2439,2008,Mountain West,12,0.0,5,7,4,3,1,4
+USC,30,2008,Pac-10,13,0.0,12,1,6,0,5,1
+Utah,254,2008,Mountain West,13,0.0,13,0,6,0,6,0
+Utah State,328,2008,Western Athletic,12,0.0,3,9,3,3,0,6
+UTEP,2638,2008,Conference USA,12,0.0,5,7,3,3,2,4
+Vanderbilt,238,2008,SEC,13,0.0,7,6,3,3,3,3
+Virginia,258,2008,ACC,12,0.0,5,7,4,3,1,4
+Virginia Tech,259,2008,ACC,14,0.0,10,4,6,0,2,3
+Wake Forest,154,2008,ACC,13,0.0,8,5,5,2,2,3
+Washington,264,2008,Pac-10,12,0.0,0,12,0,7,0,5
+Washington State,265,2008,Pac-10,13,0.0,2,11,2,5,0,6
+Western Kentucky,98,2008,FBS Independents,12,0.0,2,10,1,4,1,6
+Western Michigan,2711,2008,Mid-American,13,0.0,9,4,6,0,3,3
+West Virginia,277,2008,Big East,13,0.0,9,4,6,1,2,3
+Wisconsin,275,2008,Big Ten,13,0.0,7,6,5,2,2,3
+Wyoming,2751,2008,Mountain West,12,0.0,4,8,3,4,1,4
+Air Force,2005,2009,Mountain West,13,0.0,8,5,5,1,2,4
+Akron,2006,2009,Mid-American,12,0.0,3,9,3,3,0,6
+Alabama,333,2009,SEC,14,0.0,14,0,7,0,4,0
+Arizona,12,2009,Pac-10,13,0.0,8,5,5,1,3,3
+Arizona State,9,2009,Pac-10,12,0.0,4,8,3,4,1,4
+Arkansas,8,2009,SEC,13,0.0,8,5,6,1,0,4
+Arkansas State,2032,2009,Sun Belt,12,0.0,4,8,3,2,1,6
+Army,349,2009,FBS Independents,12,0.0,5,7,3,3,2,3
+Auburn,2,2009,SEC,13,0.0,8,5,6,2,1,3
+Ball State,2050,2009,Mid-American,12,0.0,2,10,0,6,2,4
+Baylor,239,2009,Big 12,12,0.0,4,8,1,4,2,3
+Boise State,68,2009,Western Athletic,14,0.0,14,0,7,0,6,0
+Boston College,103,2009,ACC,13,0.0,8,5,6,1,2,3
+Bowling Green,189,2009,Mid-American,13,0.0,7,6,3,3,4,2
+Buffalo,2084,2009,Mid-American,12,0.0,5,7,2,4,3,3
+BYU,252,2009,Mountain West,13,0.0,11,2,4,2,5,0
+California,25,2009,Pac-10,13,0.0,8,5,4,2,4,2
+Central Michigan,2117,2009,Mid-American,14,0.0,12,2,5,0,5,2
+Cincinnati,2132,2009,Big East,13,0.0,12,1,6,0,6,0
+Clemson,228,2009,ACC,14,0.0,9,5,6,1,2,3
+Colorado,38,2009,Big 12,12,0.0,3,9,3,3,0,6
+Colorado State,36,2009,Mountain West,12,0.0,3,9,1,4,1,5
+Connecticut,41,2009,Big East,13,0.0,8,5,4,2,3,3
+Duke,150,2009,ACC,12,0.0,5,7,2,4,3,3
+East Carolina,151,2009,Conference USA,14,0.0,9,5,6,1,3,3
+Eastern Michigan,2199,2009,Mid-American,12,0.0,0,12,0,5,0,7
+Florida,57,2009,SEC,14,0.0,13,1,7,0,4,0
+Florida Atlantic,2226,2009,Sun Belt,12,0.0,5,7,2,3,3,4
+Florida International,2229,2009,Sun Belt,12,0.0,3,9,2,3,1,6
+Florida State,52,2009,ACC,13,0.0,7,6,3,3,3,3
+Fresno State,278,2009,Western Athletic,13,0.0,8,5,4,1,4,3
+Georgia,61,2009,SEC,13,0.0,8,5,4,2,3,2
+Georgia Tech,59,2009,ACC,14,0.0,11,3,5,1,5,1
+Hawai'i,62,2009,Western Athletic,13,0.0,6,7,3,3,2,4
+Houston,248,2009,Conference USA,14,0.0,10,4,5,0,4,3
+Illinois,356,2009,Big Ten,12,0.0,3,9,2,4,1,4
+Indiana,84,2009,Big Ten,12,0.0,4,8,3,3,1,5
+Iowa,2294,2009,Big Ten,13,0.0,11,2,6,1,4,1
+Iowa State,66,2009,Big 12,13,0.0,7,6,4,3,2,3
+Kansas,2305,2009,Big 12,12,0.0,5,7,4,2,1,4
+Kansas State,2306,2009,Big 12,12,0.0,6,6,5,1,1,5
+Kent State,2309,2009,Mid-American,12,0.0,5,7,3,3,2,4
+Kentucky,96,2009,SEC,13,0.0,7,6,3,4,4,1
+Louisiana,309,2009,Sun Belt,12,0.0,6,6,4,2,2,4
+Louisiana Monroe,2433,2009,Sun Belt,12,0.0,6,6,4,1,2,5
+Louisiana Tech,2348,2009,Western Athletic,12,0.0,4,8,4,1,0,7
+Louisville,97,2009,Big East,12,0.0,4,8,4,2,0,6
+LSU,99,2009,SEC,13,0.0,9,4,6,1,3,2
+Marshall,276,2009,Conference USA,13,0.0,7,6,4,2,2,4
+Maryland,120,2009,ACC,12,0.0,2,10,2,5,0,5
+Memphis,235,2009,Conference USA,12,0.0,2,10,2,4,0,6
+Miami,2390,2009,ACC,13,0.0,9,4,5,1,4,2
+Miami (OH),193,2009,Mid-American,12,0.0,1,11,1,5,0,6
+Michigan,130,2009,Big Ten,12,0.0,5,7,5,3,0,4
+Michigan State,127,2009,Big Ten,13,0.0,6,7,4,3,2,3
+Middle Tennessee,2393,2009,Sun Belt,13,0.0,10,3,5,1,4,2
+Minnesota,135,2009,Big Ten,13,0.0,6,7,4,3,2,3
+Mississippi State,344,2009,SEC,12,0.0,5,7,2,5,3,2
+Missouri,142,2009,Big 12,13,0.0,8,5,3,3,3,1
+Navy,2426,2009,FBS Independents,14,0.0,10,4,5,1,3,3
+NC State,152,2009,ACC,12,0.0,5,7,5,3,0,4
+Nebraska,158,2009,Big 12,14,0.0,10,4,5,2,4,1
+Nevada,2440,2009,Western Athletic,13,0.0,8,5,5,1,3,3
+New Mexico,167,2009,Mountain West,12,0.0,1,11,1,5,0,6
+New Mexico State,166,2009,Western Athletic,13,0.0,3,10,2,4,1,6
+North Carolina,153,2009,ACC,13,0.0,8,5,5,2,3,2
+Northern Illinois,2459,2009,Mid-American,13,0.0,7,6,5,1,2,4
+North Texas,249,2009,Sun Belt,12,0.0,2,10,1,5,1,5
+Northwestern,77,2009,Big Ten,13,0.0,8,5,5,2,3,2
+Notre Dame,87,2009,FBS Independents,12,0.0,6,6,5,3,1,3
+Ohio,195,2009,Mid-American,14,0.0,9,5,4,2,5,1
+Ohio State,194,2009,Big Ten,13,0.0,11,2,6,1,4,1
+Oklahoma,201,2009,Big 12,13,0.0,8,5,6,0,1,3
+Oklahoma State,197,2009,Big 12,13,0.0,9,4,6,2,3,1
+Ole Miss,145,2009,SEC,13,0.0,9,4,6,1,2,3
+Oregon,2483,2009,Pac-10,13,0.0,10,3,7,0,3,2
+Oregon State,204,2009,Pac-10,13,0.0,8,5,4,2,4,2
+Penn State,213,2009,Big Ten,13,0.0,11,2,6,2,4,0
+Pittsburgh,221,2009,Big East,13,0.0,10,3,6,1,3,2
+Purdue,2509,2009,Big Ten,12,0.0,5,7,3,4,2,3
+Rice,242,2009,Conference USA,12,0.0,2,10,2,4,0,6
+Rutgers,164,2009,Big East,13,0.0,9,4,2,3,4,1
+San Diego State,21,2009,Mountain West,12,0.0,4,8,2,3,1,5
+San José State,23,2009,Western Athletic,12,0.0,2,10,2,4,0,6
+SMU,2567,2009,Conference USA,13,0.0,8,5,5,1,2,4
+South Carolina,2579,2009,SEC,13,0.0,7,6,6,1,1,4
+Southern Mississippi,2572,2009,Conference USA,13,0.0,7,6,6,0,1,5
+South Florida,58,2009,Big East,13,0.0,8,5,4,2,3,3
+Stanford,24,2009,Pac-10,13,0.0,8,5,6,1,2,3
+Syracuse,183,2009,Big East,12,0.0,4,8,4,4,0,4
+TCU,2628,2009,Mountain West,13,0.0,12,1,6,0,6,0
+Temple,218,2009,Mid-American,13,0.0,9,4,5,1,4,2
+Tennessee,2633,2009,SEC,13,0.0,7,6,6,2,1,3
+Texas,251,2009,Big 12,14,0.0,13,1,6,0,5,0
+Texas A&M,245,2009,Big 12,13,0.0,6,7,5,2,1,3
+Texas Tech,2641,2009,Big 12,13,0.0,9,4,6,1,1,3
+Toledo,2649,2009,Mid-American,12,0.0,5,7,3,3,2,4
+Troy,2653,2009,Sun Belt,13,0.0,9,4,5,0,4,3
+Tulane,2655,2009,Conference USA,12,0.0,3,9,1,4,1,5
+Tulsa,202,2009,Conference USA,12,0.0,5,7,2,4,3,3
+UAB,5,2009,Conference USA,12,0.0,5,7,3,2,2,5
+UCF,2116,2009,Conference USA,13,0.0,8,5,6,1,2,3
+UCLA,26,2009,Pac-10,13,0.0,7,6,4,2,2,4
+UNLV,2439,2009,Mountain West,12,0.0,5,7,3,3,1,4
+USC,30,2009,Pac-10,13,0.0,9,4,4,2,4,2
+Utah,254,2009,Mountain West,13,0.0,10,3,6,0,3,3
+Utah State,328,2009,Western Athletic,12,0.0,4,8,3,2,1,6
+UTEP,2638,2009,Conference USA,12,0.0,4,8,3,3,1,5
+Vanderbilt,238,2009,SEC,12,0.0,2,10,1,5,1,5
+Virginia,258,2009,ACC,12,0.0,3,9,1,6,2,3
+Virginia Tech,259,2009,ACC,13,0.0,10,3,5,1,4,1
+Wake Forest,154,2009,ACC,12,0.0,5,7,4,3,1,4
+Washington,264,2009,Pac-10,12,0.0,5,7,5,2,0,5
+Washington State,265,2009,Pac-10,12,0.0,1,11,1,5,0,6
+Western Kentucky,98,2009,Sun Belt,12,0.0,0,12,0,6,0,6
+Western Michigan,2711,2009,Mid-American,12,0.0,5,7,3,2,2,5
+West Virginia,277,2009,Big East,13,0.0,9,4,6,0,2,3
+Wisconsin,275,2009,Big Ten,13,0.0,10,3,6,1,3,2
+Wyoming,2751,2009,Mountain West,13,0.0,7,6,3,3,3,3
+Air Force,2005,2010,Mountain West,13,8.1,9,4,5,1,3,3
+Akron,2006,2010,Mid-American,12,3.1,1,11,1,5,0,6
+Alabama,333,2010,SEC,13,9.5,10,3,6,1,3,2
+Arizona,12,2010,Pac-10,13,9.3,7,6,4,3,3,2
+Arizona State,9,2010,Pac-10,12,7.9,6,6,4,2,2,4
+Arkansas,8,2010,SEC,13,8.5,10,3,5,1,3,1
+Arkansas State,2032,2010,Sun Belt,12,4.7,4,8,3,2,1,6
+Army,349,2010,FBS Independents,13,6.4,7,6,2,3,5,1
+Auburn,2,2010,SEC,14,10.3,14,0,8,0,4,0
+Ball State,2050,2010,Mid-American,12,5.1,4,8,2,4,2,4
+Baylor,239,2010,Big 12,13,6.8,7,6,3,2,3,2
+Boise State,68,2010,Western Athletic,13,11.2,12,1,6,0,4,1
+Boston College,103,2010,ACC,13,6.0,7,6,4,3,3,2
+Bowling Green,189,2010,Mid-American,12,3.2,2,10,1,4,1,6
+Buffalo,2084,2010,Mid-American,12,4.8,2,10,1,5,1,5
+BYU,252,2010,Mountain West,13,6.1,7,6,5,1,1,5
+California,25,2010,Pac-10,12,5.2,5,7,4,3,1,4
+Central Michigan,2117,2010,Mid-American,12,5.6,3,9,2,3,1,6
+Cincinnati,2132,2010,Big East,12,5.8,4,8,3,4,1,4
+Clemson,228,2010,ACC,13,6.9,6,7,5,2,1,4
+Colorado,38,2010,Big 12,12,5.1,5,7,4,2,0,5
+Colorado State,36,2010,Mountain West,12,4.4,3,9,3,2,0,6
+Connecticut,41,2010,Big East,13,6.6,8,5,6,0,2,4
+Duke,150,2010,ACC,12,5.0,3,9,2,5,1,4
+East Carolina,151,2010,Conference USA,13,5.9,6,7,4,2,2,4
+Eastern Michigan,2199,2010,Mid-American,12,3.0,2,10,0,5,2,5
+Florida,57,2010,SEC,13,7.6,8,5,4,3,2,2
+Florida Atlantic,2226,2010,Sun Belt,12,3.1,4,8,2,2,2,5
+Florida International,2229,2010,Sun Belt,13,4.9,7,6,3,2,3,4
+Florida State,52,2010,ACC,14,8.2,10,4,6,1,3,2
+Fresno State,278,2010,Western Athletic,13,6.3,8,5,5,2,3,2
+Georgia,61,2010,SEC,13,8.2,6,7,5,1,1,4
+Georgia Tech,59,2010,ACC,13,7.8,6,7,4,2,2,4
+Hawai'i,62,2010,Western Athletic,14,8.5,10,4,5,1,4,2
+Houston,248,2010,Conference USA,12,6.9,5,7,2,3,2,4
+Illinois,356,2010,Big Ten,13,7.2,7,6,4,2,2,3
+Indiana,84,2010,Big Ten,12,5.9,5,7,3,3,2,3
+Iowa,2294,2010,Big Ten,13,7.8,8,5,5,2,2,3
+Iowa State,66,2010,Big 12,12,5.6,5,7,4,3,1,3
+Kansas,2305,2010,Big 12,12,4.2,3,9,3,4,0,4
+Kansas State,2306,2010,Big 12,13,5.3,7,6,4,2,2,3
+Kent State,2309,2010,Mid-American,12,5.1,5,7,4,2,1,5
+Kentucky,96,2010,SEC,13,8.0,6,7,5,2,1,4
+Louisiana,309,2010,Sun Belt,12,4.7,3,9,1,4,2,5
+Louisiana Monroe,2433,2010,Sun Belt,12,4.8,5,7,4,1,1,5
+Louisiana Tech,2348,2010,Western Athletic,12,4.7,5,7,2,4,2,3
+Louisville,97,2010,Big East,13,7.3,7,6,3,4,3,2
+LSU,99,2010,SEC,13,7.9,11,2,7,0,2,2
+Marshall,276,2010,Conference USA,12,4.4,5,7,4,2,1,5
+Maryland,120,2010,ACC,13,7.2,9,4,5,1,2,3
+Memphis,235,2010,Conference USA,12,2.7,1,11,1,5,0,6
+Miami,2390,2010,ACC,13,7.7,7,6,3,3,4,2
+Miami (OH),193,2010,Mid-American,14,7.3,10,4,4,1,4,3
+Michigan,130,2010,Big Ten,13,8.2,7,6,4,3,3,2
+Michigan State,127,2010,Big Ten,13,7.7,11,2,7,0,3,1
+Middle Tennessee,2393,2010,Sun Belt,13,5.3,6,7,3,3,3,3
+Minnesota,135,2010,Big Ten,12,5.2,3,9,1,6,2,3
+Mississippi State,344,2010,SEC,13,7.1,9,4,5,2,3,2
+Missouri,142,2010,Big 12,13,8.1,10,3,6,0,2,2
+Navy,2426,2010,FBS Independents,13,7.0,9,4,4,1,3,2
+NC State,152,2010,ACC,13,7.6,9,4,5,1,3,3
+Nebraska,158,2010,Big 12,14,9.4,10,4,6,1,4,1
+Nevada,2440,2010,Western Athletic,14,10.1,13,1,7,0,5,1
+New Mexico,167,2010,Mountain West,12,3.3,1,11,1,5,0,6
+New Mexico State,166,2010,Western Athletic,12,2.8,2,10,2,4,0,6
+North Carolina,153,2010,ACC,13,7.7,8,5,3,3,4,1
+Northern Illinois,2459,2010,Mid-American,14,8.5,11,3,5,0,5,2
+North Texas,249,2010,Sun Belt,12,3.7,3,9,0,6,3,3
+Northwestern,77,2010,Big Ten,13,4.6,7,6,3,3,4,2
+Notre Dame,87,2010,FBS Independents,13,6.9,8,5,4,3,2,1
+Ohio,195,2010,Mid-American,13,5.7,8,5,5,1,3,3
+Ohio State,194,2010,Big Ten,13,9.8,12,1,8,0,3,1
+Oklahoma,201,2010,Big 12,14,8.2,12,2,6,0,3,2
+Oklahoma State,197,2010,Big 12,13,8.9,11,2,5,2,5,0
+Ole Miss,145,2010,SEC,12,5.7,4,8,3,4,1,4
+Oregon,2483,2010,Pac-10,13,9.3,12,1,6,0,6,0
+Oregon State,204,2010,Pac-10,12,4.6,5,7,4,2,1,4
+Penn State,213,2010,Big Ten,13,7.2,7,6,5,2,1,3
+Pittsburgh,221,2010,Big East,13,8.1,8,5,4,2,3,3
+Purdue,2509,2010,Big Ten,12,4.1,4,8,3,4,1,4
+Rice,242,2010,Conference USA,12,4.1,4,8,3,3,1,4
+Rutgers,164,2010,Big East,12,5.4,4,8,2,4,1,4
+San Diego State,21,2010,Mountain West,13,8.0,9,4,5,1,3,3
+San José State,23,2010,Western Athletic,13,4.5,1,12,1,5,0,7
+SMU,2567,2010,Conference USA,14,7.9,7,7,4,3,3,4
+South Carolina,2579,2010,SEC,14,9.0,9,5,6,1,3,2
+Southern Mississippi,2572,2010,Conference USA,13,7.7,8,5,4,2,4,2
+South Florida,58,2010,Big East,13,6.3,8,5,4,3,3,2
+Stanford,24,2010,Pac-10,13,10.1,12,1,6,0,5,1
+Syracuse,183,2010,Big East,13,7.2,8,5,2,4,5,1
+TCU,2628,2010,Mountain West,13,11.3,13,0,6,0,5,0
+Temple,218,2010,Mid-American,12,6.2,8,4,5,1,3,3
+Tennessee,2633,2010,SEC,13,6.8,6,7,4,3,2,3
+Texas,251,2010,Big 12,12,7.8,5,7,2,5,2,1
+Texas A&M,245,2010,Big 12,13,9.0,9,4,6,1,3,1
+Texas Tech,2641,2010,Big 12,13,6.8,8,5,4,2,2,3
+Toledo,2649,2010,Mid-American,13,6.7,8,5,4,2,4,2
+Troy,2653,2010,Sun Belt,13,5.6,8,5,4,1,3,4
+Tulane,2655,2010,Conference USA,12,5.7,4,8,1,5,2,3
+Tulsa,202,2010,Conference USA,13,8.8,10,3,6,0,3,3
+UAB,5,2010,Conference USA,12,5.6,4,8,3,3,1,5
+UCF,2116,2010,Conference USA,14,8.8,11,3,5,2,5,1
+UCLA,26,2010,Pac-10,12,4.8,4,8,3,3,1,5
+UNLV,2439,2010,Mountain West,13,3.3,2,11,2,4,0,7
+USC,30,2010,Pac-10,13,6.6,8,5,3,3,5,2
+Utah,254,2010,Mountain West,13,7.3,10,3,5,1,5,1
+Utah State,328,2010,Western Athletic,12,4.4,4,8,3,3,1,5
+UTEP,2638,2010,Conference USA,13,4.8,6,7,5,1,1,5
+Vanderbilt,238,2010,SEC,12,3.9,2,10,1,6,1,4
+Virginia,258,2010,ACC,12,6.1,4,8,4,3,0,5
+Virginia Tech,259,2010,ACC,14,9.4,11,3,6,1,4,0
+Wake Forest,154,2010,ACC,12,3.7,3,9,2,4,1,5
+Washington,264,2010,Pac-10,13,5.7,7,6,3,3,3,3
+Washington State,265,2010,Pac-10,12,3.1,2,10,1,5,1,5
+Western Kentucky,98,2010,Sun Belt,12,3.5,2,10,0,5,2,5
+Western Michigan,2711,2010,Mid-American,12,6.4,6,6,3,3,3,3
+West Virginia,277,2010,Big East,13,10.2,9,4,6,1,3,2
+Wisconsin,275,2010,Big Ten,13,8.9,11,2,7,0,4,1
+Wyoming,2751,2010,Mountain West,12,3.8,3,9,2,4,1,5
+Air Force,2005,2011,Mountain West,13,7.5,7,6,4,3,3,2
+Akron,2006,2011,Mid-American,12,2.8,1,11,1,5,0,6
+Alabama,333,2011,SEC,13,11.0,12,1,6,1,5,0
+Arizona,12,2011,Pac-12,12,5.8,4,8,3,3,1,5
+Arizona State,9,2011,Pac-12,13,6.6,6,7,5,2,1,4
+Arkansas,8,2011,SEC,13,9.0,11,2,7,0,2,2
+Arkansas State,2032,2011,Sun Belt,13,8.1,10,3,6,0,4,2
+Army,349,2011,FBS Independents,12,5.6,3,9,3,1,0,6
+Auburn,2,2011,SEC,13,5.6,8,5,6,1,1,4
+Ball State,2050,2011,Mid-American,12,4.9,6,6,3,2,2,4
+Baylor,239,2011,Big 12,13,9.1,10,3,6,0,1,3
+Boise State,68,2011,Mountain West,13,9.4,12,1,5,1,6,0
+Boston College,103,2011,ACC,12,4.7,4,8,2,4,2,4
+Bowling Green,189,2011,Mid-American,12,5.9,5,7,2,4,3,3
+Buffalo,2084,2011,Mid-American,12,4.7,3,9,3,3,0,6
+BYU,252,2011,FBS Independents,13,9.1,10,3,6,1,3,1
+California,25,2011,Pac-12,13,7.0,7,6,4,1,2,4
+Central Michigan,2117,2011,Mid-American,12,4.7,3,9,2,3,1,6
+Cincinnati,2132,2011,Big East,13,6.7,10,3,5,1,4,2
+Clemson,228,2011,ACC,14,8.3,10,4,7,0,2,3
+Colorado,38,2011,Pac-12,13,4.5,3,10,1,4,1,6
+Colorado State,36,2011,Mountain West,12,5.1,3,9,0,5,2,3
+Connecticut,41,2011,Big East,12,5.3,5,7,4,3,1,4
+Duke,150,2011,ACC,12,4.8,3,9,1,6,2,3
+East Carolina,151,2011,Conference USA,12,4.9,5,7,3,3,2,3
+Eastern Michigan,2199,2011,Mid-American,12,7.0,6,6,5,1,1,5
+Florida,57,2011,SEC,13,7.6,7,6,5,2,1,3
+Florida Atlantic,2226,2011,Sun Belt,12,2.4,1,11,1,4,0,7
+Florida International,2229,2011,Sun Belt,13,6.7,8,5,4,2,4,2
+Florida State,52,2011,ACC,13,9.0,9,4,5,2,3,2
+Fresno State,278,2011,Western Athletic,13,6.3,4,9,2,4,2,5
+Georgia,61,2011,SEC,14,9.4,10,4,5,2,4,0
+Georgia Tech,59,2011,ACC,13,8.6,8,5,5,2,3,2
+Hawai'i,62,2011,Western Athletic,13,6.0,6,7,3,3,2,4
+Houston,248,2011,Conference USA,14,10.3,13,1,5,1,6,0
+Illinois,356,2011,Big Ten,13,7.9,7,6,5,3,1,3
+Indiana,84,2011,Big Ten,12,4.5,1,11,1,5,0,5
+Iowa,2294,2011,Big Ten,13,7.6,7,6,6,1,1,4
+Iowa State,66,2011,Big 12,13,4.9,6,7,4,2,2,4
+Kansas,2305,2011,Big 12,12,3.8,2,10,2,4,0,5
+Kansas State,2306,2011,Big 12,13,6.8,10,3,6,1,4,1
+Kent State,2309,2011,Mid-American,12,5.2,5,7,4,2,1,5
+Kentucky,96,2011,SEC,12,4.1,5,7,4,3,0,4
+Louisiana,309,2011,Sun Belt,13,7.3,9,4,5,0,3,4
+Louisiana Monroe,2433,2011,Sun Belt,12,7.3,4,8,2,3,2,5
+Louisiana Tech,2348,2011,Western Athletic,13,6.1,8,5,3,2,5,2
+Louisville,97,2011,Big East,13,7.4,7,6,3,3,4,2
+LSU,99,2011,SEC,14,9.9,13,1,6,0,5,0
+Marshall,276,2011,Conference USA,13,4.4,7,6,4,1,2,5
+Maryland,120,2011,ACC,12,4.1,2,10,2,5,0,4
+Memphis,235,2011,Conference USA,12,2.5,2,10,1,5,1,5
+Miami,2390,2011,ACC,12,6.6,6,6,4,3,2,3
+Miami (OH),193,2011,Mid-American,12,6.4,4,8,3,3,1,5
+Michigan,130,2011,Big Ten,13,8.2,11,2,8,0,2,2
+Michigan State,127,2011,Big Ten,14,9.5,11,3,7,0,3,2
+Middle Tennessee,2393,2011,Sun Belt,12,3.3,2,10,1,5,1,5
+Minnesota,135,2011,Big Ten,12,4.3,3,9,3,4,0,5
+Mississippi State,344,2011,SEC,13,5.9,7,6,3,3,3,3
+Missouri,142,2011,Big 12,13,8.0,8,5,5,1,1,4
+Navy,2426,2011,FBS Independents,12,5.7,5,7,2,3,2,4
+NC State,152,2011,ACC,13,7.2,8,5,6,1,1,4
+Nebraska,158,2011,Big Ten,13,7.5,9,4,6,1,3,2
+Nevada,2440,2011,Western Athletic,13,7.5,7,6,5,1,2,4
+New Mexico,167,2011,Mountain West,12,4.2,1,11,1,5,0,6
+New Mexico State,166,2011,Western Athletic,13,5.6,4,9,2,4,2,5
+North Carolina,153,2011,ACC,13,7.4,7,6,6,1,1,4
+Northern Illinois,2459,2011,Mid-American,14,9.1,11,3,6,0,3,2
+North Texas,249,2011,Sun Belt,12,4.2,5,7,4,2,1,5
+Northwestern,77,2011,Big Ten,13,5.6,6,7,3,3,3,3
+Notre Dame,87,2011,FBS Independents,13,8.4,8,5,4,2,3,2
+Ohio,195,2011,Mid-American,14,7.5,10,4,5,1,4,2
+Ohio State,194,2011,Big Ten,13,7.1,6,7,5,2,1,4
+Oklahoma,201,2011,Big 12,13,9.8,10,3,5,1,3,2
+Oklahoma State,197,2011,Big 12,13,8.3,12,1,6,0,5,1
+Ole Miss,145,2011,SEC,12,3.3,2,10,1,6,1,4
+Oregon,2483,2011,Pac-12,14,11.4,12,2,7,1,4,0
+Oregon State,204,2011,Pac-12,12,5.6,3,9,2,4,1,5
+Penn State,213,2011,Big Ten,13,7.2,9,4,5,2,4,1
+Pittsburgh,221,2011,Big East,13,7.6,6,7,5,3,1,3
+Purdue,2509,2011,Big Ten,13,5.8,7,6,5,2,1,4
+Rice,242,2011,Conference USA,12,4.9,4,8,4,1,0,7
+Rutgers,164,2011,Big East,13,7.6,9,4,5,1,1,3
+San Diego State,21,2011,Mountain West,13,6.7,8,5,3,3,4,1
+San José State,23,2011,Western Athletic,12,4.4,5,7,3,2,2,5
+SMU,2567,2011,Conference USA,13,6.1,8,5,5,1,2,4
+South Carolina,2579,2011,SEC,13,9.5,11,2,6,1,3,1
+Southern Mississippi,2572,2011,Conference USA,14,9.4,12,2,6,0,5,2
+South Florida,58,2011,Big East,12,6.8,5,7,3,4,2,3
+Stanford,24,2011,Pac-12,13,9.1,11,2,6,1,5,0
+Syracuse,183,2011,Big East,12,6.0,5,7,4,3,1,4
+TCU,2628,2011,Mountain West,13,8.8,11,2,5,1,4,1
+Temple,218,2011,Mid-American,13,8.1,9,4,5,2,3,2
+Tennessee,2633,2011,SEC,12,5.7,5,7,5,3,0,4
+Texas,251,2011,Big 12,13,7.7,8,5,4,2,3,2
+Texas A&M,245,2011,Big 12,13,7.9,7,6,4,3,2,2
+Texas Tech,2641,2011,Big 12,12,5.6,5,7,2,4,3,2
+Toledo,2649,2011,Mid-American,13,7.9,9,4,4,2,4,2
+Troy,2653,2011,Sun Belt,12,4.0,3,9,3,2,0,7
+Tulane,2655,2011,Conference USA,13,4.7,2,11,0,5,1,6
+Tulsa,202,2011,Conference USA,13,6.6,8,5,4,2,4,2
+UAB,5,2011,Conference USA,12,3.0,3,9,2,3,1,6
+UCF,2116,2011,Conference USA,12,7.5,5,7,5,1,0,6
+UCLA,26,2011,Pac-12,14,6.3,6,8,5,1,1,6
+UNLV,2439,2011,Mountain West,12,2.1,2,10,2,2,0,7
+USC,30,2011,Pac-12,12,7.5,10,2,6,1,4,1
+Utah,254,2011,Pac-12,13,5.4,8,5,3,3,4,2
+Utah State,328,2011,Western Athletic,13,7.5,7,6,4,2,3,3
+UTEP,2638,2011,Conference USA,12,5.6,5,7,3,3,2,4
+Vanderbilt,238,2011,SEC,13,6.7,6,7,5,2,1,4
+Virginia,258,2011,ACC,13,6.8,8,5,4,3,4,1
+Virginia Tech,259,2011,ACC,14,9.1,11,3,5,1,6,0
+Wake Forest,154,2011,ACC,13,7.4,6,7,4,3,2,3
+Washington,264,2011,Pac-12,13,5.6,7,6,6,1,1,4
+Washington State,265,2011,Pac-12,12,5.1,4,8,3,3,1,5
+Western Kentucky,98,2011,Sun Belt,12,7.5,7,5,3,3,4,1
+Western Michigan,2711,2011,Mid-American,13,6.3,7,6,5,0,2,5
+West Virginia,277,2011,Big East,13,8.8,10,3,5,2,4,1
+Wisconsin,275,2011,Big Ten,14,9.7,11,3,7,0,2,2
+Wyoming,2751,2011,Mountain West,13,5.3,8,5,4,2,4,2
+Air Force,2005,2012,Mountain West,13,7.5,6,7,5,1,1,5
+Akron,2006,2012,Mid-American,12,4.3,1,11,1,5,0,6
+Alabama,333,2012,SEC,14,12.1,13,1,6,1,4,0
+Arizona,12,2012,Pac-12,13,8.2,8,5,6,2,1,3
+Arizona State,9,2012,Pac-12,13,8.9,8,5,4,2,3,3
+Arkansas,8,2012,SEC,12,6.4,4,8,3,4,1,3
+Arkansas State,2032,2012,Sun Belt,13,7.3,10,3,5,1,4,2
+Army,349,2012,FBS Independents,12,7.5,2,10,2,5,0,4
+Auburn,2,2012,SEC,12,4.8,3,9,3,4,0,4
+Ball State,2050,2012,Mid-American,13,5.8,9,4,4,1,5,2
+Baylor,239,2012,Big 12,13,7.2,8,5,4,1,1,4
+Boise State,68,2012,Mountain West,13,7.6,11,2,5,1,5,1
+Boston College,103,2012,ACC,12,4.7,2,10,2,4,0,6
+Bowling Green,189,2012,Mid-American,13,7.4,8,5,5,1,3,3
+Buffalo,2084,2012,Mid-American,12,4.3,4,8,3,3,1,5
+BYU,252,2012,FBS Independents,13,8.0,8,5,5,1,2,4
+California,25,2012,Pac-12,12,5.7,3,9,2,5,1,4
+Central Michigan,2117,2012,Mid-American,13,6.3,7,6,3,4,3,2
+Cincinnati,2132,2012,Big East,13,8.3,10,3,6,1,2,2
+Clemson,228,2012,ACC,13,9.5,11,2,6,1,3,1
+Colorado,38,2012,Pac-12,12,1.9,1,11,0,6,1,4
+Colorado State,36,2012,Mountain West,12,4.1,4,8,3,2,0,5
+Connecticut,41,2012,Big East,12,5.4,5,7,3,3,2,4
+Duke,150,2012,ACC,13,6.3,6,7,5,2,1,4
+East Carolina,151,2012,Conference USA,13,5.9,8,5,5,1,3,3
+Eastern Michigan,2199,2012,Mid-American,12,3.7,2,10,1,5,1,5
+Florida,57,2012,SEC,13,7.8,11,2,7,0,4,0
+Florida Atlantic,2226,2012,Sun Belt,12,4.7,3,9,2,3,1,6
+Florida International,2229,2012,Sun Belt,12,6.4,3,9,1,5,2,4
+Florida State,52,2012,ACC,14,11.3,12,2,6,1,4,1
+Fresno State,278,2012,Mountain West,13,9.1,9,4,6,0,3,3
+Georgia,61,2012,SEC,14,9.5,12,2,7,0,3,1
+Georgia Tech,59,2012,ACC,14,8.4,7,7,4,3,2,3
+Hawai'i,62,2012,Mountain West,12,5.0,3,9,2,3,0,6
+Houston,248,2012,Conference USA,12,7.0,5,7,4,3,0,4
+Illinois,356,2012,Big Ten,12,5.2,2,10,2,5,0,5
+Indiana,84,2012,Big Ten,12,5.1,4,8,2,4,2,4
+Iowa,2294,2012,Big Ten,12,5.7,4,8,2,5,1,3
+Iowa State,66,2012,Big 12,13,5.1,6,7,3,4,3,2
+Kansas,2305,2012,Big 12,12,4.4,1,11,1,5,0,6
+Kansas State,2306,2012,Big 12,13,8.5,11,2,7,0,4,1
+Kent State,2309,2012,Mid-American,14,7.7,11,3,5,0,6,1
+Kentucky,96,2012,SEC,12,4.7,2,10,2,5,0,5
+Louisiana,309,2012,Sun Belt,13,6.9,9,4,5,1,3,3
+Louisiana Monroe,2433,2012,Sun Belt,13,5.0,8,5,3,2,4,2
+Louisiana Tech,2348,2012,Western Athletic,12,6.3,9,3,4,2,5,1
+Louisville,97,2012,Big East,13,8.5,11,2,6,1,4,1
+LSU,99,2012,SEC,13,8.8,10,3,7,1,3,1
+Marshall,276,2012,Conference USA,12,6.5,5,7,3,3,2,4
+Maryland,120,2012,ACC,12,4.4,4,8,2,4,2,4
+Memphis,235,2012,Conference USA,12,6.3,4,8,3,3,1,5
+Miami,2390,2012,ACC,12,5.7,7,5,4,2,3,3
+Miami (OH),193,2012,Mid-American,12,3.0,4,8,3,2,1,6
+Michigan,130,2012,Big Ten,13,7.5,8,5,6,0,2,3
+Michigan State,127,2012,Big Ten,13,8.2,7,6,2,5,4,1
+Middle Tennessee,2393,2012,Sun Belt,12,4.8,8,4,3,2,5,2
+Minnesota,135,2012,Big Ten,13,5.4,6,7,4,3,2,3
+Mississippi State,344,2012,SEC,13,5.6,8,5,6,1,2,3
+Missouri,142,2012,SEC,12,5.3,5,7,3,4,2,3
+Navy,2426,2012,FBS Independents,13,5.0,8,5,4,1,3,2
+NC State,152,2012,ACC,13,7.0,7,6,5,1,2,3
+Nebraska,158,2012,Big Ten,14,9.6,10,4,7,0,3,2
+Nevada,2440,2012,Mountain West,13,7.3,7,6,2,4,5,1
+New Mexico,167,2012,Mountain West,13,4.0,4,9,2,4,2,5
+New Mexico State,166,2012,Western Athletic,12,4.0,1,11,1,5,0,6
+North Carolina,153,2012,ACC,12,8.4,8,4,6,1,2,3
+Northern Illinois,2459,2012,Mid-American,14,6.6,12,2,6,0,5,0
+North Texas,249,2012,Sun Belt,12,3.6,4,8,3,2,1,6
+Northwestern,77,2012,Big Ten,13,7.6,10,3,6,1,3,2
+Notre Dame,87,2012,FBS Independents,13,7.7,12,1,7,0,4,0
+Ohio,195,2012,Mid-American,13,5.8,9,4,5,1,3,3
+Ohio State,194,2012,Big Ten,12,8.6,12,0,8,0,4,0
+Oklahoma,201,2012,Big 12,13,8.5,10,3,4,2,5,0
+Oklahoma State,197,2012,Big 12,13,8.4,8,5,6,1,1,4
+Ole Miss,145,2012,SEC,13,7.2,7,6,4,3,2,3
+Oregon,2483,2012,Pac-12,13,8.5,12,1,6,1,5,0
+Oregon State,204,2012,Pac-12,13,7.7,9,4,6,1,3,2
+Penn State,213,2012,Big Ten,12,8.7,8,4,5,2,3,2
+Pittsburgh,221,2012,Big East,13,8.4,6,7,4,2,2,4
+Purdue,2509,2012,Big Ten,13,5.6,6,7,4,3,2,3
+Rice,242,2012,Conference USA,13,5.7,7,6,3,2,3,3
+Rutgers,164,2012,Big East,13,6.7,9,4,3,2,5,1
+San Diego State,21,2012,Mountain West,13,8.3,9,4,6,1,3,2
+San José State,23,2012,Western Athletic,13,9.5,11,2,5,1,5,1
+SMU,2567,2012,Conference USA,13,6.3,7,6,5,2,1,4
+South Alabama,6,2012,Sun Belt,13,4.9,2,11,1,4,0,7
+South Carolina,2579,2012,SEC,13,8.9,11,2,7,0,3,2
+Southern Mississippi,2572,2012,Conference USA,12,4.0,0,12,0,6,0,6
+South Florida,58,2012,Big East,12,4.4,3,9,2,4,1,5
+Stanford,24,2012,Pac-12,14,9.5,12,2,7,0,4,2
+Syracuse,183,2012,Big East,13,8.3,8,5,4,1,3,3
+TCU,2628,2012,Big 12,13,7.9,7,6,2,4,5,1
+Temple,218,2012,Big East,11,3.6,4,7,2,4,2,3
+Tennessee,2633,2012,SEC,12,7.4,5,7,4,3,0,4
+Texas,251,2012,Big 12,13,7.4,9,4,4,2,4,1
+Texas A&M,245,2012,SEC,13,9.1,11,2,4,2,6,0
+Texas State,326,2012,Western Athletic,12,4.2,4,8,3,3,1,5
+Texas Tech,2641,2012,Big 12,13,8.5,8,5,4,2,3,2
+Toledo,2649,2012,Mid-American,13,6.3,9,4,5,1,4,2
+Troy,2653,2012,Sun Belt,12,7.0,5,7,2,4,3,3
+Tulane,2655,2012,Conference USA,12,3.3,2,10,2,5,0,5
+Tulsa,202,2012,Conference USA,14,8.6,11,3,7,0,3,3
+UAB,5,2012,Conference USA,12,4.4,3,9,1,4,1,5
+UCF,2116,2012,Conference USA,14,9.3,10,4,5,1,4,3
+UCLA,26,2012,Pac-12,14,8.7,9,5,5,2,4,2
+UMass,113,2012,Mid-American,12,1.3,1,11,0,5,1,6
+UNLV,2439,2012,Mountain West,13,4.9,2,11,2,5,0,6
+USC,30,2012,Pac-12,13,6.8,7,6,4,2,2,3
+Utah,254,2012,Pac-12,12,6.0,5,7,4,2,1,5
+Utah State,328,2012,Western Athletic,13,8.1,11,2,6,0,4,2
+UTEP,2638,2012,Conference USA,12,3.4,3,9,2,4,1,5
+UT San Antonio,2636,2012,Western Athletic,12,5.7,8,4,4,2,4,2
+Vanderbilt,238,2012,SEC,13,7.7,9,4,4,2,4,2
+Virginia,258,2012,ACC,12,6.6,4,8,3,4,1,4
+Virginia Tech,259,2012,ACC,13,7.1,7,6,5,1,1,4
+Wake Forest,154,2012,ACC,12,3.4,5,7,4,3,1,4
+Washington,264,2012,Pac-12,13,6.3,7,6,5,1,2,4
+Washington State,265,2012,Pac-12,12,5.0,3,9,2,4,1,5
+Western Kentucky,98,2012,Sun Belt,13,7.5,7,6,3,3,4,2
+Western Michigan,2711,2012,Mid-American,12,6.4,4,8,3,3,1,5
+West Virginia,277,2012,Big 12,13,7.1,7,6,4,3,2,2
+Wisconsin,275,2012,Big Ten,14,7.8,8,6,5,2,2,3
+Wyoming,2751,2012,Mountain West,12,4.1,4,8,1,5,3,3
+Air Force,2005,2013,Mountain West,12,4.9,2,10,2,5,0,5
+Akron,2006,2013,Mid-American,12,5.2,5,7,3,3,2,4
+Alabama,333,2013,SEC,13,10.9,11,2,7,0,3,1
+Arizona,12,2013,Pac-12,13,7.7,8,5,4,2,3,3
+Arizona State,9,2013,Pac-12,14,7.5,10,4,7,1,3,1
+Arkansas,8,2013,SEC,12,4.9,3,9,2,4,0,5
+Arkansas State,2032,2013,Sun Belt,13,5.9,8,5,5,1,2,4
+Army,349,2013,FBS Independents,12,5.2,3,9,2,3,0,5
+Auburn,2,2013,SEC,14,9.0,12,2,8,0,3,1
+Ball State,2050,2013,Mid-American,13,7.5,10,3,6,0,4,2
+Baylor,239,2013,Big 12,13,10.7,11,2,6,0,3,1
+Boise State,68,2013,Mountain West,13,7.2,8,5,6,0,2,4
+Boston College,103,2013,ACC,13,5.9,7,6,5,1,2,4
+Bowling Green,189,2013,Mid-American,14,9.1,10,4,5,1,4,2
+Buffalo,2084,2013,Mid-American,13,6.8,8,5,5,1,3,3
+BYU,252,2013,FBS Independents,13,9.1,8,5,5,1,3,3
+California,25,2013,Pac-12,12,4.6,1,11,1,6,0,5
+Central Michigan,2117,2013,Mid-American,12,5.2,6,6,3,2,3,4
+Cincinnati,2132,2013,American Athletic,13,8.2,9,4,5,1,4,2
+Clemson,228,2013,ACC,13,9.1,11,2,6,1,4,1
+Colorado,38,2013,Pac-12,12,4.5,4,8,3,3,0,5
+Colorado State,36,2013,Mountain West,14,8.0,8,6,3,2,3,3
+Connecticut,41,2013,American Athletic,12,4.7,3,9,2,5,1,4
+Duke,150,2013,ACC,14,7.3,10,4,5,2,5,0
+East Carolina,151,2013,Conference USA,13,8.8,10,3,5,1,4,2
+Eastern Michigan,2199,2013,Mid-American,12,4.2,2,10,2,3,0,7
+Florida,57,2013,SEC,12,5.8,4,8,3,3,1,4
+Florida Atlantic,2226,2013,Conference USA,12,6.7,6,6,3,2,3,4
+Florida International,2229,2013,Conference USA,12,2.3,1,11,0,6,1,5
+Florida State,52,2013,ACC,14,12.3,14,0,7,0,5,0
+Fresno State,278,2013,Mountain West,13,8.1,11,2,7,0,4,1
+Georgia,61,2013,SEC,13,8.7,8,5,5,1,2,3
+Georgia State,2247,2013,Sun Belt,12,5.4,0,12,0,5,0,5
+Georgia Tech,59,2013,ACC,13,7.1,7,6,5,2,2,3
+Hawai'i,62,2013,Mountain West,12,4.9,1,11,1,5,0,6
+Houston,248,2013,American Athletic,13,6.8,8,5,4,2,3,2
+Illinois,356,2013,Big Ten,12,5.9,4,8,3,5,1,3
+Indiana,84,2013,Big Ten,12,7.0,5,7,5,3,0,4
+Iowa,2294,2013,Big Ten,13,7.6,8,5,4,3,4,1
+Iowa State,66,2013,Big 12,12,4.4,3,9,1,5,2,4
+Kansas,2305,2013,Big 12,12,4.1,3,9,3,4,0,5
+Kansas State,2306,2013,Big 12,13,8.4,8,5,5,3,2,2
+Kent State,2309,2013,Mid-American,12,4.9,4,8,2,3,2,5
+Kentucky,96,2013,SEC,12,4.8,2,10,2,5,0,4
+Louisiana,309,2013,Sun Belt,13,7.4,9,4,4,1,4,3
+Louisiana Monroe,2433,2013,Sun Belt,12,5.0,6,6,2,3,4,3
+Louisiana Tech,2348,2013,Conference USA,12,5.8,4,8,2,3,2,4
+Louisville,97,2013,American Athletic,13,10.9,12,1,6,1,5,0
+LSU,99,2013,SEC,13,8.2,10,3,7,0,1,3
+Marshall,276,2013,Conference USA,14,8.9,10,4,6,0,3,4
+Maryland,120,2013,ACC,13,7.4,7,6,4,3,3,2
+Memphis,235,2013,American Athletic,12,6.4,3,9,2,5,1,4
+Miami,2390,2013,ACC,13,6.1,9,4,6,1,3,2
+Miami (OH),193,2013,Mid-American,12,2.2,0,12,0,5,0,7
+Michigan,130,2013,Big Ten,13,7.3,7,6,5,2,2,3
+Michigan State,127,2013,Big Ten,14,9.6,13,1,7,0,4,1
+Middle Tennessee,2393,2013,Conference USA,13,5.8,8,5,5,1,3,3
+Minnesota,135,2013,Big Ten,13,6.9,8,5,5,2,3,2
+Mississippi State,344,2013,SEC,13,7.1,7,6,5,2,1,3
+Missouri,142,2013,SEC,14,8.0,12,2,6,1,5,0
+Navy,2426,2013,FBS Independents,13,6.2,9,4,5,0,2,4
+NC State,152,2013,ACC,12,5.8,3,9,3,5,0,4
+Nebraska,158,2013,Big Ten,13,9.0,9,4,5,3,3,1
+Nevada,2440,2013,Mountain West,12,4.6,4,8,4,2,0,6
+New Mexico,167,2013,Mountain West,12,5.3,3,9,2,4,1,5
+New Mexico State,166,2013,FBS Independents,12,4.4,2,10,2,5,0,5
+North Carolina,153,2013,ACC,13,8.4,7,6,4,3,2,3
+Northern Illinois,2459,2013,Mid-American,14,8.3,12,2,5,0,7,0
+North Texas,249,2013,Conference USA,13,7.1,9,4,5,1,3,3
+Northwestern,77,2013,Big Ten,12,6.7,5,7,3,4,2,3
+Notre Dame,87,2013,FBS Independents,13,7.4,9,4,5,1,2,3
+Ohio,195,2013,Mid-American,13,5.6,7,6,5,2,2,3
+Ohio State,194,2013,Big Ten,14,9.0,12,2,7,0,5,0
+Oklahoma,201,2013,Big 12,13,7.3,11,2,6,0,4,1
+Oklahoma State,197,2013,Big 12,13,8.6,10,3,5,1,4,1
+Ole Miss,145,2013,SEC,13,7.7,8,5,5,2,2,3
+Oregon,2483,2013,Pac-12,13,9.4,11,2,7,0,3,2
+Oregon State,204,2013,Pac-12,13,7.1,7,6,2,4,4,2
+Penn State,213,2013,Big Ten,12,6.9,7,5,5,2,1,3
+Pittsburgh,221,2013,ACC,13,7.9,7,6,4,3,2,3
+Purdue,2509,2013,Big Ten,12,3.5,1,11,1,6,0,5
+Rice,242,2013,Conference USA,14,7.4,10,4,6,0,4,2
+Rutgers,164,2013,American Athletic,13,5.7,6,7,4,2,1,4
+San Diego State,21,2013,Mountain West,13,7.3,8,5,3,3,4,2
+San José State,23,2013,Mountain West,12,6.3,6,6,3,3,3,3
+SMU,2567,2013,American Athletic,12,6.2,5,7,3,3,2,4
+South Alabama,6,2013,Sun Belt,12,5.7,6,6,4,1,2,4
+South Carolina,2579,2013,SEC,13,8.7,11,2,7,0,3,2
+Southern Mississippi,2572,2013,Conference USA,12,3.0,1,11,0,5,1,6
+South Florida,58,2013,American Athletic,12,4.7,2,10,1,6,1,4
+Stanford,24,2013,Pac-12,14,9.6,11,3,7,0,4,2
+Syracuse,183,2013,ACC,13,6.3,7,6,4,2,2,3
+TCU,2628,2013,Big 12,12,6.2,4,8,3,3,1,4
+Temple,218,2013,American Athletic,12,5.5,2,10,1,5,1,5
+Tennessee,2633,2013,SEC,12,5.1,5,7,4,3,1,4
+Texas,251,2013,Big 12,13,6.2,8,5,4,2,3,2
+Texas A&M,245,2013,SEC,13,9.0,9,4,6,2,2,2
+Texas State,326,2013,Sun Belt,12,4.5,6,6,4,2,2,4
+Texas Tech,2641,2013,Big 12,13,8.3,8,5,4,2,3,2
+Toledo,2649,2013,Mid-American,12,5.1,7,5,5,1,2,4
+Troy,2653,2013,Sun Belt,12,5.4,6,6,4,1,2,5
+Tulane,2655,2013,Conference USA,13,6.5,7,6,5,1,2,4
+Tulsa,202,2013,Conference USA,12,5.4,3,9,1,5,2,4
+UAB,5,2013,Conference USA,12,4.0,2,10,0,4,1,6
+UCF,2116,2013,American Athletic,13,7.0,12,1,5,1,6,0
+UCLA,26,2013,Pac-12,13,7.4,10,3,5,1,4,2
+UMass,113,2013,Mid-American,12,4.0,1,11,1,4,0,6
+UNLV,2439,2013,Mountain West,13,5.5,7,6,3,3,3,2
+USC,30,2013,Pac-12,14,9.8,10,4,5,2,4,2
+Utah,254,2013,Pac-12,12,5.9,5,7,4,3,1,4
+Utah State,328,2013,Mountain West,14,8.1,9,5,4,2,4,3
+UTEP,2638,2013,Conference USA,12,3.7,2,10,1,4,1,6
+UT San Antonio,2636,2013,Conference USA,12,7.2,7,5,3,3,4,2
+Vanderbilt,238,2013,SEC,13,7.5,9,4,5,2,3,2
+Virginia,258,2013,ACC,12,5.0,2,10,2,6,0,4
+Virginia Tech,259,2013,ACC,13,8.1,8,5,4,2,4,1
+Wake Forest,154,2013,ACC,12,5.2,4,8,3,3,1,5
+Washington,264,2013,Pac-12,13,9.2,9,4,6,1,2,3
+Washington State,265,2013,Pac-12,13,6.6,6,7,3,3,3,3
+Western Kentucky,98,2013,Sun Belt,12,7.7,8,4,3,2,4,2
+Western Michigan,2711,2013,Mid-American,12,2.6,1,11,0,5,1,6
+West Virginia,277,2013,Big 12,12,4.8,4,8,3,3,1,5
+Wisconsin,275,2013,Big Ten,13,9.1,9,4,6,1,3,2
+Wyoming,2751,2013,Mountain West,12,5.3,5,7,4,2,1,5
+Air Force,2005,2014,Mountain West,13,9.7,10,3,6,0,3,3
+Akron,2006,2014,Mid-American,12,5.4,5,7,4,2,1,5
+Alabama,333,2014,SEC,14,11.7,12,2,7,0,3,1
+Appalachian State,2026,2014,Sun Belt,12,8.1,7,5,4,2,3,3
+Arizona,12,2014,Pac-12,14,8.8,10,4,6,1,4,1
+Arizona State,9,2014,Pac-12,13,9.7,10,3,5,1,4,2
+Arkansas,8,2014,SEC,13,8.3,7,6,5,2,1,3
+Arkansas State,2032,2014,Sun Belt,13,6.9,7,6,5,1,2,4
+Army,349,2014,FBS Independents,12,4.8,4,8,3,2,0,5
+Auburn,2,2014,SEC,13,8.9,8,5,6,1,2,3
+Ball State,2050,2014,Mid-American,12,5.1,5,7,3,3,2,4
+Baylor,239,2014,Big 12,13,10.2,11,2,6,0,4,1
+Boise State,68,2014,Mountain West,14,11.5,12,2,7,0,4,1
+Boston College,103,2014,ACC,13,7.3,7,6,3,4,4,1
+Bowling Green,189,2014,Mid-American,14,6.3,8,6,4,2,3,3
+Buffalo,2084,2014,Mid-American,11,5.5,5,6,4,2,1,4
+BYU,252,2014,FBS Independents,13,7.1,8,5,4,2,4,2
+California,25,2014,Pac-12,12,4.7,5,7,2,5,3,2
+Central Michigan,2117,2014,Mid-American,13,7.3,7,6,3,3,4,2
+Cincinnati,2132,2014,American Athletic,13,7.6,9,4,5,1,4,2
+Clemson,228,2014,ACC,13,9.8,10,3,7,0,2,3
+Colorado,38,2014,Pac-12,12,2.8,2,10,1,5,1,4
+Colorado State,36,2014,Mountain West,13,8.3,10,3,5,0,3,2
+Connecticut,41,2014,American Athletic,12,2.2,2,10,2,5,0,4
+Duke,150,2014,ACC,13,7.6,9,4,5,2,4,1
+East Carolina,151,2014,American Athletic,13,10.0,8,5,5,1,3,3
+Eastern Michigan,2199,2014,Mid-American,12,1.3,2,10,2,3,0,7
+Florida,57,2014,SEC,12,7.2,7,5,3,3,2,2
+Florida Atlantic,2226,2014,Conference USA,12,3.3,3,9,3,2,0,7
+Florida International,2229,2014,Conference USA,12,2.8,4,8,3,5,1,3
+Florida State,52,2014,ACC,14,10.0,13,1,7,0,4,0
+Fresno State,278,2014,Mountain West,14,6.4,6,8,4,2,2,5
+Georgia,61,2014,SEC,13,10.7,10,3,6,1,3,1
+Georgia Southern,290,2014,Sun Belt,12,9.2,9,3,5,0,4,3
+Georgia State,2247,2014,Sun Belt,12,1.2,1,11,0,5,0,6
+Georgia Tech,59,2014,ACC,14,11.0,11,3,5,1,5,1
+Hawai'i,62,2014,Mountain West,13,3.5,4,9,2,4,1,5
+Houston,248,2014,American Athletic,13,8.9,8,5,4,3,3,2
+Illinois,356,2014,Big Ten,13,5.0,6,7,5,2,1,4
+Indiana,84,2014,Big Ten,12,4.1,4,8,3,3,1,5
+Iowa,2294,2014,Big Ten,13,8.0,7,6,4,3,3,2
+Iowa State,66,2014,Big 12,12,2.3,2,10,1,6,1,4
+Kansas,2305,2014,Big 12,12,4.3,3,9,3,3,0,6
+Kansas State,2306,2014,Big 12,13,8.7,9,4,6,1,3,2
+Kent State,2309,2014,Mid-American,11,2.6,2,9,2,4,0,5
+Kentucky,96,2014,SEC,12,4.4,5,7,5,2,0,5
+Louisiana,309,2014,Sun Belt,13,8.4,9,4,4,2,4,2
+Louisiana Monroe,2433,2014,Sun Belt,12,3.9,4,8,3,2,1,6
+Louisiana Tech,2348,2014,Conference USA,14,9.5,9,5,4,1,4,4
+Louisville,97,2014,ACC,13,10.5,9,4,5,1,4,2
+LSU,99,2014,SEC,13,8.7,8,5,5,2,2,2
+Marshall,276,2014,Conference USA,14,12.1,13,1,6,1,6,0
+Maryland,120,2014,Big Ten,13,5.0,7,6,2,4,5,1
+Memphis,235,2014,American Athletic,13,10.2,10,3,5,1,4,2
+Miami,2390,2014,ACC,13,7.3,6,7,5,2,1,4
+Miami (OH),193,2014,Mid-American,12,4.1,2,10,2,4,0,6
+Michigan,130,2014,Big Ten,12,5.1,5,7,4,3,1,4
+Michigan State,127,2014,Big Ten,13,10.6,11,2,6,1,4,1
+Middle Tennessee,2393,2014,Conference USA,12,3.9,6,6,5,1,1,5
+Minnesota,135,2014,Big Ten,13,8.0,8,5,6,1,2,3
+Mississippi State,344,2014,SEC,13,9.5,10,3,7,0,3,2
+Missouri,142,2014,SEC,14,10.7,11,3,5,2,5,0
+Navy,2426,2014,FBS Independents,13,8.2,8,5,3,2,3,1
+NC State,152,2014,ACC,13,7.4,8,5,4,3,3,2
+Nebraska,158,2014,Big Ten,13,9.1,9,4,6,1,3,2
+Nevada,2440,2014,Mountain West,13,5.4,7,6,3,3,4,2
+New Mexico,167,2014,Mountain West,12,2.9,4,8,1,5,3,3
+New Mexico State,166,2014,Sun Belt,12,1.9,2,10,1,5,1,5
+North Carolina,153,2014,ACC,13,4.8,6,7,4,2,2,4
+Northern Illinois,2459,2014,Mid-American,14,9.5,11,3,4,1,6,1
+North Texas,249,2014,Conference USA,12,3.2,4,8,4,2,0,6
+Northwestern,77,2014,Big Ten,12,5.3,5,7,2,5,3,2
+Notre Dame,87,2014,FBS Independents,13,8.0,8,5,4,2,0,3
+Ohio,195,2014,Mid-American,12,4.6,6,6,4,2,2,4
+Ohio State,194,2014,Big Ten,15,12.8,14,1,6,1,4,0
+Oklahoma,201,2014,Big 12,13,8.5,8,5,3,3,4,1
+Oklahoma State,197,2014,Big 12,13,5.3,7,6,4,2,2,3
+Old Dominion,295,2014,Conference USA,12,4.9,6,6,4,2,2,4
+Ole Miss,145,2014,SEC,13,8.0,9,4,6,1,2,2
+Oregon,2483,2014,Pac-12,15,12.5,13,2,6,1,5,0
+Oregon State,204,2014,Pac-12,12,4.8,5,7,3,4,2,3
+Penn State,213,2014,Big Ten,13,7.7,7,6,3,4,2,2
+Pittsburgh,221,2014,ACC,13,5.7,6,7,3,4,3,2
+Purdue,2509,2014,Big Ten,12,2.6,3,9,2,5,1,3
+Rice,242,2014,Conference USA,13,8.0,8,5,4,1,3,4
+Rutgers,164,2014,Big Ten,13,5.9,8,5,3,2,3,3
+San Diego State,21,2014,Mountain West,13,7.3,7,6,5,0,1,5
+San José State,23,2014,Mountain West,12,4.1,3,9,2,3,1,6
+SMU,2567,2014,American Athletic,12,1.2,1,11,0,6,1,5
+South Alabama,6,2014,Sun Belt,13,5.3,6,7,3,3,3,3
+South Carolina,2579,2014,SEC,13,5.4,7,6,4,3,2,3
+Southern Mississippi,2572,2014,Conference USA,12,2.8,3,9,2,4,1,5
+South Florida,58,2014,American Athletic,12,2.2,4,8,2,5,2,3
+Stanford,24,2014,Pac-12,13,8.1,8,5,4,2,3,3
+Syracuse,183,2014,ACC,12,2.7,3,9,1,5,2,3
+TCU,2628,2014,Big 12,13,10.7,12,1,7,0,4,1
+Temple,218,2014,American Athletic,12,5.5,6,6,3,3,3,3
+Tennessee,2633,2014,SEC,13,7.8,7,6,4,3,2,3
+Texas,251,2014,Big 12,13,7.2,6,7,3,3,3,1
+Texas A&M,245,2014,SEC,13,6.3,8,5,3,3,3,2
+Texas State,326,2014,Sun Belt,12,5.9,7,5,3,3,4,2
+Texas Tech,2641,2014,Big 12,12,4.3,4,8,2,4,2,3
+Toledo,2649,2014,Mid-American,13,8.2,9,4,5,1,3,3
+Troy,2653,2014,Sun Belt,12,5.1,3,9,2,4,1,5
+Tulane,2655,2014,American Athletic,12,3.7,3,9,2,4,1,5
+Tulsa,202,2014,American Athletic,12,2.6,2,10,2,4,0,6
+UAB,5,2014,Conference USA,12,4.9,6,6,2,3,3,3
+UCF,2116,2014,American Athletic,13,7.6,9,4,6,0,3,2
+UCLA,26,2014,Pac-12,13,8.8,10,3,3,3,5,0
+UMass,113,2014,Mid-American,12,5.0,3,9,2,4,1,5
+UNLV,2439,2014,Mountain West,13,1.4,2,11,1,4,0,7
+USC,30,2014,Pac-12,13,7.9,9,4,5,1,3,3
+Utah,254,2014,Pac-12,13,7.0,9,4,3,3,5,1
+Utah State,328,2014,Mountain West,14,9.7,10,4,6,0,3,4
+UTEP,2638,2014,Conference USA,13,5.8,7,6,5,1,2,4
+UT San Antonio,2636,2014,Conference USA,12,4.4,4,8,3,3,1,5
+Vanderbilt,238,2014,SEC,12,2.4,3,9,3,5,0,4
+Virginia,258,2014,ACC,12,6.9,5,7,5,2,0,5
+Virginia Tech,259,2014,ACC,13,7.4,7,6,3,4,3,2
+Wake Forest,154,2014,ACC,12,2.3,3,9,3,3,0,6
+Washington,264,2014,Pac-12,14,7.4,8,6,4,3,4,2
+Washington State,265,2014,Pac-12,12,4.6,3,9,1,6,2,3
+Western Kentucky,98,2014,Conference USA,13,9.8,8,5,5,1,2,4
+Western Michigan,2711,2014,Mid-American,13,7.6,8,5,3,2,5,2
+West Virginia,277,2014,Big 12,13,7.6,7,6,3,3,4,1
+Wisconsin,275,2014,Big Ten,14,10.0,11,3,7,0,3,1
+Wyoming,2751,2014,Mountain West,12,4.0,4,8,3,3,1,5
+Air Force,2005,2015,Mountain West,14,8.2,8,6,6,0,2,5
+Akron,2006,2015,Mid-American,13,7.9,8,5,3,3,4,2
+Alabama,333,2015,SEC,15,12.5,14,1,6,1,4,0
+Appalachian State,2026,2015,Sun Belt,13,10.9,11,2,5,1,5,1
+Arizona,12,2015,Pac-12,13,6.1,7,6,4,2,2,4
+Arizona State,9,2015,Pac-12,13,7.0,6,7,5,2,1,3
+Arkansas,8,2015,SEC,13,7.9,8,5,4,3,3,1
+Arkansas State,2032,2015,Sun Belt,13,8.2,9,4,5,1,4,2
+Army,349,2015,FBS Independents,12,4.1,2,10,1,5,1,4
+Auburn,2,2015,SEC,13,6.9,7,6,3,4,2,2
+Ball State,2050,2015,Mid-American,12,2.7,3,9,2,4,1,5
+Baylor,239,2015,Big 12,13,10.8,10,3,4,2,4,1
+Boise State,68,2015,Mountain West,13,9.3,9,4,4,2,4,2
+Boston College,103,2015,ACC,12,4.0,3,9,3,4,0,4
+Bowling Green,189,2015,Mid-American,14,10.3,10,4,3,2,6,0
+Buffalo,2084,2015,Mid-American,12,5.2,5,7,2,4,3,3
+BYU,252,2015,FBS Independents,13,8.7,9,4,6,0,3,2
+California,25,2015,Pac-12,13,7.9,8,5,5,1,2,4
+Central Michigan,2117,2015,Mid-American,13,8.3,7,6,4,2,3,3
+Charlotte,2429,2015,Conference USA,12,2.0,2,10,1,5,1,5
+Cincinnati,2132,2015,American Athletic,13,8.3,7,6,5,1,2,4
+Clemson,228,2015,ACC,15,14.1,14,1,7,0,5,0
+Colorado,38,2015,Pac-12,13,3.4,4,9,2,4,1,5
+Colorado State,36,2015,Mountain West,13,6.4,7,6,2,3,4,1
+Connecticut,41,2015,American Athletic,13,7.0,6,7,4,2,2,4
+Duke,150,2015,ACC,13,6.7,8,5,3,3,4,2
+East Carolina,151,2015,American Athletic,12,5.5,5,7,3,3,2,4
+Eastern Michigan,2199,2015,Mid-American,12,1.6,1,11,0,6,1,5
+Florida,57,2015,SEC,14,9.1,10,4,6,1,3,1
+Florida Atlantic,2226,2015,Conference USA,12,4.9,3,9,1,5,2,4
+Florida International,2229,2015,Conference USA,12,4.9,5,7,4,1,1,6
+Florida State,52,2015,ACC,13,9.6,10,3,7,0,3,2
+Fresno State,278,2015,Mountain West,12,4.0,3,9,2,4,1,5
+Georgia,61,2015,SEC,13,8.3,10,3,6,1,3,1
+Georgia Southern,290,2015,Sun Belt,13,8.9,9,4,5,1,3,3
+Georgia State,2247,2015,Sun Belt,13,7.6,6,7,2,3,4,2
+Georgia Tech,59,2015,ACC,12,4.2,3,9,3,4,0,5
+Hawai'i,62,2015,Mountain West,13,3.6,3,10,2,4,0,6
+Houston,248,2015,American Athletic,14,10.8,13,1,8,0,4,1
+Illinois,356,2015,Big Ten,12,4.7,5,7,4,2,1,4
+Indiana,84,2015,Big Ten,13,7.4,6,7,3,4,3,2
+Iowa,2294,2015,Big Ten,14,10.1,12,2,7,0,5,0
+Iowa State,66,2015,Big 12,12,4.8,3,9,3,3,0,6
+Kansas,2305,2015,Big 12,12,1.2,0,12,0,7,0,5
+Kansas State,2306,2015,Big 12,13,4.5,6,7,4,3,2,3
+Kent State,2309,2015,Mid-American,12,3.6,3,9,2,4,1,5
+Kentucky,96,2015,SEC,12,5.2,5,7,4,4,1,3
+Louisiana,309,2015,Sun Belt,12,3.7,4,8,3,3,1,5
+Louisiana Monroe,2433,2015,Sun Belt,13,1.8,2,11,2,3,0,8
+Louisiana Tech,2348,2015,Conference USA,13,9.5,9,4,5,1,3,3
+Louisville,97,2015,ACC,13,8.9,8,5,4,2,3,2
+LSU,99,2015,SEC,12,8.0,9,3,6,1,2,2
+Marshall,276,2015,Conference USA,13,9.0,10,3,6,0,3,3
+Maryland,120,2015,Big Ten,12,3.8,3,9,2,4,1,4
+Memphis,235,2015,American Athletic,13,8.4,9,4,5,1,4,2
+Miami,2390,2015,ACC,13,6.7,8,5,5,1,3,3
+Miami (OH),193,2015,Mid-American,12,4.4,3,9,2,4,1,5
+Michigan,130,2015,Big Ten,13,9.7,10,3,5,2,4,1
+Michigan State,127,2015,Big Ten,14,10.5,12,2,7,0,4,1
+Middle Tennessee,2393,2015,Conference USA,13,7.2,7,6,5,1,2,4
+Minnesota,135,2015,Big Ten,13,6.6,6,7,3,4,2,3
+Mississippi State,344,2015,SEC,13,9.8,9,4,4,3,4,1
+Missouri,142,2015,SEC,12,4.4,5,7,3,3,1,4
+Navy,2426,2015,American Athletic,13,10.0,11,2,6,0,3,2
+NC State,152,2015,ACC,13,7.0,7,6,3,3,4,2
+Nebraska,158,2015,Big Ten,13,7.6,6,7,3,4,2,3
+Nevada,2440,2015,Mountain West,13,6.2,7,6,4,2,2,4
+New Mexico,167,2015,Mountain West,13,4.6,7,6,5,2,2,3
+New Mexico State,166,2015,Sun Belt,12,3.8,3,9,1,4,2,5
+North Carolina,153,2015,ACC,14,11.2,11,3,7,0,4,0
+Northern Illinois,2459,2015,Mid-American,14,7.0,8,6,5,1,3,3
+North Texas,249,2015,Conference USA,12,1.0,1,11,1,4,0,7
+Northwestern,77,2015,Big Ten,13,8.0,10,3,6,1,3,1
+Notre Dame,87,2015,FBS Independents,13,10.2,10,3,6,0,3,2
+Ohio,195,2015,Mid-American,13,7.1,8,5,5,1,3,3
+Ohio State,194,2015,Big Ten,13,12.1,12,1,6,1,5,0
+Oklahoma,201,2015,Big 12,13,10.4,11,2,6,0,5,0
+Oklahoma State,197,2015,Big 12,13,8.4,10,3,5,2,5,0
+Old Dominion,295,2015,Conference USA,12,3.8,5,7,3,4,2,3
+Ole Miss,145,2015,SEC,13,10.3,10,3,6,1,3,2
+Oregon,2483,2015,Pac-12,13,8.2,9,4,5,2,4,1
+Oregon State,204,2015,Pac-12,12,3.0,2,10,2,4,0,6
+Penn State,213,2015,Big Ten,13,7.3,7,6,6,1,0,4
+Pittsburgh,221,2015,ACC,13,6.7,8,5,3,3,5,1
+Purdue,2509,2015,Big Ten,12,1.8,2,10,2,5,0,5
+Rice,242,2015,Conference USA,12,5.1,5,7,3,3,2,4
+Rutgers,164,2015,Big Ten,12,4.1,4,8,1,5,2,3
+San Diego State,21,2015,Mountain West,14,11.8,11,3,5,1,4,2
+San José State,23,2015,Mountain West,13,6.8,6,7,3,3,2,4
+SMU,2567,2015,American Athletic,12,2.4,2,10,2,5,0,5
+South Alabama,6,2015,Sun Belt,12,2.7,5,7,2,3,2,4
+South Carolina,2579,2015,SEC,12,3.9,3,9,2,4,0,5
+Southern Mississippi,2572,2015,Conference USA,14,9.2,9,5,5,1,4,3
+South Florida,58,2015,American Athletic,13,8.1,8,5,5,1,3,3
+Stanford,24,2015,Pac-12,14,10.5,12,2,6,1,4,1
+Syracuse,183,2015,ACC,12,4.6,4,8,4,3,0,5
+TCU,2628,2015,Big 12,13,10.1,11,2,6,0,4,2
+Temple,218,2015,American Athletic,14,9.2,10,4,5,1,5,2
+Tennessee,2633,2015,SEC,13,9.9,9,4,5,2,2,2
+Texas,251,2015,Big 12,12,5.0,5,7,3,3,1,4
+Texas A&M,245,2015,SEC,13,7.8,8,5,5,2,1,2
+Texas State,326,2015,Sun Belt,12,3.6,3,9,3,3,0,6
+Texas Tech,2641,2015,Big 12,13,5.9,7,6,4,2,3,2
+Toledo,2649,2015,Mid-American,12,9.6,10,2,4,2,5,0
+Troy,2653,2015,Sun Belt,12,4.9,4,8,2,3,2,5
+Tulane,2655,2015,American Athletic,12,2.8,3,9,2,4,1,5
+Tulsa,202,2015,American Athletic,13,6.3,6,7,3,3,3,3
+UCF,2116,2015,American Athletic,12,0.3,0,12,0,6,0,6
+UCLA,26,2015,Pac-12,13,7.9,8,5,4,2,4,2
+UMass,113,2015,Mid-American,12,3.2,3,9,1,5,2,4
+UNLV,2439,2015,Mountain West,12,3.5,3,9,1,4,1,5
+USC,30,2015,Pac-12,14,8.3,8,6,5,2,3,2
+Utah,254,2015,Pac-12,13,9.4,10,3,6,1,3,2
+Utah State,328,2015,Mountain West,13,6.6,6,7,5,1,1,5
+UTEP,2638,2015,Conference USA,12,4.2,5,7,3,2,2,5
+UT San Antonio,2636,2015,Conference USA,12,4.7,3,9,1,5,2,4
+Vanderbilt,238,2015,SEC,12,4.2,4,8,3,3,1,5
+Virginia,258,2015,ACC,12,4.2,4,8,4,3,0,5
+Virginia Tech,259,2015,ACC,13,6.6,7,6,2,4,4,2
+Wake Forest,154,2015,ACC,12,4.1,3,9,1,5,2,4
+Washington,264,2015,Pac-12,13,7.5,7,6,4,3,2,3
+Washington State,265,2015,Pac-12,13,8.6,9,4,4,2,4,2
+Western Kentucky,98,2015,Conference USA,14,10.5,12,2,6,0,5,2
+Western Michigan,2711,2015,Mid-American,13,7.4,8,5,4,2,3,3
+West Virginia,277,2015,Big 12,13,9.0,8,5,6,1,1,4
+Wisconsin,275,2015,Big Ten,13,10.2,10,3,5,2,4,0
+Wyoming,2751,2015,Mountain West,12,2.2,2,10,2,4,0,6
+Air Force,2005,2016,Mountain West,13,9.4,10,3,5,1,4,1
+Akron,2006,2016,Mid-American,12,5.8,5,7,2,4,3,3
+Alabama,333,2016,SEC,15,13.9,14,1,7,0,4,0
+Appalachian State,2026,2016,Sun Belt,13,10.0,10,3,5,1,4,2
+Arizona,12,2016,Pac-12,12,3.5,3,9,3,4,0,4
+Arizona State,9,2016,Pac-12,12,3.7,5,7,4,2,1,5
+Arkansas,8,2016,SEC,13,5.5,7,6,5,2,2,2
+Arkansas State,2032,2016,Sun Belt,13,8.8,8,5,4,2,4,3
+Army,349,2016,FBS Independents,13,8.5,8,5,3,2,3,2
+Auburn,2,2016,SEC,13,7.4,8,5,6,2,2,2
+Ball State,2050,2016,Mid-American,12,5.4,4,8,1,4,3,4
+Baylor,239,2016,Big 12,13,7.4,7,6,4,2,2,3
+Boise State,68,2016,Mountain West,13,11.0,10,3,6,0,4,2
+Boston College,103,2016,ACC,13,6.8,7,6,3,3,3,2
+Bowling Green,189,2016,Mid-American,12,2.0,4,8,3,3,1,5
+Buffalo,2084,2016,Mid-American,12,2.3,2,10,2,4,0,6
+BYU,252,2016,FBS Independents,13,8.9,9,4,5,1,2,2
+California,25,2016,Pac-12,12,5.6,5,7,4,2,0,5
+Central Michigan,2117,2016,Mid-American,13,5.8,6,7,4,2,2,4
+Charlotte,2429,2016,Conference USA,12,4.9,4,8,1,5,3,3
+Cincinnati,2132,2016,American Athletic,12,4.2,4,8,3,4,1,4
+Clemson,228,2016,ACC,15,13.5,14,1,6,1,5,0
+Colorado,38,2016,Pac-12,14,9.0,10,4,6,0,3,2
+Colorado State,36,2016,Mountain West,13,7.4,7,6,5,1,2,3
+Connecticut,41,2016,American Athletic,12,3.0,3,9,3,4,0,5
+Duke,150,2016,ACC,12,4.7,4,8,3,3,1,5
+East Carolina,151,2016,American Athletic,12,2.9,3,9,3,3,0,6
+Eastern Michigan,2199,2016,Mid-American,13,7.2,7,6,3,3,4,2
+Florida,57,2016,SEC,13,8.5,9,4,5,0,2,3
+Florida Atlantic,2226,2016,Conference USA,12,3.4,3,9,2,4,1,5
+Florida International,2229,2016,Conference USA,12,4.0,4,8,2,5,2,3
+Florida State,52,2016,ACC,13,9.3,10,3,4,2,4,1
+Fresno State,278,2016,Mountain West,12,1.6,1,11,1,5,0,6
+Georgia,61,2016,SEC,13,7.6,8,5,3,3,3,1
+Georgia Southern,290,2016,Sun Belt,12,4.6,5,7,3,2,2,5
+Georgia State,2247,2016,Sun Belt,12,4.1,3,9,3,3,0,6
+Georgia Tech,59,2016,ACC,13,7.2,9,4,5,2,2,2
+Hawai'i,62,2016,Mountain West,14,6.7,7,7,3,3,3,3
+Houston,248,2016,American Athletic,13,9.6,9,4,6,0,2,3
+Illinois,356,2016,Big Ten,12,3.4,3,9,2,5,1,4
+Indiana,84,2016,Big Ten,13,6.3,6,7,4,3,2,3
+Iowa,2294,2016,Big Ten,13,7.4,8,5,4,3,4,1
+Iowa State,66,2016,Big 12,12,4.0,3,9,2,5,1,4
+Kansas,2305,2016,Big 12,12,2.2,2,10,2,4,0,6
+Kansas State,2306,2016,Big 12,13,7.8,9,4,5,1,3,3
+Kent State,2309,2016,Mid-American,12,4.4,3,9,1,5,2,4
+Kentucky,96,2016,SEC,13,6.0,7,6,5,2,2,3
+Louisiana,309,2016,Sun Belt,13,6.5,6,7,3,3,3,3
+Louisiana Monroe,2433,2016,Sun Belt,12,4.1,4,8,3,2,1,6
+Louisiana Tech,2348,2016,Conference USA,14,9.1,9,5,5,0,3,5
+Louisville,97,2016,ACC,13,9.8,9,4,5,1,4,2
+LSU,99,2016,SEC,12,9.3,8,4,5,2,2,1
+Marshall,276,2016,Conference USA,12,3.1,3,9,3,4,0,5
+Maryland,120,2016,Big Ten,13,5.4,6,7,4,2,2,4
+Memphis,235,2016,American Athletic,13,6.8,8,5,5,2,3,2
+Miami,2390,2016,ACC,13,9.9,9,4,4,2,4,2
+Miami (OH),193,2016,Mid-American,13,7.4,6,7,3,3,3,3
+Michigan,130,2016,Big Ten,13,10.6,10,3,8,0,2,2
+Michigan State,127,2016,Big Ten,12,4.8,3,9,2,5,1,4
+Middle Tennessee,2393,2016,Conference USA,13,7.6,8,5,3,2,5,2
+Minnesota,135,2016,Big Ten,13,9.1,9,4,6,1,2,3
+Mississippi State,344,2016,SEC,13,5.4,6,7,3,3,2,4
+Missouri,142,2016,SEC,12,5.1,4,8,4,3,0,5
+Navy,2426,2016,American Athletic,14,7.9,9,5,5,1,3,2
+NC State,152,2016,ACC,13,7.8,7,6,4,3,2,3
+Nebraska,158,2016,Big Ten,13,8.3,9,4,7,0,2,3
+Nevada,2440,2016,Mountain West,12,4.4,5,7,4,2,1,5
+New Mexico,167,2016,Mountain West,13,7.2,9,4,5,1,2,3
+New Mexico State,166,2016,Sun Belt,12,2.9,3,9,3,2,0,7
+North Carolina,153,2016,ACC,13,8.4,8,5,4,2,4,1
+Northern Illinois,2459,2016,Mid-American,12,4.3,5,7,2,3,3,3
+North Texas,249,2016,Conference USA,13,5.0,5,8,3,3,2,4
+Northwestern,77,2016,Big Ten,13,6.7,7,6,3,4,3,2
+Notre Dame,87,2016,FBS Independents,12,6.7,4,8,2,4,0,3
+Ohio,195,2016,Mid-American,14,9.1,8,6,4,2,4,2
+Ohio State,194,2016,Big Ten,13,9.3,11,2,7,0,4,1
+Oklahoma,201,2016,Big 12,13,10.5,11,2,5,1,4,0
+Oklahoma State,197,2016,Big 12,13,9.8,10,3,6,1,3,2
+Old Dominion,295,2016,Conference USA,13,9.4,10,3,6,0,3,3
+Ole Miss,145,2016,SEC,12,5.9,5,7,4,3,1,3
+Oregon,2483,2016,Pac-12,12,4.4,4,8,3,3,1,5
+Oregon State,204,2016,Pac-12,12,4.7,4,8,4,3,0,5
+Penn State,213,2016,Big Ten,14,8.7,11,3,7,0,3,2
+Pittsburgh,221,2016,ACC,13,8.1,8,5,6,1,2,3
+Purdue,2509,2016,Big Ten,12,1.9,3,9,2,5,1,4
+Rice,242,2016,Conference USA,12,3.6,3,9,2,4,1,5
+Rutgers,164,2016,Big Ten,12,3.3,2,10,2,5,0,5
+San Diego State,21,2016,Mountain West,14,10.8,11,3,4,1,5,2
+San José State,23,2016,Mountain West,12,3.7,4,8,3,3,1,5
+SMU,2567,2016,American Athletic,12,5.8,5,7,2,4,3,3
+South Alabama,6,2016,Sun Belt,13,6.2,6,7,5,2,1,4
+South Carolina,2579,2016,SEC,13,6.6,6,7,5,2,1,4
+Southern Mississippi,2572,2016,Conference USA,13,7.9,7,6,4,2,2,4
+South Florida,58,2016,American Athletic,13,9.7,11,2,6,1,4,1
+Stanford,24,2016,Pac-12,13,8.3,10,3,4,2,5,1
+Syracuse,183,2016,ACC,12,4.5,4,8,2,4,2,3
+TCU,2628,2016,Big 12,13,6.4,6,7,2,5,4,1
+Temple,218,2016,American Athletic,14,11.3,10,4,6,1,4,2
+Tennessee,2633,2016,SEC,13,8.0,9,4,6,1,1,3
+Texas,251,2016,Big 12,12,5.7,5,7,4,2,1,4
+Texas A&M,245,2016,SEC,13,8.4,8,5,5,2,2,2
+Texas State,326,2016,Sun Belt,12,1.2,2,10,1,5,1,5
+Texas Tech,2641,2016,Big 12,12,5.4,5,7,3,3,1,4
+Toledo,2649,2016,Mid-American,13,10.2,9,4,5,1,3,2
+Troy,2653,2016,Sun Belt,13,8.8,10,3,5,1,4,2
+Tulane,2655,2016,American Athletic,12,4.2,4,8,2,4,2,4
+Tulsa,202,2016,American Athletic,13,10.0,10,3,6,0,3,3
+UCF,2116,2016,American Athletic,13,6.7,6,7,3,4,3,3
+UCLA,26,2016,Pac-12,12,6.5,4,8,3,3,1,5
+UMass,113,2016,FBS Independents,12,2.2,2,10,2,4,0,6
+UNLV,2439,2016,Mountain West,12,4.4,4,8,2,3,1,5
+USC,30,2016,Pac-12,13,9.9,10,3,6,0,3,2
+Utah,254,2016,Pac-12,13,6.8,9,4,4,2,4,2
+Utah State,328,2016,Mountain West,12,5.0,3,9,3,3,0,6
+UTEP,2638,2016,Conference USA,12,3.3,4,8,3,4,1,4
+UT San Antonio,2636,2016,Conference USA,13,6.4,6,7,4,2,2,4
+Vanderbilt,238,2016,SEC,13,4.5,6,7,4,2,2,4
+Virginia,258,2016,ACC,12,2.6,2,10,1,5,1,5
+Virginia Tech,259,2016,ACC,14,9.3,10,4,5,1,4,1
+Wake Forest,154,2016,ACC,13,6.6,7,6,4,3,2,3
+Washington,264,2016,Pac-12,14,11.8,12,2,6,1,5,0
+Washington State,265,2016,Pac-12,13,7.8,8,5,5,2,3,2
+Western Kentucky,98,2016,Conference USA,14,10.4,11,3,6,1,4,2
+Western Michigan,2711,2016,Mid-American,14,11.9,13,1,6,0,6,0
+West Virginia,277,2016,Big 12,13,8.8,10,3,6,1,3,1
+Wisconsin,275,2016,Big Ten,14,10.6,11,3,5,1,4,1
+Wyoming,2751,2016,Mountain West,14,7.1,8,6,6,1,2,4
+Air Force,2005,2017,Mountain West,12,4.4,5,7,3,3,2,4
+Akron,2006,2017,Mid-American,14,5.3,7,7,5,1,2,5
+Alabama,333,2017,SEC,14,12.8,13,1,7,0,3,1
+Appalachian State,2026,2017,Sun Belt,13,9.4,9,4,5,1,3,3
+Arizona,12,2017,Pac-12,13,7.2,7,6,4,2,3,3
+Arizona State,9,2017,Pac-12,13,7.7,7,6,5,2,2,3
+Arkansas,8,2017,SEC,12,4.8,4,8,2,4,1,3
+Arkansas State,2032,2017,Sun Belt,12,9.4,7,5,4,1,3,3
+Army,349,2017,FBS Independents,13,9.6,10,3,6,0,2,3
+Auburn,2,2017,SEC,14,9.7,10,4,7,0,3,2
+Ball State,2050,2017,Mid-American,12,2.4,2,10,2,4,0,6
+Baylor,239,2017,Big 12,12,3.0,1,11,0,6,1,4
+Boise State,68,2017,Mountain West,14,10.9,11,3,6,1,4,2
+Boston College,103,2017,ACC,13,6.9,7,6,2,4,4,1
+Bowling Green,189,2017,Mid-American,12,2.5,2,10,0,5,2,5
+Buffalo,2084,2017,Mid-American,12,6.9,6,6,4,2,2,4
+BYU,252,2017,FBS Independents,13,4.1,4,9,2,4,2,4
+California,25,2017,Pac-12,12,5.4,5,7,4,2,1,5
+Central Michigan,2117,2017,Mid-American,13,6.7,8,5,3,2,5,2
+Charlotte,2429,2017,Conference USA,12,0.5,1,11,1,5,0,6
+Cincinnati,2132,2017,American Athletic,12,4.0,4,8,2,4,2,4
+Clemson,228,2017,ACC,14,11.5,12,2,7,0,4,1
+Coastal Carolina,324,2017,Sun Belt,12,3.7,3,9,2,4,1,5
+Colorado,38,2017,Pac-12,12,4.9,5,7,3,3,1,4
+Colorado State,36,2017,Mountain West,13,7.3,7,6,4,2,3,2
+Connecticut,41,2017,American Athletic,12,2.5,3,9,2,4,1,4
+Duke,150,2017,ACC,13,7.4,7,6,4,3,2,3
+East Carolina,151,2017,American Athletic,12,3.1,3,9,2,5,1,4
+Eastern Michigan,2199,2017,Mid-American,12,5.5,5,7,3,2,2,5
+Florida,57,2017,SEC,11,3.6,4,7,3,3,1,2
+Florida Atlantic,2226,2017,Conference USA,14,10.8,11,3,7,1,4,2
+Florida International,2229,2017,Conference USA,13,7.0,8,5,5,1,2,3
+Florida State,52,2017,ACC,13,6.7,7,6,3,3,3,2
+Fresno State,278,2017,Mountain West,14,9.9,10,4,5,1,4,3
+Georgia,61,2017,SEC,15,12.3,13,2,6,0,4,1
+Georgia Southern,290,2017,Sun Belt,12,3.2,2,10,1,3,1,6
+Georgia State,2247,2017,Sun Belt,12,5.9,7,5,1,4,5,1
+Georgia Tech,59,2017,ACC,11,5.9,5,6,5,1,0,4
+Hawai'i,62,2017,Mountain West,12,3.9,3,9,2,4,1,5
+Houston,248,2017,American Athletic,12,8.3,7,5,4,2,3,2
+Illinois,356,2017,Big Ten,12,2.1,2,10,2,5,0,5
+Indiana,84,2017,Big Ten,12,5.6,5,7,3,3,2,4
+Iowa,2294,2017,Big Ten,13,7.9,8,5,5,2,2,3
+Iowa State,66,2017,Big 12,13,8.5,8,5,3,3,5,2
+Kansas,2305,2017,Big 12,12,1.6,1,11,1,6,0,5
+Kansas State,2306,2017,Big 12,13,6.4,8,5,4,3,3,2
+Kent State,2309,2017,Mid-American,12,1.9,2,10,2,3,0,7
+Kentucky,96,2017,SEC,13,7.3,7,6,4,3,3,2
+Louisiana,309,2017,Sun Belt,12,4.8,5,7,3,2,2,5
+Louisiana Monroe,2433,2017,Sun Belt,12,3.6,4,8,2,3,2,5
+Louisiana Tech,2348,2017,Conference USA,13,8.1,7,6,3,4,3,2
+Louisville,97,2017,ACC,13,9.1,8,5,4,2,3,2
+LSU,99,2017,SEC,13,9.3,9,4,5,1,3,2
+Marshall,276,2017,Conference USA,13,8.1,8,5,4,2,3,3
+Maryland,120,2017,Big Ten,12,3.1,4,8,2,4,2,4
+Memphis,235,2017,American Athletic,13,9.1,10,3,7,1,3,2
+Miami,2390,2017,ACC,13,8.6,10,3,7,1,3,1
+Miami (OH),193,2017,Mid-American,12,7.1,5,7,3,3,2,4
+Michigan,130,2017,Big Ten,13,8.0,8,5,4,2,3,2
+Michigan State,127,2017,Big Ten,13,9.4,10,3,6,1,3,2
+Middle Tennessee,2393,2017,Conference USA,13,7.2,7,6,4,2,2,4
+Minnesota,135,2017,Big Ten,12,4.9,5,7,4,3,1,4
+Mississippi State,344,2017,SEC,13,9.5,9,4,5,2,3,2
+Missouri,142,2017,SEC,13,7.5,7,6,4,3,3,2
+Navy,2426,2017,American Athletic,13,6.1,7,6,5,1,2,4
+NC State,152,2017,ACC,13,9.5,9,4,5,1,3,2
+Nebraska,158,2017,Big Ten,12,3.4,4,8,2,5,2,3
+Nevada,2440,2017,Mountain West,12,4.5,3,9,3,3,0,6
+New Mexico,167,2017,Mountain West,12,4.7,3,9,2,4,1,5
+New Mexico State,166,2017,Sun Belt,13,6.5,7,6,3,2,3,4
+North Carolina,153,2017,ACC,12,4.1,3,9,1,6,2,3
+Northern Illinois,2459,2017,Mid-American,13,8.0,8,5,5,1,3,3
+North Texas,249,2017,Conference USA,14,7.7,9,5,6,0,3,4
+Northwestern,77,2017,Big Ten,13,8.5,10,3,6,1,3,2
+Notre Dame,87,2017,FBS Independents,13,9.2,10,3,6,1,3,2
+Ohio,195,2017,Mid-American,13,10.0,9,4,5,1,3,3
+Ohio State,194,2017,Big Ten,14,11.5,12,2,6,1,4,1
+Oklahoma,201,2017,Big 12,14,12.4,12,2,5,1,5,0
+Oklahoma State,197,2017,Big 12,13,11.1,10,3,3,3,6,0
+Old Dominion,295,2017,Conference USA,12,5.3,5,7,3,3,2,4
+Ole Miss,145,2017,SEC,12,5.6,6,6,4,3,2,3
+Oregon,2483,2017,Pac-12,13,7.4,7,6,6,1,1,4
+Oregon State,204,2017,Pac-12,12,1.9,1,11,1,5,0,6
+Penn State,213,2017,Big Ten,13,10.5,11,2,7,0,3,2
+Pittsburgh,221,2017,ACC,12,6.0,5,7,4,3,1,4
+Purdue,2509,2017,Big Ten,13,7.4,7,6,4,2,2,3
+Rice,242,2017,Conference USA,12,1.5,1,11,0,5,1,5
+Rutgers,164,2017,Big Ten,12,3.1,4,8,2,4,1,4
+San Diego State,21,2017,Mountain West,13,9.1,10,3,5,2,5,0
+San José State,23,2017,Mountain West,13,2.0,2,11,2,4,0,7
+SMU,2567,2017,American Athletic,13,6.7,7,6,6,1,1,4
+South Alabama,6,2017,Sun Belt,12,3.6,4,8,2,3,1,5
+South Carolina,2579,2017,SEC,13,7.7,9,4,5,2,2,2
+Southern Mississippi,2572,2017,Conference USA,13,6.9,8,5,3,3,5,1
+South Florida,58,2017,American Athletic,12,10.1,10,2,5,1,4,1
+Stanford,24,2017,Pac-12,14,7.9,9,5,6,0,2,3
+Syracuse,183,2017,ACC,12,5.1,4,8,4,3,0,5
+TCU,2628,2017,Big 12,14,10.6,11,3,6,0,4,2
+Temple,218,2017,American Athletic,13,7.1,7,6,3,3,3,3
+Tennessee,2633,2017,SEC,12,3.4,4,8,3,4,0,4
+Texas,251,2017,Big 12,13,7.5,7,6,3,3,3,2
+Texas A&M,245,2017,SEC,13,6.5,7,6,4,3,2,2
+Texas State,326,2017,Sun Belt,12,2.3,2,10,1,5,1,5
+Texas Tech,2641,2017,Big 12,13,5.3,6,7,2,4,3,2
+Toledo,2649,2017,Mid-American,14,9.8,11,3,6,0,4,2
+Troy,2653,2017,Sun Belt,13,9.3,11,2,5,1,5,1
+Tulane,2655,2017,American Athletic,12,4.6,5,7,4,2,1,5
+Tulsa,202,2017,American Athletic,12,3.6,2,10,2,4,0,6
+UAB,5,2017,Conference USA,13,8.1,8,5,6,0,2,4
+UCF,2116,2017,American Athletic,13,11.1,13,0,7,0,5,0
+UCLA,26,2017,Pac-12,13,6.4,6,7,6,0,0,6
+UMass,113,2017,FBS Independents,12,4.7,4,8,2,3,1,5
+UNLV,2439,2017,Mountain West,12,4.8,5,7,2,4,3,3
+USC,30,2017,Pac-12,14,9.4,11,3,7,0,3,2
+Utah,254,2017,Pac-12,13,7.4,7,6,4,3,2,3
+Utah State,328,2017,Mountain West,13,7.4,6,7,3,3,3,3
+UTEP,2638,2017,Conference USA,12,0.9,0,12,0,5,0,7
+UT San Antonio,2636,2017,Conference USA,11,6.3,6,5,3,2,3,3
+Vanderbilt,238,2017,SEC,12,5.1,5,7,3,4,2,3
+Virginia,258,2017,ACC,13,5.8,6,7,4,3,2,4
+Virginia Tech,259,2017,ACC,13,8.9,9,4,5,1,3,2
+Wake Forest,154,2017,ACC,13,7.8,8,5,4,2,3,3
+Washington,264,2017,Pac-12,13,10.1,10,3,7,0,3,2
+Washington State,265,2017,Pac-12,13,8.0,9,4,7,0,2,3
+Western Kentucky,98,2017,Conference USA,13,4.8,6,7,4,2,2,4
+Western Michigan,2711,2017,Mid-American,12,6.3,6,6,4,2,2,4
+West Virginia,277,2017,Big 12,13,5.9,7,6,4,2,3,2
+Wisconsin,275,2017,Big Ten,14,13.0,13,1,7,0,6,0
+Wyoming,2751,2017,Mountain West,13,6.6,8,5,5,2,2,3
+Air Force,2005,2018,Mountain West,12,6.4,5,7,4,2,1,5
+Akron,2006,2018,Mid-American,12,2.9,4,8,2,3,2,5
+Alabama,333,2018,SEC,15,13.5,14,1,7,0,4,0
+Appalachian State,2026,2018,Sun Belt,13,10.9,11,2,6,0,4,2
+Arizona,12,2018,Pac-12,12,6.4,5,7,4,3,1,4
+Arizona State,9,2018,Pac-12,13,5.6,7,6,5,1,2,4
+Arkansas,8,2018,SEC,12,3.2,2,10,2,5,0,4
+Arkansas State,2032,2018,Sun Belt,13,8.7,8,5,5,1,3,3
+Army,349,2018,FBS Independents,13,9.6,11,2,6,0,2,2
+Auburn,2,2018,SEC,13,8.6,8,5,5,2,1,3
+Ball State,2050,2018,Mid-American,12,3.9,4,8,3,3,1,5
+Baylor,239,2018,Big 12,13,6.9,7,6,4,2,1,4
+Boise State,68,2018,Mountain West,13,8.8,10,3,5,2,5,1
+Boston College,103,2018,ACC,12,7.5,7,5,5,2,2,3
+Bowling Green,189,2018,Mid-American,12,2.8,3,9,1,5,2,4
+Buffalo,2084,2018,Mid-American,14,10.9,10,4,5,1,5,1
+BYU,252,2018,FBS Independents,13,8.3,7,6,3,3,3,3
+California,25,2018,Pac-12,13,6.3,7,6,4,3,3,2
+Central Michigan,2117,2018,Mid-American,12,1.8,1,11,1,5,0,6
+Charlotte,2429,2018,Conference USA,12,5.7,5,7,4,2,1,5
+Cincinnati,2132,2018,American Athletic,13,10.3,11,2,6,0,4,2
+Clemson,228,2018,ACC,15,13.9,15,0,7,0,5,0
+Coastal Carolina,324,2018,Sun Belt,12,4.7,5,7,1,4,4,3
+Colorado,38,2018,Pac-12,12,5.3,5,7,3,3,1,4
+Colorado State,36,2018,Mountain West,12,3.1,3,9,2,4,1,4
+Connecticut,41,2018,American Athletic,12,1.1,1,11,1,5,0,6
+Duke,150,2018,ACC,13,7.4,8,5,3,3,4,2
+East Carolina,151,2018,American Athletic,12,4.7,3,9,3,4,0,5
+Eastern Michigan,2199,2018,Mid-American,13,7.8,7,6,4,2,3,3
+Florida,57,2018,SEC,13,9.6,10,3,5,2,4,0
+Florida Atlantic,2226,2018,Conference USA,12,6.0,5,7,4,2,1,5
+Florida International,2229,2018,Conference USA,13,9.4,9,4,4,3,4,1
+Florida State,52,2018,ACC,12,4.0,5,7,4,3,1,4
+Fresno State,278,2018,Mountain West,14,11.9,12,2,6,0,5,2
+Georgia,61,2018,SEC,14,11.6,11,3,7,0,3,1
+Georgia Southern,290,2018,Sun Belt,13,8.4,10,3,5,1,4,2
+Georgia State,2247,2018,Sun Belt,12,2.3,2,10,2,4,0,6
+Georgia Tech,59,2018,ACC,13,6.8,7,6,4,2,3,3
+Hawai'i,62,2018,Mountain West,14,7.4,8,6,5,2,3,3
+Houston,248,2018,American Athletic,13,7.9,8,5,5,1,3,3
+Illinois,356,2018,Big Ten,12,4.1,4,8,3,3,1,4
+Indiana,84,2018,Big Ten,12,5.0,5,7,3,4,2,3
+Iowa,2294,2018,Big Ten,13,8.6,9,4,5,2,3,2
+Iowa State,66,2018,Big 12,13,8.4,8,5,6,1,2,3
+Kansas,2305,2018,Big 12,12,2.8,3,9,2,4,1,5
+Kansas State,2306,2018,Big 12,12,5.6,5,7,5,2,0,5
+Kent State,2309,2018,Mid-American,12,3.3,2,10,1,4,1,6
+Kentucky,96,2018,SEC,13,7.6,9,4,6,1,2,3
+Liberty,2335,2018,FBS Independents,12,5.0,6,6,5,1,1,5
+Louisiana,309,2018,Sun Belt,14,5.5,7,7,5,1,2,5
+Louisiana Monroe,2433,2018,Sun Belt,12,5.9,6,6,3,2,3,4
+Louisiana Tech,2348,2018,Conference USA,13,7.0,8,5,3,2,4,3
+Louisville,97,2018,ACC,12,2.2,2,10,2,5,0,4
+LSU,99,2018,SEC,13,9.8,10,3,6,1,2,2
+Marshall,276,2018,Conference USA,13,8.5,9,4,4,2,5,2
+Maryland,120,2018,Big Ten,12,6.0,5,7,3,3,1,4
+Memphis,235,2018,American Athletic,14,9.1,8,6,6,1,2,4
+Miami,2390,2018,ACC,13,8.2,7,6,5,1,2,3
+Miami (OH),193,2018,Mid-American,12,6.1,6,6,3,3,3,3
+Michigan,130,2018,Big Ten,13,9.6,10,3,7,0,3,2
+Michigan State,127,2018,Big Ten,13,7.2,7,6,4,3,3,2
+Middle Tennessee,2393,2018,Conference USA,14,6.8,8,6,5,1,3,4
+Minnesota,135,2018,Big Ten,13,7.1,7,6,5,2,1,4
+Mississippi State,344,2018,SEC,13,8.7,8,5,6,1,2,3
+Missouri,142,2018,SEC,13,9.7,9,4,6,1,3,2
+Navy,2426,2018,American Athletic,13,4.1,3,10,3,2,0,6
+NC State,152,2018,ACC,13,8.7,9,4,6,1,3,2
+Nebraska,158,2018,Big Ten,12,6.8,4,8,4,3,0,5
+Nevada,2440,2018,Mountain West,13,6.5,8,5,4,2,3,3
+New Mexico,167,2018,Mountain West,12,3.8,3,9,1,5,2,4
+New Mexico State,166,2018,FBS Independents,12,2.3,3,9,2,3,1,6
+North Carolina,153,2018,ACC,11,3.6,2,9,2,3,0,6
+Northern Illinois,2459,2018,Mid-American,14,6.5,8,6,3,2,4,3
+North Texas,249,2018,Conference USA,13,9.2,9,4,5,1,4,2
+Northwestern,77,2018,Big Ten,14,8.3,9,5,3,4,5,0
+Notre Dame,87,2018,FBS Independents,13,10.5,12,1,6,0,4,0
+Ohio,195,2018,Mid-American,13,8.7,9,4,6,0,2,4
+Ohio State,194,2018,Big Ten,14,10.3,13,1,7,0,3,1
+Oklahoma,201,2018,Big 12,14,11.5,12,2,7,0,4,0
+Oklahoma State,197,2018,Big 12,13,8.5,7,6,5,2,1,4
+Old Dominion,295,2018,Conference USA,12,4.4,4,8,3,3,1,5
+Ole Miss,145,2018,SEC,12,6.5,5,7,3,4,1,3
+Oregon,2483,2018,Pac-12,13,7.5,9,4,6,1,2,3
+Oregon State,204,2018,Pac-12,12,2.7,2,10,1,5,1,5
+Penn State,213,2018,Big Ten,13,10.6,9,4,5,2,4,1
+Pittsburgh,221,2018,ACC,14,6.4,7,7,5,1,2,4
+Purdue,2509,2018,Big Ten,13,6.8,6,7,3,4,3,2
+Rice,242,2018,Conference USA,13,1.4,2,11,2,4,0,7
+Rutgers,164,2018,Big Ten,12,1.2,1,11,1,6,0,5
+San Diego State,21,2018,Mountain West,13,7.1,7,6,5,2,2,3
+San José State,23,2018,Mountain West,12,1.7,1,11,1,4,0,6
+SMU,2567,2018,American Athletic,12,3.7,5,7,3,3,2,4
+South Alabama,6,2018,Sun Belt,12,2.9,3,9,3,3,0,6
+South Carolina,2579,2018,SEC,13,5.6,7,6,5,2,2,3
+Southern Mississippi,2572,2018,Conference USA,11,5.6,6,5,5,1,1,4
+South Florida,58,2018,American Athletic,13,5.3,7,6,4,3,2,3
+Stanford,24,2018,Pac-12,13,7.4,9,4,4,2,4,2
+Syracuse,183,2018,ACC,13,10.5,10,3,6,0,3,2
+TCU,2628,2018,Big 12,13,5.6,7,6,4,2,2,3
+Temple,218,2018,American Athletic,13,7.2,8,5,4,2,4,2
+Tennessee,2633,2018,SEC,12,4.4,5,7,4,3,1,3
+Texas,251,2018,Big 12,14,9.3,10,4,5,1,3,1
+Texas A&M,245,2018,SEC,13,9.2,9,4,6,1,1,3
+Texas State,326,2018,Sun Belt,12,5.0,3,9,2,4,1,5
+Texas Tech,2641,2018,Big 12,12,4.8,5,7,3,3,2,2
+Toledo,2649,2018,Mid-American,13,7.0,7,6,5,2,2,3
+Troy,2653,2018,Sun Belt,13,8.6,10,3,5,1,4,2
+Tulane,2655,2018,American Athletic,13,7.4,7,6,4,2,2,4
+Tulsa,202,2018,American Athletic,12,3.6,3,9,3,3,0,6
+UAB,5,2018,Conference USA,14,10.3,11,3,5,0,4,3
+UCF,2116,2018,American Athletic,13,10.8,12,1,8,0,4,0
+UCLA,26,2018,Pac-12,12,4.0,3,9,2,5,1,4
+UMass,113,2018,FBS Independents,12,4.5,4,8,3,3,1,5
+UNLV,2439,2018,Mountain West,12,3.7,4,8,3,3,1,5
+USC,30,2018,Pac-12,12,6.4,5,7,3,3,2,4
+Utah,254,2018,Pac-12,14,9.2,9,5,5,1,4,2
+Utah State,328,2018,Mountain West,13,10.1,11,2,6,0,4,2
+UTEP,2638,2018,Conference USA,12,2.6,1,11,0,6,1,5
+UT San Antonio,2636,2018,Conference USA,12,2.6,3,9,2,4,1,5
+Vanderbilt,238,2018,SEC,13,5.6,6,7,5,2,1,4
+Virginia,258,2018,ACC,13,9.4,8,5,6,1,1,4
+Virginia Tech,259,2018,ACC,13,4.6,6,7,3,4,3,2
+Wake Forest,154,2018,ACC,13,6.6,7,6,2,5,4,1
+Washington,264,2018,Pac-12,14,11.2,10,4,6,0,3,2
+Washington State,265,2018,Pac-12,13,9.9,11,2,6,1,4,1
+Western Kentucky,98,2018,Conference USA,12,4.2,3,9,1,4,2,5
+Western Michigan,2711,2018,Mid-American,13,7.5,7,6,3,3,4,2
+West Virginia,277,2018,Big 12,12,7.4,8,4,5,1,2,2
+Wisconsin,275,2018,Big Ten,13,8.1,8,5,5,2,2,3
+Wyoming,2751,2018,Mountain West,12,6.2,6,6,3,3,3,3
+Air Force,2005,2019,Mountain West,13,10.9,11,2,6,0,4,2
+Akron,2006,2019,Mid-American,12,1.4,0,12,0,6,0,6
+Alabama,333,2019,SEC,13,11.4,11,2,6,1,3,1
+Appalachian State,2026,2019,Sun Belt,14,10.6,13,1,6,1,6,0
+Arizona,12,2019,Pac-12,12,4.0,4,8,3,3,1,5
+Arizona State,9,2019,Pac-12,13,5.1,8,5,5,2,2,3
+Arkansas,8,2019,SEC,12,2.3,2,10,2,5,0,4
+Arkansas State,2032,2019,Sun Belt,13,6.7,8,5,4,2,3,3
+Army,349,2019,FBS Independents,13,6.2,5,8,4,2,1,5
+Auburn,2,2019,SEC,13,9.2,9,4,6,1,2,2
+Ball State,2050,2019,Mid-American,12,5.1,5,7,3,3,2,3
+Baylor,239,2019,Big 12,14,9.9,11,3,6,1,5,0
+Boise State,68,2019,Mountain West,14,10.1,12,2,7,0,5,1
+Boston College,103,2019,ACC,13,6.7,6,7,3,3,3,3
+Bowling Green,189,2019,Mid-American,12,2.8,3,9,3,3,0,6
+Buffalo,2084,2019,Mid-American,13,9.4,8,5,5,1,2,4
+BYU,252,2019,FBS Independents,13,5.8,7,6,4,2,3,3
+California,25,2019,Pac-12,13,7.8,8,5,3,3,4,2
+Central Michigan,2117,2019,Mid-American,14,8.1,8,6,6,0,2,4
+Charlotte,2429,2019,Conference USA,13,7.5,7,6,5,1,2,4
+Cincinnati,2132,2019,American Athletic,14,9.1,11,3,6,0,4,3
+Clemson,228,2019,ACC,15,12.8,14,1,7,0,5,0
+Coastal Carolina,324,2019,Sun Belt,12,5.2,5,7,3,3,2,4
+Colorado,38,2019,Pac-12,12,4.7,5,7,3,3,1,4
+Colorado State,36,2019,Mountain West,12,5.3,4,8,2,4,2,3
+Connecticut,41,2019,American Athletic,12,2.7,2,10,1,5,1,5
+Duke,150,2019,ACC,12,5.1,5,7,3,3,2,3
+East Carolina,151,2019,American Athletic,12,3.5,4,8,2,4,2,4
+Eastern Michigan,2199,2019,Mid-American,13,6.0,6,7,2,3,4,3
+Florida,57,2019,SEC,13,10.8,11,2,6,0,3,1
+Florida Atlantic,2226,2019,Conference USA,14,11.2,11,3,6,2,5,1
+Florida International,2229,2019,Conference USA,13,7.7,6,7,6,1,0,5
+Florida State,52,2019,ACC,13,7.0,6,7,5,2,1,4
+Fresno State,278,2019,Mountain West,12,6.4,4,8,2,4,2,4
+Georgia,61,2019,SEC,14,11.5,12,2,6,1,4,0
+Georgia Southern,290,2019,Sun Belt,13,6.0,7,6,5,1,2,4
+Georgia State,2247,2019,Sun Belt,13,6.4,7,6,5,1,2,4
+Georgia Tech,59,2019,ACC,12,2.0,3,9,2,5,1,4
+Hawai'i,62,2019,Mountain West,15,8.2,10,5,6,2,3,3
+Houston,248,2019,American Athletic,12,3.4,4,8,1,4,3,3
+Illinois,356,2019,Big Ten,13,5.4,6,7,3,4,3,2
+Indiana,84,2019,Big Ten,13,8.1,8,5,4,2,3,2
+Iowa,2294,2019,Big Ten,13,7.7,10,3,6,1,3,2
+Iowa State,66,2019,Big 12,13,9.4,7,6,5,2,2,3
+Kansas,2305,2019,Big 12,12,3.9,3,9,2,5,1,4
+Kansas State,2306,2019,Big 12,13,6.4,8,5,5,2,3,2
+Kent State,2309,2019,Mid-American,13,5.5,7,6,4,1,2,5
+Kentucky,96,2019,SEC,13,8.1,8,5,6,2,1,3
+Liberty,2335,2019,FBS Independents,13,8.3,8,5,5,1,2,4
+Louisiana,309,2019,Sun Belt,14,10.8,11,3,5,1,5,1
+Louisiana Monroe,2433,2019,Sun Belt,12,5.7,5,7,4,2,1,5
+Louisiana Tech,2348,2019,Conference USA,13,8.4,10,3,6,0,3,3
+Louisville,97,2019,ACC,13,7.1,8,5,4,2,2,3
+LSU,99,2019,SEC,15,14.6,15,0,7,0,5,0
+Marshall,276,2019,Conference USA,13,6.3,8,5,6,1,2,3
+Maryland,120,2019,Big Ten,12,3.3,3,9,2,4,1,5
+Memphis,235,2019,American Athletic,14,9.8,12,2,7,0,5,1
+Miami,2390,2019,ACC,13,7.9,6,7,4,2,2,3
+Miami (OH),193,2019,Mid-American,14,5.8,8,6,5,0,2,5
+Michigan,130,2019,Big Ten,13,9.2,9,4,6,1,3,2
+Michigan State,127,2019,Big Ten,13,8.3,7,6,4,3,2,3
+Middle Tennessee,2393,2019,Conference USA,12,5.4,4,8,4,2,0,6
+Minnesota,135,2019,Big Ten,13,10.2,11,2,6,1,4,1
+Mississippi State,344,2019,SEC,13,6.3,6,7,4,3,1,3
+Missouri,142,2019,SEC,12,7.1,6,6,5,2,1,4
+Navy,2426,2019,American Athletic,13,11.1,11,2,6,0,3,2
+NC State,152,2019,ACC,12,4.2,4,8,4,3,0,5
+Nebraska,158,2019,Big Ten,12,6.2,5,7,3,4,2,3
+Nevada,2440,2019,Mountain West,13,6.3,7,6,4,2,3,3
+New Mexico,167,2019,Mountain West,12,1.9,2,10,2,4,0,6
+New Mexico State,166,2019,FBS Independents,12,3.1,2,10,2,3,0,7
+North Carolina,153,2019,ACC,13,8.2,7,6,3,3,2,3
+Northern Illinois,2459,2019,Mid-American,12,5.5,5,7,3,2,2,5
+North Texas,249,2019,Conference USA,12,4.0,4,8,4,2,0,6
+Northwestern,77,2019,Big Ten,12,4.7,3,9,2,5,1,4
+Notre Dame,87,2019,FBS Independents,13,9.8,11,2,7,0,3,2
+Ohio,195,2019,Mid-American,13,7.7,7,6,2,4,4,2
+Ohio State,194,2019,Big Ten,14,13.3,13,1,7,0,5,0
+Oklahoma,201,2019,Big 12,14,11.5,12,2,6,0,4,1
+Oklahoma State,197,2019,Big 12,13,6.2,8,5,4,2,4,2
+Old Dominion,295,2019,Conference USA,12,2.2,1,11,1,5,0,6
+Ole Miss,145,2019,SEC,12,5.1,4,8,4,3,0,5
+Oregon,2483,2019,Pac-12,14,11.3,12,2,7,0,3,1
+Oregon State,204,2019,Pac-12,12,5.4,5,7,2,4,3,3
+Penn State,213,2019,Big Ten,13,9.9,11,2,7,0,3,2
+Pittsburgh,221,2019,ACC,13,7.3,8,5,4,3,3,2
+Purdue,2509,2019,Big Ten,12,4.4,4,8,3,4,1,4
+Rice,242,2019,Conference USA,12,4.0,3,9,1,5,2,3
+Rutgers,164,2019,Big Ten,12,1.7,2,10,2,5,0,5
+San Diego State,21,2019,Mountain West,13,8.6,10,3,4,2,5,1
+San José State,23,2019,Mountain West,12,5.3,5,7,3,3,2,4
+SMU,2567,2019,American Athletic,13,8.7,10,3,6,0,4,3
+South Alabama,6,2019,Sun Belt,12,2.9,2,10,2,4,0,6
+South Carolina,2579,2019,SEC,12,4.3,4,8,3,4,1,3
+Southern Mississippi,2572,2019,Conference USA,13,6.7,7,6,4,1,3,4
+South Florida,58,2019,American Athletic,12,5.1,4,8,2,5,2,3
+Stanford,24,2019,Pac-12,12,4.2,4,8,3,4,1,4
+Syracuse,183,2019,ACC,12,4.4,5,7,3,3,2,4
+TCU,2628,2019,Big 12,12,6.6,5,7,3,3,2,4
+Temple,218,2019,American Athletic,13,8.1,8,5,6,1,2,3
+Tennessee,2633,2019,SEC,13,7.6,8,5,5,3,2,2
+Texas,251,2019,Big 12,13,7.7,8,5,5,1,1,3
+Texas A&M,245,2019,SEC,13,8.0,8,5,5,2,1,3
+Texas State,326,2019,Sun Belt,12,2.8,3,9,3,3,0,6
+Texas Tech,2641,2019,Big 12,12,6.5,4,8,3,3,1,5
+Toledo,2649,2019,Mid-American,12,5.8,6,6,5,1,1,5
+Troy,2653,2019,Sun Belt,12,6.5,5,7,3,3,2,4
+Tulane,2655,2019,American Athletic,13,7.3,7,6,5,1,1,5
+Tulsa,202,2019,American Athletic,12,6.0,4,8,2,4,2,4
+UAB,5,2019,Conference USA,14,9.1,9,5,6,0,3,4
+UCF,2116,2019,American Athletic,13,9.6,10,3,6,0,3,3
+UCLA,26,2019,Pac-12,12,3.6,4,8,2,4,2,4
+UMass,113,2019,FBS Independents,12,1.0,1,11,1,5,0,6
+UNLV,2439,2019,Mountain West,12,4.8,4,8,2,4,2,4
+USC,30,2019,Pac-12,13,7.8,8,5,5,1,3,3
+Utah,254,2019,Pac-12,14,11.2,11,3,7,0,4,1
+Utah State,328,2019,Mountain West,13,5.7,7,6,4,2,3,3
+UTEP,2638,2019,Conference USA,12,1.7,1,11,1,5,0,6
+UT San Antonio,2636,2019,Conference USA,12,3.6,4,8,2,4,2,4
+Vanderbilt,238,2019,SEC,12,2.5,3,9,3,4,0,5
+Virginia,258,2019,ACC,14,8.4,9,5,7,0,2,3
+Virginia Tech,259,2019,ACC,13,8.6,8,5,6,1,2,3
+Wake Forest,154,2019,ACC,13,8.4,8,5,6,1,2,3
+Washington,264,2019,Pac-12,13,8.0,8,5,4,3,3,2
+Washington State,265,2019,Pac-12,13,8.0,6,7,5,1,0,5
+Western Kentucky,98,2019,Conference USA,13,8.4,9,4,4,2,4,1
+Western Michigan,2711,2019,Mid-American,13,6.6,7,6,6,0,1,5
+West Virginia,277,2019,Big 12,12,3.8,5,7,2,4,3,3
+Wisconsin,275,2019,Big Ten,14,11.1,10,4,7,0,3,2
+Wyoming,2751,2019,Mountain West,13,7.2,8,5,6,0,1,5
+Air Force,2005,2020,Mountain West,6,4.7,3,3,2,1,1,2
+Akron,2006,2020,Mid-American,6,1.8,1,5,1,2,0,3
+Alabama,333,2020,SEC,13,12.6,13,0,5,0,5,0
+Appalachian State,2026,2020,Sun Belt,12,8.7,9,3,5,1,3,2
+Arizona,12,2020,Pac-12,5,0.5,0,5,0,3,0,2
+Arizona State,9,2020,Pac-12,4,2.7,2,2,0,1,2,1
+Arkansas,8,2020,SEC,10,5.9,3,7,2,3,1,4
+Arkansas State,2032,2020,Sun Belt,11,4.7,4,7,3,2,1,5
+Army,349,2020,FBS Independents,12,9.2,9,3,7,0,1,2
+Auburn,2,2020,SEC,11,4.7,6,5,4,1,2,3
+Ball State,2050,2020,Mid-American,8,4.6,7,1,3,0,2,1
+Baylor,239,2020,Big 12,9,2.5,2,7,2,2,0,5
+Boise State,68,2020,Mountain West,7,4.7,5,2,2,1,3,0
+Boston College,103,2020,ACC,11,4.3,6,5,4,2,2,3
+Bowling Green,189,2020,Mid-American,5,0.0,0,5,0,2,0,3
+Buffalo,2084,2020,Mid-American,7,6.1,6,1,3,0,2,0
+BYU,252,2020,FBS Independents,12,10.3,11,1,7,0,3,1
+California,25,2020,Pac-12,4,1.1,1,3,1,1,0,2
+Central Michigan,2117,2020,Mid-American,6,2.7,3,3,1,2,2,1
+Charlotte,2429,2020,Conference USA,6,2.2,2,4,1,1,1,3
+Cincinnati,2132,2020,American Athletic,10,9.0,9,1,7,0,2,0
+Clemson,228,2020,ACC,12,9.1,10,2,6,0,3,1
+Coastal Carolina,324,2020,Sun Belt,12,10.9,11,1,6,0,5,0
+Colorado,38,2020,Pac-12,6,4.1,4,2,2,1,2,0
+Colorado State,36,2020,Mountain West,4,0.9,1,3,1,0,0,3
+Duke,150,2020,ACC,11,2.2,2,9,1,4,1,5
+East Carolina,151,2020,American Athletic,9,2.9,3,6,1,3,2,3
+Eastern Michigan,2199,2020,Mid-American,6,2.5,2,4,1,2,1,2
+Florida,57,2020,SEC,12,8.0,8,4,4,1,3,1
+Florida Atlantic,2226,2020,Conference USA,9,3.6,5,4,4,0,1,3
+Florida International,2229,2020,Conference USA,5,0.9,0,5,0,3,0,2
+Florida State,52,2020,ACC,9,3.2,3,6,3,2,0,4
+Fresno State,278,2020,Mountain West,6,3.4,3,3,1,1,2,2
+Georgia,61,2020,SEC,10,7.5,8,2,3,0,4,1
+Georgia Southern,290,2020,Sun Belt,13,10.0,8,5,6,1,1,4
+Georgia State,2247,2020,Sun Belt,10,6.1,6,4,3,2,2,2
+Georgia Tech,59,2020,ACC,10,4.2,3,7,2,4,1,3
+Hawai'i,62,2020,Mountain West,9,4.1,5,4,3,1,1,3
+Houston,248,2020,American Athletic,8,3.4,3,5,2,2,1,2
+Illinois,356,2020,Big Ten,8,2.3,2,6,0,3,2,3
+Indiana,84,2020,Big Ten,8,4.4,6,2,3,0,3,1
+Iowa,2294,2020,Big Ten,8,6.3,6,2,3,1,3,1
+Iowa State,66,2020,Big 12,12,8.7,9,3,5,1,3,1
+Kansas,2305,2020,Big 12,9,0.3,0,9,0,4,0,5
+Kansas State,2306,2020,Big 12,10,5.0,4,6,2,3,2,3
+Kent State,2309,2020,Mid-American,4,3.0,3,1,2,0,1,1
+Kentucky,96,2020,SEC,11,5.7,5,6,3,2,1,4
+Liberty,2335,2020,FBS Independents,11,8.1,10,1,6,0,3,1
+Louisiana,309,2020,Sun Belt,11,7.1,10,1,3,1,6,0
+Louisiana Monroe,2433,2020,Sun Belt,10,0.1,0,10,0,5,0,5
+Louisiana Tech,2348,2020,Conference USA,10,2.8,5,5,3,1,2,3
+Louisville,97,2020,ACC,11,5.5,4,7,4,2,0,5
+LSU,99,2020,SEC,10,3.1,5,5,2,3,3,2
+Marshall,276,2020,Conference USA,10,7.0,7,3,5,2,2,0
+Maryland,120,2020,Big Ten,5,2.3,2,3,1,1,1,2
+Memphis,235,2020,American Athletic,11,5.3,8,3,6,0,1,3
+Miami,2390,2020,ACC,11,6.8,8,3,4,1,4,1
+Miami (OH),193,2020,Mid-American,3,1.0,2,1,1,0,1,1
+Michigan,130,2020,Big Ten,6,2.2,2,4,0,3,2,1
+Michigan State,127,2020,Big Ten,7,2.6,2,5,1,3,1,2
+Middle Tennessee,2393,2020,Conference USA,9,3.5,3,6,0,3,3,3
+Minnesota,135,2020,Big Ten,7,3.3,3,4,1,2,2,2
+Mississippi State,344,2020,SEC,11,2.5,4,7,2,3,1,4
+Missouri,142,2020,SEC,10,3.9,5,5,3,2,2,3
+Navy,2426,2020,American Athletic,10,4.7,3,7,1,4,2,2
+NC State,152,2020,ACC,12,6.2,8,4,5,1,3,2
+Nebraska,158,2020,Big Ten,8,3.5,3,5,1,2,2,3
+Nevada,2440,2020,Mountain West,9,5.0,7,2,4,0,2,2
+New Mexico,167,2020,Mountain West,7,2.3,2,5,2,2,0,3
+New Mexico State,166,2020,FBS Independents,2,0.0,1,1,0,0,0,0
+North Carolina,153,2020,ACC,12,8.6,8,4,5,1,3,2
+Northern Illinois,2459,2020,Mid-American,6,0.7,0,6,0,3,0,3
+North Texas,249,2020,Conference USA,10,4.2,4,6,2,4,2,1
+Northwestern,77,2020,Big Ten,9,6.1,7,2,4,0,2,1
+Notre Dame,87,2020,FBS Independents,12,9.1,10,2,6,0,4,0
+Ohio,195,2020,Mid-American,3,1.9,2,1,2,0,0,1
+Ohio State,194,2020,Big Ten,8,6.9,7,1,3,0,2,0
+Oklahoma,201,2020,Big 12,11,9.0,9,2,4,1,2,1
+Oklahoma State,197,2020,Big 12,11,6.7,8,3,4,1,3,2
+Ole Miss,145,2020,SEC,10,4.2,5,5,2,3,2,2
+Oregon,2483,2020,Pac-12,7,5.0,4,3,2,0,2,2
+Oregon State,204,2020,Pac-12,7,2.1,2,5,2,3,0,2
+Penn State,213,2020,Big Ten,9,5.3,4,5,2,3,2,2
+Pittsburgh,221,2020,ACC,11,6.1,6,5,4,2,2,3
+Purdue,2509,2020,Big Ten,6,1.2,2,4,1,3,1,1
+Rice,242,2020,Conference USA,5,2.6,2,3,0,2,2,1
+Rutgers,164,2020,Big Ten,9,2.0,3,6,0,5,3,1
+San Diego State,21,2020,Mountain West,8,5.5,4,4,3,1,1,3
+San José State,23,2020,Mountain West,8,5.4,7,1,4,0,2,0
+SMU,2567,2020,American Athletic,10,6.2,7,3,3,1,4,2
+South Alabama,6,2020,Sun Belt,11,3.9,4,7,2,4,2,3
+South Carolina,2579,2020,SEC,10,2.7,2,8,1,4,1,4
+Southern Mississippi,2572,2020,Conference USA,10,3.5,3,7,2,5,1,2
+South Florida,58,2020,American Athletic,9,1.7,1,8,1,3,0,5
+Stanford,24,2020,Pac-12,6,1.6,4,2,0,1,4,1
+Syracuse,183,2020,ACC,11,1.4,1,10,1,5,0,5
+TCU,2628,2020,Big 12,10,6.2,6,4,3,3,3,1
+Temple,218,2020,American Athletic,7,1.0,1,6,1,2,0,4
+Tennessee,2633,2020,SEC,10,3.3,3,7,1,4,2,3
+Texas,251,2020,Big 12,10,6.3,7,3,3,2,3,0
+Texas A&M,245,2020,SEC,10,8.4,9,1,4,0,4,1
+Texas State,326,2020,Sun Belt,12,2.1,2,10,1,5,1,5
+Texas Tech,2641,2020,Big 12,10,3.7,4,6,4,2,0,4
+Toledo,2649,2020,Mid-American,6,4.0,4,2,2,1,2,1
+Troy,2653,2020,Sun Belt,11,5.4,5,6,2,3,3,3
+Tulane,2655,2020,American Athletic,12,5.6,6,6,3,2,3,3
+Tulsa,202,2020,American Athletic,9,6.2,6,3,3,0,3,2
+UAB,5,2020,Conference USA,9,7.4,6,3,3,1,3,2
+UCF,2116,2020,American Athletic,10,6.4,6,4,2,2,4,1
+UCLA,26,2020,Pac-12,7,5.3,3,4,2,2,1,2
+UMass,113,2020,FBS Independents,4,0.0,0,4,0,0,0,4
+UNLV,2439,2020,Mountain West,6,0.6,0,6,0,3,0,3
+USC,30,2020,Pac-12,6,2.7,5,1,2,1,3,0
+Utah,254,2020,Pac-12,5,3.7,3,2,2,1,1,1
+Utah State,328,2020,Mountain West,6,1.0,1,5,1,3,0,2
+UTEP,2638,2020,Conference USA,8,4.0,3,5,2,1,1,4
+UT San Antonio,2636,2020,Conference USA,12,6.3,7,5,5,1,2,3
+Vanderbilt,238,2020,SEC,9,1.1,0,9,0,5,0,4
+Virginia,258,2020,ACC,10,4.3,5,5,5,1,0,4
+Virginia Tech,259,2020,ACC,11,6.8,5,6,3,3,2,3
+Wake Forest,154,2020,ACC,9,4.7,4,5,3,1,1,3
+Washington,264,2020,Pac-12,4,2.6,3,1,3,1,0,0
+Washington State,265,2020,Pac-12,4,0.7,1,3,0,1,1,2
+Western Kentucky,98,2020,Conference USA,12,4.5,5,7,3,2,2,4
+Western Michigan,2711,2020,Mid-American,6,4.6,4,2,2,1,2,1
+West Virginia,277,2020,Big 12,10,5.2,6,4,5,0,0,4
+Wisconsin,275,2020,Big Ten,7,4.8,4,3,2,1,1,2
+Wyoming,2751,2020,Mountain West,6,3.1,2,4,1,1,1,3
+Air Force,2005,2021,Mountain West,13,9.1,10,3,4,2,5,0
+Akron,2006,2021,Mid-American,12,1.9,2,10,1,5,1,5
+Alabama,333,2021,SEC,15,11.0,13,2,7,0,3,1
+Appalachian State,2026,2021,Sun Belt,14,11.3,10,4,7,0,3,3
+Arizona,12,2021,Pac-12,12,1.9,1,11,1,5,0,5
+Arizona State,9,2021,Pac-12,13,9.2,8,5,6,1,2,3
+Arkansas,8,2021,SEC,13,9.2,9,4,6,1,1,3
+Arkansas State,2032,2021,Sun Belt,12,2.9,2,10,1,5,1,5
+Army,349,2021,FBS Independents,13,10.0,9,4,5,2,2,2
+Auburn,2,2021,SEC,13,6.3,6,7,4,3,2,3
+Ball State,2050,2021,Mid-American,13,4.2,6,7,3,3,3,3
+Baylor,239,2021,Big 12,14,10.2,12,2,7,0,3,2
+Boise State,68,2021,Mountain West,12,6.6,7,5,3,3,4,2
+Boston College,103,2021,ACC,12,6.4,6,6,3,3,3,3
+Bowling Green,189,2021,Mid-American,12,3.0,4,8,2,4,2,4
+Buffalo,2084,2021,Mid-American,12,4.4,4,8,2,4,2,4
+BYU,252,2021,FBS Independents,13,8.3,10,3,5,1,4,1
+California,25,2021,Pac-12,12,6.1,5,7,4,2,1,5
+Central Michigan,2117,2021,Mid-American,13,8.3,9,4,5,1,3,3
+Charlotte,2429,2021,Conference USA,12,3.2,5,7,4,2,1,5
+Cincinnati,2132,2021,American Athletic,14,10.9,13,1,7,0,6,0
+Clemson,228,2021,ACC,13,8.7,10,3,6,0,3,2
+Coastal Carolina,324,2021,Sun Belt,13,9.5,11,2,6,1,4,1
+Colorado,38,2021,Pac-12,12,3.2,4,8,4,2,0,5
+Colorado State,36,2021,Mountain West,12,6.0,3,9,1,5,2,4
+Connecticut,41,2021,FBS Independents,12,1.5,1,11,1,5,0,6
+Duke,150,2021,ACC,12,4.1,3,9,3,4,0,5
+East Carolina,151,2021,American Athletic,12,5.7,7,5,4,2,3,3
+Eastern Michigan,2199,2021,Mid-American,13,3.5,7,6,4,2,3,3
+Florida,57,2021,SEC,13,8.3,6,7,5,1,1,4
+Florida Atlantic,2226,2021,Conference USA,12,6.4,5,7,4,2,1,5
+Florida International,2229,2021,Conference USA,12,1.2,1,11,1,5,0,6
+Florida State,52,2021,ACC,12,6.0,5,7,3,4,2,3
+Fresno State,278,2021,Mountain West,13,8.3,10,3,5,1,4,2
+Georgia,61,2021,SEC,15,13.9,14,1,6,0,4,0
+Georgia Southern,290,2021,Sun Belt,12,3.2,3,9,2,4,1,5
+Georgia State,2247,2021,Sun Belt,13,6.9,8,5,4,2,3,3
+Georgia Tech,59,2021,ACC,12,3.0,3,9,1,5,1,4
+Hawai'i,62,2021,Mountain West,13,5.3,6,7,4,2,2,5
+Houston,248,2021,American Athletic,14,10.8,12,2,5,0,6,1
+Illinois,356,2021,Big Ten,12,6.1,5,7,3,4,2,3
+Indiana,84,2021,Big Ten,12,2.9,2,10,1,5,1,5
+Iowa,2294,2021,Big Ten,14,7.0,10,4,6,1,4,1
+Iowa State,66,2021,Big 12,13,7.3,7,6,5,1,2,4
+Kansas,2305,2021,Big 12,12,1.7,2,10,1,5,1,5
+Kansas State,2306,2021,Big 12,13,7.4,8,5,4,3,2,2
+Kent State,2309,2021,Mid-American,14,5.7,7,7,5,0,2,5
+Kentucky,96,2021,SEC,13,8.5,10,3,6,1,3,2
+Liberty,2335,2021,FBS Independents,13,7.9,8,5,4,2,3,3
+Louisiana,309,2021,Sun Belt,14,8.7,13,1,7,0,5,1
+Louisiana Monroe,2433,2021,Sun Belt,12,3.0,4,8,4,2,0,6
+Louisiana Tech,2348,2021,Conference USA,12,4.1,3,9,3,3,0,6
+Louisville,97,2021,ACC,13,8.8,6,7,4,3,2,2
+LSU,99,2021,SEC,13,7.2,6,7,5,2,1,4
+Marshall,276,2021,Conference USA,13,6.4,7,6,3,3,4,2
+Maryland,120,2021,Big Ten,13,6.1,7,6,4,3,2,3
+Memphis,235,2021,American Athletic,12,6.4,6,6,5,2,1,4
+Miami,2390,2021,ACC,12,6.0,7,5,5,2,2,2
+Miami (OH),193,2021,Mid-American,13,6.3,7,6,5,0,1,6
+Michigan,130,2021,Big Ten,14,11.7,12,2,7,0,4,1
+Michigan State,127,2021,Big Ten,13,9.2,11,2,6,0,4,2
+Middle Tennessee,2393,2021,Conference USA,13,4.1,7,6,4,1,2,5
+Minnesota,135,2021,Big Ten,13,10.1,9,4,4,3,4,1
+Mississippi State,344,2021,SEC,13,6.1,7,6,4,3,3,2
+Missouri,142,2021,SEC,13,3.9,6,7,5,2,1,4
+Navy,2426,2021,American Athletic,12,7.0,4,8,1,5,3,3
+NC State,152,2021,ACC,12,8.0,9,3,7,0,2,3
+Nebraska,158,2021,Big Ten,12,7.6,3,9,3,4,0,5
+Nevada,2440,2021,Mountain West,13,6.5,8,5,5,1,3,3
+New Mexico,167,2021,Mountain West,12,2.3,3,9,2,4,1,5
+New Mexico State,166,2021,FBS Independents,12,2.1,2,10,2,3,0,7
+North Carolina,153,2021,ACC,13,5.8,6,7,6,1,0,4
+Northern Illinois,2459,2021,Mid-American,14,7.7,9,5,4,2,4,2
+North Texas,249,2021,Conference USA,13,6.1,6,7,3,3,3,3
+Northwestern,77,2021,Big Ten,12,3.4,3,9,3,3,0,5
+Notre Dame,87,2021,FBS Independents,13,9.8,11,2,6,1,4,0
+Ohio,195,2021,Mid-American,12,3.9,3,9,1,5,2,4
+Ohio State,194,2021,Big Ten,13,9.9,11,2,6,1,4,1
+Oklahoma,201,2021,Big 12,13,8.4,11,2,7,0,2,2
+Oklahoma State,197,2021,Big 12,14,10.1,12,2,7,0,4,1
+Old Dominion,295,2021,Conference USA,13,5.8,6,7,4,2,2,4
+Ole Miss,145,2021,SEC,13,9.0,10,3,7,0,2,2
+Oregon,2483,2021,Pac-12,14,9.8,10,4,7,0,3,2
+Oregon State,204,2021,Pac-12,13,8.7,7,6,6,0,1,5
+Penn State,213,2021,Big Ten,13,7.1,7,6,5,2,2,3
+Pittsburgh,221,2021,ACC,14,10.6,11,3,5,2,5,0
+Purdue,2509,2021,Big Ten,13,6.2,9,4,4,2,3,2
+Rice,242,2021,Conference USA,12,4.9,4,8,3,3,1,5
+Rutgers,164,2021,Big Ten,13,4.1,5,8,2,4,3,3
+San Diego State,21,2021,Mountain West,14,10.4,12,2,6,2,5,0
+San José State,23,2021,Mountain West,12,4.2,5,7,3,3,2,4
+SMU,2567,2021,American Athletic,12,6.9,8,4,5,1,3,3
+South Alabama,6,2021,Sun Belt,12,5.1,5,7,4,2,1,5
+South Carolina,2579,2021,SEC,13,6.9,7,6,5,2,1,4
+Southern Mississippi,2572,2021,Conference USA,12,3.3,3,9,2,4,1,5
+South Florida,58,2021,American Athletic,12,3.3,2,10,2,4,0,6
+Stanford,24,2021,Pac-12,12,2.8,3,9,1,5,2,3
+Syracuse,183,2021,ACC,12,5.6,5,7,3,4,2,3
+TCU,2628,2021,Big 12,12,4.8,5,7,4,3,1,4
+Temple,218,2021,American Athletic,12,2.1,3,9,2,4,1,5
+Tennessee,2633,2021,SEC,13,8.1,7,6,5,3,2,2
+Texas,251,2021,Big 12,12,4.6,5,7,4,2,1,4
+Texas A&M,245,2021,SEC,12,9.0,8,4,6,1,1,2
+Texas State,326,2021,Sun Belt,12,2.3,4,8,2,4,2,4
+Texas Tech,2641,2021,Big 12,13,6.0,7,6,3,3,2,3
+Toledo,2649,2021,Mid-American,13,8.0,7,6,3,3,4,2
+Troy,2653,2021,Sun Belt,12,4.9,5,7,3,3,2,4
+Tulane,2655,2021,American Athletic,12,4.3,2,10,2,4,0,6
+Tulsa,202,2021,American Athletic,13,6.5,7,6,3,3,3,3
+UAB,5,2021,Conference USA,13,9.5,9,4,3,2,4,2
+UCF,2116,2021,American Athletic,13,7.3,9,4,7,0,1,4
+UCLA,26,2021,Pac-12,12,8.8,8,4,4,3,4,1
+UMass,113,2021,FBS Independents,12,1.3,1,11,1,5,0,6
+UNLV,2439,2021,Mountain West,12,2.1,2,10,1,5,1,5
+USC,30,2021,Pac-12,12,3.5,4,8,2,5,2,3
+Utah,254,2021,Pac-12,14,10.2,10,4,6,0,3,3
+Utah State,328,2021,Mountain West,14,8.7,11,3,3,3,7,0
+UTEP,2638,2021,Conference USA,13,8.2,7,6,5,1,2,4
+UT San Antonio,2636,2021,Conference USA,14,9.2,12,2,7,0,5,1
+Vanderbilt,238,2021,SEC,12,0.9,2,10,1,6,1,4
+Virginia,258,2021,ACC,12,4.6,6,6,4,3,2,3
+Virginia Tech,259,2021,ACC,13,5.9,6,7,4,3,2,3
+Wake Forest,154,2021,ACC,14,7.5,11,3,6,0,4,2
+Washington,264,2021,Pac-12,12,4.5,4,8,2,5,2,3
+Washington State,265,2021,Pac-12,13,5.6,7,6,4,3,3,2
+Western Kentucky,98,2021,Conference USA,14,7.2,9,5,4,2,4,3
+Western Michigan,2711,2021,Mid-American,13,9.4,8,5,4,2,3,3
+West Virginia,277,2021,Big 12,13,6.0,6,7,4,2,2,4
+Wisconsin,275,2021,Big Ten,13,9.0,9,4,5,2,3,1
+Wyoming,2751,2021,Mountain West,13,7.6,7,6,3,3,3,3
+Air Force,2005,2022,Mountain West,13,9.9,10,3,6,1,2,2
+Akron,2006,2022,Mid-American,12,1.5,2,10,1,4,1,6
+Alabama,333,2022,SEC,13,10.5,11,2,7,0,3,2
+Appalachian State,2026,2022,Sun Belt,12,7.1,6,6,5,2,1,4
+Arizona,12,2022,Pac-12,12,4.0,5,7,3,4,2,3
+Arizona State,9,2022,Pac-12,12,4.3,3,9,2,4,1,5
+Arkansas,8,2022,SEC,13,8.5,7,6,4,3,2,2
+Arkansas State,2032,2022,Sun Belt,12,4.0,3,9,3,3,0,6
+Army,349,2022,FBS Independents,12,7.1,6,6,4,2,1,3
+Auburn,2,2022,SEC,12,6.7,5,7,5,3,0,4
+Ball State,2050,2022,Mid-American,12,3.7,5,7,3,3,2,4
+Baylor,239,2022,Big 12,13,7.4,6,7,3,3,3,3
+Boise State,68,2022,Mountain West,14,8.6,10,4,5,2,4,2
+Boston College,103,2022,ACC,12,3.1,3,9,2,4,1,5
+Bowling Green,189,2022,Mid-American,13,4.8,6,7,3,3,3,3
+Buffalo,2084,2022,Mid-American,13,6.1,7,6,3,2,3,4
+BYU,252,2022,FBS Independents,13,6.5,8,5,4,2,3,2
+California,25,2022,Pac-12,12,3.7,4,8,4,3,0,5
+Central Michigan,2117,2022,Mid-American,12,4.4,4,8,2,4,2,4
+Charlotte,2429,2022,Conference USA,12,2.4,3,9,1,5,2,4
+Cincinnati,2132,2022,American Athletic,13,6.5,9,4,5,1,3,2
+Clemson,228,2022,ACC,14,11.0,11,3,6,1,3,1
+Coastal Carolina,324,2022,Sun Belt,13,6.1,9,4,6,1,3,2
+Colorado,38,2022,Pac-12,12,1.0,1,11,1,5,0,6
+Colorado State,36,2022,Mountain West,12,4.0,3,9,2,4,1,5
+Connecticut,41,2022,FBS Independents,13,6.3,6,7,5,1,1,5
+Duke,150,2022,ACC,13,7.4,9,4,5,1,3,3
+East Carolina,151,2022,American Athletic,13,7.4,8,5,4,3,2,2
+Eastern Michigan,2199,2022,Mid-American,13,6.4,9,4,3,3,5,1
+Florida,57,2022,SEC,13,6.3,6,7,5,2,1,3
+Florida Atlantic,2226,2022,Conference USA,12,6.6,5,7,4,2,1,5
+Florida International,2229,2022,Conference USA,12,2.5,4,8,2,4,2,4
+Florida State,52,2022,ACC,13,9.5,10,3,5,2,3,1
+Fresno State,278,2022,Mountain West,14,8.4,10,4,5,1,4,3
+Georgia,61,2022,SEC,15,14.4,15,0,6,0,4,0
+Georgia Southern,290,2022,Sun Belt,13,4.3,6,7,4,2,2,4
+Georgia State,2247,2022,Sun Belt,12,5.6,4,8,2,4,2,4
+Georgia Tech,59,2022,ACC,12,3.7,5,7,2,3,3,3
+Hawai'i,62,2022,Mountain West,13,2.9,3,10,3,4,0,6
+Houston,248,2022,American Athletic,13,8.0,8,5,3,3,4,2
+Illinois,356,2022,Big Ten,13,10.2,8,5,5,2,3,2
+Indiana,84,2022,Big Ten,12,1.7,4,8,3,4,1,4
+Iowa,2294,2022,Big Ten,13,6.9,8,5,4,3,3,2
+Iowa State,66,2022,Big 12,12,4.7,4,8,3,4,1,4
+James Madison,256,2022,Sun Belt,11,8.4,8,3,5,1,3,2
+Kansas,2305,2022,Big 12,13,6.9,6,7,4,2,2,4
+Kansas State,2306,2022,Big 12,14,10.1,10,4,5,2,4,1
+Kent State,2309,2022,Mid-American,12,4.1,5,7,3,2,2,5
+Kentucky,96,2022,SEC,13,7.2,7,6,5,3,2,2
+Liberty,2335,2022,FBS Independents,13,7.3,8,5,4,2,4,2
+Louisiana,309,2022,Sun Belt,13,5.7,6,7,4,2,2,4
+Louisiana Monroe,2433,2022,Sun Belt,12,2.9,4,8,3,2,1,6
+Louisiana Tech,2348,2022,Conference USA,12,3.8,3,9,3,2,0,7
+Louisville,97,2022,ACC,13,8.3,8,5,5,1,2,4
+LSU,99,2022,SEC,14,8.9,10,4,6,1,3,1
+Marshall,276,2022,Sun Belt,13,8.4,9,4,4,2,4,2
+Maryland,120,2022,Big Ten,13,6.8,8,5,5,2,2,3
+Memphis,235,2022,American Athletic,13,7.6,7,6,5,2,1,4
+Miami,2390,2022,ACC,12,4.9,5,7,2,5,3,2
+Miami (OH),193,2022,Mid-American,13,3.6,6,7,3,2,3,3
+Michigan,130,2022,Big Ten,14,12.6,13,1,8,0,4,0
+Michigan State,127,2022,Big Ten,12,3.9,5,7,4,3,1,4
+Middle Tennessee,2393,2022,Conference USA,13,7.0,8,5,3,2,4,3
+Minnesota,135,2022,Big Ten,13,9.7,9,4,5,2,3,2
+Mississippi State,344,2022,SEC,13,6.9,9,4,6,1,2,3
+Missouri,142,2022,SEC,13,5.5,6,7,5,2,1,4
+Navy,2426,2022,American Athletic,12,7.5,4,8,2,3,2,3
+NC State,152,2022,ACC,13,6.9,8,5,6,1,2,3
+Nebraska,158,2022,Big Ten,12,5.0,4,8,2,5,2,2
+Nevada,2440,2022,Mountain West,12,2.1,2,10,1,5,1,5
+New Mexico,167,2022,Mountain West,12,2.4,2,10,2,4,0,6
+New Mexico State,166,2022,FBS Independents,13,6.3,7,6,4,2,2,4
+North Carolina,153,2022,ACC,14,7.1,9,5,3,3,6,0
+Northern Illinois,2459,2022,Mid-American,12,5.7,3,9,1,5,2,4
+North Texas,249,2022,Conference USA,14,6.6,7,7,5,1,2,5
+Northwestern,77,2022,Big Ten,12,3.5,1,11,0,6,0,5
+Notre Dame,87,2022,FBS Independents,13,8.7,9,4,4,2,2,2
+Ohio,195,2022,Mid-American,14,7.2,10,4,6,0,3,3
+Ohio State,194,2022,Big Ten,13,9.8,11,2,7,1,4,0
+Oklahoma,201,2022,Big 12,13,7.3,6,7,4,2,2,3
+Oklahoma State,197,2022,Big 12,13,5.5,7,6,6,1,1,4
+Old Dominion,295,2022,Sun Belt,12,1.5,3,9,2,4,1,5
+Ole Miss,145,2022,SEC,13,9.3,8,5,5,2,3,2
+Oregon,2483,2022,Pac-12,13,10.5,10,3,5,1,4,1
+Oregon State,204,2022,Pac-12,13,11.2,10,3,5,1,3,2
+Penn State,213,2022,Big Ten,13,10.5,11,2,6,1,4,1
+Pittsburgh,221,2022,ACC,13,9.3,9,4,5,2,3,2
+Purdue,2509,2022,Big Ten,14,6.7,8,6,4,2,4,2
+Rice,242,2022,Conference USA,13,5.2,5,8,4,2,1,5
+Rutgers,164,2022,Big Ten,12,4.9,4,8,2,4,2,4
+San Diego State,21,2022,Mountain West,13,7.6,7,6,5,2,2,3
+San José State,23,2022,Mountain West,12,5.5,7,5,6,0,1,4
+SMU,2567,2022,American Athletic,13,6.5,7,6,4,2,3,3
+South Alabama,6,2022,Sun Belt,13,10.3,10,3,5,1,5,1
+South Carolina,2579,2022,SEC,13,6.8,8,5,5,2,3,2
+Southern Mississippi,2572,2022,Sun Belt,13,6.9,7,6,3,3,3,3
+South Florida,58,2022,American Athletic,12,3.2,1,11,1,4,0,6
+Stanford,24,2022,Pac-12,12,2.9,3,9,2,4,1,5
+Syracuse,183,2022,ACC,13,6.0,7,6,5,2,2,3
+TCU,2628,2022,Big 12,15,10.3,13,2,6,0,6,0
+Temple,218,2022,American Athletic,12,4.3,3,9,3,4,0,5
+Tennessee,2633,2022,SEC,13,9.7,11,2,7,0,3,2
+Texas,251,2022,Big 12,13,9.8,8,5,5,2,2,2
+Texas A&M,245,2022,SEC,12,4.7,5,7,4,3,0,4
+Texas State,326,2022,Sun Belt,12,4.4,4,8,4,2,0,6
+Texas Tech,2641,2022,Big 12,13,6.4,8,5,6,1,1,4
+Toledo,2649,2022,Mid-American,14,10.6,9,5,5,1,2,4
+Troy,2653,2022,Sun Belt,14,9.6,12,2,7,0,4,2
+Tulane,2655,2022,American Athletic,14,9.1,12,2,6,2,5,0
+Tulsa,202,2022,American Athletic,12,5.0,5,7,3,3,2,4
+UAB,5,2022,Conference USA,13,8.6,7,6,5,1,1,5
+UCF,2116,2022,American Athletic,14,7.6,9,5,5,2,4,2
+UCLA,26,2022,Pac-12,13,9.8,9,4,6,2,3,1
+UMass,113,2022,FBS Independents,12,1.7,1,11,1,4,0,7
+UNLV,2439,2022,Mountain West,12,4.8,5,7,4,2,1,5
+USC,30,2022,Pac-12,14,9.8,11,3,7,0,4,1
+Utah,254,2022,Pac-12,14,9.6,10,4,6,0,3,3
+Utah State,328,2022,Mountain West,13,5.5,6,7,4,2,2,4
+UTEP,2638,2022,Conference USA,12,4.5,5,7,4,2,1,5
+UT San Antonio,2636,2022,Conference USA,14,9.8,11,3,6,1,5,1
+Vanderbilt,238,2022,SEC,12,4.8,5,7,2,4,3,3
+Virginia,258,2022,ACC,10,4.1,3,7,2,4,1,3
+Virginia Tech,259,2022,ACC,11,5.0,3,8,2,3,1,5
+Wake Forest,154,2022,ACC,13,8.4,8,5,5,2,2,3
+Washington,264,2022,Pac-12,13,8.2,11,2,7,0,3,2
+Washington State,265,2022,Pac-12,13,5.4,7,6,4,3,3,2
+Western Kentucky,98,2022,Conference USA,14,8.6,9,5,4,2,4,3
+Western Michigan,2711,2022,Mid-American,12,4.3,5,7,2,4,3,3
+West Virginia,277,2022,Big 12,12,5.3,5,7,3,3,2,4
+Wisconsin,275,2022,Big Ten,13,7.9,7,6,4,3,2,3
+Wyoming,2751,2022,Mountain West,13,6.0,7,6,4,2,3,3
+Air Force,2005,2023,Mountain West,13,10.7,9,4,4,1,3,2
+Akron,2006,2023,Mid-American,12,3.8,2,10,2,3,0,7
+Alabama,333,2023,SEC,14,11.3,12,2,6,1,5,0
+Appalachian State,2026,2023,Sun Belt,14,9.7,9,5,5,1,3,4
+Arizona,12,2023,Pac-12,13,8.7,10,3,5,1,4,2
+Arizona State,9,2023,Pac-12,12,3.6,3,9,2,6,1,3
+Arkansas,8,2023,SEC,12,5.5,4,8,2,4,1,3
+Arkansas State,2032,2023,Sun Belt,13,5.6,6,7,4,2,2,4
+Army,349,2023,FBS Independents,12,6.6,6,6,3,3,1,3
+Auburn,2,2023,SEC,13,6.4,6,7,3,4,3,2
+Ball State,2050,2023,Mid-American,12,5.7,4,8,3,3,1,5
+Baylor,239,2023,Big 12,12,2.4,3,9,1,7,2,2
+Boise State,68,2023,Mountain West,14,9.1,8,6,5,1,3,4
+Boston College,103,2023,ACC,13,6.0,7,6,3,4,3,2
+Bowling Green,189,2023,Mid-American,13,6.8,7,6,3,2,4,3
+Buffalo,2084,2023,Mid-American,12,2.8,3,9,1,5,2,4
+BYU,252,2023,Big 12,12,3.6,5,7,4,2,1,5
+California,25,2023,Pac-12,13,6.4,6,7,3,3,3,3
+Central Michigan,2117,2023,Mid-American,12,3.8,5,7,4,1,1,6
+Charlotte,2429,2023,American Athletic,12,3.2,3,9,1,5,2,4
+Cincinnati,2132,2023,Big 12,12,5.0,3,9,1,6,2,3
+Clemson,228,2023,ACC,13,8.8,9,4,6,1,2,3
+Coastal Carolina,324,2023,Sun Belt,13,7.7,8,5,4,2,3,3
+Colorado,38,2023,Pac-12,12,3.3,4,8,2,4,2,4
+Colorado State,36,2023,Mountain West,12,4.6,5,7,4,2,1,5
+Connecticut,41,2023,FBS Independents,12,3.6,3,9,1,5,2,4
+Duke,150,2023,ACC,13,6.9,8,5,6,1,1,4
+East Carolina,151,2023,American Athletic,12,3.5,2,10,1,5,1,5
+Eastern Michigan,2199,2023,Mid-American,13,4.5,6,7,5,2,1,5
+Florida,57,2023,SEC,12,5.9,5,7,4,2,1,4
+Florida Atlantic,2226,2023,American Athletic,12,3.9,4,8,2,4,2,4
+Florida International,2229,2023,Conference USA,12,3.2,4,8,2,4,2,4
+Florida State,52,2023,ACC,14,10.5,13,1,6,0,5,0
+Fresno State,278,2023,Mountain West,13,6.2,9,4,5,1,3,3
+Georgia,61,2023,SEC,14,12.6,13,1,7,0,4,0
+Georgia Southern,290,2023,Sun Belt,13,4.9,6,7,5,1,1,5
+Georgia State,2247,2023,Sun Belt,13,7.4,7,6,3,3,3,3
+Georgia Tech,59,2023,ACC,13,5.8,7,6,3,3,3,2
+Hawai'i,62,2023,Mountain West,13,4.0,5,8,4,3,1,5
+Houston,248,2023,Big 12,12,2.8,4,8,3,4,1,4
+Illinois,356,2023,Big Ten,12,5.8,5,7,3,4,2,3
+Indiana,84,2023,Big Ten,12,4.2,3,9,3,3,0,5
+Iowa,2294,2023,Big Ten,14,7.8,10,4,6,1,3,1
+Iowa State,66,2023,Big 12,13,8.0,7,6,3,4,4,2
+Jacksonville State,55,2023,Conference USA,13,7.6,9,4,5,1,3,3
+James Madison,256,2023,Sun Belt,13,9.7,11,2,5,1,6,0
+Kansas,2305,2023,Big 12,13,10.7,9,4,5,2,3,2
+Kansas State,2306,2023,Big 12,13,7.6,9,4,6,1,2,3
+Kent State,2309,2023,Mid-American,12,2.1,1,11,1,4,0,7
+Kentucky,96,2023,SEC,13,6.9,7,6,4,3,3,2
+Liberty,2335,2023,Conference USA,14,12.8,13,1,8,0,5,0
+Louisiana,309,2023,Sun Belt,13,6.6,6,7,4,2,2,4
+Louisiana Monroe,2433,2023,Sun Belt,12,1.3,2,10,2,4,0,6
+Louisiana Tech,2348,2023,Conference USA,12,4.2,3,9,2,4,1,5
+Louisville,97,2023,ACC,14,9.7,10,4,6,1,2,1
+LSU,99,2023,SEC,13,8.9,10,3,7,0,2,2
+Marshall,276,2023,Sun Belt,13,6.2,6,7,5,1,1,5
+Maryland,120,2023,Big Ten,13,8.7,8,5,4,3,3,2
+Memphis,235,2023,American Athletic,13,7.8,10,3,4,2,6,0
+Miami,2390,2023,ACC,13,8.4,7,6,5,2,2,3
+Miami (OH),193,2023,Mid-American,14,9.0,11,3,4,1,6,1
+Michigan,130,2023,Big Ten,15,14.1,15,0,7,0,5,0
+Michigan State,127,2023,Big Ten,12,4.3,4,8,3,3,1,4
+Middle Tennessee,2393,2023,Conference USA,12,4.6,4,8,4,2,0,6
+Minnesota,135,2023,Big Ten,13,6.3,6,7,4,3,1,4
+Mississippi State,344,2023,SEC,12,4.8,5,7,4,4,1,3
+Missouri,142,2023,SEC,13,10.4,11,2,6,1,3,1
+Navy,2426,2023,American Athletic,12,5.8,5,7,4,2,1,3
+NC State,152,2023,ACC,13,7.4,9,4,5,2,4,1
+Nebraska,158,2023,Big Ten,12,8.1,5,7,4,3,1,4
+Nevada,2440,2023,Mountain West,12,2.5,2,10,1,5,1,5
+New Mexico,167,2023,Mountain West,12,4.5,4,8,2,4,2,4
+New Mexico State,166,2023,Conference USA,15,10.3,10,5,5,1,5,3
+North Carolina,153,2023,ACC,13,6.9,8,5,6,1,1,3
+Northern Illinois,2459,2023,Mid-American,13,7.9,7,6,3,3,3,3
+North Texas,249,2023,American Athletic,12,3.8,5,7,3,3,2,4
+Northwestern,77,2023,Big Ten,13,4.9,8,5,5,1,2,3
+Notre Dame,87,2023,FBS Independents,13,10.6,10,3,5,1,3,2
+Ohio,195,2023,Mid-American,13,9.2,10,3,5,1,4,2
+Ohio State,194,2023,Big Ten,13,10.1,11,2,6,0,5,1
+Oklahoma,201,2023,Big 12,13,10.9,10,3,6,0,3,2
+Oklahoma State,197,2023,Big 12,14,5.8,10,4,6,1,3,2
+Old Dominion,295,2023,Sun Belt,13,5.4,6,7,4,2,2,4
+Ole Miss,145,2023,SEC,13,8.4,11,2,7,0,3,2
+Oregon,2483,2023,Pac-12,14,12.7,12,2,7,0,4,1
+Oregon State,204,2023,Pac-12,13,9.3,8,5,5,1,3,3
+Penn State,213,2023,Big Ten,13,9.1,10,3,6,1,3,1
+Pittsburgh,221,2023,ACC,12,4.3,3,9,3,3,0,5
+Purdue,2509,2023,Big Ten,12,5.2,4,8,3,4,1,4
+Rice,242,2023,American Athletic,13,5.3,6,7,4,3,2,3
+Rutgers,164,2023,Big Ten,13,6.3,7,6,5,2,1,4
+Sam Houston State,2534,2023,Conference USA,12,3.5,3,9,2,3,1,5
+San Diego State,21,2023,Mountain West,12,5.6,4,8,3,4,1,4
+San José State,23,2023,Mountain West,13,7.1,7,6,4,2,3,3
+SMU,2567,2023,American Athletic,14,10.7,11,3,6,0,5,2
+South Alabama,6,2023,Sun Belt,13,7.8,7,6,4,2,3,4
+South Carolina,2579,2023,SEC,12,5.6,5,7,5,2,0,4
+Southern Mississippi,2572,2023,Sun Belt,12,4.1,3,9,2,4,1,5
+South Florida,58,2023,American Athletic,13,6.8,7,6,4,2,2,4
+Stanford,24,2023,Pac-12,12,2.4,3,9,0,7,3,2
+Syracuse,183,2023,ACC,13,6.1,6,7,4,2,1,4
+TCU,2628,2023,Big 12,12,6.2,5,7,4,3,1,4
+Temple,218,2023,American Athletic,12,2.8,3,9,3,4,0,5
+Tennessee,2633,2023,SEC,13,8.8,9,4,6,1,1,3
+Texas,251,2023,Big 12,14,11.3,12,2,6,0,5,0
+Texas A&M,245,2023,SEC,13,8.4,7,6,6,1,0,4
+Texas State,326,2023,Sun Belt,13,8.5,8,5,5,1,2,4
+Texas Tech,2641,2023,Big 12,13,6.0,7,6,4,2,2,4
+Toledo,2649,2023,Mid-American,14,10.7,11,3,6,0,5,1
+Troy,2653,2023,Sun Belt,14,10.1,11,3,6,1,5,1
+Tulane,2655,2023,American Athletic,14,9.9,11,3,6,2,5,0
+Tulsa,202,2023,American Athletic,12,5.4,4,8,2,4,2,4
+UAB,5,2023,American Athletic,12,6.1,4,8,4,2,0,6
+UCF,2116,2023,Big 12,13,9.3,6,7,4,2,2,4
+UCLA,26,2023,Pac-12,13,8.6,8,5,4,2,3,3
+UMass,113,2023,FBS Independents,12,4.2,3,9,1,5,2,4
+UNLV,2439,2023,Mountain West,14,8.4,9,5,5,2,4,2
+USC,30,2023,Pac-12,13,6.3,8,5,4,3,3,2
+Utah,254,2023,Pac-12,13,8.7,8,5,6,1,2,3
+Utah State,328,2023,Mountain West,13,6.2,6,7,3,3,3,3
+UTEP,2638,2023,Conference USA,12,4.7,3,9,1,5,2,4
+UT San Antonio,2636,2023,American Athletic,13,9.1,9,4,5,1,3,3
+Vanderbilt,238,2023,SEC,12,1.3,2,10,2,4,0,6
+Virginia,258,2023,ACC,12,5.3,3,9,2,4,1,4
+Virginia Tech,259,2023,ACC,13,7.1,7,6,4,2,2,4
+Wake Forest,154,2023,ACC,12,4.2,4,8,3,3,1,5
+Washington,264,2023,Pac-12,15,10.6,14,1,7,0,5,0
+Washington State,265,2023,Pac-12,12,5.6,5,7,4,2,1,5
+Western Kentucky,98,2023,Conference USA,13,6.2,8,5,4,2,3,3
+Western Michigan,2711,2023,Mid-American,12,4.5,4,8,3,2,1,6
+West Virginia,277,2023,Big 12,13,8.8,9,4,5,1,3,3
+Wisconsin,275,2023,Big Ten,13,6.4,7,6,4,3,3,2
+Wyoming,2751,2023,Mountain West,13,7.3,9,4,7,0,1,4
