@@ -1,5 +1,5 @@
-# Blue Chips Ahoy!
-### *Predicting college sports results analyzing talent accumulation and on-field success. A 2024 Erdös Institute Project.*
+# Jimmys and Joes vs X’s and O’s
+### *Predicting results in college sports analyzing talent accumulation and on-field success. A 2024 Erdös Institute Project.*
 ## Authors 
 - Reggie Bain &nbsp;<a href="https://www.linkedin.com/in/reggiebain/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; width:auto;"/></a> &nbsp; <a href="https://github.com/reggiebain"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="height: 1em; width: auto;"/></a>
 - Reid Harris &nbsp;<a href="https://www.linkedin.com/in/reid-harris-71233a1b0/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; width:auto;"/></a> &nbsp;
@@ -7,7 +7,7 @@
 ## Summary
 In this project, we analyze a variety of college football related data in an effort to build a model that can predict on-field success. By considering both talent accumulation and recent on-field results, we aim for a model to predict relevant results for sports betting.
 ## Background
-With the legalization of sports betting in many states and the ability of universities to pay college players through Name, Image, and Likeness (NIL) programs [2, 3], predicting the results (win totals, score over/unders, point spreads, etc.) of college sporting events is an ever expanding business with a constantly changing set of variables.
+Recent legislation has completely changed the landscape of college sports, a multi-billion dollar business with deep roots in American sports culture. With the recent legalization of sports betting in many states and the SCOTUS O’Bannon ruling that allows athletes to be paid through so-called “Name-Image-Likeness (NIL)” deals, evaluating talent and projecting results in college sports, especially for the purpose of sports betting, is an increasingly interesting problem. We are interested in building a model to project on-field results in college football using a variety of features including an assessment of the talent level of teams as well as recent performance statistics. Our data will be scraped from various sources including the College Football Database, 247 Sports, On3, and ESPN.
 ## Stakeholders
 ## Key Performance Indicators (KPIs)
 ## Exploratory Data Analysis (EDA)
