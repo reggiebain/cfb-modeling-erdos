@@ -8,6 +8,8 @@
 In this project, we analyze a variety of college football related data in an effort to build a model that can predict on-field success. By considering both talent accumulation and recent on-field results, we aim for a model to predict relevant results for sports betting.
 ## Background
 Recent legislation has completely changed the landscape of college sports, a multi-billion dollar business with deep roots in American sports culture. With the recent legalization of sports betting in many states and the SCOTUS O’Bannon ruling that allows athletes to be paid through so-called “Name-Image-Likeness (NIL)” deals, evaluating talent and projecting results in college sports, especially for the purpose of sports betting, is an increasingly interesting problem. We are interested in building a model to project on-field results in college football using a variety of features including an assessment of the talent level of teams as well as recent performance statistics. Our data will be scraped from various sources including the College Football Database, 247 Sports, On3, and ESPN.
+## Dataset(s)
+Our dataset comes from a variety of sources including On3, ESPN, 24/7 Sports, and The College Football Database. We have used APIs and web scraping techniques to identify a wide array of college football features including, but not limited to: team ELO ratings, conference strength ratings, team records from 2000-present, team recruiting rankings, player recruiting rankings, position group recruiting rankings, along with team performance stats and the stats of the players that returned to a team in a given year.
 ## Stakeholders
 - University athletic departments (for allocating NIL funds)
 - College coaching staffs (for assembling rosters)
