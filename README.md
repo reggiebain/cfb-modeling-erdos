@@ -20,13 +20,16 @@ Our dataset comes from a variety of sources including On3, ESPN, 24/7 Sports, an
 - Highly explainable model that allows for actionable insights
 ## EDA + Feature Engineering
 - We considered a wide array of features that measured (1) previous on-field success and (2) talent level of each team in each year. These include some self-explanatory categories such as wins, losses, etc. But we also studied some more advanced analytics including those listed and defined in [5] below:
-   1. Offensive and Defensive Predicted Points Added (off_ppa, def_ppa): The average for a team in a given year of the points expected to be scored before and after a given play.
-   2. Offensive and Defensive Success Rate (off_success_rate, def_success_rate): As defined by [5], a successful play is when the offense scored OR at least 50% of yards to go gained on 1st down OR 70% of yards to go gained on 2nd down OR 100% of yards to go gained on 3rd or 4th down.
-   3. Offensive and Defensive Explosiveness (off_explode, def_explode): The predicted points added for plays classified successful (see above).
-   4. Usages (usage, pass_usage, run_usage): The % of pass/run plays from that season where current players were involved.
+   1. **Offensive and Defensive Predicted Points Added:** The average for a team in a given year of the points expected to be scored before and after a given play. (off_ppa, def_ppa)
+   2. **Offensive and Defensive Success Rate:** As defined by [5], a successful play is when the offense scored OR at least 50% of yards to go gained on 1st down OR 70% of yards to go gained on 2nd down OR 100% of yards to go gained on 3rd or 4th down. (off_success_rate, def_success_rate)
+   3. **Offensive and Defensive Explosiveness:** The predicted points added for plays classified successful (see above). (off_explode, def_explode)
+   4. **Usages:** The % of pass/run plays from that season where current players were involved. (usage, pass_usage, run_usage)
  - We also calculated "blue-chip ratios," a popular metric invented by Bud Elliot that measures the % of current players on the roster that were "blue-chip" recruits. These are recruits that were rated 4/5 or 5/5 stars in the 247Sports Composite Rankings [6]
  - Below, we show correlations between some of these features:
 ![Alt text](images/correlation_heatmap.png "Feature Correlations")
+- Next, we investigated some of of the pairs of features that seemed to be correlated with each other and/or with win or loss percentage:
+![](images/high-correlated-with-win-pct.png "Scatterplots of Features")
+
 ## Modeling
 ## Results
 ## References
