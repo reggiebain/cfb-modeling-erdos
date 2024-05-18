@@ -26,8 +26,7 @@ Our dataset comes from a variety of sources including On3, ESPN, 24/7 Sports, an
    4. Usages (usage, pass_usage, run_usage): The % of pass/run plays from that season where current players were involved.
  - We also calculated "blue-chip ratios," a popular metric invented by Bud Elliot that measures the % of current players on the roster that were "blue-chip" recruits. These are recruits that were rated 4/5 or 5/5 stars in the 247Sports Composite Rankings [6]
  - Below, we show correlations between some of these features:
-![Alt text](https://github.com/reggiebain/cfb-modeling-erdos/blob/main/images/correlation_heatmap.png "Optional title")
-
+![Alt text](images/correlation_heatmap.png "Feature Correlations")
 ## Modeling
 ## Results
 ## References
