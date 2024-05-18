@@ -18,7 +18,16 @@ Our dataset comes from a variety of sources including On3, ESPN, 24/7 Sports, an
 - Feature selection - identify key features that determine on-field outcomes
 - Predict season win totals accurately - compare to baseline model of 6 win regular season (50/50 chance of winning each game)
 - Highly explainable model that allows for actionable insights
-## Exploratory Data Analysis (EDA)
+## EDA + Feature Engineering
+- We considered a wide array of features that measured (1) previous on-field success and (2) talent level of each team in each year. These include some self-explanatory categories such as wins, losses, etc. But we also studied some more advanced analytics including those listed and defined in [5] below:
+   1. Offensive and Defensive Predicted Points Added (off_ppa, def_ppa): The average for a team in a given year of the points expected to be scored before and after a given play.
+   2. Offensive and Defensive Success Rate (off_success_rate, def_success_rate): As defined by [5], a successful play is when the offense scored OR at least 50% of yards to go gained on 1st down OR 70% of yards to go gained on 2nd down OR 100% of yards to go gained on 3rd or 4th down.
+   3. Offensive and Defensive Explosiveness (off_explode, def_explode): The predicted points added for plays classified successful (see above).
+   4. Usages (usage, pass_usage, run_usage): The % of pass/run plays from that season where current players were involved.
+ - We also calculated "blue-chip ratios," a popular metric invented by Bud Elliot that measures the % of current players on the roster that were "blue-chip" recruits. These are recruits that were rated 4/5 or 5/5 stars in the 247Sports Composite Rankings [6]
+ - Below, we show correlations between some of these features:
+![Alt text](https://github.com/reggiebain/cfb-modeling-erdos/blob/main/images/correlation_heatmap.png "Optional title")
+
 ## Modeling
 ## Results
 ## References
@@ -26,3 +35,5 @@ Our dataset comes from a variety of sources including On3, ESPN, 24/7 Sports, an
 [2] https://www.ncaa.org/news/2021/6/30/ncaa-adopts-interim-name-image-and-likeness-policy.aspx <br>
 [3] https://cdn.ca9.uscourts.gov/datastore/opinions/2015/09/30/14-16601.pdf <br>
 [4] https://www.espn.com/blog/statsinfo/post/_/id/122612/an-inside-look-at-college-fpi
+[5] https://collegefootballdata.com/glossary 
+[6] https://247sports.com/season/2024-football/compositeteamrankings/
