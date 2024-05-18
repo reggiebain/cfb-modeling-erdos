@@ -25,3 +25,4 @@ Our dataset comes from a variety of sources including On3, ESPN, 24/7 Sports, an
 [1] https://www.americangaming.org/research/state-gaming-map/ <br>
 [2] https://www.ncaa.org/news/2021/6/30/ncaa-adopts-interim-name-image-and-likeness-policy.aspx <br>
 [3] https://cdn.ca9.uscourts.gov/datastore/opinions/2015/09/30/14-16601.pdf <br>
+[4] https://www.espn.com/blog/statsinfo/post/_/id/122612/an-inside-look-at-college-fpi
