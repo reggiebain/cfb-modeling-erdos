@@ -34,11 +34,11 @@ Our dataset comes from a variety of sources including On3, ESPN, 24/7 Sports, an
 - In college sports, coaches have tended to make a rather large difference in the success of a program. See a few examples below in the last 10 years,:
 ![alt text](images/school-win-pct-by-coach.png "Wins by Coach")
 - We also studied each coach's recent winning percentage (which will obviously have some linear dependence with team winning percentage):
-  <div style="display: flex;">
+  <p style="display: flex;">
     <img src="images/dist_coach_pct.png" style="width: 33.33%;">
     <img src="images/blue-chip-vs-coach-win-pct.png" style="width: 33.33%;">
     <img src="images/win-vs-coach-win-pct.png" style="width: 33.33%;">
-  </div>
+  </p>
 - In the above, one can see that the blue-chip ratio and coaching win percentage do have some positive correlation (especially if one considers the top 25-50 teams in FBS that have a non-zero blue chip ratio).
 ## Modeling
 ## Results
