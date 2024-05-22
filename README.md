@@ -38,6 +38,8 @@ Our dataset comes from a variety of sources including On3, ESPN, 24/7 Sports, an
 
 - In the above, one can see that the blue-chip ratio and coaching win percentage do have some positive correlation (especially if one considers the top 25-50 teams in FBS that have a non-zero blue chip ratio).
 ## Modeling
+#### Approach 1: Regression over Season Level Features
+#### Approach 2: Game by Game Time Series Approach
 ## Results
 ## References
 [1] https://www.americangaming.org/research/state-gaming-map/ <br>
