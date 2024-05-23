@@ -1,0 +1,2383 @@
+year,team,sor,sos
+2005,Texas Longhorns,1,25
+2005,USC Trojans,2,1
+2005,Penn State Nittany Lions,3,21
+2005,Ohio State Buckeyes,4,12
+2005,West Virginia Mountaineers,5,60
+2005,Oregon Ducks,6,10
+2005,LSU Tigers,7,26
+2005,UCLA Bruins,8,19
+2005,Virginia Tech Hokies,9,35
+2005,Alabama Crimson Tide,10,49
+2005,TCU Horned Frogs,11,71
+2005,Notre Dame Fighting Irish,12,8
+2005,Wisconsin Badgers,13,40
+2005,Georgia Bulldogs,14,30
+2005,Florida Gators,15,29
+2005,Miami Hurricanes,16,45
+2005,Boston College Eagles,17,31
+2005,Auburn Tigers,18,61
+2005,Oklahoma Sooners,19,16
+2005,Texas Tech Red Raiders,20,66
+2005,Northwestern Wildcats,21,4
+2005,Michigan Wolverines,22,7
+2005,Florida State Seminoles,23,23
+2005,California Golden Bears,24,56
+2005,Minnesota Golden Gophers,25,14
+2005,Louisville Cardinals,26,69
+2005,Clemson Tigers,27,33
+2005,Georgia Tech Yellow Jackets,28,13
+2005,Arizona State Sun Devils,29,17
+2005,Nebraska Cornhuskers,30,46
+2005,Iowa Hawkeyes,31,36
+2005,South Carolina Gamecocks,32,28
+2005,Colorado Buffaloes,33,20
+2005,Virginia Cavaliers,34,52
+2005,NC State Wolfpack,35,42
+2005,Kansas Jayhawks,36,53
+2005,Stanford Cardinal,37,2
+2005,Boise State Broncos,38,87
+2005,North Carolina Tar Heels,39,5
+2005,Oregon State Beavers,40,6
+2005,Nevada Wolf Pack,41,109
+2005,Tulsa Golden Hurricane,42,82
+2005,Iowa State Cyclones,43,59
+2005,Missouri Tigers,44,63
+2005,Purdue Boilermakers,45,18
+2005,Michigan State Spartans,46,37
+2005,Toledo Rockets,47,115
+2005,Tennessee Volunteers,48,24
+2005,South Florida Bulls,49,50
+2005,Maryland Terrapins,50,15
+2005,Texas A&M Aggies,51,38
+2005,Baylor Bears,52,48
+2005,Rutgers Scarlet Knights,53,76
+2005,Louisiana Tech Bulldogs,54,95
+2005,Navy Midshipmen,55,98
+2005,Vanderbilt Commodores,56,43
+2005,Fresno State Bulldogs,57,91
+2005,Utah Utes,58,75
+2005,Kansas State Wildcats,59,57
+2005,New Mexico Lobos,60,74
+2005,UCF Knights,61,86
+2005,BYU Cougars,62,65
+2005,Colorado State Rams,63,64
+2005,Southern Mississippi Golden Eagles,64,90
+2005,UTEP Miners,65,113
+2005,Pittsburgh Panthers,66,62
+2005,Indiana Hoosiers,67,32
+2005,Western Michigan Broncos,68,111
+2005,Arkansas Razorbacks,69,47
+2005,Washington State Cougars,70,34
+2005,Memphis Tigers,71,93
+2005,Miami (OH) RedHawks,72,114
+2005,Wake Forest Demon Deacons,73,27
+2005,Northern Illinois Huskies,74,102
+2005,Arizona Wildcats,75,11
+2005,Oklahoma State Cowboys,76,54
+2005,Central Michigan Chippewas,77,97
+2005,Cincinnati Bearcats,78,55
+2005,Connecticut Huskies,79,78
+2005,Houston Cougars,80,88
+2005,Bowling Green Falcons,81,106
+2005,San Diego State Aztecs,82,67
+2005,Akron Zips,83,99
+2005,Hawai'i Rainbow Warriors,84,72
+2005,East Carolina Pirates,85,84
+2005,Washington Huskies,86,3
+2005,SMU Mustangs,87,85
+2005,Kentucky Wildcats,88,44
+2005,Wyoming Cowboys,89,68
+2005,Ball State Cardinals,90,70
+2005,Mississippi State Bulldogs,91,51
+2005,Illinois Fighting Illini,92,9
+2005,Louisiana Ragin' Cajuns,93,118
+2005,Ole Miss Rebels,94,58
+2005,Army Black Knights,95,80
+2005,Air Force Falcons,96,77
+2005,UAB Blazers,97,107
+2005,Ohio Bobcats,98,83
+2005,Louisiana Monroe Warhawks,99,110
+2005,Marshall Thundering Herd,100,92
+2005,Arkansas State Red Wolves,101,119
+2005,Florida Intl Golden Panthers,102,117
+2005,Eastern Michigan Eagles,103,100
+2005,Middle Tennessee Blue Raiders,104,112
+2005,Utah State Aggies,105,89
+2005,Troy Trojans,106,116
+2005,Syracuse Orange,107,41
+2005,Duke Blue Devils,108,39
+2005,San Jose State Spartans,109,101
+2005,UNLV Rebels,110,81
+2005,Idaho Vandals,111,94
+2005,Rice Owls,112,73
+2005,Florida Atlantic Owls,113,96
+2005,Tulane Green Wave,114,104
+2005,North Texas Mean Green,115,105
+2005,Buffalo Bulls,116,103
+2005,Kent State Golden Flashes,117,108
+2005,New Mexico State Aggies,118,79
+2005,Temple Owls,118,22
+2006,Florida Gators,1,9
+2006,Ohio State Buckeyes,2,20
+2006,USC Trojans,3,1
+2006,Boise State Broncos,4,93
+2006,Michigan Wolverines,5,13
+2006,Louisville Cardinals,6,55
+2006,Wisconsin Badgers,7,73
+2006,Auburn Tigers,8,31
+2006,LSU Tigers,9,50
+2006,Oklahoma Sooners,10,16
+2006,California Golden Bears,11,8
+2006,Rutgers Scarlet Knights,12,59
+2006,Notre Dame Fighting Irish,13,18
+2006,West Virginia Mountaineers,14,62
+2006,Texas Longhorns,15,40
+2006,BYU Cougars,16,70
+2006,Oregon State Beavers,17,10
+2006,Arkansas Razorbacks,18,19
+2006,Wake Forest Demon Deacons,19,46
+2006,Tennessee Volunteers,20,7
+2006,Boston College Eagles,21,42
+2006,Penn State Nittany Lions,22,35
+2006,Virginia Tech Hokies,23,63
+2006,TCU Horned Frogs,24,88
+2006,Texas A&M Aggies,25,48
+2006,Georgia Bulldogs,26,49
+2006,Nebraska Cornhuskers,27,32
+2006,Maryland Terrapins,28,52
+2006,Kentucky Wildcats,29,22
+2006,South Florida Bulls,30,65
+2006,Cincinnati Bearcats,31,37
+2006,Hawai'i Rainbow Warriors,32,108
+2006,South Carolina Gamecocks,33,29
+2006,Georgia Tech Yellow Jackets,34,51
+2006,Arizona Wildcats,35,3
+2006,Oregon Ducks,36,6
+2006,UCLA Bruins,37,5
+2006,Texas Tech Red Raiders,38,34
+2006,Arizona State Sun Devils,39,12
+2006,Washington State Cougars,40,11
+2006,Missouri Tigers,41,61
+2006,Clemson Tigers,42,66
+2006,Houston Cougars,43,92
+2006,Navy Midshipmen,44,86
+2006,Oklahoma State Cowboys,45,39
+2006,Purdue Boilermakers,46,53
+2006,Central Michigan Chippewas,47,104
+2006,Kansas State Wildcats,48,45
+2006,Minnesota Golden Gophers,49,14
+2006,Southern Mississippi Golden Eagles,50,83
+2006,San Jose State Spartans,51,109
+2006,Washington Huskies,52,4
+2006,Utah Utes,53,77
+2006,Miami Hurricanes,54,57
+2006,Florida State Seminoles,55,56
+2006,Alabama Crimson Tide,56,47
+2006,Ohio Bobcats,57,97
+2006,Tulsa Golden Hurricane,58,91
+2006,Pittsburgh Panthers,59,58
+2006,Iowa Hawkeyes,60,38
+2006,Western Michigan Broncos,61,94
+2006,Nevada Wolf Pack,62,105
+2006,Rice Owls,63,75
+2006,Indiana Hoosiers,64,30
+2006,Kansas Jayhawks,65,69
+2006,Wyoming Cowboys,66,71
+2006,East Carolina Pirates,67,79
+2006,Troy Trojans,68,114
+2006,Middle Tennessee Blue Raiders,69,95
+2006,Baylor Bears,70,17
+2006,Syracuse Orange,71,15
+2006,Virginia Cavaliers,72,60
+2006,Northern Illinois Huskies,73,99
+2006,Vanderbilt Commodores,74,25
+2006,Ole Miss Rebels,75,24
+2006,Northwestern Wildcats,76,27
+2006,Iowa State Cyclones,77,28
+2006,Michigan State Spartans,78,36
+2006,Connecticut Huskies,79,44
+2006,New Mexico Lobos,80,89
+2006,SMU Mustangs,81,113
+2006,Marshall Thundering Herd,82,84
+2006,Air Force Falcons,83,64
+2006,Mississippi State Bulldogs,84,21
+2006,North Carolina Tar Heels,85,23
+2006,Kent State Golden Flashes,86,117
+2006,Arkansas State Red Wolves,87,118
+2006,Louisiana Ragin' Cajuns,88,116
+2006,Tulane Green Wave,89,72
+2006,NC State Wolfpack,90,43
+2006,Florida Atlantic Owls,91,98
+2006,Akron Zips,92,101
+2006,UTEP Miners,93,102
+2006,Ball State Cardinals,94,106
+2006,Colorado State Rams,95,78
+2006,Toledo Rockets,96,107
+2006,Fresno State Bulldogs,97,81
+2006,Stanford Cardinal,98,2
+2006,Idaho Vandals,99,80
+2006,UCF Knights,100,85
+2006,Colorado Buffaloes,101,33
+2006,Illinois Fighting Illini,102,41
+2006,San Diego State Aztecs,103,76
+2006,Bowling Green Falcons,104,111
+2006,Louisiana Monroe Warhawks,105,112
+2006,UAB Blazers,106,90
+2006,Army Black Knights,107,87
+2006,UNLV Rebels,108,68
+2006,Louisiana Tech Bulldogs,109,74
+2006,New Mexico State Aggies,110,119
+2006,Buffalo Bulls,111,82
+2006,Temple Owls,112,54
+2006,North Texas Mean Green,113,115
+2006,Miami (OH) RedHawks,114,103
+2006,Memphis Tigers,115,96
+2006,Utah State Aggies,116,67
+2006,Eastern Michigan Eagles,117,100
+2006,Duke Blue Devils,118,26
+2006,Florida Intl Golden Panthers,118,110
+2007,Missouri Tigers,1,23
+2007,Kansas Jayhawks,2,71
+2007,LSU Tigers,3,15
+2007,USC Trojans,4,19
+2007,Georgia Bulldogs,5,13
+2007,Ohio State Buckeyes,6,46
+2007,West Virginia Mountaineers,7,45
+2007,Oklahoma Sooners,8,38
+2007,Arizona State Sun Devils,9,12
+2007,Virginia Tech Hokies,10,42
+2007,Tennessee Volunteers,11,10
+2007,Oregon State Beavers,12,5
+2007,Texas Longhorns,13,41
+2007,Boston College Eagles,14,49
+2007,BYU Cougars,15,60
+2007,Hawai'i Rainbow Warriors,16,112
+2007,Oregon Ducks,17,3
+2007,Auburn Tigers,18,31
+2007,Florida Gators,19,16
+2007,Michigan Wolverines,20,32
+2007,Cincinnati Bearcats,21,63
+2007,Illinois Fighting Illini,22,39
+2007,South Florida Bulls,23,34
+2007,Texas Tech Red Raiders,24,67
+2007,Mississippi State Bulldogs,25,30
+2007,Wisconsin Badgers,26,56
+2007,Kentucky Wildcats,27,27
+2007,Penn State Nittany Lions,28,57
+2007,Connecticut Huskies,29,64
+2007,Clemson Tigers,30,53
+2007,Wake Forest Demon Deacons,31,54
+2007,Virginia Cavaliers,32,50
+2007,Utah Utes,33,65
+2007,Texas A&M Aggies,34,20
+2007,Arkansas Razorbacks,35,48
+2007,California Golden Bears,36,9
+2007,Fresno State Bulldogs,37,81
+2007,Oklahoma State Cowboys,38,22
+2007,Florida State Seminoles,39,25
+2007,Air Force Falcons,40,79
+2007,UCLA Bruins,41,2
+2007,South Carolina Gamecocks,42,14
+2007,Boise State Broncos,43,110
+2007,New Mexico Lobos,44,84
+2007,Troy Trojans,45,86
+2007,Alabama Crimson Tide,46,33
+2007,UCF Knights,47,89
+2007,Tulsa Golden Hurricane,48,96
+2007,Rutgers Scarlet Knights,49,68
+2007,Purdue Boilermakers,50,72
+2007,Arizona Wildcats,51,4
+2007,Colorado Buffaloes,52,18
+2007,TCU Horned Frogs,53,73
+2007,Washington State Cougars,54,6
+2007,East Carolina Pirates,55,76
+2007,Michigan State Spartans,56,47
+2007,Nebraska Cornhuskers,57,7
+2007,Louisville Cardinals,58,43
+2007,Florida Atlantic Owls,59,85
+2007,Georgia Tech Yellow Jackets,60,55
+2007,Maryland Terrapins,61,29
+2007,Indiana Hoosiers,62,66
+2007,Vanderbilt Commodores,63,36
+2007,Washington Huskies,64,1
+2007,Kansas State Wildcats,65,40
+2007,Houston Cougars,66,100
+2007,Navy Midshipmen,67,95
+2007,Northwestern Wildcats,68,69
+2007,Pittsburgh Panthers,69,44
+2007,NC State Wolfpack,70,35
+2007,Stanford Cardinal,71,8
+2007,Central Michigan Chippewas,72,87
+2007,Iowa Hawkeyes,73,70
+2007,Miami Hurricanes,74,52
+2007,Bowling Green Falcons,75,113
+2007,Southern Mississippi Golden Eagles,76,93
+2007,Wyoming Cowboys,77,61
+2007,Ball State Cardinals,78,94
+2007,North Carolina Tar Heels,79,37
+2007,Louisiana Monroe Warhawks,80,90
+2007,Notre Dame Fighting Irish,81,11
+2007,San Diego State Aztecs,82,51
+2007,Ole Miss Rebels,83,17
+2007,Louisiana Tech Bulldogs,84,80
+2007,Baylor Bears,85,21
+2007,Iowa State Cyclones,86,26
+2007,San Jose State Spartans,87,83
+2007,Nevada Wolf Pack,88,101
+2007,Memphis Tigers,89,118
+2007,Miami (OH) RedHawks,90,105
+2007,Middle Tennessee Blue Raiders,91,92
+2007,Western Michigan Broncos,92,99
+2007,Arkansas State Red Wolves,93,104
+2007,Toledo Rockets,94,109
+2007,Ohio Bobcats,95,119
+2007,Syracuse Orange,96,28
+2007,Colorado State Rams,97,62
+2007,Buffalo Bulls,98,114
+2007,Marshall Thundering Herd,99,75
+2007,Eastern Michigan Eagles,100,102
+2007,UTEP Miners,101,106
+2007,Akron Zips,102,108
+2007,Army Black Knights,103,77
+2007,UNLV Rebels,104,59
+2007,Duke Blue Devils,105,24
+2007,Temple Owls,106,117
+2007,Tulane Green Wave,107,115
+2007,New Mexico State Aggies,108,97
+2007,Rice Owls,109,98
+2007,Louisiana Ragin' Cajuns,110,103
+2007,Utah State Aggies,111,78
+2007,Minnesota Golden Gophers,112,58
+2007,UAB Blazers,113,82
+2007,Kent State Golden Flashes,114,116
+2007,North Texas Mean Green,115,107
+2007,Northern Illinois Huskies,116,111
+2007,Florida Intl Golden Panthers,117,74
+2007,Idaho Vandals,118,88
+2007,SMU Mustangs,119,91
+2008,Texas Longhorns,1,17
+2008,Florida Gators,2,9
+2008,USC Trojans,3,7
+2008,Oklahoma Sooners,4,2
+2008,Utah Utes,5,74
+2008,Alabama Crimson Tide,6,28
+2008,Texas Tech Red Raiders,7,34
+2008,Penn State Nittany Lions,8,40
+2008,Ohio State Buckeyes,9,24
+2008,Oregon Ducks,10,20
+2008,Boise State Broncos,11,115
+2008,TCU Horned Frogs,12,77
+2008,Georgia Bulldogs,13,11
+2008,Oregon State Beavers,14,4
+2008,Oklahoma State Cowboys,15,43
+2008,Cincinnati Bearcats,16,63
+2008,Michigan State Spartans,17,18
+2008,Missouri Tigers,18,32
+2008,Ole Miss Rebels,19,42
+2008,California Golden Bears,20,37
+2008,Nebraska Cornhuskers,21,51
+2008,Georgia Tech Yellow Jackets,22,33
+2008,Virginia Tech Hokies,23,39
+2008,Pittsburgh Panthers,24,25
+2008,Florida State Seminoles,25,47
+2008,BYU Cougars,26,85
+2008,Kansas Jayhawks,27,38
+2008,Iowa Hawkeyes,28,58
+2008,Northwestern Wildcats,29,60
+2008,Rice Owls,30,93
+2008,Ball State Cardinals,31,120
+2008,West Virginia Mountaineers,32,55
+2008,LSU Tigers,33,41
+2008,Boston College Eagles,34,48
+2008,Arizona Wildcats,35,57
+2008,Wake Forest Demon Deacons,36,22
+2008,Maryland Terrapins,37,44
+2008,South Carolina Gamecocks,38,13
+2008,North Carolina Tar Heels,39,30
+2008,Vanderbilt Commodores,40,23
+2008,Tulsa Golden Hurricane,41,119
+2008,Connecticut Huskies,42,56
+2008,Rutgers Scarlet Knights,43,65
+2008,Miami Hurricanes,44,26
+2008,Wisconsin Badgers,45,49
+2008,South Florida Bulls,46,67
+2008,East Carolina Pirates,47,76
+2008,Stanford Cardinal,48,3
+2008,Clemson Tigers,49,50
+2008,Western Michigan Broncos,50,102
+2008,Navy Midshipmen,51,71
+2008,Notre Dame Fighting Irish,52,53
+2008,Arkansas Razorbacks,53,6
+2008,Kentucky Wildcats,54,62
+2008,Minnesota Golden Gophers,55,61
+2008,Air Force Falcons,56,82
+2008,NC State Wolfpack,57,15
+2008,Colorado Buffaloes,58,14
+2008,Virginia Cavaliers,59,5
+2008,Troy Trojans,60,100
+2008,Colorado State Rams,61,70
+2008,Houston Cougars,62,96
+2008,Arizona State Sun Devils,63,35
+2008,Illinois Fighting Illini,64,36
+2008,Auburn Tigers,65,31
+2008,Central Michigan Chippewas,66,103
+2008,Tennessee Volunteers,67,45
+2008,Buffalo Bulls,68,84
+2008,Louisiana Tech Bulldogs,69,117
+2008,UCLA Bruins,70,10
+2008,Baylor Bears,71,16
+2008,Kansas State Wildcats,72,59
+2008,Nevada Wolf Pack,73,91
+2008,Florida Atlantic Owls,74,95
+2008,Southern Mississippi Golden Eagles,75,92
+2008,Purdue Boilermakers,76,27
+2008,Fresno State Bulldogs,77,99
+2008,Duke Blue Devils,78,19
+2008,Texas A&M Aggies,79,29
+2008,Louisville Cardinals,80,66
+2008,Hawai'i Rainbow Warriors,81,90
+2008,Bowling Green Falcons,82,105
+2008,UNLV Rebels,83,78
+2008,Mississippi State Bulldogs,84,52
+2008,San Jose State Spartans,85,108
+2008,UTEP Miners,86,80
+2008,Syracuse Orange,87,12
+2008,Louisiana Ragin' Cajuns,88,112
+2008,Arkansas State Red Wolves,89,116
+2008,Michigan Wolverines,90,21
+2008,New Mexico Lobos,91,64
+2008,Florida Intl Golden Panthers,92,87
+2008,Memphis Tigers,93,109
+2008,Marshall Thundering Herd,94,68
+2008,Northern Illinois Huskies,95,114
+2008,Temple Owls,96,98
+2008,Wyoming Cowboys,97,72
+2008,Akron Zips,98,104
+2008,UCF Knights,99,79
+2008,Indiana Hoosiers,100,54
+2008,Middle Tennessee Blue Raiders,101,118
+2008,UAB Blazers,102,83
+2008,Washington State Cougars,103,8
+2008,Ohio Bobcats,104,101
+2008,Iowa State Cyclones,105,46
+2008,Kent State Golden Flashes,106,110
+2008,Utah State Aggies,107,73
+2008,Louisiana Monroe Warhawks,108,111
+2008,Toledo Rockets,109,97
+2008,Eastern Michigan Eagles,110,89
+2008,Army Black Knights,111,106
+2008,San Diego State Aztecs,112,75
+2008,New Mexico State Aggies,113,113
+2008,Tulane Green Wave,114,81
+2008,Miami (OH) RedHawks,115,94
+2008,SMU Mustangs,116,69
+2008,Western Kentucky Hilltoppers,117,88
+2008,Idaho Vandals,118,107
+2008,North Texas Mean Green,119,86
+2008,Washington Huskies,120,1
+2009,Alabama Crimson Tide,1,5
+2009,Florida Gators,2,20
+2009,Texas Longhorns,3,29
+2009,Boise State Broncos,4,95
+2009,Cincinnati Bearcats,5,59
+2009,TCU Horned Frogs,6,75
+2009,Iowa Hawkeyes,7,37
+2009,Georgia Tech Yellow Jackets,8,6
+2009,Ohio State Buckeyes,9,50
+2009,Oregon Ducks,10,7
+2009,Virginia Tech Hokies,11,17
+2009,Penn State Nittany Lions,12,64
+2009,LSU Tigers,13,16
+2009,BYU Cougars,14,73
+2009,Nebraska Cornhuskers,15,34
+2009,Miami Hurricanes,16,9
+2009,USC Trojans,17,15
+2009,Oklahoma State Cowboys,18,33
+2009,Texas Tech Red Raiders,19,51
+2009,Georgia Bulldogs,20,2
+2009,Central Michigan Chippewas,21,101
+2009,Wisconsin Badgers,22,62
+2009,Pittsburgh Panthers,23,57
+2009,Ole Miss Rebels,24,47
+2009,Utah Utes,25,82
+2009,Oklahoma Sooners,26,14
+2009,Arkansas Razorbacks,27,21
+2009,Arizona Wildcats,28,12
+2009,Clemson Tigers,29,23
+2009,Auburn Tigers,30,22
+2009,West Virginia Mountaineers,31,54
+2009,Stanford Cardinal,32,18
+2009,North Carolina Tar Heels,33,35
+2009,South Carolina Gamecocks,34,10
+2009,Oregon State Beavers,35,28
+2009,California Golden Bears,36,31
+2009,Florida State Seminoles,37,3
+2009,Navy Midshipmen,38,74
+2009,Boston College Eagles,39,44
+2009,Houston Cougars,40,78
+2009,Connecticut Huskies,41,49
+2009,Tennessee Volunteers,42,24
+2009,Missouri Tigers,43,52
+2009,UCLA Bruins,44,19
+2009,Middle Tennessee Blue Raiders,45,114
+2009,South Florida Bulls,46,63
+2009,Kentucky Wildcats,47,42
+2009,Rutgers Scarlet Knights,48,84
+2009,East Carolina Pirates,49,67
+2009,Mississippi State Bulldogs,50,1
+2009,Northwestern Wildcats,51,68
+2009,Troy Trojans,52,96
+2009,Notre Dame Fighting Irish,53,27
+2009,Washington Huskies,54,4
+2009,Air Force Falcons,55,83
+2009,UCF Knights,56,85
+2009,Iowa State Cyclones,57,61
+2009,Fresno State Bulldogs,58,89
+2009,Kansas State Wildcats,59,56
+2009,Texas A&M Aggies,60,40
+2009,Temple Owls,61,118
+2009,Minnesota Golden Gophers,62,32
+2009,SMU Mustangs,63,91
+2009,Wyoming Cowboys,64,69
+2009,Michigan State Spartans,65,39
+2009,Kansas Jayhawks,66,38
+2009,Wake Forest Demon Deacons,67,30
+2009,Ohio Bobcats,68,110
+2009,Nevada Wolf Pack,69,104
+2009,Idaho Vandals,70,105
+2009,Purdue Boilermakers,71,43
+2009,NC State Wolfpack,72,48
+2009,Baylor Bears,73,11
+2009,Duke Blue Devils,74,53
+2009,Marshall Thundering Herd,75,87
+2009,Michigan Wolverines,76,60
+2009,Southern Mississippi Golden Eagles,77,92
+2009,Arizona State Sun Devils,78,36
+2009,Bowling Green Falcons,79,100
+2009,Louisville Cardinals,80,41
+2009,Virginia Cavaliers,81,13
+2009,Louisiana Monroe Warhawks,82,99
+2009,Louisiana Ragin' Cajuns,83,106
+2009,Syracuse Orange,84,55
+2009,Northern Illinois Huskies,85,117
+2009,Indiana Hoosiers,86,58
+2009,UNLV Rebels,87,79
+2009,UAB Blazers,88,80
+2009,Colorado Buffaloes,89,45
+2009,Tulsa Golden Hurricane,90,93
+2009,Illinois Fighting Illini,91,46
+2009,Hawai'i Rainbow Warriors,92,102
+2009,Toledo Rockets,93,98
+2009,Buffalo Bulls,94,108
+2009,Florida Atlantic Owls,95,109
+2009,Utah State Aggies,96,77
+2009,Louisiana Tech Bulldogs,97,72
+2009,Army Black Knights,98,112
+2009,Maryland Terrapins,99,26
+2009,Western Michigan Broncos,100,115
+2009,San Diego State Aztecs,101,86
+2009,Kent State Golden Flashes,102,119
+2009,Vanderbilt Commodores,103,25
+2009,Washington State Cougars,104,8
+2009,UTEP Miners,105,111
+2009,Colorado State Rams,106,81
+2009,Arkansas State Red Wolves,107,113
+2009,Tulane Green Wave,108,88
+2009,Florida Intl Golden Panthers,109,90
+2009,Memphis Tigers,110,65
+2009,Rice Owls,111,70
+2009,Akron Zips,112,97
+2009,San Jose State Spartans,113,71
+2009,New Mexico State Aggies,114,103
+2009,New Mexico Lobos,115,66
+2009,Miami (OH) RedHawks,116,76
+2009,Ball State Cardinals,117,116
+2009,North Texas Mean Green,118,120
+2009,Western Kentucky Hilltoppers,119,107
+2009,Eastern Michigan Eagles,119,94
+2010,Auburn Tigers,1,7
+2010,Stanford Cardinal,2,17
+2010,Oregon Ducks,3,24
+2010,TCU Horned Frogs,4,79
+2010,LSU Tigers,5,11
+2010,Ohio State Buckeyes,6,59
+2010,Oklahoma Sooners,7,18
+2010,Arkansas Razorbacks,8,14
+2010,Alabama Crimson Tide,9,10
+2010,Nevada Wolf Pack,10,91
+2010,Boise State Broncos,11,84
+2010,Michigan State Spartans,12,54
+2010,Wisconsin Badgers,13,72
+2010,Virginia Tech Hokies,14,37
+2010,Oklahoma State Cowboys,15,47
+2010,Florida State Seminoles,16,9
+2010,Mississippi State Bulldogs,17,25
+2010,Missouri Tigers,18,43
+2010,South Carolina Gamecocks,19,5
+2010,Utah Utes,20,65
+2010,Texas A&M Aggies,21,23
+2010,Nebraska Cornhuskers,22,49
+2010,NC State Wolfpack,23,28
+2010,Florida Gators,24,13
+2010,USC Trojans,25,8
+2010,Maryland Terrapins,26,55
+2010,Washington Huskies,27,2
+2010,Tulsa Golden Hurricane,28,93
+2010,North Carolina Tar Heels,29,21
+2010,Air Force Falcons,30,76
+2010,West Virginia Mountaineers,31,63
+2010,Miami Hurricanes,32,6
+2010,Notre Dame Fighting Irish,33,29
+2010,UCF Knights,34,109
+2010,Iowa Hawkeyes,35,46
+2010,Arizona State Sun Devils,36,16
+2010,Texas Tech Red Raiders,37,52
+2010,Pittsburgh Panthers,38,36
+2010,Arizona Wildcats,39,19
+2010,Oregon State Beavers,40,1
+2010,South Florida Bulls,41,57
+2010,San Diego State Aztecs,42,89
+2010,Hawai'i Rainbow Warriors,43,88
+2010,Michigan Wolverines,44,31
+2010,Northern Illinois Huskies,45,116
+2010,Navy Midshipmen,46,80
+2010,Connecticut Huskies,47,60
+2010,Miami (OH) RedHawks,48,102
+2010,Baylor Bears,49,44
+2010,Penn State Nittany Lions,50,45
+2010,Syracuse Orange,51,69
+2010,Boston College Eagles,52,38
+2010,Tennessee Volunteers,53,33
+2010,Georgia Bulldogs,54,27
+2010,Clemson Tigers,55,22
+2010,Illinois Fighting Illini,56,53
+2010,Fresno State Bulldogs,57,81
+2010,California Golden Bears,58,12
+2010,Kansas State Wildcats,59,56
+2010,BYU Cougars,60,74
+2010,Kentucky Wildcats,61,39
+2010,Iowa State Cyclones,62,15
+2010,Temple Owls,63,108
+2010,Northwestern Wildcats,64,70
+2010,Louisville Cardinals,65,68
+2010,UCLA Bruins,66,3
+2010,Toledo Rockets,67,97
+2010,Georgia Tech Yellow Jackets,68,50
+2010,Colorado Buffaloes,69,34
+2010,Southern Mississippi Golden Eagles,70,104
+2010,Texas Longhorns,71,51
+2010,East Carolina Pirates,72,64
+2010,Troy Trojans,73,114
+2010,Ohio Bobcats,74,119
+2010,Indiana Hoosiers,75,73
+2010,Florida Intl Golden Panthers,76,105
+2010,Army Black Knights,77,100
+2010,SMU Mustangs,78,83
+2010,Ole Miss Rebels,79,48
+2010,Virginia Cavaliers,80,42
+2010,Cincinnati Bearcats,81,41
+2010,Idaho Vandals,82,82
+2010,Louisiana Tech Bulldogs,83,78
+2010,Purdue Boilermakers,84,58
+2010,Wake Forest Demon Deacons,85,26
+2010,Washington State Cougars,86,4
+2010,Minnesota Golden Gophers,87,32
+2010,Rutgers Scarlet Knights,88,67
+2010,Marshall Thundering Herd,89,86
+2010,Duke Blue Devils,90,35
+2010,Houston Cougars,91,85
+2010,Western Michigan Broncos,92,115
+2010,Utah State Aggies,93,75
+2010,Louisiana Monroe Warhawks,94,95
+2010,Kansas Jayhawks,95,40
+2010,UTEP Miners,96,112
+2010,Vanderbilt Commodores,97,20
+2010,Kent State Golden Flashes,98,113
+2010,Colorado State Rams,99,62
+2010,Wyoming Cowboys,100,66
+2010,Rice Owls,101,90
+2010,UAB Blazers,102,92
+2010,Tulane Green Wave,103,96
+2010,Middle Tennessee Blue Raiders,104,120
+2010,UNLV Rebels,105,30
+2010,Florida Atlantic Owls,106,107
+2010,Arkansas State Red Wolves,107,106
+2010,Ball State Cardinals,108,117
+2010,Louisiana Ragin' Cajuns,109,99
+2010,Central Michigan Chippewas,110,94
+2010,North Texas Mean Green,111,118
+2010,New Mexico State Aggies,112,87
+2010,Eastern Michigan Eagles,113,98
+2010,Bowling Green Falcons,114,101
+2010,New Mexico Lobos,115,71
+2010,Memphis Tigers,116,77
+2010,Western Kentucky Hilltoppers,117,103
+2010,San Jose State Spartans,118,61
+2010,Buffalo Bulls,119,110
+2010,Akron Zips,120,111
+2011,LSU Tigers,1,8
+2011,Oklahoma State Cowboys,2,4
+2011,Alabama Crimson Tide,3,24
+2011,Oregon Ducks,4,14
+2011,Arkansas Razorbacks,5,39
+2011,USC Trojans,6,17
+2011,Stanford Cardinal,7,21
+2011,Kansas State Wildcats,8,12
+2011,Boise State Broncos,9,73
+2011,Michigan State Spartans,10,34
+2011,South Carolina Gamecocks,11,32
+2011,Baylor Bears,12,19
+2011,Oklahoma Sooners,13,9
+2011,Michigan Wolverines,14,41
+2011,Houston Cougars,15,109
+2011,Wisconsin Badgers,16,50
+2011,TCU Horned Frogs,17,84
+2011,Georgia Bulldogs,18,28
+2011,Penn State Nittany Lions,19,38
+2011,Southern Mississippi Golden Eagles,20,95
+2011,Auburn Tigers,21,23
+2011,West Virginia Mountaineers,22,63
+2011,Texas Longhorns,23,7
+2011,Nebraska Cornhuskers,24,35
+2011,Virginia Tech Hokies,25,58
+2011,Missouri Tigers,26,22
+2011,Clemson Tigers,27,43
+2011,Cincinnati Bearcats,28,70
+2011,BYU Cougars,29,81
+2011,Notre Dame Fighting Irish,30,15
+2011,Florida State Seminoles,31,52
+2011,Washington Huskies,32,20
+2011,Texas A&M Aggies,33,13
+2011,Florida Gators,34,30
+2011,Tulsa Golden Hurricane,35,60
+2011,Northern Illinois Huskies,36,113
+2011,Utah Utes,37,33
+2011,California Golden Bears,38,26
+2011,Rutgers Scarlet Knights,39,75
+2011,Iowa State Cyclones,40,5
+2011,SMU Mustangs,41,71
+2011,Mississippi State Bulldogs,42,45
+2011,Toledo Rockets,43,88
+2011,Arkansas State Red Wolves,44,117
+2011,Virginia Cavaliers,45,62
+2011,Georgia Tech Yellow Jackets,46,66
+2011,UCLA Bruins,47,3
+2011,NC State Wolfpack,48,72
+2011,Louisiana Tech Bulldogs,49,77
+2011,Arizona State Sun Devils,50,16
+2011,Ohio State Buckeyes,51,27
+2011,Iowa Hawkeyes,52,49
+2011,Tennessee Volunteers,53,18
+2011,Louisiana Ragin' Cajuns,54,114
+2011,Illinois Fighting Illini,55,48
+2011,Purdue Boilermakers,56,59
+2011,Wyoming Cowboys,57,86
+2011,San Diego State Aztecs,58,91
+2011,Vanderbilt Commodores,59,36
+2011,North Carolina Tar Heels,60,53
+2011,Texas Tech Red Raiders,61,29
+2011,Marshall Thundering Herd,62,61
+2011,Miami Hurricanes,63,47
+2011,Louisville Cardinals,64,64
+2011,Ohio Bobcats,65,119
+2011,Temple Owls,66,118
+2011,Wake Forest Demon Deacons,67,42
+2011,Arizona Wildcats,68,11
+2011,Northwestern Wildcats,69,51
+2011,Kentucky Wildcats,70,44
+2011,Nevada Wolf Pack,71,89
+2011,Pittsburgh Panthers,72,55
+2011,Air Force Falcons,73,93
+2011,Ball State Cardinals,74,83
+2011,Western Michigan Broncos,75,96
+2011,Syracuse Orange,76,57
+2011,Oregon State Beavers,77,6
+2011,Washington State Cougars,78,37
+2011,South Florida Bulls,79,65
+2011,Western Kentucky Hilltoppers,80,116
+2011,Florida Intl Golden Panthers,81,120
+2011,Utah State Aggies,82,107
+2011,Boston College Eagles,83,40
+2011,Colorado Buffaloes,84,1
+2011,Connecticut Huskies,85,69
+2011,East Carolina Pirates,86,74
+2011,Navy Midshipmen,87,76
+2011,San Jose State Spartans,88,80
+2011,Eastern Michigan Eagles,89,110
+2011,Minnesota Golden Gophers,90,25
+2011,Rice Owls,91,56
+2011,UTEP Miners,92,85
+2011,Kansas Jayhawks,93,2
+2011,North Texas Mean Green,94,94
+2011,Ole Miss Rebels,95,10
+2011,UCF Knights,96,99
+2011,Bowling Green Falcons,97,102
+2011,Kent State Golden Flashes,98,100
+2011,Duke Blue Devils,99,46
+2011,Hawai'i Rainbow Warriors,100,112
+2011,Miami (OH) RedHawks,101,87
+2011,Maryland Terrapins,102,31
+2011,Fresno State Bulldogs,103,78
+2011,New Mexico State Aggies,104,92
+2011,Louisiana Monroe Warhawks,105,108
+2011,UAB Blazers,106,79
+2011,Army Black Knights,107,82
+2011,UNLV Rebels,108,67
+2011,Central Michigan Chippewas,109,97
+2011,Troy Trojans,110,101
+2011,Colorado State Rams,111,103
+2011,Buffalo Bulls,112,106
+2011,Idaho Vandals,113,90
+2011,Indiana Hoosiers,114,54
+2011,New Mexico Lobos,115,68
+2011,Memphis Tigers,116,111
+2011,Middle Tennessee Blue Raiders,117,115
+2011,Tulane Green Wave,118,104
+2011,Florida Atlantic Owls,119,98
+2011,Akron Zips,120,105
+2012,Alabama Crimson Tide,1,19
+2012,Notre Dame Fighting Irish,2,15
+2012,Ohio State Buckeyes,3,58
+2012,Florida Gators,4,12
+2012,Oregon Ducks,5,42
+2012,Kansas State Wildcats,6,16
+2012,Stanford Cardinal,7,18
+2012,Texas A&M Aggies,8,11
+2012,South Carolina Gamecocks,9,25
+2012,Georgia Bulldogs,10,33
+2012,Oklahoma Sooners,11,3
+2012,LSU Tigers,12,29
+2012,Clemson Tigers,13,57
+2012,Florida State Seminoles,14,63
+2012,Texas Longhorns,15,10
+2012,Louisville Cardinals,16,69
+2012,Oregon State Beavers,17,7
+2012,Nebraska Cornhuskers,18,21
+2012,Northwestern Wildcats,19,48
+2012,Utah State Aggies,20,92
+2012,San Jose State Spartans,21,89
+2012,Vanderbilt Commodores,22,44
+2012,Baylor Bears,23,5
+2012,Boise State Broncos,24,104
+2012,Arizona Wildcats,25,27
+2012,Michigan Wolverines,26,35
+2012,Northern Illinois Huskies,27,122
+2012,Texas Tech Red Raiders,28,37
+2012,UCLA Bruins,29,23
+2012,Oklahoma State Cowboys,30,22
+2012,Arkansas State Red Wolves,31,97
+2012,Tulsa Golden Hurricane,32,82
+2012,TCU Horned Frogs,33,14
+2012,Mississippi State Bulldogs,34,55
+2012,Ole Miss Rebels,35,24
+2012,Miami Hurricanes,36,31
+2012,Arizona State Sun Devils,37,49
+2012,USC Trojans,38,13
+2012,Cincinnati Bearcats,39,79
+2012,West Virginia Mountaineers,40,20
+2012,Missouri Tigers,41,1
+2012,Washington Huskies,42,26
+2012,Louisiana Tech Bulldogs,43,106
+2012,Penn State Nittany Lions,44,60
+2012,Kent State Golden Flashes,45,112
+2012,Wisconsin Badgers,46,36
+2012,Rutgers Scarlet Knights,47,70
+2012,Syracuse Orange,48,43
+2012,BYU Cougars,49,65
+2012,Michigan State Spartans,50,32
+2012,Ball State Cardinals,51,74
+2012,UCF Knights,52,86
+2012,Iowa State Cyclones,53,6
+2012,Fresno State Bulldogs,54,99
+2012,Virginia Tech Hokies,55,40
+2012,Louisiana Ragin' Cajuns,56,105
+2012,Toledo Rockets,57,91
+2012,San Diego State Aztecs,58,95
+2012,North Carolina Tar Heels,59,73
+2012,Georgia Tech Yellow Jackets,60,41
+2012,NC State Wolfpack,61,59
+2012,Middle Tennessee Blue Raiders,62,109
+2012,Tennessee Volunteers,63,34
+2012,Navy Midshipmen,64,88
+2012,Duke Blue Devils,65,50
+2012,Ohio Bobcats,66,123
+2012,Purdue Boilermakers,67,53
+2012,SMU Mustangs,68,71
+2012,East Carolina Pirates,69,108
+2012,Utah Utes,70,38
+2012,Louisiana Monroe Warhawks,71,94
+2012,Arkansas Razorbacks,72,17
+2012,Minnesota Golden Gophers,73,56
+2012,Wake Forest Demon Deacons,74,52
+2012,Bowling Green Falcons,75,120
+2012,Pittsburgh Panthers,76,61
+2012,UT San Antonio Roadrunners,77,124
+2012,California Golden Bears,78,4
+2012,Auburn Tigers,79,9
+2012,Western Kentucky Hilltoppers,80,113
+2012,Rice Owls,81,110
+2012,Nevada Wolf Pack,82,111
+2012,Connecticut Huskies,83,68
+2012,Iowa Hawkeyes,84,47
+2012,Temple Owls,85,64
+2012,Maryland Terrapins,86,54
+2012,Virginia Cavaliers,87,51
+2012,Central Michigan Chippewas,88,121
+2012,Washington State Cougars,89,30
+2012,Indiana Hoosiers,90,62
+2012,Kentucky Wildcats,91,8
+2012,South Florida Bulls,92,46
+2012,Marshall Thundering Herd,93,100
+2012,Air Force Falcons,94,118
+2012,Houston Cougars,95,107
+2012,Troy Trojans,96,116
+2012,Kansas Jayhawks,97,2
+2012,North Texas Mean Green,98,76
+2012,Miami (OH) RedHawks,99,80
+2012,Buffalo Bulls,100,81
+2012,Boston College Eagles,101,39
+2012,Colorado State Rams,102,87
+2012,UTEP Miners,103,67
+2012,Wyoming Cowboys,104,102
+2012,Illinois Fighting Illini,105,45
+2012,Texas State Bobcats,106,93
+2012,Memphis Tigers,107,117
+2012,Western Michigan Broncos,108,119
+2012,Florida Atlantic Owls,109,83
+2012,Colorado Buffaloes,110,28
+2012,UAB Blazers,111,84
+2012,Hawai'i Rainbow Warriors,112,75
+2012,Florida Intl Golden Panthers,113,98
+2012,New Mexico Lobos,114,114
+2012,Eastern Michigan Eagles,115,78
+2012,Tulane Green Wave,116,85
+2012,Army Black Knights,117,101
+2012,Idaho Vandals,118,66
+2012,UNLV Rebels,119,103
+2012,Massachusetts Minutemen,120,77
+2012,South Alabama Jaguars,121,115
+2012,New Mexico State Aggies,122,96
+2012,Akron Zips,123,90
+2012,Southern Mississippi Golden Eagles,124,72
+2013,Florida State Seminoles,1,63
+2013,Auburn Tigers,2,9
+2013,Michigan State Spartans,3,55
+2013,Oklahoma Sooners,4,33
+2013,Missouri Tigers,5,19
+2013,Stanford Cardinal,6,3
+2013,South Carolina Gamecocks,7,8
+2013,UCF Knights,8,73
+2013,Oregon Ducks,9,34
+2013,Alabama Crimson Tide,10,38
+2013,Clemson Tigers,11,51
+2013,UCLA Bruins,12,18
+2013,Baylor Bears,13,52
+2013,LSU Tigers,14,26
+2013,Arizona State Sun Devils,15,1
+2013,Ohio State Buckeyes,16,57
+2013,Oklahoma State Cowboys,17,25
+2013,Washington Huskies,18,24
+2013,Louisville Cardinals,19,103
+2013,USC Trojans,20,14
+2013,Texas A&M Aggies,21,32
+2013,Notre Dame Fighting Irish,22,31
+2013,Ole Miss Rebels,23,21
+2013,Georgia Bulldogs,24,5
+2013,Vanderbilt Commodores,25,48
+2013,Texas Longhorns,26,7
+2013,Wisconsin Badgers,27,50
+2013,Northern Illinois Huskies,28,113
+2013,Duke Blue Devils,29,56
+2013,Miami Hurricanes,30,49
+2013,Fresno State Bulldogs,31,107
+2013,Texas Tech Red Raiders,32,36
+2013,Arizona Wildcats,33,37
+2013,Nebraska Cornhuskers,34,60
+2013,Mississippi State Bulldogs,35,13
+2013,Kansas State Wildcats,36,45
+2013,Virginia Tech Hokies,37,28
+2013,BYU Cougars,38,30
+2013,Iowa Hawkeyes,39,44
+2013,Washington State Cougars,40,6
+2013,Oregon State Beavers,41,27
+2013,East Carolina Pirates,42,111
+2013,Utah Utes,43,2
+2013,Minnesota Golden Gophers,44,58
+2013,Rice Owls,45,101
+2013,Georgia Tech Yellow Jackets,46,43
+2013,Pittsburgh Panthers,47,35
+2013,Navy Midshipmen,48,86
+2013,Penn State Nittany Lions,49,59
+2013,Michigan Wolverines,50,41
+2013,Tennessee Volunteers,51,11
+2013,Boston College Eagles,52,53
+2013,Boise State Broncos,53,75
+2013,Utah State Aggies,54,76
+2013,Ball State Cardinals,55,123
+2013,Cincinnati Bearcats,56,105
+2013,Bowling Green Falcons,57,114
+2013,Houston Cougars,58,72
+2013,Syracuse Orange,59,54
+2013,North Carolina Tar Heels,60,47
+2013,Marshall Thundering Herd,61,118
+2013,San Diego State Aztecs,62,84
+2013,Toledo Rockets,63,80
+2013,UT San Antonio Roadrunners,64,82
+2013,Middle Tennessee Blue Raiders,65,96
+2013,North Texas Mean Green,66,119
+2013,Indiana Hoosiers,67,40
+2013,Louisiana Ragin' Cajuns,68,120
+2013,Buffalo Bulls,69,108
+2013,Maryland Terrapins,70,68
+2013,Florida Gators,71,10
+2013,Colorado Buffaloes,72,16
+2013,Arkansas State Red Wolves,73,112
+2013,Northwestern Wildcats,74,46
+2013,TCU Horned Frogs,75,23
+2013,Western Kentucky Hilltoppers,76,122
+2013,Old Dominion Monarchs,77,124
+2013,San Jose State Spartans,78,71
+2013,Colorado State Rams,79,102
+2013,West Virginia Mountaineers,80,39
+2013,UNLV Rebels,81,95
+2013,Illinois Fighting Illini,82,42
+2013,Rutgers Scarlet Knights,83,77
+2013,Arkansas Razorbacks,84,12
+2013,Florida Atlantic Owls,85,97
+2013,Louisiana Monroe Warhawks,86,100
+2013,SMU Mustangs,87,67
+2013,Ohio Bobcats,88,110
+2013,Iowa State Cyclones,89,17
+2013,Troy Trojans,90,104
+2013,Tulane Green Wave,91,115
+2013,Kansas Jayhawks,92,29
+2013,Wake Forest Demon Deacons,93,62
+2013,Central Michigan Chippewas,94,116
+2013,Nevada Wolf Pack,95,65
+2013,Akron Zips,96,87
+2013,South Alabama Jaguars,97,121
+2013,Wyoming Cowboys,98,99
+2013,Virginia Cavaliers,99,15
+2013,Texas State Bobcats,100,125
+2013,Kentucky Wildcats,101,22
+2013,Kent State Golden Flashes,102,85
+2013,California Golden Bears,103,4
+2013,NC State Wolfpack,104,64
+2013,Connecticut Huskies,105,70
+2013,Tulsa Golden Hurricane,106,74
+2013,Memphis Tigers,107,79
+2013,South Florida Bulls,108,61
+2013,Purdue Boilermakers,109,20
+2013,New Mexico Lobos,110,90
+2013,Army Black Knights,111,106
+2013,Temple Owls,112,78
+2013,Louisiana Tech Bulldogs,113,126
+2013,Hawai'i Rainbow Warriors,114,66
+2013,Air Force Falcons,115,91
+2013,UAB Blazers,116,88
+2013,New Mexico State Aggies,117,94
+2013,Eastern Michigan Eagles,118,98
+2013,Idaho Vandals,119,69
+2013,UTEP Miners,120,109
+2013,Southern Mississippi Golden Eagles,121,81
+2013,Massachusetts Minutemen,122,83
+2013,Western Michigan Broncos,123,89
+2013,Florida Intl Golden Panthers,124,93
+2013,Miami (OH) RedHawks,125,92
+2013,Georgia State Panthers,125,117
+2014,Ohio State Buckeyes,1,35
+2014,Alabama Crimson Tide,2,4
+2014,Florida State Seminoles,3,24
+2014,TCU Horned Frogs,4,45
+2014,Oregon Ducks,5,13
+2014,Michigan State Spartans,6,53
+2014,Baylor Bears,7,54
+2014,UCLA Bruins,8,1
+2014,Missouri Tigers,9,16
+2014,Mississippi State Bulldogs,10,44
+2014,Georgia Bulldogs,11,20
+2014,Ole Miss Rebels,12,5
+2014,Georgia Tech Yellow Jackets,13,25
+2014,Arizona State Sun Devils,14,26
+2014,Arizona Wildcats,15,22
+2014,Clemson Tigers,16,50
+2014,Auburn Tigers,17,2
+2014,Wisconsin Badgers,18,57
+2014,Kansas State Wildcats,19,39
+2014,Utah Utes,20,17
+2014,LSU Tigers,21,7
+2014,USC Trojans,22,8
+2014,Texas A&M Aggies,23,15
+2014,Boise State Broncos,24,77
+2014,Stanford Cardinal,25,23
+2014,Marshall Thundering Herd,26,126
+2014,Louisville Cardinals,27,47
+2014,Arkansas Razorbacks,28,3
+2014,Memphis Tigers,29,82
+2014,Oklahoma Sooners,30,21
+2014,Florida Gators,31,33
+2014,Nebraska Cornhuskers,32,63
+2014,Notre Dame Fighting Irish,33,29
+2014,Minnesota Golden Gophers,34,51
+2014,West Virginia Mountaineers,35,9
+2014,Rutgers Scarlet Knights,36,42
+2014,Tennessee Volunteers,37,18
+2014,Oklahoma State Cowboys,38,38
+2014,Colorado State Rams,39,92
+2014,Duke Blue Devils,40,68
+2014,South Carolina Gamecocks,41,28
+2014,Northern Illinois Huskies,42,108
+2014,Cincinnati Bearcats,43,71
+2014,Maryland Terrapins,44,32
+2014,Washington Huskies,45,48
+2014,Texas Longhorns,46,11
+2014,NC State Wolfpack,47,66
+2014,Air Force Falcons,48,113
+2014,Utah State Aggies,49,95
+2014,UCF Knights,50,87
+2014,Georgia Southern Eagles,51,122
+2014,Virginia Tech Hokies,52,49
+2014,BYU Cougars,53,67
+2014,California Golden Bears,54,10
+2014,Boston College Eagles,55,58
+2014,Louisiana Tech Bulldogs,56,86
+2014,Louisiana Ragin' Cajuns,57,107
+2014,Miami Hurricanes,58,31
+2014,Kentucky Wildcats,59,36
+2014,Toledo Rockets,60,101
+2014,Iowa Hawkeyes,61,59
+2014,East Carolina Pirates,62,76
+2014,Penn State Nittany Lions,63,64
+2014,North Carolina Tar Heels,64,34
+2014,Oregon State Beavers,65,37
+2014,Virginia Cavaliers,66,30
+2014,Rice Owls,67,89
+2014,Navy Midshipmen,68,81
+2014,Illinois Fighting Illini,69,55
+2014,Michigan Wolverines,70,43
+2014,Houston Cougars,71,100
+2014,Northwestern Wildcats,72,46
+2014,Texas Tech Red Raiders,73,27
+2014,Pittsburgh Panthers,74,62
+2014,Western Kentucky Hilltoppers,75,105
+2014,Nevada Wolf Pack,76,78
+2014,Western Michigan Broncos,77,117
+2014,Temple Owls,78,80
+2014,Washington State Cougars,79,12
+2014,UAB Blazers,80,90
+2014,Kansas Jayhawks,81,19
+2014,UTEP Miners,82,102
+2014,Bowling Green Falcons,83,110
+2014,Indiana Hoosiers,84,56
+2014,San Diego State Aztecs,85,104
+2014,Middle Tennessee Blue Raiders,86,96
+2014,Arkansas State Red Wolves,87,109
+2014,Appalachian State Mountaineers,88,125
+2014,Central Michigan Chippewas,89,115
+2014,Fresno State Bulldogs,90,73
+2014,Old Dominion Monarchs,91,106
+2014,Texas State Bobcats,92,127
+2014,Vanderbilt Commodores,93,41
+2014,Syracuse Orange,94,40
+2014,Iowa State Cyclones,95,6
+2014,Ohio Bobcats,96,114
+2014,South Alabama Jaguars,97,99
+2014,Purdue Boilermakers,98,52
+2014,Colorado Buffaloes,99,14
+2014,Wyoming Cowboys,100,72
+2014,South Florida Bulls,101,70
+2014,Wake Forest Demon Deacons,102,61
+2014,Tulane Green Wave,103,65
+2014,Louisiana Monroe Warhawks,104,83
+2014,Ball State Cardinals,105,123
+2014,UT San Antonio Roadrunners,106,91
+2014,Akron Zips,107,120
+2014,Buffalo Bulls,108,128
+2014,New Mexico Lobos,109,94
+2014,Southern Mississippi Golden Eagles,110,75
+2014,Hawai'i Rainbow Warriors,111,85
+2014,San Jose State Spartans,112,74
+2014,Florida Intl Golden Panthers,113,112
+2014,Army Black Knights,114,116
+2014,Florida Atlantic Owls,115,88
+2014,North Texas Mean Green,116,119
+2014,Tulsa Golden Hurricane,117,69
+2014,SMU Mustangs,118,60
+2014,Troy Trojans,119,111
+2014,Massachusetts Minutemen,120,118
+2014,Kent State Golden Flashes,121,103
+2014,Connecticut Huskies,122,84
+2014,Eastern Michigan Eagles,123,93
+2014,UNLV Rebels,124,79
+2014,Miami (OH) RedHawks,125,97
+2014,New Mexico State Aggies,126,124
+2014,Georgia State Panthers,127,98
+2014,Idaho Vandals,128,121
+2015,Alabama Crimson Tide,1,1
+2015,Clemson Tigers,2,17
+2015,Oklahoma Sooners,3,26
+2015,Ohio State Buckeyes,4,57
+2015,Stanford Cardinal,5,13
+2015,Michigan State Spartans,6,36
+2015,TCU Horned Frogs,7,42
+2015,Ole Miss Rebels,8,23
+2015,LSU Tigers,9,3
+2015,Notre Dame Fighting Irish,10,16
+2015,Iowa Hawkeyes,11,59
+2015,Oklahoma State Cowboys,12,38
+2015,Houston Cougars,13,94
+2015,Florida Gators,14,18
+2015,Utah Utes,15,29
+2015,Georgia Bulldogs,16,44
+2015,Northwestern Wildcats,17,41
+2015,Mississippi State Bulldogs,18,12
+2015,Baylor Bears,19,60
+2015,North Carolina Tar Heels,20,53
+2015,Oregon Ducks,21,22
+2015,Michigan Wolverines,22,49
+2015,Navy Midshipmen,23,81
+2015,Florida State Seminoles,24,52
+2015,Arkansas Razorbacks,25,7
+2015,Tennessee Volunteers,26,32
+2015,Wisconsin Badgers,27,66
+2015,Western Kentucky Hilltoppers,28,95
+2015,Washington State Cougars,29,50
+2015,Toledo Rockets,30,87
+2015,California Golden Bears,31,11
+2015,Texas A&M Aggies,32,27
+2015,USC Trojans,33,2
+2015,Auburn Tigers,34,5
+2015,BYU Cougars,35,65
+2015,West Virginia Mountaineers,36,46
+2015,Miami Hurricanes,37,30
+2015,Texas Tech Red Raiders,38,25
+2015,UCLA Bruins,39,33
+2015,Memphis Tigers,40,67
+2015,Appalachian State Mountaineers,41,128
+2015,Louisville Cardinals,42,35
+2015,Pittsburgh Panthers,43,28
+2015,Temple Owls,44,78
+2015,Washington Huskies,45,24
+2015,San Diego State Aztecs,46,121
+2015,Bowling Green Falcons,47,82
+2015,Texas Longhorns,48,9
+2015,Georgia Southern Eagles,49,104
+2015,Arizona Wildcats,50,61
+2015,Arizona State Sun Devils,51,21
+2015,Marshall Thundering Herd,52,127
+2015,Virginia Tech Hokies,53,43
+2015,Penn State Nittany Lions,54,56
+2015,Western Michigan Broncos,55,75
+2015,Duke Blue Devils,56,68
+2015,Louisiana Tech Bulldogs,57,110
+2015,Boise State Broncos,58,98
+2015,Kansas State Wildcats,59,34
+2015,Arkansas State Red Wolves,60,114
+2015,South Florida Bulls,61,72
+2015,NC State Wolfpack,62,63
+2015,Southern Mississippi Golden Eagles,63,101
+2015,Minnesota Golden Gophers,64,47
+2015,Missouri Tigers,65,31
+2015,Indiana Hoosiers,66,54
+2015,Nebraska Cornhuskers,67,45
+2015,Cincinnati Bearcats,68,69
+2015,Vanderbilt Commodores,69,8
+2015,Illinois Fighting Illini,70,48
+2015,Air Force Falcons,71,86
+2015,Kentucky Wildcats,72,51
+2015,Northern Illinois Huskies,73,88
+2015,Akron Zips,74,116
+2015,Virginia Cavaliers,75,15
+2015,Ohio Bobcats,76,112
+2015,Central Michigan Chippewas,77,85
+2015,Middle Tennessee Blue Raiders,78,91
+2015,Iowa State Cyclones,79,4
+2015,Syracuse Orange,80,39
+2015,South Carolina Gamecocks,81,14
+2015,Connecticut Huskies,82,74
+2015,Utah State Aggies,83,76
+2015,Maryland Terrapins,84,19
+2015,New Mexico Lobos,85,111
+2015,Georgia Tech Yellow Jackets,86,20
+2015,Tulsa Golden Hurricane,87,80
+2015,Nevada Wolf Pack,88,119
+2015,East Carolina Pirates,89,70
+2015,Rutgers Scarlet Knights,90,62
+2015,Colorado State Rams,91,117
+2015,Wake Forest Demon Deacons,92,37
+2015,San Jose State Spartans,93,96
+2015,Colorado Buffaloes,94,55
+2015,South Alabama Jaguars,95,92
+2015,Oregon State Beavers,96,10
+2015,Boston College Eagles,97,58
+2015,Georgia State Panthers,98,123
+2015,Rice Owls,99,109
+2015,Florida Intl Golden Panthers,100,115
+2015,Old Dominion Monarchs,101,118
+2015,Purdue Boilermakers,102,40
+2015,UTEP Miners,103,122
+2015,Buffalo Bulls,104,126
+2015,Troy Trojans,105,93
+2015,Idaho Vandals,106,100
+2015,Fresno State Bulldogs,107,77
+2015,Tulane Green Wave,108,79
+2015,SMU Mustangs,109,64
+2015,Ball State Cardinals,110,83
+2015,UNLV Rebels,111,90
+2015,Louisiana Ragin' Cajuns,112,125
+2015,Kent State Golden Flashes,113,97
+2015,Massachusetts Minutemen,114,102
+2015,Miami (OH) RedHawks,115,103
+2015,New Mexico State Aggies,116,107
+2015,Florida Atlantic Owls,117,108
+2015,Hawai'i Rainbow Warriors,118,89
+2015,UT San Antonio Roadrunners,119,106
+2015,Texas State Bobcats,120,105
+2015,Wyoming Cowboys,121,84
+2015,North Texas Mean Green,122,71
+2015,Louisiana Monroe Warhawks,123,99
+2015,Army Black Knights,124,120
+2015,Charlotte 49ers,125,124
+2015,Eastern Michigan Eagles,126,113
+2015,UCF Knights,127,73
+2015,Kansas Jayhawks,127,6
+2016,Alabama Crimson Tide,1,1
+2016,Clemson Tigers,2,9
+2016,Ohio State Buckeyes,3,20
+2016,Oklahoma Sooners,4,10
+2016,Washington Huskies,5,52
+2016,Florida State Seminoles,6,2
+2016,Wisconsin Badgers,7,25
+2016,USC Trojans,8,7
+2016,Penn State Nittany Lions,9,37
+2016,Stanford Cardinal,10,5
+2016,Colorado Buffaloes,11,18
+2016,Michigan Wolverines,12,53
+2016,West Virginia Mountaineers,13,22
+2016,Oklahoma State Cowboys,14,41
+2016,Western Michigan Broncos,15,108
+2016,LSU Tigers,16,3
+2016,Florida Gators,17,27
+2016,Kansas State Wildcats,18,32
+2016,Virginia Tech Hokies,19,44
+2016,South Florida Bulls,20,76
+2016,Miami Hurricanes,21,26
+2016,Georgia Tech Yellow Jackets,22,45
+2016,Auburn Tigers,23,16
+2016,Tennessee Volunteers,24,43
+2016,Louisville Cardinals,25,58
+2016,Nebraska Cornhuskers,26,59
+2016,Utah Utes,27,51
+2016,Pittsburgh Panthers,28,30
+2016,Texas A&M Aggies,29,38
+2016,Tulsa Golden Hurricane,30,83
+2016,Minnesota Golden Gophers,31,66
+2016,Arkansas Razorbacks,32,6
+2016,North Carolina Tar Heels,33,29
+2016,Georgia Bulldogs,34,36
+2016,Western Kentucky Hilltoppers,35,98
+2016,Boise State Broncos,36,78
+2016,Houston Cougars,37,71
+2016,Washington State Cougars,38,49
+2016,Iowa Hawkeyes,39,55
+2016,BYU Cougars,40,68
+2016,Appalachian State Mountaineers,41,102
+2016,NC State Wolfpack,42,46
+2016,Temple Owls,43,84
+2016,San Diego State Aztecs,44,112
+2016,Kentucky Wildcats,45,54
+2016,Troy Trojans,46,125
+2016,Northwestern Wildcats,47,47
+2016,Old Dominion Monarchs,48,127
+2016,Air Force Falcons,49,113
+2016,Boston College Eagles,50,63
+2016,Baylor Bears,51,57
+2016,Ole Miss Rebels,52,4
+2016,Wake Forest Demon Deacons,53,60
+2016,Navy Midshipmen,54,69
+2016,Idaho Vandals,55,103
+2016,Memphis Tigers,56,70
+2016,Toledo Rockets,57,104
+2016,Vanderbilt Commodores,58,24
+2016,Mississippi State Bulldogs,59,48
+2016,California Golden Bears,60,8
+2016,TCU Horned Frogs,61,39
+2016,South Carolina Gamecocks,62,50
+2016,Texas Longhorns,63,21
+2016,Texas Tech Red Raiders,64,28
+2016,Arizona State Sun Devils,65,31
+2016,Louisiana Tech Bulldogs,66,95
+2016,New Mexico Lobos,67,126
+2016,Indiana Hoosiers,68,62
+2016,Maryland Terrapins,69,64
+2016,Syracuse Orange,70,11
+2016,Wyoming Cowboys,71,77
+2016,Oregon Ducks,72,14
+2016,UCLA Bruins,73,12
+2016,Duke Blue Devils,74,13
+2016,Oregon State Beavers,75,15
+2016,Army Black Knights,76,107
+2016,Colorado State Rams,77,82
+2016,Arkansas State Red Wolves,78,116
+2016,Middle Tennessee Blue Raiders,79,124
+2016,Notre Dame Fighting Irish,80,34
+2016,SMU Mustangs,81,65
+2016,Ohio Bobcats,82,111
+2016,Missouri Tigers,83,56
+2016,UCF Knights,84,80
+2016,Hawai'i Rainbow Warriors,85,86
+2016,Eastern Michigan Eagles,86,109
+2016,Arizona Wildcats,87,19
+2016,Southern Mississippi Golden Eagles,88,118
+2016,Iowa State Cyclones,89,23
+2016,Michigan State Spartans,90,33
+2016,Central Michigan Chippewas,91,87
+2016,Illinois Fighting Illini,92,42
+2016,Northern Illinois Huskies,93,89
+2016,Georgia Southern Eagles,94,90
+2016,UT San Antonio Roadrunners,95,105
+2016,Cincinnati Bearcats,96,73
+2016,Miami (OH) RedHawks,97,115
+2016,Kansas Jayhawks,98,17
+2016,Akron Zips,99,100
+2016,Purdue Boilermakers,100,61
+2016,Louisiana Ragin' Cajuns,101,121
+2016,Tulane Green Wave,102,75
+2016,South Alabama Jaguars,103,122
+2016,Virginia Cavaliers,104,35
+2016,Nevada Wolf Pack,105,114
+2016,San Jose State Spartans,106,81
+2016,Rutgers Scarlet Knights,107,40
+2016,East Carolina Pirates,108,67
+2016,North Texas Mean Green,109,101
+2016,Louisiana Monroe Warhawks,110,88
+2016,Utah State Aggies,111,72
+2016,UNLV Rebels,112,94
+2016,Bowling Green Falcons,113,96
+2016,Connecticut Huskies,114,79
+2016,Ball State Cardinals,115,117
+2016,Florida Intl Golden Panthers,116,120
+2016,Charlotte 49ers,117,123
+2016,New Mexico State Aggies,118,92
+2016,Kent State Golden Flashes,119,93
+2016,Rice Owls,120,91
+2016,Georgia State Panthers,121,99
+2016,UTEP Miners,122,128
+2016,Massachusetts Minutemen,123,74
+2016,Marshall Thundering Herd,124,97
+2016,Florida Atlantic Owls,125,106
+2016,Texas State Bobcats,126,110
+2016,Buffalo Bulls,127,119
+2016,Fresno State Bulldogs,128,85
+2017,Alabama Crimson Tide,1,29
+2017,Georgia Bulldogs,2,4
+2017,Clemson Tigers,3,3
+2017,Oklahoma Sooners,4,13
+2017,Wisconsin Badgers,5,48
+2017,UCF Knights,6,77
+2017,Ohio State Buckeyes,7,32
+2017,Penn State Nittany Lions,8,51
+2017,TCU Horned Frogs,9,30
+2017,Notre Dame Fighting Irish,10,2
+2017,Auburn Tigers,11,9
+2017,USC Trojans,12,5
+2017,Michigan State Spartans,13,26
+2017,Miami Hurricanes,14,17
+2017,Oklahoma State Cowboys,15,35
+2017,NC State Wolfpack,16,10
+2017,Northwestern Wildcats,17,60
+2017,Mississippi State Bulldogs,18,41
+2017,Washington Huskies,19,52
+2017,LSU Tigers,20,44
+2017,South Carolina Gamecocks,21,42
+2017,Stanford Cardinal,22,6
+2017,Washington State Cougars,23,45
+2017,Virginia Tech Hokies,24,58
+2017,Wake Forest Demon Deacons,25,7
+2017,Iowa Hawkeyes,26,24
+2017,Iowa State Cyclones,27,14
+2017,Memphis Tigers,28,78
+2017,Michigan Wolverines,29,40
+2017,Boise State Broncos,30,76
+2017,South Florida Bulls,31,108
+2017,Troy Trojans,32,124
+2017,Louisville Cardinals,33,43
+2017,Kansas State Wildcats,34,55
+2017,Fresno State Bulldogs,35,80
+2017,Army Black Knights,36,87
+2017,Florida State Seminoles,37,15
+2017,Boston College Eagles,38,11
+2017,Texas Longhorns,39,33
+2017,San Diego State Aztecs,40,92
+2017,West Virginia Mountaineers,41,38
+2017,Texas A&M Aggies,42,39
+2017,Arizona State Sun Devils,43,18
+2017,Toledo Rockets,44,103
+2017,Purdue Boilermakers,45,34
+2017,Utah Utes,46,50
+2017,Florida Atlantic Owls,47,123
+2017,UCLA Bruins,48,8
+2017,Georgia Tech Yellow Jackets,49,12
+2017,Duke Blue Devils,50,46
+2017,Kentucky Wildcats,51,57
+2017,Oregon Ducks,52,56
+2017,Texas Tech Red Raiders,53,25
+2017,Ole Miss Rebels,54,61
+2017,Arizona Wildcats,55,63
+2017,Missouri Tigers,56,65
+2017,Pittsburgh Panthers,57,21
+2017,Virginia Cavaliers,58,37
+2017,Maryland Terrapins,59,1
+2017,Houston Cougars,60,69
+2017,Navy Midshipmen,61,66
+2017,California Golden Bears,62,28
+2017,Appalachian State Mountaineers,63,121
+2017,North Texas Mean Green,64,95
+2017,Florida Gators,65,19
+2017,Indiana Hoosiers,66,59
+2017,Vanderbilt Commodores,67,54
+2017,Northern Illinois Huskies,68,93
+2017,Ohio Bobcats,69,125
+2017,SMU Mustangs,70,74
+2017,Syracuse Orange,71,16
+2017,Wyoming Cowboys,72,99
+2017,Central Michigan Chippewas,73,98
+2017,Temple Owls,74,79
+2017,Nebraska Cornhuskers,75,20
+2017,Arkansas Razorbacks,76,31
+2017,Colorado Buffaloes,77,62
+2017,Minnesota Golden Gophers,78,64
+2017,Marshall Thundering Herd,79,113
+2017,Florida Intl Golden Panthers,80,119
+2017,Southern Mississippi Golden Eagles,81,112
+2017,Tennessee Volunteers,82,47
+2017,Rutgers Scarlet Knights,83,49
+2017,Akron Zips,84,81
+2017,Colorado State Rams,85,101
+2017,Georgia State Panthers,86,126
+2017,Tulane Green Wave,87,72
+2017,UAB Blazers,88,128
+2017,Western Michigan Broncos,89,100
+2017,Arkansas State Red Wolves,90,127
+2017,Louisiana Tech Bulldogs,91,110
+2017,North Carolina Tar Heels,92,36
+2017,New Mexico State Aggies,93,114
+2017,Air Force Falcons,94,82
+2017,Middle Tennessee Blue Raiders,95,117
+2017,Utah State Aggies,96,96
+2017,Buffalo Bulls,97,109
+2017,UT San Antonio Roadrunners,98,130
+2017,Eastern Michigan Eagles,99,90
+2017,Cincinnati Bearcats,100,73
+2017,East Carolina Pirates,101,67
+2017,UNLV Rebels,102,106
+2017,Louisiana Ragin' Cajuns,103,104
+2017,Old Dominion Monarchs,104,107
+2017,BYU Cougars,105,71
+2017,Miami (OH) RedHawks,106,120
+2017,Illinois Fighting Illini,107,53
+2017,Louisiana Monroe Warhawks,108,89
+2017,UConn Huskies,109,70
+2017,Western Kentucky Hilltoppers,110,129
+2017,Massachusetts Minutemen,111,102
+2017,Nevada Wolf Pack,112,75
+2017,Baylor Bears,113,22
+2017,New Mexico Lobos,114,85
+2017,South Alabama Jaguars,115,105
+2017,Kansas Jayhawks,116,27
+2017,Oregon State Beavers,117,23
+2017,Idaho Vandals,118,118
+2017,Tulsa Golden Hurricane,119,68
+2017,Hawai'i Rainbow Warriors,120,91
+2017,Bowling Green Falcons,121,86
+2017,Kent State Golden Flashes,122,84
+2017,Coastal Carolina Chanticleers,123,115
+2017,San Jose State Spartans,124,83
+2017,Georgia Southern Eagles,125,94
+2017,Ball State Cardinals,126,122
+2017,Texas State Bobcats,127,111
+2017,Rice Owls,128,97
+2017,Charlotte 49ers,129,116
+2017,UTEP Miners,130,88
+2018,Clemson Tigers,1,22
+2018,Alabama Crimson Tide,2,21
+2018,Ohio State Buckeyes,3,40
+2018,Notre Dame Fighting Irish,4,23
+2018,Oklahoma Sooners,5,9
+2018,LSU Tigers,6,10
+2018,Georgia Bulldogs,7,8
+2018,Kentucky Wildcats,8,38
+2018,Michigan Wolverines,9,18
+2018,Florida Gators,10,37
+2018,Washington State Cougars,11,53
+2018,Texas A&M Aggies,12,14
+2018,Texas Longhorns,13,4
+2018,UCF Knights,14,97
+2018,Washington Huskies,15,11
+2018,Syracuse Orange,16,63
+2018,Fresno State Bulldogs,17,82
+2018,Stanford Cardinal,18,26
+2018,Northwestern Wildcats,19,6
+2018,Penn State Nittany Lions,20,31
+2018,Army Black Knights,21,106
+2018,Auburn Tigers,22,46
+2018,Iowa Hawkeyes,23,36
+2018,West Virginia Mountaineers,24,33
+2018,Cincinnati Bearcats,25,95
+2018,Mississippi State Bulldogs,26,27
+2018,Utah State Aggies,27,108
+2018,Missouri Tigers,28,19
+2018,Oregon Ducks,29,62
+2018,Utah Utes,30,13
+2018,Boise State Broncos,31,69
+2018,Iowa State Cyclones,32,29
+2018,NC State Wolfpack,33,65
+2018,Appalachian State Mountaineers,34,124
+2018,Duke Blue Devils,35,42
+2018,South Carolina Gamecocks,36,28
+2018,Wisconsin Badgers,37,60
+2018,Pittsburgh Panthers,38,2
+2018,Michigan State Spartans,39,5
+2018,TCU Horned Frogs,40,16
+2018,Boston College Eagles,41,54
+2018,Oklahoma State Cowboys,42,34
+2018,Baylor Bears,43,49
+2018,Virginia Cavaliers,44,64
+2018,Troy Trojans,45,119
+2018,Minnesota Golden Gophers,46,44
+2018,Arizona State Sun Devils,47,47
+2018,UAB Blazers,48,123
+2018,Tennessee Volunteers,49,7
+2018,Georgia Southern Eagles,50,125
+2018,Wake Forest Demon Deacons,51,52
+2018,Purdue Boilermakers,52,3
+2018,Georgia Tech Yellow Jackets,53,59
+2018,Miami Hurricanes,54,51
+2018,California Golden Bears,55,56
+2018,Vanderbilt Commodores,56,45
+2018,Florida State Seminoles,57,17
+2018,BYU Cougars,58,66
+2018,Kansas State Wildcats,59,20
+2018,Buffalo Bulls,60,112
+2018,Temple Owls,61,76
+2018,Indiana Hoosiers,62,15
+2018,Maryland Terrapins,63,32
+2018,Ole Miss Rebels,64,41
+2018,Marshall Thundering Herd,65,113
+2018,Ohio Bobcats,66,117
+2018,USC Trojans,67,30
+2018,Texas Tech Red Raiders,68,25
+2018,Northern Illinois Huskies,69,70
+2018,Nevada Wolf Pack,70,94
+2018,Virginia Tech Hokies,71,55
+2018,Florida International Panthers,72,126
+2018,Middle Tennessee Blue Raiders,73,77
+2018,North Texas Mean Green,74,127
+2018,Louisiana Tech Bulldogs,75,109
+2018,Colorado Buffaloes,76,57
+2018,Houston Cougars,77,107
+2018,San Diego State Aztecs,78,78
+2018,Wyoming Cowboys,79,73
+2018,Tulane Green Wave,80,79
+2018,Arizona Wildcats,81,61
+2018,UCLA Bruins,82,1
+2018,Nebraska Cornhuskers,83,39
+2018,Memphis Tigers,84,102
+2018,Arkansas State Red Wolves,85,121
+2018,Hawai'i Rainbow Warriors,86,104
+2018,South Florida Bulls,87,88
+2018,Western Michigan Broncos,88,96
+2018,Miami (OH) RedHawks,89,85
+2018,Illinois Fighting Illini,90,58
+2018,Louisiana Ragin' Cajuns,91,90
+2018,Toledo Rockets,92,111
+2018,SMU Mustangs,93,71
+2018,Eastern Michigan Eagles,94,110
+2018,Southern Mississippi Golden Eagles,95,122
+2018,Kansas Jayhawks,96,48
+2018,Liberty Flames,97,116
+2018,UL Monroe Warhawks,98,118
+2018,Florida Atlantic Owls,99,84
+2018,Air Force Falcons,100,86
+2018,Oregon State Beavers,101,12
+2018,Charlotte 49ers,102,105
+2018,Louisville Cardinals,103,24
+2018,North Carolina Tar Heels,104,50
+2018,Coastal Carolina Chanticleers,105,114
+2018,Arkansas Razorbacks,106,43
+2018,Akron Zips,107,81
+2018,UNLV Rebels,108,92
+2018,Massachusetts Minutemen,109,91
+2018,Ball State Cardinals,110,100
+2018,Navy Midshipmen,111,67
+2018,Colorado State Rams,112,75
+2018,East Carolina Pirates,113,74
+2018,New Mexico Lobos,114,80
+2018,Rutgers Scarlet Knights,115,35
+2018,Bowling Green Falcons,116,83
+2018,Tulsa Golden Hurricane,117,87
+2018,UTSA Roadrunners,118,98
+2018,Old Dominion Monarchs,119,128
+2018,South Alabama Jaguars,120,101
+2018,Western Kentucky Hilltoppers,121,120
+2018,New Mexico State Aggies,122,115
+2018,Kent State Golden Flashes,123,89
+2018,Georgia State Panthers,124,93
+2018,San Jose State Spartans,125,68
+2018,UConn Huskies,126,72
+2018,Texas State Bobcats,127,130
+2018,Rice Owls,128,103
+2018,Central Michigan Chippewas,129,99
+2018,UTEP Miners,130,129
+2019,LSU Tigers,1,3
+2019,Ohio State Buckeyes,2,8
+2019,Clemson Tigers,3,49
+2019,Georgia Bulldogs,4,12
+2019,Florida Gators,5,17
+2019,Penn State Nittany Lions,6,36
+2019,Alabama Crimson Tide,7,40
+2019,Oregon Ducks,8,28
+2019,Oklahoma Sooners,9,21
+2019,Notre Dame Fighting Irish,10,35
+2019,Minnesota Golden Gophers,11,50
+2019,Auburn Tigers,12,2
+2019,Michigan Wolverines,13,6
+2019,Wisconsin Badgers,14,10
+2019,Iowa Hawkeyes,15,31
+2019,Baylor Bears,16,46
+2019,Appalachian State Mountaineers,17,110
+2019,Utah Utes,18,47
+2019,Navy Midshipmen,19,74
+2019,Memphis Tigers,20,71
+2019,Texas A&M Aggies,21,25
+2019,Cincinnati Bearcats,22,70
+2019,Air Force Falcons,23,80
+2019,Boise State Broncos,24,89
+2019,USC Trojans,25,4
+2019,Texas Longhorns,26,14
+2019,Tennessee Volunteers,27,45
+2019,SMU Mustangs,28,75
+2019,Virginia Cavaliers,29,55
+2019,California Golden Bears,30,30
+2019,Oklahoma State Cowboys,31,19
+2019,Florida Atlantic Owls,32,106
+2019,Indiana Hoosiers,33,58
+2019,Louisville Cardinals,34,37
+2019,Kansas State Wildcats,35,39
+2019,UCF Knights,36,85
+2019,Arizona State Sun Devils,37,44
+2019,Louisiana Ragin' Cajuns,38,105
+2019,Washington Huskies,39,33
+2019,Kentucky Wildcats,40,60
+2019,Iowa State Cyclones,41,16
+2019,Michigan State Spartans,42,38
+2019,San Diego State Aztecs,43,117
+2019,Mississippi State Bulldogs,44,11
+2019,Pittsburgh Panthers,45,61
+2019,Virginia Tech Hokies,46,68
+2019,Wake Forest Demon Deacons,47,65
+2019,Louisiana Tech Bulldogs,48,129
+2019,South Carolina Gamecocks,49,1
+2019,Hawai'i Rainbow Warriors,50,87
+2019,Temple Owls,51,76
+2019,North Carolina Tar Heels,52,56
+2019,West Virginia Mountaineers,53,7
+2019,Colorado Buffaloes,54,9
+2019,Missouri Tigers,55,57
+2019,Tulane Green Wave,56,66
+2019,BYU Cougars,57,64
+2019,Western Kentucky Hilltoppers,58,119
+2019,Oregon State Beavers,59,15
+2019,TCU Horned Frogs,60,26
+2019,Marshall Thundering Herd,61,90
+2019,Miami (OH) RedHawks,62,78
+2019,Washington State Cougars,63,51
+2019,Florida State Seminoles,64,54
+2019,Illinois Fighting Illini,65,59
+2019,Utah State Aggies,66,73
+2019,Nebraska Cornhuskers,67,41
+2019,Wyoming Cowboys,68,103
+2019,Duke Blue Devils,69,48
+2019,Boston College Eagles,70,62
+2019,Stanford Cardinal,71,5
+2019,Arkansas State Red Wolves,72,115
+2019,Kent State Golden Flashes,73,82
+2019,UAB Blazers,74,122
+2019,UCLA Bruins,75,13
+2019,Georgia Southern Eagles,76,92
+2019,Ole Miss Rebels,77,32
+2019,Miami Hurricanes,78,63
+2019,Southern Mississippi Golden Eagles,79,91
+2019,Liberty Flames,80,125
+2019,Arizona Wildcats,81,22
+2019,Buffalo Bulls,82,126
+2019,Nevada Wolf Pack,83,100
+2019,Purdue Boilermakers,84,34
+2019,Central Michigan Chippewas,85,111
+2019,Texas Tech Red Raiders,86,43
+2019,Charlotte 49ers,87,112
+2019,Syracuse Orange,88,67
+2019,Georgia State Panthers,89,104
+2019,Tulsa Golden Hurricane,90,42
+2019,Houston Cougars,91,52
+2019,Western Michigan Broncos,92,120
+2019,Northwestern Wildcats,93,20
+2019,Vanderbilt Commodores,94,23
+2019,Maryland Terrapins,95,27
+2019,Toledo Rockets,96,116
+2019,Ohio Bobcats,97,123
+2019,UL Monroe Warhawks,98,79
+2019,Kansas Jayhawks,99,29
+2019,Northern Illinois Huskies,100,94
+2019,South Florida Bulls,101,69
+2019,NC State Wolfpack,102,72
+2019,Eastern Michigan Eagles,103,113
+2019,San José St Spartans,104,98
+2019,Florida International Panthers,105,114
+2019,Georgia Tech Yellow Jackets,106,53
+2019,Ball State Cardinals,107,108
+2019,Rutgers Scarlet Knights,108,18
+2019,Arkansas Razorbacks,109,24
+2019,Troy Trojans,110,118
+2019,Fresno State Bulldogs,111,81
+2019,Middle Tennessee Blue Raiders,112,88
+2019,Coastal Carolina Chanticleers,113,124
+2019,Army Black Knights,114,101
+2019,Colorado State Rams,115,95
+2019,UNLV Rebels,116,102
+2019,East Carolina Pirates,117,99
+2019,UTSA Roadrunners,118,107
+2019,Texas State Bobcats,119,84
+2019,North Texas Mean Green,120,121
+2019,Rice Owls,121,96
+2019,Bowling Green Falcons,122,97
+2019,New Mexico Lobos,123,86
+2019,UConn Huskies,124,77
+2019,New Mexico State Aggies,125,83
+2019,South Alabama Jaguars,126,93
+2019,Massachusetts Minutemen,127,127
+2019,Old Dominion Monarchs,127,109
+2019,Akron Zips,127,128
+2019,UTEP Miners,127,130
+2020,Alabama Crimson Tide,1,6
+2020,Ohio State Buckeyes,2,15
+2020,Texas A&M Aggies,3,12
+2020,Notre Dame Fighting Irish,4,8
+2020,Oklahoma Sooners,5,19
+2020,Clemson Tigers,6,20
+2020,Georgia Bulldogs,7,11
+2020,Iowa State Cyclones,8,7
+2020,Northwestern Wildcats,9,22
+2020,Cincinnati Bearcats,10,54
+2020,USC Trojans,11,63
+2020,Louisiana Ragin' Cajuns,12,58
+2020,Indiana Hoosiers,13,25
+2020,BYU Cougars,14,69
+2020,Oklahoma State Cowboys,15,18
+2020,Coastal Carolina Chanticleers,16,78
+2020,Florida Gators,17,1
+2020,Iowa Hawkeyes,18,50
+2020,Texas Longhorns,19,34
+2020,Miami Hurricanes,20,32
+2020,Liberty Flames,21,95
+2020,Stanford Cardinal,22,61
+2020,San José State Spartans,23,97
+2020,Ball State Cardinals,24,98
+2020,Colorado Buffaloes,25,66
+2020,Wisconsin Badgers,26,48
+2020,TCU Horned Frogs,27,29
+2020,Tulsa Golden Hurricane,28,49
+2020,Washington Huskies,29,110
+2020,Auburn Tigers,30,5
+2020,Buffalo Bulls,31,112
+2020,Oregon Ducks,32,52
+2020,West Virginia Mountaineers,33,35
+2020,North Carolina Tar Heels,34,42
+2020,Utah Utes,35,92
+2020,LSU Tigers,36,10
+2020,Boise State Broncos,37,93
+2020,Memphis Tigers,38,70
+2020,Miami (OH) RedHawks,39,120
+2020,NC State Wolfpack,40,53
+2020,Arizona State Sun Devils,41,89
+2020,Ole Miss Rebels,42,17
+2020,Missouri Tigers,43,13
+2020,Nevada Wolf Pack,44,101
+2020,Maryland Terrapins,45,60
+2020,Kentucky Wildcats,46,2
+2020,Kent State Golden Flashes,47,124
+2020,SMU Mustangs,48,83
+2020,Army Black Knights,49,80
+2020,Washington State Cougars,50,71
+2020,UCLA Bruins,51,51
+2020,Nebraska Cornhuskers,52,24
+2020,Appalachian State Mountaineers,53,91
+2020,Boston College Eagles,54,31
+2020,Pittsburgh Panthers,55,28
+2020,UCF Knights,56,68
+2020,Michigan State Spartans,57,30
+2020,Kansas State Wildcats,58,16
+2020,Minnesota Golden Gophers,59,55
+2020,Penn State Nittany Lions,60,37
+2020,UAB Blazers,61,87
+2020,Virginia Cavaliers,62,33
+2020,Arkansas Razorbacks,63,3
+2020,Michigan Wolverines,64,56
+2020,Wake Forest Demon Deacons,65,41
+2020,Texas Tech Red Raiders,66,23
+2020,California Golden Bears,67,88
+2020,Western Michigan Broncos,68,121
+2020,Toledo Rockets,69,123
+2020,Mississippi State Bulldogs,70,4
+2020,Virginia Tech Hokies,71,40
+2020,Marshall Thundering Herd,72,100
+2020,Purdue Boilermakers,73,79
+2020,Hawai'i Rainbow Warriors,74,90
+2020,Tennessee Volunteers,75,9
+2020,Illinois Fighting Illini,76,38
+2020,Ohio Bobcats,77,127
+2020,Oregon State Beavers,78,59
+2020,Georgia State Panthers,79,94
+2020,Central Michigan Chippewas,80,118
+2020,Rutgers Scarlet Knights,81,36
+2020,San Diego State Aztecs,82,82
+2020,Air Force Falcons,83,115
+2020,Colorado State Rams,84,109
+2020,Baylor Bears,85,14
+2020,Houston Cougars,86,65
+2020,Georgia Southern Eagles,87,84
+2020,Louisiana Tech Bulldogs,88,64
+2020,Florida State Seminoles,89,46
+2020,Georgia Tech Yellow Jackets,90,39
+2020,Tulane Green Wave,91,72
+2020,UTSA Roadrunners,92,75
+2020,South Carolina Gamecocks,93,26
+2020,Florida Atlantic Owls,94,108
+2020,Fresno State Bulldogs,95,125
+2020,Rice Owls,96,122
+2020,Louisville Cardinals,97,47
+2020,Eastern Michigan Eagles,98,111
+2020,East Carolina Pirates,99,73
+2020,Wyoming Cowboys,100,117
+2020,New Mexico Lobos,101,99
+2020,Troy Trojans,102,67
+2020,Navy Midshipmen,103,76
+2020,Charlotte 49ers,104,114
+2020,Western Kentucky Hilltoppers,105,62
+2020,Arkansas State Red Wolves,106,74
+2020,Utah State Aggies,107,104
+2020,Middle Tennessee Blue Raiders,108,102
+2020,South Alabama Jaguars,109,86
+2020,Duke Blue Devils,110,44
+2020,Temple Owls,111,85
+2020,UTEP Miners,112,81
+2020,Akron Zips,113,103
+2020,North Texas Mean Green,114,107
+2020,South Florida Bulls,115,45
+2020,Syracuse Orange,116,21
+2020,Southern Mississippi Golden Eagles,117,119
+2020,Texas State Bobcats,118,57
+2020,Arizona Wildcats,119,77
+2020,Massachusetts Minutemen,119,113
+2020,Bowling Green Falcons,119,116
+2020,Vanderbilt Commodores,119,43
+2020,Florida International Panthers,119,126
+2020,Kansas Jayhawks,119,27
+2020,UL Monroe Warhawks,119,96
+2020,UNLV Rebels,119,106
+2020,Northern Illinois Huskies,119,105
+2021,Georgia Bulldogs,1,3
+2021,Alabama Crimson Tide,2,1
+2021,Michigan Wolverines,3,5
+2021,Oklahoma State Cowboys,4,18
+2021,Michigan State Spartans,5,13
+2021,Cincinnati Bearcats,6,54
+2021,Baylor Bears,7,25
+2021,Ohio State Buckeyes,8,27
+2021,Oklahoma Sooners,9,40
+2021,Notre Dame Fighting Irish,10,43
+2021,Louisiana Ragin' Cajuns,11,101
+2021,Ole Miss Rebels,12,19
+2021,Clemson Tigers,13,16
+2021,Arkansas Razorbacks,14,2
+2021,Wake Forest Demon Deacons,15,45
+2021,Iowa Hawkeyes,16,23
+2021,Houston Cougars,17,78
+2021,Purdue Boilermakers,18,15
+2021,Kentucky Wildcats,19,32
+2021,Oregon Ducks,20,8
+2021,Pittsburgh Panthers,21,57
+2021,Wisconsin Badgers,22,35
+2021,NC State Wolfpack,23,63
+2021,San Diego State Aztecs,24,102
+2021,BYU Cougars,25,70
+2021,UTSA Roadrunners,26,118
+2021,Utah Utes,27,47
+2021,Minnesota Golden Gophers,28,44
+2021,Texas A&M Aggies,29,52
+2021,Fresno State Bulldogs,30,95
+2021,Kansas State Wildcats,31,39
+2021,Utah State Aggies,32,107
+2021,Air Force Falcons,33,110
+2021,Coastal Carolina Chanticleers,34,130
+2021,Miami Hurricanes,35,36
+2021,UCLA Bruins,36,76
+2021,Penn State Nittany Lions,37,10
+2021,Iowa State Cyclones,38,24
+2021,Appalachian State Mountaineers,39,81
+2021,Texas Tech Red Raiders,40,30
+2021,Mississippi State Bulldogs,41,29
+2021,UCF Knights,42,75
+2021,South Carolina Gamecocks,43,9
+2021,Army Black Knights,44,86
+2021,Maryland Terrapins,45,21
+2021,Tennessee Volunteers,46,6
+2021,UAB Blazers,47,46
+2021,Auburn Tigers,48,4
+2021,Arizona State Sun Devils,49,61
+2021,SMU Mustangs,50,84
+2021,LSU Tigers,51,14
+2021,Virginia Cavaliers,52,49
+2021,Central Michigan Chippewas,53,119
+2021,West Virginia Mountaineers,54,26
+2021,Boise State Broncos,55,82
+2021,Texas Longhorns,56,31
+2021,Georgia State Panthers,57,88
+2021,East Carolina Pirates,58,87
+2021,Oregon State Beavers,59,69
+2021,Northern Illinois Huskies,60,73
+2021,Western Kentucky Hilltoppers,61,92
+2021,Western Michigan Broncos,62,64
+2021,Washington State Cougars,63,68
+2021,TCU Horned Frogs,64,28
+2021,Nevada Wolf Pack,65,97
+2021,Tulsa Golden Hurricane,66,33
+2021,Florida Gators,67,17
+2021,Florida State Seminoles,68,41
+2021,North Carolina Tar Heels,69,42
+2021,Louisville Cardinals,70,50
+2021,Missouri Tigers,71,22
+2021,Liberty Flames,72,106
+2021,Illinois Fighting Illini,73,53
+2021,Virginia Tech Hokies,74,60
+2021,Boston College Eagles,75,72
+2021,Syracuse Orange,76,59
+2021,Rutgers Scarlet Knights,77,20
+2021,Marshall Thundering Herd,78,113
+2021,Miami (OH) RedHawks,79,89
+2021,Middle Tennessee Blue Raiders,80,111
+2021,Colorado Buffaloes,81,48
+2021,Memphis Tigers,82,115
+2021,California Golden Bears,83,90
+2021,Nebraska Cornhuskers,84,11
+2021,Eastern Michigan Eagles,85,103
+2021,Wyoming Cowboys,86,124
+2021,USC Trojans,87,56
+2021,Kent State Golden Flashes,88,85
+2021,Navy Midshipmen,89,65
+2021,UTEP Miners,90,120
+2021,Stanford Cardinal,91,58
+2021,Georgia Tech Yellow Jackets,92,12
+2021,Indiana Hoosiers,93,7
+2021,Toledo Rockets,94,108
+2021,Ball State Cardinals,95,105
+2021,Hawai'i Rainbow Warriors,96,99
+2021,Washington Huskies,97,62
+2021,Old Dominion Monarchs,98,109
+2021,San José State Spartans,99,123
+2021,Northwestern Wildcats,100,37
+2021,North Texas Mean Green,101,126
+2021,Florida Atlantic Owls,102,112
+2021,Troy Trojans,103,122
+2021,Kansas Jayhawks,104,34
+2021,UL Monroe Warhawks,105,79
+2021,Rice Owls,106,93
+2021,South Alabama Jaguars,107,116
+2021,Charlotte 49ers,108,128
+2021,Duke Blue Devils,109,77
+2021,Tulane Green Wave,110,51
+2021,Bowling Green Falcons,111,114
+2021,Texas State Bobcats,112,117
+2021,Vanderbilt Commodores,113,38
+2021,South Florida Bulls,114,66
+2021,Colorado State Rams,115,104
+2021,Georgia Southern Eagles,116,100
+2021,Temple Owls,117,96
+2021,Buffalo Bulls,118,127
+2021,New Mexico Lobos,119,94
+2021,Louisiana Tech Bulldogs,120,98
+2021,UNLV Rebels,121,91
+2021,Arizona Wildcats,122,71
+2021,Ohio Bobcats,123,129
+2021,Southern Miss Golden Eagles,124,74
+2021,Arkansas State Red Wolves,125,121
+2021,New Mexico State Aggies,126,55
+2021,Akron Zips,127,67
+2021,UConn Huskies,128,80
+2021,Massachusetts Minutemen,129,83
+2021,Florida International Panthers,130,125
+2022,Georgia Bulldogs,1,8
+2022,TCU Horned Frogs,2,4
+2022,Michigan Wolverines,3,28
+2022,Alabama Crimson Tide,4,9
+2022,Tennessee Volunteers,5,7
+2022,Ohio State Buckeyes,6,15
+2022,Penn State Nittany Lions,7,20
+2022,LSU Tigers,8,2
+2022,Washington Huskies,9,60
+2022,Tulane Green Wave,10,65
+2022,USC Trojans,11,35
+2022,Kansas State Wildcats,12,11
+2022,Oregon Ducks,13,23
+2022,Clemson Tigers,14,42
+2022,Mississippi State Bulldogs,15,5
+2022,Florida State Seminoles,16,50
+2022,Oregon State Beavers,17,52
+2022,Troy Trojans,18,92
+2022,Utah Utes,19,41
+2022,Notre Dame Fighting Irish,20,33
+2022,Texas Longhorns,21,24
+2022,Texas Tech Red Raiders,22,27
+2022,South Carolina Gamecocks,23,13
+2022,Pittsburgh Panthers,24,62
+2022,Iowa Hawkeyes,25,21
+2022,UTSA Roadrunners,26,77
+2022,Minnesota Golden Gophers,27,61
+2022,Ole Miss Rebels,28,36
+2022,UCLA Bruins,29,64
+2022,Maryland Terrapins,30,18
+2022,Louisville Cardinals,31,51
+2022,Purdue Boilermakers,32,17
+2022,NC State Wolfpack,33,53
+2022,North Carolina Tar Heels,34,57
+2022,Wake Forest Demon Deacons,35,58
+2022,Illinois Fighting Illini,36,46
+2022,Arkansas Razorbacks,37,34
+2022,South Alabama Jaguars,38,109
+2022,Cincinnati Bearcats,39,82
+2022,Kentucky Wildcats,40,16
+2022,Duke Blue Devils,41,89
+2022,Oklahoma State Cowboys,42,38
+2022,Fresno State Bulldogs,43,83
+2022,Florida Gators,44,3
+2022,UCF Knights,45,72
+2022,Washington State Cougars,46,44
+2022,Auburn Tigers,47,1
+2022,Kansas Jayhawks,48,31
+2022,Air Force Falcons,49,124
+2022,Syracuse Orange,50,49
+2022,James Madison Dukes,51,125
+2022,BYU Cougars,52,73
+2022,Wisconsin Badgers,53,43
+2022,Boise State Broncos,54,102
+2022,Oklahoma Sooners,55,32
+2022,Houston Cougars,56,80
+2022,Baylor Bears,57,37
+2022,Marshall Thundering Herd,58,104
+2022,Michigan State Spartans,59,10
+2022,Ohio Bobcats,60,86
+2022,Coastal Carolina Chanticleers,61,116
+2022,East Carolina Pirates,62,88
+2022,Missouri Tigers,63,12
+2022,West Virginia Mountaineers,64,39
+2022,SMU Mustangs,65,68
+2022,Georgia Tech Yellow Jackets,66,14
+2022,Vanderbilt Commodores,67,6
+2022,Texas A&M Aggies,68,25
+2022,Arizona Wildcats,69,47
+2022,Western Kentucky Hilltoppers,70,107
+2022,Eastern Michigan Eagles,71,131
+2022,Memphis Tigers,72,78
+2022,Indiana Hoosiers,73,22
+2022,Middle Tennessee Blue Raiders,74,122
+2022,Iowa State Cyclones,75,40
+2022,Liberty Flames,76,112
+2022,Toledo Rockets,77,76
+2022,Rutgers Scarlet Knights,78,19
+2022,Miami Hurricanes,79,67
+2022,San Diego State Aztecs,80,81
+2022,UAB Blazers,81,93
+2022,Wyoming Cowboys,82,103
+2022,San José State Spartans,83,126
+2022,California Golden Bears,84,56
+2022,Southern Miss Golden Eagles,85,111
+2022,Stanford Cardinal,86,29
+2022,North Texas Mean Green,87,96
+2022,Appalachian State Mountaineers,88,115
+2022,Tulsa Golden Hurricane,89,87
+2022,Virginia Cavaliers,90,84
+2022,Nebraska Cornhuskers,91,55
+2022,Navy Midshipmen,92,75
+2022,UConn Huskies,93,69
+2022,Army Black Knights,94,117
+2022,Utah State Aggies,95,59
+2022,Buffalo Bulls,96,127
+2022,Georgia Southern Eagles,97,118
+2022,New Mexico State Aggies,98,101
+2022,Kent State Golden Flashes,99,48
+2022,Louisiana Ragin' Cajuns,100,99
+2022,Boston College Eagles,101,54
+2022,Bowling Green Falcons,102,100
+2022,Rice Owls,103,85
+2022,Arizona State Sun Devils,104,63
+2022,UL Monroe Warhawks,105,45
+2022,Florida Atlantic Owls,106,121
+2022,UNLV Rebels,107,105
+2022,Miami (OH) RedHawks,108,123
+2022,Virginia Tech Hokies,109,95
+2022,Colorado Buffaloes,110,26
+2022,UTEP Miners,111,114
+2022,Western Michigan Broncos,112,128
+2022,Georgia State Panthers,113,108
+2022,Ball State Cardinals,114,91
+2022,Texas State Bobcats,115,110
+2022,Northwestern Wildcats,116,30
+2022,Temple Owls,117,98
+2022,Old Dominion Monarchs,118,119
+2022,Central Michigan Chippewas,119,94
+2022,Florida International Panthers,120,129
+2022,Colorado State Rams,121,71
+2022,Arkansas State Red Wolves,122,70
+2022,Louisiana Tech Bulldogs,123,90
+2022,Charlotte 49ers,124,120
+2022,South Florida Bulls,125,74
+2022,Northern Illinois Huskies,126,130
+2022,Nevada Wolf Pack,127,113
+2022,Hawai'i Rainbow Warriors,128,66
+2022,New Mexico Lobos,129,97
+2022,Akron Zips,130,79
+2022,Massachusetts Minutemen,131,106
+2023,Michigan Wolverines,1,7
+2023,Washington Huskies,2,1
+2023,Georgia Bulldogs,3,23
+2023,Alabama Crimson Tide,4,2
+2023,Florida State Seminoles,5,36
+2023,Ole Miss Rebels,6,3
+2023,Ohio State Buckeyes,7,5
+2023,Missouri Tigers,8,9
+2023,Texas Longhorns,9,12
+2023,Oregon Ducks,10,52
+2023,LSU Tigers,11,17
+2023,Penn State Nittany Lions,12,22
+2023,Notre Dame Fighting Irish,13,44
+2023,Oklahoma Sooners,14,50
+2023,Liberty Flames,15,98
+2023,Arizona Wildcats,16,57
+2023,Oklahoma State Cowboys,17,26
+2023,Tennessee Volunteers,18,18
+2023,Kansas State Wildcats,19,35
+2023,Iowa Hawkeyes,20,19
+2023,Louisville Cardinals,21,47
+2023,Clemson Tigers,22,48
+2023,West Virginia Mountaineers,23,28
+2023,Kansas Jayhawks,24,43
+2023,NC State Wolfpack,25,56
+2023,James Madison Dukes,26,116
+2023,USC Trojans,27,15
+2023,Utah Utes,28,29
+2023,SMU Mustangs,29,81
+2023,Tulane Green Wave,30,93
+2023,Oregon State Beavers,31,25
+2023,Troy Trojans,32,87
+2023,Maryland Terrapins,33,14
+2023,Memphis Tigers,34,96
+2023,Duke Blue Devils,35,49
+2023,Northwestern Wildcats,36,58
+2023,Kentucky Wildcats,37,13
+2023,Rutgers Scarlet Knights,38,4
+2023,Texas A&M Aggies,39,20
+2023,Texas Tech Red Raiders,40,27
+2023,Miami (OH) RedHawks,41,111
+2023,Georgia Tech Yellow Jackets,42,33
+2023,Iowa State Cyclones,43,34
+2023,North Carolina Tar Heels,44,71
+2023,UCLA Bruins,45,63
+2023,Wyoming Cowboys,46,79
+2023,Toledo Rockets,47,129
+2023,Florida Gators,48,8
+2023,Miami Hurricanes,49,61
+2023,Auburn Tigers,50,11
+2023,Ohio Bobcats,51,132
+2023,UTSA Roadrunners,52,101
+2023,California Golden Bears,53,24
+2023,South Carolina Gamecocks,54,16
+2023,Wisconsin Badgers,55,60
+2023,Mississippi State Bulldogs,56,41
+2023,BYU Cougars,57,40
+2023,Fresno State Bulldogs,58,124
+2023,Air Force Falcons,59,121
+2023,UCF Knights,60,42
+2023,Boston College Eagles,61,76
+2023,Virginia Tech Hokies,62,72
+2023,UNLV Rebels,63,62
+2023,TCU Horned Frogs,64,37
+2023,Appalachian State Mountaineers,65,99
+2023,Jacksonville State Gamecocks,66,126
+2023,Minnesota Golden Gophers,67,30
+2023,Boise State Broncos,68,82
+2023,New Mexico State Aggies,69,108
+2023,Coastal Carolina Chanticleers,70,112
+2023,Washington State Cougars,71,46
+2023,Western Kentucky Hilltoppers,72,80
+2023,Illinois Fighting Illini,73,65
+2023,Texas State Bobcats,74,122
+2023,Michigan State Spartans,75,10
+2023,San José State Spartans,76,91
+2023,Colorado Buffaloes,77,39
+2023,Syracuse Orange,78,68
+2023,Georgia State Panthers,79,89
+2023,Bowling Green Falcons,80,66
+2023,Nebraska Cornhuskers,81,69
+2023,Houston Cougars,82,55
+2023,Arkansas Razorbacks,83,21
+2023,South Florida Bulls,84,92
+2023,Purdue Boilermakers,85,32
+2023,Wake Forest Demon Deacons,86,51
+2023,South Alabama Jaguars,87,104
+2023,Stanford Cardinal,88,31
+2023,Army Black Knights,89,88
+2023,Marshall Thundering Herd,90,100
+2023,Arizona State Sun Devils,91,45
+2023,Virginia Cavaliers,92,59
+2023,Indiana Hoosiers,93,6
+2023,Old Dominion Monarchs,94,106
+2023,Arkansas State Red Wolves,95,84
+2023,Rice Owls,96,83
+2023,Baylor Bears,97,53
+2023,Pittsburgh Panthers,98,54
+2023,Georgia Southern Eagles,99,110
+2023,Northern Illinois Huskies,100,131
+2023,Utah State Aggies,101,117
+2023,Cincinnati Bearcats,102,75
+2023,Navy Midshipmen,103,86
+2023,Central Michigan Chippewas,104,90
+2023,Louisiana Ragin' Cajuns,105,120
+2023,Colorado State Rams,106,130
+2023,Tulsa Golden Hurricane,107,70
+2023,North Texas Mean Green,108,114
+2023,Vanderbilt Commodores,109,38
+2023,Eastern Michigan Eagles,110,125
+2023,San Diego State Aztecs,111,102
+2023,Hawai'i Rainbow Warriors,112,74
+2023,UAB Blazers,113,78
+2023,Florida Atlantic Owls,114,105
+2023,Western Michigan Broncos,115,119
+2023,Middle Tennessee Blue Raiders,116,67
+2023,New Mexico Lobos,117,103
+2023,Ball State Cardinals,118,77
+2023,Southern Miss Golden Eagles,119,95
+2023,Charlotte 49ers,120,97
+2023,UConn Huskies,121,94
+2023,Florida International Panthers,122,133
+2023,Massachusetts Minutemen,123,73
+2023,Temple Owls,124,115
+2023,UTEP Miners,125,113
+2023,UL Monroe Warhawks,126,85
+2023,Sam Houston Bearkats,127,128
+2023,Louisiana Tech Bulldogs,128,107
+2023,Buffalo Bulls,129,123
+2023,East Carolina Pirates,130,64
+2023,Nevada Wolf Pack,131,109
+2023,Akron Zips,132,127
+2023,Kent State Golden Flashes,133,118
