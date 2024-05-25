@@ -4,6 +4,7 @@ Returns a working dataframe filtered by the tiers of college teams as defined by
 https://www.cllct.com/sports-collectibles/memorabilia/how-much-did-your-school-get-to-appear-in-ea-college-football-25
 '''
 import pandas as pd
+from data_preparation import get_working_df
 
 tier_one = ['Alabama', 'Ohio State', 'Clemson', 'Notre Dame', 'Oklahoma',
             'Georgia', 'LSU', 'Michigan', 'Oregon', 'Oklahoma State',
@@ -48,7 +49,7 @@ def pick_tier(tiers = 'all'):
     Returns:
     - DataFrame: Filtered DataFrame containing teams based on the specified tiers.
     """
-    df = pd.read_csv('/Users/reggiebain/erdos/cfb-modeling-erdos/data/working_df.csv')
+    df = get_working_df()
     if tiers == 'all':
         return df
     elif tiers == [1, 2]:
