@@ -5,7 +5,7 @@
 - Reid Harris &nbsp;<a href="https://www.linkedin.com/in/reid-harris-71233a1b0/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; width:auto;"/></a> &nbsp; <a href="https://github.com/ReidHarris"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="height: 1em; width: auto;"/></a>
 - Tung Nguyen &nbsp;<a href="https://www.linkedin.com/in/tungprime/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; width:auto;"/></a> &nbsp; <a href="https://github.com/tungprime"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="height: 1em; width: auto;"/></a> 
 ## Summary
-In this project, we analyze a variety of college football related data in an effort to build a model that can predict on-field success. By considering both talent accumulation and recent on-field results, we aim for a model to predict relevant results for sports betting. In this iteration of the project, **our target is the win percentage of teams in the regular season**.
+We analyze college football data in an effort to build a model that can predict on-field success. By considering both talent accumulation and recent on-field results, our model aims to predict relevant results for sports betting/team construction. In this iteration of the project, **our target is the win percentage of teams in the regular season**.
 ## Background
 Recent legislation has completely changed the landscape of college sports, a multi-billion dollar business with deep roots in American sports culture. With the recent legalization of sports betting in many states and the SCOTUS O’Bannon ruling [1-2] that allows athletes to be paid through so-called “Name-Image-Likeness (NIL)” deals [3], evaluating talent and projecting results in college sports, especially for the purpose of sports betting, is an increasingly interesting problem. We are interested in building a model to project on-field results in college football using a variety of features including an assessment of the talent level of teams as well as recent performance statistics. 
 ## Dataset(s)
@@ -48,6 +48,8 @@ As college football has grown exponentially in popularity since 2000 (with TV de
 ![alt text](images/school-win-pct-by-coach.png "Wins by Coach")
 - We also saw that coach career winning percentage (which will obviously have some linear dependence with team winning percentage) is definitely correlated with team talent level (i.e. better coaches get better players):
 ![alt text](images/coach-win-pct.png "Coach win pct")
+- In trying to select features, some of the advanced metrics and recruiting rating information provided redundant information. In some cases, features like FPI (which is proprietary) and ELO turned out to be closely related. Similarly, our talent_level metric was linearly dependent on blue chip ratio.
+![dependents](images/possibly-dependent-features.png "Possibly dependent features")
 - Additionally, college sports has, historically, had several tiers of teams with a handful of teams seeing sustained success and many others having intermittent success. The features tend to have different relationships with the target depending on the tier of the team [14] 
 ## Modeling
 ### Approach 1: Regression over Season Level Features
@@ -55,16 +57,53 @@ As college football has grown exponentially in popularity since 2000 (with TV de
 #### Feature Selection
 - Using a random forest regressor, we measured the relative feature importance of our various features to see which ones reduced he impurity of the RF the most. ELO seemed to consistently dominate. *When predicting win percentage, this makes sense. If we were to use a different target such as points scored, other features would have higher relative importance.*
 ![feature_importance](images/feature_imporances.png "Feature Importance")
-#### Modeling
+#### Models Used
 - **Scaling:** We scaled the features to ensure that features like ELO that have extremely large values didn't arbitrarily dominate.
 - **K-Fold Cross Validation:** We performed 5-fold cross validation for all of our models we describe below. We used **Mean Squared Error (MSE) as our loss metric** and took the average of the MSEs for each of our 5-folds. Our results are below:
-![cross_val](images/cross-val-mses.png "Cross Validation")
-- **Models:** We applied a variety of classical ML methods such as:
+- **Baseline Model:** Naive forecast. The baseline model was predicting next year will have the same win percentage as this year:
+- **Classical ML Models:** We applied a variety of classical ML methods and found the following average MSE after cross validation:
   1. Linear Regression
   2. Random Forest Regressor
   3. XGBoost
+- **Deep Learning - Long Short Term Memory (LSTM):** We implemented a basic LSTM using Tensorflow/Keras with one hidden LSTM layer and 1 Dense layer with one node.
+#### Cross Validation Average Mean Squared Error
+![cross_val](images/cross-val-mses.png "Cross Validation")
+| model                   |   avg_mse |   avg_rmse |   pct_improve_mse |   pct_improve_rmse |
+|:------------------------|----------:|-----------:|------------------:|-------------------:|
+| Baseline Naive Forecast | 0.0484019 |   0.220004 |            0      |             0      |
+| LinearRegression        | 0.0307367 |   0.175319 |           36.497  |            20.3112 |
+| KNeighborsRegressor     | 0.0380674 |   0.195109 |           21.3515 |            11.316  |
+| RandomForestRegressor   | 0.0329434 |   0.181503 |           31.9378 |            17.5002 |
+| XGBRegressor            | 0.0382383 |   0.195546 |           20.9983 |            11.1171 |
+| LSTM                    | 0.0337128 |   0.18361  |           30.3482 |            16.5424 |
 ### Approach 2: Game by Game Time Series Approach
 ## Results
+#### Evaluting on the Test Set
+- When evalauting our best model from cross-validation (Linear Regression) on the test set we got the results shown in the table below.
+
+| model            |   test_mse |   test_rmse |   pct_improve_mse |   pct_improve_rmse |
+|:-----------------|-----------:|------------:|------------------:|-------------------:|
+| LinearRegression |  0.0252754 |    0.158982 |           35.5216 |            17.9031 |
+| LSTM             |  0.0239591 |    0.154787 |           40.6756 |            20.5526 |
+
+- Note: We also included the LSTM trained on all of the training data and tested on the test set as it out performed the other models. More details are given in the next section. Below, we have the training results from the LSTM.
+![lstm_train](images/lstm_loss.png "LSTM History")
+#### COVID-19 and Cross Validation
+- When performing cross validation for time series data, you have to take sucessive slices of the data and at some point you're predicting 2020, when the COVID-19 pandemic caused teams to play shortened seasons, have many players sit out at any given time, and many modified rules were in place.
+- In the plot below you see that our model (as measured by how much better our RMSE is than the baseline) has its worst performance when trying to predict the covid season.
+![rmse_years](images/rmse_improvement_by_year.png "RMSE by Year") 
+## Conclusions
+#### EDA and Feature Selection
+- We studied a wide array of features and found that ELO rating was the most important factor in modeling wins. It mattered more than any metrics related to talent or specific on-field statistics. 
+- Although more study is needed, this suggests that sports betters should focus on recent results over perception of talent when making bets in the aggregate. They should still consider football specific matchup considerations.
+- Additionally, metrics measuring talent level tended not to matter much, suggesting that teams should be wary of simply dumping more money into recruiting highly rated players and focus more on evaluating players as ratings may not predict performance well. 
+- In fact, we discovered that recruiting rankings of players are actually dependent upon the schools that offered them, so a player would be given a higher rating because they had a scholarship offer from, say Alabama, which presents multicolinearity issues. These talent metrics are difficult to measure/define and not very predictive of wins.
+- Coaching is important. The lifetime winning percentage of coaches was an important factor in the model. We showed that a given school can have very different winning % based on the coach even in a short time period.
+#### Modeling Conclusions
+- We created a model that outperfoms the naive forecast by nearly 36%. We found that, with cross validation Linear Regression worked best. When training on the entire training set, the LSTM worked best at roughly 40% above baseline.
+- A better way to understand our results is in terms of numbers of games in a regular season. If we multiply our best model's RMSE by 12, we'll get an uncertainty in the number of wins in a season:<br>
+$12 \times \text{RMSE}_{best} = \pm1.908\,\, \text{games}$ 
+
 ## References
 [1] https://www.americangaming.org/research/state-gaming-map/ <br>
 [2] https://cdn.ca9.uscourts.gov/datastore/opinions/2015/09/30/14-16601.pdf <br>
