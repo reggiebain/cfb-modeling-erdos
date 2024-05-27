@@ -1,15 +1,64 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
+import folium
+import seaborn as sns
+from streamlit_folium import st_folium
 
 team_info_df = pd.read_csv('../data/team_info.csv')
 recruiting_df = pd.read_csv('../data/team_recruiting_w_blue_chip_ratios.csv')
-recruiting_df
+working_df = pd.read_csv('../data/working_df.csv')
+player_recruiting_df = pd.read_csv('../data/player_recruiting.csv')
 
-# Set year selector on sidebar
-years = recruiting_df['year'].unique()
+# Set possible years and teams
+years = range(2014, 2023+1)
+teams = team_info_df['team'].unique()
+
+# Set year selectors on sidebar
 selected_year = st.sidebar.selectbox('Select Year', years)
+selected_team = st.sidebar.selectbox('Select Team', teams)
 
+# Create map with location of school
+def draw_map(year, team):
+    # Get info for the team
+    team_row = team_info_df[team_info_df.team == team]
+    st.image(team_row['logo'].values[0], width=100)
+    # Get location
+    latitude = team_row['latitude']
+    longitude = team_row['longitude']
+    # Get logo
+    #logo = team_row['logo']
+    icon = folium.CustomIcon(team_row['logo'].values[0], icon_size=(50, 50))
+    # Draw the map
+    #st.map(team_row, latitude=latitude,longitude=longitude,size=200)
+    map = folium.Map(location=[latitude, longitude], zoom_start=6)
+    folium.Marker(location=[latitude, longitude], popup=team).add_to(map)
+    st_folium(map)
+
+# Draw the map
+draw_map(selected_year, selected_team)
+
+def show_recruits(year, team):
+    df = player_recruiting_df[(player_recruiting_df['year']==year) 
+                         & (player_recruiting_df['school']==team)]
+    df['year'] = df['year'].astype(str)
+    st.dataframe(df.set_index('year'))
+show_recruits(selected_year, selected_team)
+
+def show_elo(year, team):
+    fig = px.line(working_df[working_df['team']==team], 
+                x='year', 
+                y='elo', 
+                #orientation='h', 
+                title='ELO Rating Over Time',
+                labels={'elo': 'ELO', 'year': 'Year'}
+                )
+    st.plotly_chart(fig)
+    #sns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo')
+
+show_elo(selected_year, selected_team)
+
+    
 # Set up columns
 #left_column, right_column = st.columns(2)
 

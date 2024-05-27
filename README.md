@@ -78,7 +78,7 @@ As college football has grown exponentially in popularity since 2000 (with TV de
 | LSTM                    | 0.0337128 |   0.18361  |           30.3482 |            16.5424 |
 ### Approach 2: Game by Game Time Series Approach
 ## Results
-#### Evaluting on the Test Set
+#### Evaluating on the Test Set
 - When evalauting our best model from cross-validation (Linear Regression) on the test set we got the results shown in the table below.
 
 | model            |   test_mse |   test_rmse |   pct_improve_mse |   pct_improve_rmse |
@@ -102,7 +102,7 @@ As college football has grown exponentially in popularity since 2000 (with TV de
 #### Modeling Conclusions
 - We created a model that outperfoms the naive forecast by nearly 36%. We found that, with cross validation Linear Regression worked best. When training on the entire training set, the LSTM worked best at roughly 40% above baseline.
 - A better way to understand our results is in terms of numbers of games in a regular season. If we multiply our best model's RMSE by 12, we'll get an uncertainty in the number of wins in a season:<br>
-$12 \times \text{RMSE}_{best} = \pm1.908\,\, \text{games}$ 
+$12 \times \text{RMSE}_{best} = \pm1.908 \,\, \text{games}$ 
 
 ## References
 [1] https://www.americangaming.org/research/state-gaming-map/ <br>
