@@ -1,0 +1,745 @@
+,id,date,home_team,away_team,home_pregame_elo,away_pregame_elo,conference_game,season_type,home_division,away_division
+0,222340258,2002-08-22T23:30:00.000Z,Virginia,Colorado State,1432.0,1561.0,True,regular,fbs,fbs
+1,222350275,2002-08-24T00:00:00.000Z,Wisconsin,Fresno State,1532.0,1713.0,False,regular,fbs,fbs
+2,222360194,2002-08-24T18:30:00.000Z,Ohio State,Texas Tech,1665.0,1657.0,False,regular,fbs,fbs
+3,222360152,2002-08-24T20:30:00.000Z,NC State,New Mexico,1572.0,1570.0,True,regular,fbs,fbs
+4,222360158,2002-08-24T23:45:00.000Z,Nebraska,Arizona State,1834.0,1507.0,False,regular,fbs,fbs
+5,222360066,2002-08-25T00:30:00.000Z,Iowa State,Florida State,1559.0,1769.0,False,regular,fbs,fbs
+6,222370259,2002-08-25T18:30:00.000Z,Virginia Tech,Arkansas State,1729.0,1117.0,False,regular,fbs,fbs
+7,222412649,2002-08-29T23:00:00.000Z,Toledo,Cal Poly,,,False,regular,fbs,
+8,222410189,2002-08-29T23:00:00.000Z,Bowling Green,Tennessee Tech,,,False,regular,fbs,
+9,222412309,2002-08-29T23:00:00.000Z,Kent State,New Hampshire,,,False,regular,fbs,
+10,222410218,2002-08-29T23:00:00.000Z,Temple,Richmond,,,False,regular,fbs,
+11,222410058,2002-08-29T23:00:00.000Z,South Florida,Florida Atlantic,1539.0,1500.0,False,regular,fbs,
+12,222412117,2002-08-29T23:30:00.000Z,Central Michigan,Sam Houston State,,,False,regular,fbs,
+13,222412711,2002-08-29T23:30:00.000Z,Western Michigan,Indiana State,,,False,regular,fbs,
+14,222410252,2002-08-29T23:30:00.000Z,BYU,Syracuse,1605.0,1706.0,False,regular,fbs,fbs
+15,222412084,2002-08-29T23:30:00.000Z,Buffalo,Lehigh,,,False,regular,fbs,
+16,222412459,2002-08-29T23:35:00.000Z,Northern Illinois,Wake Forest,1453.0,1454.0,False,regular,fbs,fbs
+17,222410278,2002-08-30T02:00:00.000Z,Fresno State,San Diego State,1710.0,1359.0,False,regular,fbs,fbs
+18,222410204,2002-08-30T02:00:00.000Z,Oregon State,Eastern Kentucky,,,False,regular,fbs,
+19,222420202,2002-08-31T00:00:00.000Z,Tulsa,Oklahoma,1169.0,1823.0,False,regular,fbs,fbs
+20,222430130,2002-08-31T16:00:00.000Z,Michigan,Washington,1698.0,1565.0,True,regular,fbs,fbs
+21,222432294,2002-08-31T16:00:00.000Z,Iowa,Akron,1659.0,1409.0,False,regular,fbs,fbs
+22,222432005,2002-08-31T16:00:00.000Z,Air Force,Northwestern,1389.0,1417.0,True,regular,fbs,fbs
+23,222430103,2002-08-31T16:00:00.000Z,Boston College,Connecticut,1645.0,1143.0,False,regular,fbs,fbs
+24,222430213,2002-08-31T16:10:00.000Z,Penn State,UCF,1580.0,1665.0,False,regular,fbs,fbs
+25,222430333,2002-08-31T16:30:00.000Z,Alabama,Middle Tennessee,1672.0,1547.0,False,regular,fbs,fbs
+26,222430066,2002-08-31T16:30:00.000Z,Iowa State,Kansas,1562.0,1261.0,True,regular,fbs,fbs
+27,222430038,2002-08-31T17:00:00.000Z,Colorado,Colorado State,1695.0,1562.0,False,regular,fbs,fbs
+28,222430153,2002-08-31T17:30:00.000Z,North Carolina,Miami (OH),1643.0,1473.0,False,regular,fbs,fbs
+29,222432509,2002-08-31T18:00:00.000Z,Purdue,Illinois State,,,False,regular,fbs,
+30,222430265,2002-08-31T19:00:00.000Z,Washington State,Nevada,1626.0,1217.0,False,regular,fbs,fbs
+31,222430356,2002-08-31T19:30:00.000Z,Illinois,Missouri,1660.0,1382.0,False,regular,fbs,fbs
+32,222432655,2002-08-31T19:30:00.000Z,Tulane,Southern,,,False,regular,fbs,
+33,222430025,2002-08-31T19:30:00.000Z,California,Baylor,1273.0,1225.0,False,regular,fbs,fbs
+34,222430127,2002-08-31T19:30:00.000Z,Michigan State,Eastern Michigan,1655.0,1203.0,False,regular,fbs,fbs
+35,222430052,2002-08-31T19:30:00.000Z,Florida State,Virginia,1766.0,1431.0,True,regular,fbs,fbs
+36,222430084,2002-08-31T21:00:00.000Z,Indiana,William & Mary,,,True,regular,fbs,
+37,222432633,2002-08-31T21:30:00.000Z,Tennessee,Wyoming,1791.0,1245.0,False,regular,fbs,fbs
+38,222430277,2002-08-31T22:00:00.000Z,West Virginia,Chattanooga,,,False,regular,fbs,
+39,222430059,2002-08-31T22:00:00.000Z,Georgia Tech,Vanderbilt,1669.0,1299.0,False,regular,fbs,fbs
+40,222430150,2002-08-31T22:00:00.000Z,Duke,East Carolina,1177.0,1611.0,True,regular,fbs,fbs
+41,222432483,2002-08-31T22:00:00.000Z,Oregon,Mississippi State,1763.0,1461.0,False,regular,fbs,fbs
+42,222430057,2002-08-31T22:00:00.000Z,Florida,UAB,2007.0,1537.0,False,regular,fbs,fbs
+43,222430221,2002-08-31T23:00:00.000Z,Pittsburgh,Ohio,1629.0,1298.0,False,regular,fbs,fbs
+44,222430164,2002-08-31T23:00:00.000Z,Rutgers,Villanova,,,False,regular,fbs,
+45,222432572,2002-08-31T23:00:00.000Z,Southern Mississippi,Jackson State,,,False,regular,fbs,
+46,222430158,2002-08-31T23:00:00.000Z,Nebraska,Troy,1900.0,1425.0,False,regular,fbs,fbs
+47,222430276,2002-08-31T23:00:00.000Z,Marshall,Appalachian State,1599.0,1479.0,False,regular,fbs,
+48,222432390,2002-08-31T23:00:00.000Z,Miami,Florida A&M,,,False,regular,fbs,
+49,222432579,2002-08-31T23:00:00.000Z,South Carolina,New Mexico State,1649.0,1260.0,False,regular,fbs,fbs
+50,222430245,2002-08-31T23:00:00.000Z,Texas A&M,Louisiana,1643.0,1195.0,False,regular,fbs,fbs
+51,222430152,2002-08-31T23:00:00.000Z,NC State,East Tennessee State,,,False,regular,fbs,
+52,222432032,2002-08-31T23:00:00.000Z,Arkansas State,San José State,1030.0,1279.0,False,regular,fbs,fbs
+53,222430135,2002-08-31T23:00:00.000Z,Minnesota,Texas State,1532.0,1404.0,False,regular,fbs,
+54,222430145,2002-08-31T23:00:00.000Z,Ole Miss,Louisiana Monroe,1553.0,1100.0,False,regular,fbs,fbs
+55,222432306,2002-08-31T23:10:00.000Z,Kansas State,Western Kentucky,1753.0,1443.0,False,regular,fbs,
+56,222430061,2002-08-31T23:45:00.000Z,Georgia,Clemson,1679.0,1574.0,False,regular,fbs,fbs
+57,222430251,2002-09-01T00:00:00.000Z,Texas,North Texas,1872.0,1377.0,False,regular,fbs,fbs
+58,222430120,2002-09-01T00:00:00.000Z,Maryland,Notre Dame,1655.0,1583.0,False,regular,fbs,fbs
+59,222432567,2002-09-01T00:00:00.000Z,SMU,Navy,1326.0,1244.0,False,regular,fbs,fbs
+60,222432348,2002-09-01T00:00:00.000Z,Louisiana Tech,Oklahoma State,1407.0,1457.0,False,regular,fbs,fbs
+61,222430242,2002-09-01T00:00:00.000Z,Rice,Houston,1406.0,1229.0,False,regular,fbs,fbs
+62,222430235,2002-09-01T00:00:00.000Z,Memphis,Murray State,,,False,regular,fbs,
+63,222430167,2002-09-01T00:05:00.000Z,New Mexico,Weber State,,,False,regular,fbs,
+64,222430068,2002-09-01T00:05:00.000Z,Boise State,Idaho,1655.0,1198.0,False,regular,fbs,fbs
+65,222432439,2002-09-01T00:45:00.000Z,UNLV,Wisconsin,1513.0,1535.0,True,regular,fbs,fbs
+66,222432638,2002-09-01T01:05:00.000Z,UTEP,Sacramento State,,,False,regular,fbs,
+67,222430328,2002-09-01T01:05:00.000Z,Utah State,Utah,1306.0,1658.0,False,regular,fbs,fbs
+68,222430009,2002-09-01T02:00:00.000Z,Arizona State,Eastern Washington,,,False,regular,fbs,
+69,222430012,2002-09-01T02:07:00.000Z,Arizona,Northern Arizona,,,False,regular,fbs,
+70,222430062,2002-09-01T03:05:00.000Z,Hawai'i,Eastern Illinois,,,False,regular,fbs,
+71,222440259,2002-09-01T18:30:00.000Z,Virginia Tech,LSU,1816.0,1710.0,False,regular,fbs,fbs
+72,222440097,2002-09-01T22:00:00.000Z,Louisville,Kentucky,1671.0,1421.0,False,regular,fbs,fbs
+73,222452132,2002-09-02T20:30:00.000Z,Cincinnati,TCU,1511.0,1553.0,True,regular,fbs,fbs
+74,222450030,2002-09-03T00:00:00.000Z,USC,Auburn,1675.0,1503.0,False,regular,fbs,fbs
+75,222480218,2002-09-05T23:00:00.000Z,Temple,Oregon State,1409.0,1624.0,False,regular,fbs,fbs
+76,222490252,2002-09-06T23:00:00.000Z,BYU,Hawai'i,1666.0,1629.0,False,regular,fbs,fbs
+77,222502572,2002-09-07T16:00:00.000Z,Southern Mississippi,Illinois,1657.0,1602.0,True,regular,fbs,fbs
+78,222500221,2002-09-07T16:00:00.000Z,Pittsburgh,Texas A&M,1629.0,1657.0,False,regular,fbs,fbs
+79,222502426,2002-09-07T16:00:00.000Z,Navy,NC State,1343.0,1618.0,False,regular,fbs,fbs
+80,222500041,2002-09-07T16:00:00.000Z,Connecticut,Georgia Tech,1159.0,1743.0,False,regular,fbs,fbs
+81,222500193,2002-09-07T16:10:00.000Z,Miami (OH),Iowa,1497.0,1728.0,False,regular,fbs,fbs
+82,222500275,2002-09-07T16:10:00.000Z,Wisconsin,West Virginia,1583.0,1550.0,False,regular,fbs,fbs
+83,222500130,2002-09-07T16:10:00.000Z,Michigan,Western Michigan,1697.0,1507.0,False,regular,fbs,fbs
+84,222500194,2002-09-07T16:10:00.000Z,Ohio State,Kent State,1724.0,1320.0,False,regular,fbs,fbs
+85,222500145,2002-09-07T16:30:00.000Z,Ole Miss,Memphis,1576.0,1487.0,False,regular,fbs,fbs
+86,222500349,2002-09-07T17:00:00.000Z,Army,Holy Cross,,,False,regular,fbs,
+87,222500087,2002-09-07T17:00:00.000Z,Notre Dame,Purdue,1649.0,1549.0,False,regular,fbs,fbs
+88,222502117,2002-09-07T17:00:00.000Z,Central Michigan,Wyoming,1261.0,1198.0,False,regular,fbs,fbs
+89,222500228,2002-09-07T17:00:00.000Z,Clemson,Louisiana Tech,1574.0,1409.0,False,regular,fbs,fbs
+90,222500077,2002-09-07T17:00:00.000Z,Northwestern,TCU,1261.0,1541.0,True,regular,fbs,fbs
+91,222500127,2002-09-07T17:05:00.000Z,Michigan State,Rice,1741.0,1355.0,False,regular,fbs,fbs
+92,222500096,2002-09-07T17:30:00.000Z,Kentucky,UTEP,1448.0,1159.0,False,regular,fbs,fbs
+93,222502005,2002-09-07T19:00:00.000Z,Air Force,New Mexico,1545.0,1524.0,True,regular,fbs,fbs
+94,222500264,2002-09-07T19:30:00.000Z,Washington,San José State,1566.0,1300.0,False,regular,fbs,fbs
+95,222500103,2002-09-07T19:30:00.000Z,Boston College,Stanford,1629.0,1603.0,False,regular,fbs,fbs
+96,222502483,2002-09-07T19:30:00.000Z,Oregon,Fresno State,1788.0,1706.0,False,regular,fbs,fbs
+97,222500201,2002-09-07T19:30:00.000Z,Oklahoma,Alabama,1851.0,1672.0,False,regular,fbs,fbs
+98,222500265,2002-09-07T21:00:00.000Z,Washington State,Idaho,1643.0,1201.0,False,regular,fbs,fbs
+99,222500002,2002-09-07T21:00:00.000Z,Auburn,Western Carolina,,,False,regular,fbs,
+100,222500057,2002-09-07T21:15:00.000Z,Florida,Miami,2087.0,2086.0,False,regular,fbs,fbs
+101,222502199,2002-09-07T22:00:00.000Z,Eastern Michigan,Toledo,1117.0,1585.0,True,regular,fbs,fbs
+102,222500120,2002-09-07T22:00:00.000Z,Maryland,Akron,1589.0,1340.0,False,regular,fbs,fbs
+103,222500154,2002-09-07T22:30:00.000Z,Wake Forest,East Carolina,1453.0,1574.0,True,regular,fbs,fbs
+104,222500025,2002-09-07T22:30:00.000Z,California,New Mexico State,1413.0,1269.0,False,regular,fbs,fbs
+105,222500066,2002-09-07T23:00:00.000Z,Iowa State,Tennessee Tech,,,False,regular,fbs,
+106,222500005,2002-09-07T23:00:00.000Z,UAB,Troy,1457.0,1432.0,False,regular,fbs,fbs
+107,222500008,2002-09-07T23:00:00.000Z,Arkansas,Boise State,1561.0,1652.0,False,regular,fbs,fbs
+108,222502032,2002-09-07T23:00:00.000Z,Arkansas State,Tulsa,1009.0,1141.0,False,regular,fbs,fbs
+109,222500038,2002-09-07T23:00:00.000Z,Colorado,San Diego State,1677.0,1363.0,False,regular,fbs,fbs
+110,222500164,2002-09-07T23:00:00.000Z,Rutgers,Buffalo,1087.0,1256.0,False,regular,fbs,fbs
+111,222500142,2002-09-07T23:00:00.000Z,Missouri,Ball State,1440.0,1346.0,False,regular,fbs,fbs
+112,222500238,2002-09-07T23:00:00.000Z,Vanderbilt,Furman,,,False,regular,fbs,
+113,222500239,2002-09-07T23:00:00.000Z,Baylor,Samford,,,False,regular,fbs,
+114,222500150,2002-09-07T23:00:00.000Z,Duke,Louisville,1214.0,1644.0,True,regular,fbs,fbs
+115,222500058,2002-09-07T23:00:00.000Z,South Florida,Northern Illinois,1654.0,1454.0,False,regular,fbs,fbs
+116,222500158,2002-09-07T23:00:00.000Z,Nebraska,Utah State,1893.0,1292.0,False,regular,fbs,fbs
+117,222502633,2002-09-07T23:00:00.000Z,Tennessee,Middle Tennessee,1838.0,1547.0,False,regular,fbs,fbs
+118,222500197,2002-09-07T23:05:00.000Z,Oklahoma State,Northern Iowa,,,False,regular,fbs,
+119,222502306,2002-09-07T23:10:00.000Z,Kansas State,Louisiana Monroe,1844.0,1077.0,False,regular,fbs,fbs
+120,222500258,2002-09-07T23:45:00.000Z,Virginia,South Carolina,1414.0,1640.0,False,regular,fbs,fbs
+121,222500309,2002-09-08T00:00:00.000Z,Louisiana,Minnesota,1181.0,1638.0,False,regular,fbs,fbs
+122,222500183,2002-09-08T00:00:00.000Z,Syracuse,North Carolina,1645.0,1619.0,False,regular,fbs,fbs
+123,222502567,2002-09-08T00:00:00.000Z,SMU,Texas Tech,1227.0,1598.0,False,regular,fbs,fbs
+124,222500195,2002-09-08T00:00:00.000Z,Ohio,Northeastern,,,False,regular,fbs,
+125,222500248,2002-09-08T00:00:00.000Z,Houston,Tulane,1280.0,1290.0,True,regular,fbs,fbs
+126,222500099,2002-09-08T00:00:00.000Z,LSU,The Citadel,,,False,regular,fbs,
+127,222500254,2002-09-08T00:00:00.000Z,Utah,Indiana,1672.0,1554.0,True,regular,fbs,fbs
+128,222500249,2002-09-08T00:05:00.000Z,North Texas,Nicholls,,,False,regular,fbs,
+129,222502439,2002-09-08T02:00:00.000Z,UNLV,Kansas,1465.0,1178.0,False,regular,fbs,fbs
+130,222500009,2002-09-08T02:00:00.000Z,Arizona State,UCF,1441.0,1663.0,False,regular,fbs,fbs
+131,222500026,2002-09-08T02:15:00.000Z,UCLA,Colorado State,1627.0,1580.0,True,regular,fbs,fbs
+132,222550259,2002-09-12T23:45:00.000Z,Virginia Tech,Marshall,1846.0,1675.0,False,regular,fbs,fbs
+133,222570228,2002-09-14T16:00:00.000Z,Clemson,Georgia Tech,1604.0,1730.0,True,regular,fbs,fbs
+134,222570356,2002-09-14T16:00:00.000Z,Illinois,Arkansas State,1602.0,1011.0,False,regular,fbs,fbs
+135,222570218,2002-09-14T16:00:00.000Z,Temple,Miami,1346.0,2153.0,True,regular,fbs,fbs
+136,222570127,2002-09-14T16:10:00.000Z,Michigan State,California,1744.0,1448.0,True,regular,fbs,fbs
+137,222570275,2002-09-14T16:10:00.000Z,Wisconsin,Northern Illinois,1617.0,1395.0,False,regular,fbs,fbs
+138,222570002,2002-09-14T16:30:00.000Z,Auburn,Vanderbilt,1503.0,1225.0,True,regular,fbs,fbs
+139,222570077,2002-09-14T17:00:00.000Z,Northwestern,Duke,1229.0,1161.0,True,regular,fbs,fbs
+140,222572309,2002-09-14T18:00:00.000Z,Kent State,Cal Poly,,,False,regular,fbs,
+141,222572509,2002-09-14T18:00:00.000Z,Purdue,Western Michigan,1545.0,1471.0,False,regular,fbs,fbs
+142,222572050,2002-09-14T18:00:00.000Z,Ball State,Indiana State,,,False,regular,fbs,
+143,222572348,2002-09-14T18:00:00.000Z,Louisiana Tech,Tulsa,1379.0,1139.0,True,regular,fbs,fbs
+144,222572306,2002-09-14T18:10:00.000Z,Kansas State,Eastern Illinois,,,False,regular,fbs,
+145,222570087,2002-09-14T18:30:00.000Z,Notre Dame,Michigan,1653.0,1733.0,False,regular,fbs,fbs
+146,222570135,2002-09-14T18:30:00.000Z,Minnesota,Toledo,1652.0,1681.0,False,regular,fbs,fbs
+147,222570183,2002-09-14T19:30:00.000Z,Syracuse,Rhode Island,,,False,regular,fbs,
+148,222572641,2002-09-14T19:30:00.000Z,Texas Tech,Ole Miss,1589.0,1620.0,False,regular,fbs,fbs
+149,222570038,2002-09-14T19:30:00.000Z,Colorado,USC,1693.0,1675.0,False,regular,fbs,fbs
+150,222572483,2002-09-14T19:30:00.000Z,Oregon,Idaho,1789.0,1157.0,False,regular,fbs,fbs
+151,222572579,2002-09-14T19:30:00.000Z,South Carolina,Georgia,1594.0,1679.0,True,regular,fbs,fbs
+152,222570194,2002-09-14T19:30:00.000Z,Ohio State,Washington State,1769.0,1687.0,True,regular,fbs,fbs
+153,222572751,2002-09-14T20:00:00.000Z,Wyoming,Boise State,1180.0,1571.0,False,regular,fbs,fbs
+154,222572440,2002-09-14T20:05:00.000Z,Nevada,BYU,1200.0,1666.0,False,regular,fbs,fbs
+155,222572199,2002-09-14T22:00:00.000Z,Eastern Michigan,Southeast Missouri State,,,False,regular,fbs,
+156,222572006,2002-09-14T22:00:00.000Z,Akron,Central Michigan,1289.0,1279.0,True,regular,fbs,fbs
+157,222570189,2002-09-14T22:00:00.000Z,Bowling Green,Missouri,1571.0,1526.0,False,regular,fbs,fbs
+158,222570057,2002-09-14T22:00:00.000Z,Florida,Ohio,2020.0,1298.0,False,regular,fbs,fbs
+159,222572294,2002-09-14T22:05:00.000Z,Iowa,Iowa State,1721.0,1645.0,False,regular,fbs,fbs
+160,222570152,2002-09-14T22:30:00.000Z,NC State,Wake Forest,1720.0,1463.0,True,regular,fbs,fbs
+161,222572653,2002-09-14T23:00:00.000Z,Troy,Southern Utah,,,False,regular,fbs,
+162,222572628,2002-09-14T23:00:00.000Z,TCU,SMU,1573.0,1236.0,False,regular,fbs,fbs
+163,222570151,2002-09-14T23:00:00.000Z,East Carolina,Tulane,1564.0,1343.0,True,regular,fbs,fbs
+164,222570344,2002-09-14T23:00:00.000Z,Mississippi State,Jacksonville State,,,False,regular,fbs,
+165,222570164,2002-09-14T23:00:00.000Z,Rutgers,Army,1046.0,1266.0,False,regular,fbs,fbs
+166,222570204,2002-09-14T23:00:00.000Z,Oregon State,UNLV,1687.0,1464.0,True,regular,fbs,fbs
+167,222572305,2002-09-14T23:00:00.000Z,Kansas,Missouri State,,,False,regular,fbs,
+168,222572433,2002-09-14T23:00:00.000Z,Louisiana Monroe,McNeese,,,False,regular,fbs,
+169,222572132,2002-09-14T23:00:00.000Z,Cincinnati,West Virginia,1523.0,1516.0,False,regular,fbs,fbs
+170,222572572,2002-09-14T23:00:00.000Z,Southern Mississippi,Memphis,1657.0,1443.0,True,regular,fbs,fbs
+171,222570197,2002-09-14T23:00:00.000Z,Oklahoma State,UCLA,1455.0,1643.0,False,regular,fbs,fbs
+172,222570201,2002-09-14T23:00:00.000Z,Oklahoma,UTEP,1856.0,1012.0,False,regular,fbs,fbs
+173,222570333,2002-09-14T23:00:00.000Z,Alabama,North Texas,1667.0,1360.0,False,regular,fbs,fbs
+174,222570008,2002-09-14T23:00:00.000Z,Arkansas,South Florida,1642.0,1713.0,False,regular,fbs,fbs
+175,222570005,2002-09-14T23:00:00.000Z,UAB,Pittsburgh,1457.0,1628.0,False,regular,fbs,fbs
+176,222570096,2002-09-14T23:00:00.000Z,Kentucky,Indiana,1595.0,1498.0,False,regular,fbs,fbs
+177,222572084,2002-09-14T23:30:00.000Z,Buffalo,Connecticut,1297.0,1172.0,False,regular,fbs,fbs
+178,222570120,2002-09-14T23:45:00.000Z,Maryland,Florida State,1640.0,1783.0,True,regular,fbs,fbs
+179,222570153,2002-09-15T00:00:00.000Z,North Carolina,Texas,1637.0,1889.0,False,regular,fbs,fbs
+180,222570213,2002-09-15T00:00:00.000Z,Penn State,Nebraska,1582.0,1909.0,False,regular,fbs,fbs
+181,222570099,2002-09-15T00:00:00.000Z,LSU,Miami (OH),1680.0,1504.0,False,regular,fbs,fbs
+182,222570248,2002-09-15T00:00:00.000Z,Houston,Louisiana,1227.0,1167.0,False,regular,fbs,fbs
+183,222570167,2002-09-15T00:05:00.000Z,New Mexico,Baylor,1516.0,1085.0,False,regular,fbs,fbs
+184,222570328,2002-09-15T01:05:00.000Z,Utah State,Idaho State,,,False,regular,fbs,
+185,222570036,2002-09-15T01:30:00.000Z,Colorado State,Louisville,1564.0,1697.0,True,regular,fbs,fbs
+186,222570012,2002-09-15T02:00:00.000Z,Arizona,Utah,1456.0,1728.0,True,regular,fbs,fbs
+187,222570024,2002-09-15T02:00:00.000Z,Stanford,San José State,1595.0,1269.0,False,regular,fbs,fbs
+188,222570021,2002-09-15T02:05:00.000Z,San Diego State,Arizona State,1347.0,1563.0,True,regular,fbs,fbs
+189,222620344,2002-09-19T23:45:00.000Z,Mississippi State,Auburn,1436.0,1536.0,True,regular,fbs,fbs
+190,222630276,2002-09-20T23:00:00.000Z,Marshall,UCF,1628.0,1541.0,True,regular,fbs,fbs
+191,222640041,2002-09-21T16:00:00.000Z,Connecticut,Ohio,1241.0,1300.0,False,regular,fbs,fbs
+192,222640221,2002-09-21T16:00:00.000Z,Pittsburgh,Rutgers,1627.0,1214.0,True,regular,fbs,fbs
+193,222642426,2002-09-21T16:05:00.000Z,Navy,Northwestern,1241.0,1231.0,False,regular,fbs,fbs
+194,222640213,2002-09-21T16:10:00.000Z,Penn State,Louisiana Tech,1721.0,1476.0,False,regular,fbs,fbs
+195,222640275,2002-09-21T16:10:00.000Z,Wisconsin,Arizona,1615.0,1478.0,True,regular,fbs,fbs
+196,222640130,2002-09-21T16:10:00.000Z,Michigan,Utah,1731.0,1706.0,True,regular,fbs,fbs
+197,222642641,2002-09-21T16:30:00.000Z,Texas Tech,NC State,1620.0,1739.0,False,regular,fbs,fbs
+198,222640145,2002-09-21T16:30:00.000Z,Ole Miss,Vanderbilt,1589.0,1192.0,True,regular,fbs,fbs
+199,222640349,2002-09-21T17:00:00.000Z,Army,Louisville,1098.0,1694.0,True,regular,fbs,fbs
+200,222640061,2002-09-21T17:00:00.000Z,Georgia,Northwestern State,,,False,regular,fbs,
+201,222640228,2002-09-21T17:00:00.000Z,Clemson,Ball State,1614.0,1260.0,False,regular,fbs,fbs
+202,222640096,2002-09-21T17:30:00.000Z,Kentucky,Middle Tennessee,1605.0,1521.0,False,regular,fbs,fbs
+203,222640193,2002-09-21T18:00:00.000Z,Miami (OH),Kent State,1458.0,1275.0,True,regular,fbs,fbs
+204,222640356,2002-09-21T18:00:00.000Z,Illinois,San José State,1680.0,1206.0,False,regular,fbs,fbs
+205,222642509,2002-09-21T18:00:00.000Z,Purdue,Wake Forest,1546.0,1444.0,True,regular,fbs,fbs
+206,222640135,2002-09-21T18:30:00.000Z,Minnesota,Buffalo,1671.0,1228.0,False,regular,fbs,fbs
+207,222640258,2002-09-21T19:00:00.000Z,Virginia,Akron,1460.0,1275.0,False,regular,fbs,fbs
+208,222642132,2002-09-21T19:30:00.000Z,Cincinnati,Ohio State,1518.0,1801.0,True,regular,fbs,fbs
+209,222640059,2002-09-21T19:30:00.000Z,Georgia Tech,BYU,1720.0,1658.0,True,regular,fbs,fbs
+210,222642294,2002-09-21T19:30:00.000Z,Iowa,Utah State,1707.0,1276.0,False,regular,fbs,fbs
+211,222640026,2002-09-21T19:30:00.000Z,UCLA,Colorado,1657.0,1581.0,False,regular,fbs,fbs
+212,222640127,2002-09-21T19:30:00.000Z,Michigan State,Notre Dame,1641.0,1655.0,False,regular,fbs,fbs
+213,222642483,2002-09-21T19:30:00.000Z,Oregon,Portland State,,,False,regular,fbs,
+214,222640245,2002-09-21T19:30:00.000Z,Texas A&M,Virginia Tech,1658.0,1893.0,False,regular,fbs,fbs
+215,222642633,2002-09-21T19:30:00.000Z,Tennessee,Florida,1864.0,2018.0,True,regular,fbs,fbs
+216,222642440,2002-09-21T20:05:00.000Z,Nevada,Rice,1208.0,1352.0,True,regular,fbs,fbs
+217,222640025,2002-09-21T21:00:00.000Z,California,Air Force,1551.0,1553.0,True,regular,fbs,fbs
+218,222640084,2002-09-21T21:00:00.000Z,Indiana,Central Michigan,1488.0,1293.0,False,regular,fbs,fbs
+219,222640265,2002-09-21T21:00:00.000Z,Washington State,Montana State,,,False,regular,fbs,
+220,222640070,2002-09-21T21:00:00.000Z,Idaho,San Diego State,1128.0,1342.0,False,regular,fbs,fbs
+221,222640120,2002-09-21T22:00:00.000Z,Maryland,Eastern Michigan,1584.0,1021.0,False,regular,fbs,fbs
+222,222640204,2002-09-21T22:30:00.000Z,Oregon State,Fresno State,1741.0,1705.0,False,regular,fbs,fbs
+223,222642579,2002-09-21T23:00:00.000Z,South Carolina,Temple,1589.0,1366.0,False,regular,fbs,fbs
+224,222642628,2002-09-21T23:00:00.000Z,TCU,North Texas,1569.0,1327.0,False,regular,fbs,fbs
+225,222642649,2002-09-21T23:00:00.000Z,Toledo,UNLV,1662.0,1410.0,False,regular,fbs,fbs
+226,222642306,2002-09-21T23:00:00.000Z,Kansas State,USC,1949.0,1787.0,False,regular,fbs,fbs
+227,222640197,2002-09-21T23:00:00.000Z,Oklahoma State,SMU,1441.0,1240.0,False,regular,fbs,fbs
+228,222640239,2002-09-21T23:00:00.000Z,Baylor,Tulsa,1072.0,1042.0,False,regular,fbs,fbs
+229,222642305,2002-09-21T23:00:00.000Z,Kansas,Bowling Green,1179.0,1622.0,False,regular,fbs,fbs
+230,222640309,2002-09-21T23:00:00.000Z,Louisiana,UAB,1130.0,1458.0,False,regular,fbs,fbs
+231,222640333,2002-09-21T23:00:00.000Z,Alabama,Southern Mississippi,1700.0,1680.0,False,regular,fbs,fbs
+232,222642433,2002-09-21T23:00:00.000Z,Louisiana Monroe,Arkansas State,972.0,933.0,True,regular,fbs,fbs
+233,222640066,2002-09-21T23:00:00.000Z,Iowa State,Troy,1659.0,1432.0,False,regular,fbs,fbs
+234,222640052,2002-09-21T23:00:00.000Z,Florida State,Duke,1839.0,1159.0,True,regular,fbs,fbs
+235,222642459,2002-09-21T23:35:00.000Z,Northern Illinois,Western Illinois,,,False,regular,fbs,
+236,222642390,2002-09-21T23:45:00.000Z,Miami,Boston College,2133.0,1637.0,True,regular,fbs,fbs
+237,222640166,2002-09-22T00:00:00.000Z,New Mexico State,New Mexico,1234.0,1529.0,False,regular,fbs,fbs
+238,222640251,2002-09-22T00:00:00.000Z,Texas,Houston,1945.0,1264.0,False,regular,fbs,fbs
+239,222640235,2002-09-22T00:00:00.000Z,Memphis,Tulane,1420.0,1346.0,True,regular,fbs,fbs
+240,222642638,2002-09-22T01:05:00.000Z,UTEP,Hawai'i,917.0,1629.0,True,regular,fbs,fbs
+241,222640264,2002-09-22T02:00:00.000Z,Washington,Wyoming,1597.0,1165.0,True,regular,fbs,fbs
+242,222690097,2002-09-26T23:45:00.000Z,Louisville,Florida State,1712.0,1848.0,True,regular,fbs,fbs
+243,222700167,2002-09-27T23:00:00.000Z,New Mexico,Texas Tech,1485.0,1623.0,False,regular,fbs,fbs
+244,222710218,2002-09-28T16:00:00.000Z,Temple,Cincinnati,1339.0,1529.0,False,regular,fbs,fbs
+245,222710277,2002-09-28T16:00:00.000Z,West Virginia,East Carolina,1521.0,1561.0,False,regular,fbs,fbs
+246,222712426,2002-09-28T16:00:00.000Z,Navy,Duke,1222.0,1150.0,False,regular,fbs,fbs
+247,222712711,2002-09-28T16:00:00.000Z,Western Michigan,Virginia Tech,1470.0,1894.0,False,regular,fbs,fbs
+248,222710103,2002-09-28T16:00:00.000Z,Boston College,Central Michigan,1607.0,1289.0,False,regular,fbs,fbs
+249,222710213,2002-09-28T16:05:00.000Z,Penn State,Iowa,1778.0,1770.0,True,regular,fbs,fbs
+250,222710194,2002-09-28T16:10:00.000Z,Ohio State,Indiana,1790.0,1492.0,True,regular,fbs,fbs
+251,222710099,2002-09-28T16:30:00.000Z,LSU,Mississippi State,1726.0,1371.0,True,regular,fbs,fbs
+252,222710041,2002-09-28T17:00:00.000Z,Connecticut,Ball State,1287.0,1240.0,False,regular,fbs,fbs
+253,222710061,2002-09-28T17:00:00.000Z,Georgia,New Mexico State,1684.0,1278.0,False,regular,fbs,fbs
+254,222710152,2002-09-28T17:00:00.000Z,NC State,UMass,1736.0,1434.0,True,regular,fbs,
+255,222710349,2002-09-28T17:00:00.000Z,Army,Southern Mississippi,1080.0,1656.0,True,regular,fbs,fbs
+256,222710127,2002-09-28T17:05:00.000Z,Michigan State,Northwestern,1635.0,1250.0,True,regular,fbs,fbs
+257,222710221,2002-09-28T17:30:00.000Z,Pittsburgh,Toledo,1634.0,1676.0,False,regular,fbs,fbs
+258,222710142,2002-09-28T18:00:00.000Z,Missouri,Troy,1475.0,1379.0,False,regular,fbs,fbs
+259,222710021,2002-09-28T18:00:00.000Z,San Diego State,UCLA,1308.0,1617.0,True,regular,fbs,fbs
+260,222712459,2002-09-28T18:05:00.000Z,Northern Illinois,Kent State,1397.0,1275.0,True,regular,fbs,fbs
+261,222710254,2002-09-28T19:00:00.000Z,Utah,Air Force,1705.0,1556.0,True,regular,fbs,fbs
+262,222710057,2002-09-28T19:30:00.000Z,Florida,Kentucky,2043.0,1649.0,True,regular,fbs,fbs
+263,222710153,2002-09-28T19:30:00.000Z,North Carolina,Georgia Tech,1581.0,1730.0,True,regular,fbs,fbs
+264,222710009,2002-09-28T19:30:00.000Z,Arizona State,Stanford,1568.0,1658.0,True,regular,fbs,fbs
+265,222710066,2002-09-28T19:30:00.000Z,Iowa State,Nebraska,1712.0,1770.0,True,regular,fbs,fbs
+266,222710356,2002-09-28T19:30:00.000Z,Illinois,Michigan,1643.0,1732.0,True,regular,fbs,fbs
+267,222710264,2002-09-28T19:30:00.000Z,Washington,Idaho,1631.0,1162.0,False,regular,fbs,fbs
+268,222712655,2002-09-28T19:30:00.000Z,Tulane,Texas,1282.0,1951.0,False,regular,fbs,fbs
+269,222712440,2002-09-28T20:05:00.000Z,Nevada,Colorado State,1236.0,1567.0,False,regular,fbs,fbs
+270,222710025,2002-09-28T21:00:00.000Z,California,Washington State,1548.0,1655.0,True,regular,fbs,fbs
+271,222712116,2002-09-28T22:00:00.000Z,UCF,Liberty,1540.0,1242.0,False,regular,fbs,
+272,222710120,2002-09-28T22:00:00.000Z,Maryland,Wofford,,,False,regular,fbs,
+273,222712509,2002-09-28T22:00:00.000Z,Purdue,Minnesota,1535.0,1685.0,True,regular,fbs,fbs
+274,222712006,2002-09-28T22:00:00.000Z,Akron,Miami (OH),1250.0,1458.0,True,regular,fbs,fbs
+275,222712199,2002-09-28T22:00:00.000Z,Eastern Michigan,Southern Illinois,,,False,regular,fbs,
+276,222710030,2002-09-28T22:30:00.000Z,USC,Oregon State,1786.0,1853.0,True,regular,fbs,fbs
+277,222710154,2002-09-28T22:30:00.000Z,Wake Forest,Virginia,1455.0,1485.0,True,regular,fbs,fbs
+278,222712032,2002-09-28T23:00:00.000Z,Arkansas State,UT Martin,,,False,regular,fbs,
+279,222710005,2002-09-28T23:00:00.000Z,UAB,Memphis,1315.0,1484.0,True,regular,fbs,fbs
+280,222712393,2002-09-28T23:00:00.000Z,Middle Tennessee,Southeast Missouri State,,,False,regular,fbs,
+281,222710201,2002-09-28T23:00:00.000Z,Oklahoma,South Florida,1951.0,1589.0,False,regular,fbs,fbs
+282,222712633,2002-09-28T23:00:00.000Z,Tennessee,Rutgers,1839.0,1207.0,False,regular,fbs,fbs
+283,222710238,2002-09-28T23:00:00.000Z,Vanderbilt,South Carolina,1203.0,1616.0,True,regular,fbs,fbs
+284,222710195,2002-09-28T23:00:00.000Z,Ohio,Buffalo,1254.0,1214.0,True,regular,fbs,fbs
+285,222710202,2002-09-28T23:00:00.000Z,Tulsa,Kansas,1022.0,1167.0,False,regular,fbs,fbs
+286,222710245,2002-09-28T23:00:00.000Z,Texas A&M,Louisiana Tech,1657.0,1419.0,False,regular,fbs,fbs
+287,222710008,2002-09-28T23:45:00.000Z,Arkansas,Alabama,1766.0,1724.0,True,regular,fbs,fbs
+288,222710242,2002-09-29T00:00:00.000Z,Rice,Fresno State,1324.0,1593.0,True,regular,fbs,fbs
+289,222710068,2002-09-29T00:05:00.000Z,Boise State,Utah State,1586.0,1213.0,False,regular,fbs,fbs
+290,222710012,2002-09-29T01:00:00.000Z,Arizona,North Texas,1442.0,1331.0,False,regular,fbs,fbs
+291,222710002,2002-09-29T01:00:00.000Z,Auburn,Syracuse,1601.0,1627.0,False,regular,fbs,fbs
+292,222710023,2002-09-29T02:15:00.000Z,San José State,UTEP,1243.0,925.0,True,regular,fbs,fbs
+293,222710062,2002-09-29T03:05:00.000Z,Hawai'i,SMU,1621.0,1165.0,True,regular,fbs,fbs
+294,222760052,2002-10-03T23:45:00.000Z,Florida State,Clemson,1834.0,1634.0,True,regular,fbs,fbs
+295,222760135,2002-10-04T00:00:00.000Z,Minnesota,Illinois,1646.0,1611.0,True,regular,fbs,fbs
+296,222770278,2002-10-05T00:00:00.000Z,Fresno State,Colorado State,1582.0,1553.0,False,regular,fbs,fbs
+297,222770328,2002-10-05T01:05:00.000Z,Utah State,BYU,1190.0,1648.0,False,regular,fbs,fbs
+298,222780277,2002-10-05T16:00:00.000Z,West Virginia,Maryland,1572.0,1635.0,False,regular,fbs,fbs
+299,222780150,2002-10-05T16:00:00.000Z,Duke,Virginia,1230.0,1489.0,True,regular,fbs,fbs
+300,222782294,2002-10-05T16:00:00.000Z,Iowa,Purdue,1784.0,1574.0,True,regular,fbs,fbs
+301,222780183,2002-10-05T16:00:00.000Z,Syracuse,Pittsburgh,1626.0,1679.0,True,regular,fbs,fbs
+302,222780145,2002-10-05T16:00:00.000Z,Ole Miss,Florida,1578.0,2032.0,True,regular,fbs,fbs
+303,222780158,2002-10-05T16:30:00.000Z,Nebraska,McNeese,,,False,regular,fbs,
+304,222780251,2002-10-05T16:30:00.000Z,Texas,Oklahoma State,2011.0,1516.0,True,regular,fbs,fbs
+305,222782579,2002-10-05T17:00:00.000Z,South Carolina,Mississippi State,1599.0,1363.0,True,regular,fbs,fbs
+306,222782084,2002-10-05T17:00:00.000Z,Buffalo,Western Michigan,1214.0,1437.0,True,regular,fbs,fbs
+307,222782132,2002-10-05T17:00:00.000Z,Cincinnati,Miami (OH),1541.0,1478.0,False,regular,fbs,fbs
+308,222780239,2002-10-05T18:00:00.000Z,Baylor,Kansas,1092.0,1175.0,True,regular,fbs,fbs
+309,222782309,2002-10-05T18:00:00.000Z,Kent State,Marshall,1272.0,1629.0,True,regular,fbs,fbs
+310,222780245,2002-10-05T18:00:00.000Z,Texas A&M,Texas Tech,1703.0,1756.0,True,regular,fbs,fbs
+311,222782050,2002-10-05T18:00:00.000Z,Ball State,Northern Illinois,1247.0,1400.0,True,regular,fbs,fbs
+312,222780151,2002-10-05T18:00:00.000Z,East Carolina,Army,1510.0,1085.0,True,regular,fbs,fbs
+313,222780087,2002-10-05T18:30:00.000Z,Notre Dame,Stanford,1661.0,1524.0,False,regular,fbs,fbs
+314,222782005,2002-10-05T19:00:00.000Z,Air Force,Navy,1573.0,1142.0,False,regular,fbs,fbs
+315,222782751,2002-10-05T19:00:00.000Z,Wyoming,The Citadel,,,False,regular,fbs,
+316,222782567,2002-10-05T19:00:00.000Z,SMU,San José State,1131.0,1298.0,True,regular,fbs,fbs
+317,222782628,2002-10-05T19:00:00.000Z,TCU,Houston,1565.0,1258.0,True,regular,fbs,fbs
+318,222780070,2002-10-05T19:07:00.000Z,Idaho,Montana,,,False,regular,fbs,
+319,222780059,2002-10-05T19:30:00.000Z,Georgia Tech,Wake Forest,1734.0,1451.0,True,regular,fbs,fbs
+320,222780204,2002-10-05T19:30:00.000Z,Oregon State,UCLA,1792.0,1682.0,True,regular,fbs,fbs
+321,222780038,2002-10-05T19:30:00.000Z,Colorado,Kansas State,1621.0,1950.0,True,regular,fbs,fbs
+322,222780333,2002-10-05T19:30:00.000Z,Alabama,Georgia,1773.0,1720.0,True,regular,fbs,fbs
+323,222780275,2002-10-05T19:30:00.000Z,Wisconsin,Penn State,1651.0,1764.0,True,regular,fbs,fbs
+324,222780264,2002-10-05T19:30:00.000Z,Washington,California,1622.0,1536.0,True,regular,fbs,fbs
+325,222780189,2002-10-05T20:00:00.000Z,Bowling Green,Ohio,1634.0,1254.0,True,regular,fbs,fbs
+326,222782032,2002-10-05T21:00:00.000Z,Arkansas State,Middle Tennessee,963.0,1477.0,True,regular,fbs,fbs
+327,222782199,2002-10-05T22:00:00.000Z,Eastern Michigan,Akron,970.0,1230.0,True,regular,fbs,fbs
+328,222780142,2002-10-05T23:00:00.000Z,Missouri,Oklahoma,1567.0,1956.0,True,regular,fbs,fbs
+329,222782433,2002-10-05T23:00:00.000Z,Louisiana Monroe,Tulane,942.0,1222.0,False,regular,fbs,fbs
+330,222782653,2002-10-05T23:00:00.000Z,Troy,Austin Peay,,,False,regular,fbs,
+331,222780265,2002-10-05T23:00:00.000Z,Washington State,USC,1667.0,1847.0,True,regular,fbs,fbs
+332,222780077,2002-10-05T23:00:00.000Z,Northwestern,Ohio State,1251.0,1829.0,True,regular,fbs,fbs
+333,222782390,2002-10-05T23:00:00.000Z,Miami,Connecticut,2163.0,1280.0,False,regular,fbs,fbs
+334,222782633,2002-10-05T23:45:00.000Z,Tennessee,Arkansas,1830.0,1717.0,True,regular,fbs,fbs
+335,222780099,2002-10-06T00:00:00.000Z,LSU,Louisiana,1734.0,1273.0,False,regular,fbs,fbs
+336,222780166,2002-10-06T00:00:00.000Z,New Mexico State,UTEP,1242.0,870.0,False,regular,fbs,fbs
+337,222780242,2002-10-06T00:00:00.000Z,Rice,Louisiana Tech,1335.0,1373.0,True,regular,fbs,fbs
+338,222780068,2002-10-06T00:05:00.000Z,Boise State,Hawai'i,1609.0,1655.0,True,regular,fbs,fbs
+339,222780249,2002-10-06T00:05:00.000Z,North Texas,South Florida,1330.0,1584.0,False,regular,fbs,fbs
+340,222780009,2002-10-06T02:00:00.000Z,Arizona State,North Carolina,1702.0,1577.0,True,regular,fbs,fbs
+341,222782439,2002-10-06T02:00:00.000Z,UNLV,Nevada,1396.0,1250.0,False,regular,fbs,fbs
+342,222780012,2002-10-06T02:00:00.000Z,Arizona,Oregon,1443.0,1818.0,True,regular,fbs,fbs
+343,222810235,2002-10-09T00:00:00.000Z,Memphis,Louisville,1440.0,1726.0,True,regular,fbs,fbs
+344,222830103,2002-10-10T23:45:00.000Z,Boston College,Virginia Tech,1691.0,1927.0,True,regular,fbs,fbs
+345,222830135,2002-10-11T00:00:00.000Z,Minnesota,Northwestern,1692.0,1274.0,True,regular,fbs,fbs
+346,222850153,2002-10-12T16:00:00.000Z,North Carolina,NC State,1589.0,1787.0,True,regular,fbs,fbs
+347,222852390,2002-10-12T16:00:00.000Z,Miami,Florida State,2160.0,1853.0,False,regular,fbs,fbs
+348,222852426,2002-10-12T16:00:00.000Z,Navy,Rice,1079.0,1376.0,False,regular,fbs,fbs
+349,222850258,2002-10-12T16:00:00.000Z,Virginia,Clemson,1480.0,1615.0,True,regular,fbs,fbs
+350,222850218,2002-10-12T16:00:00.000Z,Temple,Syracuse,1327.0,1569.0,True,regular,fbs,fbs
+351,222852294,2002-10-12T16:00:00.000Z,Iowa,Michigan State,1782.0,1634.0,True,regular,fbs,fbs
+352,222850084,2002-10-12T16:10:00.000Z,Indiana,Wisconsin,1453.0,1653.0,True,regular,fbs,fbs
+353,222850194,2002-10-12T16:10:00.000Z,Ohio State,San José State,1806.0,1307.0,False,regular,fbs,fbs
+354,222850158,2002-10-12T16:30:00.000Z,Nebraska,Missouri,1710.0,1582.0,True,regular,fbs,fbs
+355,222850002,2002-10-12T16:30:00.000Z,Auburn,Arkansas,1602.0,1717.0,True,regular,fbs,fbs
+356,222850239,2002-10-12T16:30:00.000Z,Baylor,Texas A&M,1094.0,1704.0,True,regular,fbs,fbs
+357,222852117,2002-10-12T17:00:00.000Z,Central Michigan,Bowling Green,1205.0,1736.0,True,regular,fbs,fbs
+358,222850356,2002-10-12T17:00:00.000Z,Illinois,Purdue,1565.0,1576.0,True,regular,fbs,fbs
+359,222850349,2002-10-12T17:00:00.000Z,Army,TCU,1039.0,1575.0,True,regular,fbs,fbs
+360,222850193,2002-10-12T18:00:00.000Z,Miami (OH),Northern Illinois,1491.0,1412.0,True,regular,fbs,fbs
+361,222852305,2002-10-12T18:00:00.000Z,Kansas,Colorado,1173.0,1635.0,True,regular,fbs,fbs
+362,222850145,2002-10-12T18:00:00.000Z,Ole Miss,Arkansas State,1586.0,1000.0,False,regular,fbs,fbs
+363,222852006,2002-10-12T18:00:00.000Z,Akron,Liberty,1201.0,1194.0,False,regular,fbs,
+364,222850195,2002-10-12T18:00:00.000Z,Ohio,Eastern Michigan,1152.0,999.0,True,regular,fbs,fbs
+365,222852306,2002-10-12T18:10:00.000Z,Kansas State,Oklahoma State,1936.0,1523.0,True,regular,fbs,fbs
+366,222850087,2002-10-12T18:30:00.000Z,Notre Dame,Pittsburgh,1706.0,1736.0,False,regular,fbs,fbs
+367,222850344,2002-10-12T18:30:00.000Z,Mississippi State,Troy,1329.0,1287.0,False,regular,fbs,fbs
+368,222850036,2002-10-12T19:00:00.000Z,Colorado State,Wyoming,1553.0,1131.0,True,regular,fbs,fbs
+369,222850005,2002-10-12T19:00:00.000Z,UAB,Houston,1359.0,1248.0,True,regular,fbs,fbs
+370,222850026,2002-10-12T19:30:00.000Z,UCLA,Oregon,1707.0,1822.0,True,regular,fbs,fbs
+371,222850264,2002-10-12T19:30:00.000Z,Washington,Arizona,1602.0,1439.0,True,regular,fbs,fbs
+372,222850130,2002-10-12T19:30:00.000Z,Michigan,Penn State,1764.0,1762.0,True,regular,fbs,fbs
+373,222850061,2002-10-12T19:30:00.000Z,Georgia,Tennessee,1726.0,1830.0,True,regular,fbs,fbs
+374,222850201,2002-10-12T19:30:00.000Z,Oklahoma,Texas,1941.0,2004.0,True,regular,fbs,fbs
+375,222852711,2002-10-12T19:30:00.000Z,Western Michigan,UCF,1448.0,1588.0,True,regular,fbs,fbs
+376,222852655,2002-10-12T19:30:00.000Z,Tulane,Cincinnati,1313.0,1528.0,True,regular,fbs,fbs
+377,222850164,2002-10-12T19:30:00.000Z,Rutgers,West Virginia,1216.0,1493.0,True,regular,fbs,fbs
+378,222850154,2002-10-12T19:30:00.000Z,Wake Forest,Duke,1474.0,1239.0,True,regular,fbs,fbs
+379,222850276,2002-10-12T20:30:00.000Z,Marshall,Buffalo,1645.0,1203.0,True,regular,fbs,fbs
+380,222850024,2002-10-12T21:00:00.000Z,Stanford,Washington State,1479.0,1670.0,True,regular,fbs,fbs
+381,222850030,2002-10-12T22:30:00.000Z,USC,California,1844.0,1556.0,True,regular,fbs,fbs
+382,222850096,2002-10-12T22:30:00.000Z,Kentucky,South Carolina,1660.0,1633.0,True,regular,fbs,fbs
+383,222850202,2002-10-12T23:00:00.000Z,Tulsa,Boise State,1014.0,1685.0,True,regular,fbs,fbs
+384,222850238,2002-10-12T23:00:00.000Z,Vanderbilt,Middle Tennessee,1220.0,1440.0,False,regular,fbs,fbs
+385,222850058,2002-10-12T23:00:00.000Z,South Florida,Southern Mississippi,1578.0,1651.0,True,regular,fbs,fbs
+386,222850021,2002-10-12T23:00:00.000Z,San Diego State,Utah,1243.0,1688.0,True,regular,fbs,fbs
+387,222852649,2002-10-12T23:00:00.000Z,Toledo,Ball State,1631.0,1235.0,True,regular,fbs,fbs
+388,222852439,2002-10-12T23:00:00.000Z,UNLV,New Mexico,1395.0,1352.0,True,regular,fbs,fbs
+389,222852433,2002-10-12T23:00:00.000Z,Louisiana Monroe,Idaho,851.0,1171.0,True,regular,fbs,fbs
+390,222850066,2002-10-12T23:00:00.000Z,Iowa State,Texas Tech,1772.0,1755.0,True,regular,fbs,fbs
+391,222850057,2002-10-12T23:45:00.000Z,Florida,LSU,2024.0,1815.0,True,regular,fbs,fbs
+392,222850166,2002-10-13T00:00:00.000Z,New Mexico State,Louisiana,1294.0,1192.0,True,regular,fbs,fbs
+393,222852005,2002-10-13T02:00:00.000Z,Air Force,BYU,1636.0,1629.0,True,regular,fbs,fbs
+394,222850009,2002-10-13T02:00:00.000Z,Arizona State,Oregon State,1690.0,1767.0,True,regular,fbs,fbs
+395,222850278,2002-10-13T02:30:00.000Z,Fresno State,SMU,1582.0,1122.0,True,regular,fbs,fbs
+396,222850062,2002-10-13T03:05:00.000Z,Hawai'i,Nevada,1579.0,1251.0,True,regular,fbs,fbs
+397,222900120,2002-10-17T23:45:00.000Z,Maryland,Georgia Tech,1714.0,1711.0,True,regular,fbs,fbs
+398,222910068,2002-10-19T00:05:00.000Z,Boise State,Fresno State,1688.0,1592.0,True,regular,fbs,fbs
+399,222920258,2002-10-19T16:00:00.000Z,Virginia,North Carolina,1491.0,1568.0,True,regular,fbs,fbs
+400,222922393,2002-10-19T16:00:00.000Z,Middle Tennessee,Louisiana,1431.0,1192.0,True,regular,fbs,fbs
+401,222920152,2002-10-19T16:00:00.000Z,NC State,Duke,1808.0,1199.0,True,regular,fbs,fbs
+402,222920041,2002-10-19T16:00:00.000Z,Connecticut,Temple,1283.0,1334.0,False,regular,fbs,fbs
+403,222920103,2002-10-19T16:00:00.000Z,Boston College,Navy,1698.0,1088.0,False,regular,fbs,fbs
+404,222920277,2002-10-19T16:00:00.000Z,West Virginia,Syracuse,1575.0,1562.0,True,regular,fbs,fbs
+405,222922509,2002-10-19T16:05:00.000Z,Purdue,Michigan,1566.0,1765.0,True,regular,fbs,fbs
+406,222920213,2002-10-19T16:05:00.000Z,Penn State,Northwestern,1761.0,1278.0,True,regular,fbs,fbs
+407,222920127,2002-10-19T16:10:00.000Z,Michigan State,Minnesota,1578.0,1688.0,True,regular,fbs,fbs
+408,222920084,2002-10-19T16:10:00.000Z,Indiana,Iowa,1457.0,1838.0,True,regular,fbs,fbs
+409,222920197,2002-10-19T16:30:00.000Z,Oklahoma State,Nebraska,1476.0,1720.0,True,regular,fbs,fbs
+410,222920061,2002-10-19T16:30:00.000Z,Georgia,Vanderbilt,1735.0,1229.0,True,regular,fbs,fbs
+411,222920259,2002-10-19T17:00:00.000Z,Virginia Tech,Rutgers,1920.0,1134.0,True,regular,fbs,fbs
+412,222922084,2002-10-19T17:00:00.000Z,Buffalo,Miami (OH),1129.0,1472.0,True,regular,fbs,fbs
+413,222922305,2002-10-19T18:00:00.000Z,Kansas,Texas A&M,1160.0,1748.0,True,regular,fbs,fbs
+414,222920008,2002-10-19T18:00:00.000Z,Arkansas,Kentucky,1758.0,1652.0,True,regular,fbs,fbs
+415,222920151,2002-10-19T18:00:00.000Z,East Carolina,South Florida,1556.0,1580.0,True,regular,fbs,fbs
+416,222920097,2002-10-19T18:00:00.000Z,Louisville,TCU,1717.0,1570.0,True,regular,fbs,fbs
+417,222922572,2002-10-19T18:00:00.000Z,Southern Mississippi,Cincinnati,1649.0,1465.0,True,regular,fbs,fbs
+418,222922309,2002-10-19T18:00:00.000Z,Kent State,Ohio,1256.0,1207.0,True,regular,fbs,fbs
+419,222922459,2002-10-19T18:05:00.000Z,Northern Illinois,Central Michigan,1431.0,1226.0,True,regular,fbs,fbs
+420,222922050,2002-10-19T18:30:00.000Z,Ball State,Eastern Michigan,1226.0,944.0,True,regular,fbs,fbs
+421,222920248,2002-10-19T19:00:00.000Z,Houston,Army,1221.0,1044.0,True,regular,fbs,fbs
+422,222920038,2002-10-19T19:00:00.000Z,Colorado,Baylor,1648.0,1050.0,True,regular,fbs,fbs
+423,222922567,2002-10-19T19:00:00.000Z,SMU,Louisiana Tech,1112.0,1332.0,True,regular,fbs,fbs
+424,222922751,2002-10-19T19:00:00.000Z,Wyoming,San Diego State,1143.0,1338.0,True,regular,fbs,fbs
+425,222920254,2002-10-19T19:00:00.000Z,Utah,Colorado State,1593.0,1541.0,True,regular,fbs,fbs
+426,222920333,2002-10-19T19:30:00.000Z,Alabama,Ole Miss,1767.0,1614.0,True,regular,fbs,fbs
+427,222920201,2002-10-19T19:30:00.000Z,Oklahoma,Iowa State,1966.0,1799.0,True,regular,fbs,fbs
+428,222920228,2002-10-19T19:30:00.000Z,Clemson,Wake Forest,1604.0,1514.0,True,regular,fbs,fbs
+429,222922655,2002-10-19T19:30:00.000Z,Tulane,UAB,1376.0,1386.0,True,regular,fbs,fbs
+430,222920275,2002-10-19T19:30:00.000Z,Wisconsin,Ohio State,1649.0,1867.0,True,regular,fbs,fbs
+431,222920030,2002-10-19T19:30:00.000Z,USC,Washington,1841.0,1600.0,True,regular,fbs,fbs
+432,222922483,2002-10-19T19:30:00.000Z,Oregon,Arizona State,1818.0,1695.0,True,regular,fbs,fbs
+433,222920166,2002-10-19T20:00:00.000Z,New Mexico State,Louisiana Monroe,1294.0,934.0,True,regular,fbs,fbs
+434,222922440,2002-10-19T20:05:00.000Z,Nevada,San José State,1223.0,1246.0,True,regular,fbs,fbs
+435,222920276,2002-10-19T20:30:00.000Z,Marshall,Troy,1719.0,1287.0,False,regular,fbs,fbs
+436,222920024,2002-10-19T21:00:00.000Z,Stanford,Arizona,1435.0,1441.0,True,regular,fbs,fbs
+437,222920328,2002-10-19T21:05:00.000Z,Utah State,New Mexico,1209.0,1374.0,False,regular,fbs,fbs
+438,222920189,2002-10-19T22:00:00.000Z,Bowling Green,Western Michigan,1715.0,1450.0,True,regular,fbs,fbs
+439,222922116,2002-10-19T22:00:00.000Z,UCF,Toledo,1586.0,1640.0,True,regular,fbs,fbs
+440,222920057,2002-10-19T22:45:00.000Z,Florida,Auburn,1914.0,1561.0,True,regular,fbs,fbs
+441,222920252,2002-10-19T23:00:00.000Z,BYU,UNLV,1502.0,1373.0,True,regular,fbs,fbs
+442,222922306,2002-10-19T23:00:00.000Z,Kansas State,Texas,1983.0,1979.0,True,regular,fbs,fbs
+443,222922641,2002-10-19T23:00:00.000Z,Texas Tech,Missouri,1728.0,1572.0,True,regular,fbs,fbs
+444,222922032,2002-10-19T23:00:00.000Z,Arkansas State,North Texas,972.0,1336.0,True,regular,fbs,fbs
+445,222920025,2002-10-19T23:00:00.000Z,California,UCLA,1559.0,1711.0,True,regular,fbs,fbs
+446,222920099,2002-10-19T23:45:00.000Z,LSU,South Carolina,1925.0,1641.0,True,regular,fbs,fbs
+447,222920235,2002-10-20T00:00:00.000Z,Memphis,Mississippi State,1449.0,1329.0,False,regular,fbs,fbs
+448,222922005,2002-10-20T02:00:00.000Z,Air Force,Notre Dame,1763.0,1720.0,False,regular,fbs,fbs
+449,222922638,2002-10-20T02:15:00.000Z,UTEP,Rice,818.0,1367.0,True,regular,fbs,fbs
+450,222920062,2002-10-20T03:05:00.000Z,Hawai'i,Tulsa,1607.0,1011.0,True,regular,fbs,fbs
+451,222970228,2002-10-24T23:45:00.000Z,Clemson,NC State,1610.0,1799.0,True,regular,fbs,fbs
+452,222970036,2002-10-25T02:00:00.000Z,Colorado State,BYU,1561.0,1433.0,True,regular,fbs,fbs
+453,222980278,2002-10-26T01:00:00.000Z,Fresno State,Hawai'i,1467.0,1605.0,True,regular,fbs,fbs
+454,222990052,2002-10-26T16:00:00.000Z,Florida State,Notre Dame,1862.0,1737.0,False,regular,fbs,fbs
+455,222990154,2002-10-26T16:00:00.000Z,Wake Forest,North Carolina,1508.0,1545.0,True,regular,fbs,fbs
+456,222990077,2002-10-26T16:00:00.000Z,Northwestern,Purdue,1196.0,1574.0,True,regular,fbs,fbs
+457,222990277,2002-10-26T16:00:00.000Z,West Virginia,Miami,1643.0,2151.0,True,regular,fbs,fbs
+458,222990221,2002-10-26T16:00:00.000Z,Pittsburgh,Boston College,1722.0,1699.0,True,regular,fbs,fbs
+459,222990130,2002-10-26T16:10:00.000Z,Michigan,Iowa,1757.0,1840.0,True,regular,fbs,fbs
+460,222990002,2002-10-26T16:30:00.000Z,Auburn,LSU,1570.0,1954.0,True,regular,fbs,fbs
+461,222992711,2002-10-26T17:00:00.000Z,Western Michigan,Northern Illinois,1452.0,1551.0,True,regular,fbs,fbs
+462,222990259,2002-10-26T17:00:00.000Z,Virginia Tech,Temple,1899.0,1361.0,True,regular,fbs,fbs
+463,222990150,2002-10-26T17:00:00.000Z,Duke,Maryland,1208.0,1773.0,True,regular,fbs,fbs
+464,222990349,2002-10-26T17:00:00.000Z,Army,UAB,1031.0,1335.0,True,regular,fbs,fbs
+465,222992117,2002-10-26T17:00:00.000Z,Central Michigan,Marshall,1106.0,1718.0,True,regular,fbs,fbs
+466,222992084,2002-10-26T17:00:00.000Z,Buffalo,Kent State,1026.0,1089.0,True,regular,fbs,fbs
+467,222990183,2002-10-26T17:30:00.000Z,Syracuse,Rutgers,1494.0,1155.0,True,regular,fbs,fbs
+468,222990038,2002-10-26T17:30:00.000Z,Colorado,Texas Tech,1672.0,1743.0,True,regular,fbs,fbs
+469,222990238,2002-10-26T18:00:00.000Z,Vanderbilt,Connecticut,1203.0,1256.0,False,regular,fbs,fbs
+470,222990356,2002-10-26T18:00:00.000Z,Illinois,Indiana,1575.0,1455.0,True,regular,fbs,fbs
+471,222992132,2002-10-26T18:00:00.000Z,Cincinnati,Memphis,1462.0,1411.0,True,regular,fbs,fbs
+472,222990142,2002-10-26T18:00:00.000Z,Missouri,Kansas,1557.0,1157.0,True,regular,fbs,fbs
+473,222990008,2002-10-26T18:00:00.000Z,Arkansas,Ole Miss,1721.0,1536.0,True,regular,fbs,fbs
+474,222990097,2002-10-26T18:00:00.000Z,Louisville,East Carolina,1670.0,1520.0,True,regular,fbs,fbs
+475,222992751,2002-10-26T19:00:00.000Z,Wyoming,Air Force,1149.0,1746.0,True,regular,fbs,fbs
+476,222992653,2002-10-26T19:00:00.000Z,Troy,Florida Atlantic,1288.0,1385.0,False,regular,fbs,
+477,222990242,2002-10-26T19:00:00.000Z,Rice,SMU,1358.0,1116.0,True,regular,fbs,fbs
+478,222990202,2002-10-26T19:00:00.000Z,Tulsa,UTEP,1013.0,827.0,True,regular,fbs,fbs
+479,222990167,2002-10-26T19:00:00.000Z,New Mexico,Utah,1369.0,1573.0,True,regular,fbs,fbs
+480,222992348,2002-10-26T19:00:00.000Z,Louisiana Tech,Nevada,1328.0,1299.0,True,regular,fbs,fbs
+481,222990239,2002-10-26T19:00:00.000Z,Baylor,Kansas State,1026.0,1978.0,True,regular,fbs,fbs
+482,222990070,2002-10-26T19:07:00.000Z,Idaho,Middle Tennessee,1088.0,1437.0,True,regular,fbs,fbs
+483,222990096,2002-10-26T19:30:00.000Z,Kentucky,Georgia,1689.0,1761.0,True,regular,fbs,fbs
+484,222992655,2002-10-26T19:30:00.000Z,Tulane,Navy,1427.0,1087.0,False,regular,fbs,fbs
+485,222990059,2002-10-26T19:30:00.000Z,Georgia Tech,Virginia,1652.0,1514.0,True,regular,fbs,fbs
+486,222992483,2002-10-26T19:30:00.000Z,Oregon,USC,1806.0,1864.0,True,regular,fbs,fbs
+487,222990251,2002-10-26T19:30:00.000Z,Texas,Iowa State,1984.0,1684.0,True,regular,fbs,fbs
+488,222990194,2002-10-26T19:30:00.000Z,Ohio State,Penn State,1861.0,1843.0,True,regular,fbs,fbs
+489,222990204,2002-10-26T20:00:00.000Z,Oregon State,California,1762.0,1571.0,True,regular,fbs,fbs
+490,222990189,2002-10-26T20:00:00.000Z,Bowling Green,Ball State,1713.0,1258.0,True,regular,fbs,fbs
+491,222992116,2002-10-26T20:00:00.000Z,UCF,Akron,1585.0,1274.0,True,regular,fbs,fbs
+492,222990023,2002-10-26T21:00:00.000Z,San José State,Boise State,1170.0,1813.0,True,regular,fbs,fbs
+493,222990309,2002-10-26T21:00:00.000Z,Louisiana,North Texas,1186.0,1320.0,True,regular,fbs,fbs
+494,222990026,2002-10-26T22:30:00.000Z,UCLA,Stanford,1699.0,1453.0,True,regular,fbs,fbs
+495,222992032,2002-10-26T23:00:00.000Z,Arkansas State,New Mexico State,988.0,1291.0,True,regular,fbs,fbs
+496,222992433,2002-10-26T23:00:00.000Z,Louisiana Monroe,Utah State,937.0,1214.0,True,regular,fbs,fbs
+497,222992649,2002-10-26T23:00:00.000Z,Toledo,Miami (OH),1641.0,1575.0,True,regular,fbs,fbs
+498,222990021,2002-10-26T23:00:00.000Z,San Diego State,UNLV,1332.0,1442.0,True,regular,fbs,fbs
+499,222990245,2002-10-26T23:00:00.000Z,Texas A&M,Nebraska,1751.0,1716.0,True,regular,fbs,fbs
+500,222990127,2002-10-26T23:05:00.000Z,Michigan State,Wisconsin,1537.0,1655.0,True,regular,fbs,fbs
+501,222992633,2002-10-26T23:45:00.000Z,Tennessee,Alabama,1821.0,1845.0,True,regular,fbs,fbs
+502,222990012,2002-10-27T02:00:00.000Z,Arizona,Washington State,1423.0,1714.0,True,regular,fbs,fbs
+503,222990009,2002-10-27T02:00:00.000Z,Arizona State,Washington,1707.0,1577.0,True,regular,fbs,fbs
+504,223032628,2002-10-31T01:30:00.000Z,TCU,Southern Mississippi,1617.0,1652.0,True,regular,fbs,fbs
+505,223042005,2002-11-01T01:45:00.000Z,Air Force,Colorado State,1690.0,1616.0,True,regular,fbs,fbs
+506,223060041,2002-11-02T18:00:00.000Z,Connecticut,Florida Atlantic,1251.0,1345.0,False,regular,fbs,
+507,223060150,2002-11-02T18:00:00.000Z,Duke,Clemson,1182.0,1543.0,True,regular,fbs,fbs
+508,223060164,2002-11-02T18:00:00.000Z,Rutgers,Miami,1111.0,2144.0,True,regular,fbs,fbs
+509,223060218,2002-11-02T18:00:00.000Z,Temple,West Virginia,1378.0,1650.0,True,regular,fbs,fbs
+510,223062294,2002-11-02T18:05:00.000Z,Iowa,Wisconsin,1897.0,1687.0,True,regular,fbs,fbs
+511,223060130,2002-11-02T18:05:00.000Z,Michigan,Michigan State,1700.0,1505.0,True,regular,fbs,fbs
+512,223060077,2002-11-02T18:10:00.000Z,Northwestern,Indiana,1161.0,1386.0,True,regular,fbs,fbs
+513,223060145,2002-11-02T18:30:00.000Z,Ole Miss,Auburn,1508.0,1678.0,True,regular,fbs,fbs
+514,223060197,2002-11-02T18:30:00.000Z,Oklahoma State,Texas A&M,1480.0,1735.0,True,regular,fbs,fbs
+515,223062199,2002-11-02T19:00:00.000Z,Eastern Michigan,Central Michigan,912.0,1135.0,True,regular,fbs,fbs
+516,223060193,2002-11-02T19:00:00.000Z,Miami (OH),Ohio,1614.0,1374.0,True,regular,fbs,fbs
+517,223062050,2002-11-02T19:00:00.000Z,Ball State,Western Michigan,1258.0,1452.0,True,regular,fbs,fbs
+518,223060153,2002-11-02T19:30:00.000Z,North Carolina,Maryland,1456.0,1799.0,True,regular,fbs,fbs
+519,223060238,2002-11-02T20:00:00.000Z,Vanderbilt,Alabama,1208.0,1893.0,True,regular,fbs,fbs
+520,223062641,2002-11-02T20:00:00.000Z,Texas Tech,Baylor,1675.0,1036.0,True,regular,fbs,fbs
+521,223060235,2002-11-02T20:00:00.000Z,Memphis,Houston,1309.0,1234.0,True,regular,fbs,fbs
+522,223060008,2002-11-02T20:00:00.000Z,Arkansas,Troy,1749.0,1328.0,False,regular,fbs,fbs
+523,223060066,2002-11-02T20:00:00.000Z,Iowa State,Missouri,1686.0,1575.0,True,regular,fbs,fbs
+524,223062309,2002-11-02T20:00:00.000Z,Kent State,Bowling Green,1091.0,1713.0,True,regular,fbs,fbs
+525,223062305,2002-11-02T20:00:00.000Z,Kansas,Kansas State,1139.0,1968.0,True,regular,fbs,fbs
+526,223060344,2002-11-02T20:30:00.000Z,Mississippi State,Kentucky,1367.0,1621.0,True,regular,fbs,fbs
+527,223060087,2002-11-02T20:30:00.000Z,Notre Dame,Boston College,1769.0,1698.0,False,regular,fbs,fbs
+528,223062032,2002-11-02T21:00:00.000Z,Arkansas State,Southern Utah,,,False,regular,fbs,
+529,223062567,2002-11-02T21:00:00.000Z,SMU,Nevada,1112.0,1298.0,True,regular,fbs,fbs
+530,223060252,2002-11-02T21:00:00.000Z,BYU,San Diego State,1378.0,1357.0,True,regular,fbs,fbs
+531,223060202,2002-11-02T21:00:00.000Z,Tulsa,Rice,1041.0,1362.0,True,regular,fbs,fbs
+532,223060265,2002-11-02T21:30:00.000Z,Washington State,Arizona State,1707.0,1717.0,True,regular,fbs,fbs
+533,223062579,2002-11-02T21:30:00.000Z,South Carolina,Tennessee,1612.0,1773.0,True,regular,fbs,fbs
+534,223062006,2002-11-02T21:30:00.000Z,Akron,Marshall,1276.0,1689.0,True,regular,fbs,fbs
+535,223060201,2002-11-02T21:30:00.000Z,Oklahoma,Colorado,2081.0,1740.0,True,regular,fbs,fbs
+536,223060152,2002-11-02T21:30:00.000Z,NC State,Georgia Tech,1866.0,1656.0,True,regular,fbs,fbs
+537,223060194,2002-11-02T21:30:00.000Z,Ohio State,Minnesota,1867.0,1729.0,True,regular,fbs,fbs
+538,223060213,2002-11-02T21:30:00.000Z,Penn State,Illinois,1837.0,1644.0,True,regular,fbs,fbs
+539,223062483,2002-11-02T21:30:00.000Z,Oregon,Stanford,1788.0,1453.0,True,regular,fbs,fbs
+540,223060154,2002-11-02T22:00:00.000Z,Wake Forest,Florida State,1597.0,1830.0,True,regular,fbs,fbs
+541,223060204,2002-11-02T22:00:00.000Z,Oregon State,Arizona,1768.0,1430.0,True,regular,fbs,fbs
+542,223060249,2002-11-02T22:05:00.000Z,North Texas,Louisiana Monroe,1377.0,942.0,True,regular,fbs,fbs
+543,223060309,2002-11-02T23:00:00.000Z,Louisiana,Idaho,1129.0,1094.0,True,regular,fbs,fbs
+544,223060166,2002-11-03T00:00:00.000Z,New Mexico State,Middle Tennessee,1280.0,1431.0,True,regular,fbs,fbs
+545,223060158,2002-11-03T01:00:00.000Z,Nebraska,Texas,1732.0,1982.0,True,regular,fbs,fbs
+546,223060264,2002-11-03T01:00:00.000Z,Washington,UCLA,1567.0,1699.0,True,regular,fbs,fbs
+547,223060058,2002-11-03T01:00:00.000Z,South Florida,Charleston Southern,,,False,regular,fbs,
+548,223062116,2002-11-03T01:00:00.000Z,UCF,Syracuse,1583.0,1538.0,False,regular,fbs,fbs
+549,223062439,2002-11-03T01:00:00.000Z,UNLV,Wyoming,1417.0,1205.0,True,regular,fbs,fbs
+550,223060259,2002-11-03T01:30:00.000Z,Virginia Tech,Pittsburgh,1882.0,1723.0,True,regular,fbs,fbs
+551,223060061,2002-11-03T01:45:00.000Z,Georgia,Florida,1829.0,1905.0,True,regular,fbs,fbs
+552,223062638,2002-11-03T03:05:00.000Z,UTEP,Boise State,799.0,1842.0,True,regular,fbs,fbs
+553,223060062,2002-11-03T05:05:00.000Z,Hawai'i,San José State,1614.0,1141.0,True,regular,fbs,fbs
+554,223110097,2002-11-08T00:30:00.000Z,Louisville,Cincinnati,1713.0,1564.0,True,regular,fbs,fbs
+555,223132509,2002-11-09T17:00:00.000Z,Purdue,Ohio State,1609.0,1934.0,True,regular,fbs,fbs
+556,223130153,2002-11-09T17:00:00.000Z,North Carolina,Clemson,1343.0,1527.0,True,regular,fbs,fbs
+557,223130277,2002-11-09T17:00:00.000Z,West Virginia,Boston College,1688.0,1717.0,True,regular,fbs,fbs
+558,223132426,2002-11-09T17:00:00.000Z,Navy,Notre Dame,1071.0,1750.0,False,regular,fbs,fbs
+559,223130120,2002-11-09T17:00:00.000Z,Maryland,NC State,1912.0,1835.0,True,regular,fbs,fbs
+560,223130221,2002-11-09T17:00:00.000Z,Pittsburgh,Temple,1749.0,1340.0,True,regular,fbs,fbs
+561,223130041,2002-11-09T17:00:00.000Z,Connecticut,Kent State,1410.0,1076.0,False,regular,fbs,fbs
+562,223132294,2002-11-09T17:05:00.000Z,Iowa,Northwestern,1915.0,1171.0,True,regular,fbs,fbs
+563,223130275,2002-11-09T17:10:00.000Z,Wisconsin,Illinois,1669.0,1638.0,True,regular,fbs,fbs
+564,223130251,2002-11-09T17:30:00.000Z,Texas,Baylor,1972.0,968.0,True,regular,fbs,fbs
+565,223130142,2002-11-09T17:30:00.000Z,Missouri,Colorado,1572.0,1735.0,True,regular,fbs,fbs
+566,223132579,2002-11-09T17:30:00.000Z,South Carolina,Arkansas,1609.0,1763.0,True,regular,fbs,fbs
+567,223130096,2002-11-09T17:30:00.000Z,Kentucky,LSU,1647.0,1846.0,True,regular,fbs,fbs
+568,223132711,2002-11-09T18:00:00.000Z,Western Michigan,Eastern Michigan,1420.0,868.0,True,regular,fbs,fbs
+569,223130084,2002-11-09T18:00:00.000Z,Indiana,Michigan State,1376.0,1394.0,True,regular,fbs,fbs
+570,223132084,2002-11-09T18:00:00.000Z,Buffalo,UCF,1024.0,1576.0,True,regular,fbs,fbs
+571,223130158,2002-11-09T18:30:00.000Z,Nebraska,Kansas,1742.0,1053.0,True,regular,fbs,fbs
+572,223130002,2002-11-09T19:00:00.000Z,Auburn,Louisiana Monroe,1678.0,886.0,False,regular,fbs,fbs
+573,223130238,2002-11-09T19:00:00.000Z,Vanderbilt,Florida,1220.0,1912.0,True,regular,fbs,fbs
+574,223132641,2002-11-09T19:00:00.000Z,Texas Tech,Oklahoma State,1743.0,1496.0,True,regular,fbs,fbs
+575,223130195,2002-11-09T19:00:00.000Z,Ohio,Akron,1356.0,1345.0,True,regular,fbs,fbs
+576,223130333,2002-11-09T19:00:00.000Z,Alabama,Mississippi State,1881.0,1341.0,True,regular,fbs,fbs
+577,223132459,2002-11-09T19:35:00.000Z,Northern Illinois,Bowling Green,1551.0,1728.0,True,regular,fbs,fbs
+578,223130349,2002-11-09T20:00:00.000Z,Army,Air Force,1044.0,1634.0,True,regular,fbs,fbs
+579,223130005,2002-11-09T20:00:00.000Z,UAB,Southern Mississippi,1322.0,1567.0,True,regular,fbs,fbs
+580,223130248,2002-11-09T20:00:00.000Z,Houston,East Carolina,1248.0,1477.0,True,regular,fbs,fbs
+581,223132628,2002-11-09T20:00:00.000Z,TCU,Tulane,1702.0,1443.0,True,regular,fbs,fbs
+582,223132440,2002-11-09T20:05:00.000Z,Nevada,UTEP,1323.0,765.0,True,regular,fbs,fbs
+583,223130328,2002-11-09T20:05:00.000Z,Utah State,New Mexico State,1209.0,1283.0,True,regular,fbs,fbs
+584,223130068,2002-11-09T20:05:00.000Z,Boise State,Rice,1876.0,1367.0,True,regular,fbs,fbs
+585,223130059,2002-11-09T20:30:00.000Z,Georgia Tech,Florida State,1687.0,1838.0,True,regular,fbs,fbs
+586,223130264,2002-11-09T20:30:00.000Z,Washington,Oregon State,1557.0,1824.0,True,regular,fbs,fbs
+587,223130213,2002-11-09T20:30:00.000Z,Penn State,Virginia,1843.0,1510.0,True,regular,fbs,fbs
+588,223130183,2002-11-09T20:30:00.000Z,Syracuse,Virginia Tech,1545.0,1856.0,True,regular,fbs,fbs
+589,223130265,2002-11-09T20:30:00.000Z,Washington State,Oregon,1761.0,1821.0,True,regular,fbs,fbs
+590,223132633,2002-11-09T20:30:00.000Z,Tennessee,Miami,1776.0,2109.0,False,regular,fbs,fbs
+591,223130245,2002-11-09T20:30:00.000Z,Texas A&M,Oklahoma,1719.0,2086.0,True,regular,fbs,fbs
+592,223132653,2002-11-09T22:00:00.000Z,Troy,Florida A&M,,,False,regular,fbs,
+593,223130309,2002-11-09T22:00:00.000Z,Louisiana,Arkansas State,1130.0,999.0,True,regular,fbs,fbs
+594,223130023,2002-11-09T22:00:00.000Z,San José State,Louisiana Tech,1155.0,1329.0,True,regular,fbs,fbs
+595,223130252,2002-11-09T23:00:00.000Z,BYU,Wyoming,1435.0,1211.0,True,regular,fbs,fbs
+596,223130167,2002-11-09T23:05:00.000Z,New Mexico,San Diego State,1391.0,1300.0,True,regular,fbs,fbs
+597,223130009,2002-11-09T23:30:00.000Z,Arizona State,California,1663.0,1565.0,True,regular,fbs,fbs
+598,223132649,2002-11-10T00:00:00.000Z,Toledo,Central Michigan,1602.0,1179.0,True,regular,fbs,fbs
+599,223130061,2002-11-10T00:00:00.000Z,Georgia,Ole Miss,1822.0,1508.0,True,regular,fbs,fbs
+600,223130278,2002-11-10T00:00:00.000Z,Fresno State,Tulsa,1458.0,1036.0,True,regular,fbs,fbs
+601,223132306,2002-11-10T00:00:00.000Z,Kansas State,Iowa State,2054.0,1689.0,True,regular,fbs,fbs
+602,223130024,2002-11-10T00:00:00.000Z,Stanford,USC,1420.0,1882.0,True,regular,fbs,fbs
+603,223130254,2002-11-10T00:00:00.000Z,Utah,UNLV,1551.0,1411.0,True,regular,fbs,fbs
+604,223130058,2002-11-10T00:00:00.000Z,South Florida,Memphis,1616.0,1295.0,True,regular,fbs,fbs
+605,223130249,2002-11-10T00:05:00.000Z,North Texas,Idaho,1433.0,1093.0,True,regular,fbs,fbs
+606,223130135,2002-11-10T00:45:00.000Z,Minnesota,Michigan,1662.0,1811.0,True,regular,fbs,fbs
+607,223130012,2002-11-10T02:00:00.000Z,Arizona,UCLA,1374.0,1709.0,True,regular,fbs,fbs
+608,223160276,2002-11-13T01:00:00.000Z,Marshall,Miami (OH),1620.0,1632.0,True,regular,fbs,fbs
+609,223182572,2002-11-15T00:30:00.000Z,Southern Mississippi,Louisville,1562.0,1678.0,True,regular,fbs,fbs
+610,223202751,2002-11-16T17:00:00.000Z,Wyoming,Utah,1214.0,1560.0,True,regular,fbs,fbs
+611,223202426,2002-11-16T17:00:00.000Z,Navy,Connecticut,1103.0,1488.0,False,regular,fbs,fbs
+612,223200258,2002-11-16T17:00:00.000Z,Virginia,NC State,1493.0,1835.0,True,regular,fbs,fbs
+613,223200103,2002-11-16T17:00:00.000Z,Boston College,Syracuse,1698.0,1578.0,True,regular,fbs,fbs
+614,223202653,2002-11-16T17:00:00.000Z,Troy,Utah State,1314.0,1211.0,False,regular,fbs,fbs
+615,223200135,2002-11-16T17:05:00.000Z,Minnesota,Iowa,1636.0,1974.0,True,regular,fbs,fbs
+616,223200130,2002-11-16T17:05:00.000Z,Michigan,Wisconsin,1837.0,1625.0,True,regular,fbs,fbs
+617,223200127,2002-11-16T17:10:00.000Z,Michigan State,Purdue,1494.0,1622.0,True,regular,fbs,fbs
+618,223202306,2002-11-16T17:30:00.000Z,Kansas State,Nebraska,2158.0,1768.0,True,regular,fbs,fbs
+619,223200344,2002-11-16T17:30:00.000Z,Mississippi State,Tennessee,1355.0,1753.0,True,regular,fbs,fbs
+620,223202006,2002-11-16T18:00:00.000Z,Akron,Buffalo,1309.0,1020.0,True,regular,fbs,fbs
+621,223202117,2002-11-16T18:00:00.000Z,Central Michigan,Ball State,1155.0,1290.0,True,regular,fbs,fbs
+622,223200059,2002-11-16T18:00:00.000Z,Georgia Tech,Duke,1683.0,1198.0,True,regular,fbs,fbs
+623,223202132,2002-11-16T18:00:00.000Z,Cincinnati,Houston,1599.0,1253.0,True,regular,fbs,fbs
+624,223202199,2002-11-16T18:00:00.000Z,Eastern Michigan,Northern Illinois,876.0,1578.0,True,regular,fbs,fbs
+625,223200096,2002-11-16T18:30:00.000Z,Kentucky,Vanderbilt,1654.0,1253.0,True,regular,fbs,fbs
+626,223200239,2002-11-16T19:00:00.000Z,Baylor,Oklahoma,966.0,2071.0,True,regular,fbs,fbs
+627,223202305,2002-11-16T19:00:00.000Z,Kansas,Oklahoma State,1027.0,1460.0,True,regular,fbs,fbs
+628,223200245,2002-11-16T19:00:00.000Z,Texas A&M,Missouri,1734.0,1571.0,True,regular,fbs,fbs
+629,223200008,2002-11-16T19:00:00.000Z,Arkansas,Louisiana,1806.0,1129.0,False,regular,fbs,fbs
+630,223202439,2002-11-16T20:00:00.000Z,UNLV,Air Force,1402.0,1624.0,True,regular,fbs,fbs
+631,223200005,2002-11-16T20:00:00.000Z,UAB,East Carolina,1327.0,1472.0,True,regular,fbs,fbs
+632,223200202,2002-11-16T20:00:00.000Z,Tulsa,San José State,1032.0,1192.0,True,regular,fbs,fbs
+633,223200242,2002-11-16T20:00:00.000Z,Rice,Hawai'i,1310.0,1600.0,True,regular,fbs,fbs
+634,223200068,2002-11-16T20:05:00.000Z,Boise State,Louisiana Tech,1933.0,1292.0,True,regular,fbs,fbs
+635,223202641,2002-11-16T20:30:00.000Z,Texas Tech,Texas,1779.0,1974.0,True,regular,fbs,fbs
+636,223200002,2002-11-16T20:30:00.000Z,Auburn,Georgia,1693.0,1825.0,True,regular,fbs,fbs
+637,223200356,2002-11-16T20:30:00.000Z,Illinois,Ohio State,1682.0,1921.0,True,regular,fbs,fbs
+638,223202711,2002-11-16T20:30:00.000Z,Western Michigan,Toledo,1412.0,1626.0,True,regular,fbs,fbs
+639,223202655,2002-11-16T20:30:00.000Z,Tulane,Army,1447.0,1054.0,True,regular,fbs,fbs
+640,223202393,2002-11-16T20:30:00.000Z,Middle Tennessee,Louisiana Monroe,1428.0,871.0,True,regular,fbs,fbs
+641,223200164,2002-11-16T20:30:00.000Z,Rutgers,Temple,1146.0,1352.0,True,regular,fbs,fbs
+642,223200025,2002-11-16T20:30:00.000Z,California,Arizona,1617.0,1331.0,True,regular,fbs,fbs
+643,223200052,2002-11-16T20:30:00.000Z,Florida State,North Carolina,1842.0,1282.0,True,regular,fbs,fbs
+644,223200084,2002-11-16T20:30:00.000Z,Indiana,Penn State,1276.0,1860.0,True,regular,fbs,fbs
+645,223202483,2002-11-16T20:30:00.000Z,Oregon,Washington,1796.0,1603.0,True,regular,fbs,fbs
+646,223200249,2002-11-16T21:05:00.000Z,North Texas,New Mexico State,1427.0,1281.0,True,regular,fbs,fbs
+647,223200024,2002-11-16T22:00:00.000Z,Stanford,Oregon State,1385.0,1778.0,True,regular,fbs,fbs
+648,223200070,2002-11-16T22:00:00.000Z,Idaho,Arkansas State,1099.0,1000.0,True,regular,fbs,fbs
+649,223202638,2002-11-16T22:05:00.000Z,UTEP,SMU,782.0,1087.0,True,regular,fbs,fbs
+650,223200057,2002-11-16T23:00:00.000Z,Florida,South Carolina,1879.0,1566.0,True,regular,fbs,fbs
+651,223200252,2002-11-16T23:00:00.000Z,BYU,New Mexico,1432.0,1395.0,True,regular,fbs,fbs
+652,223202116,2002-11-16T23:00:00.000Z,UCF,Kent State,1580.0,998.0,True,regular,fbs,fbs
+653,223200278,2002-11-17T00:00:00.000Z,Fresno State,Nevada,1462.0,1306.0,True,regular,fbs,fbs
+654,223200058,2002-11-17T00:00:00.000Z,South Florida,Bowling Green,1613.0,1701.0,False,regular,fbs,fbs
+655,223200021,2002-11-17T00:00:00.000Z,San Diego State,Colorado State,1296.0,1672.0,True,regular,fbs,fbs
+656,223200038,2002-11-17T00:00:00.000Z,Colorado,Iowa State,1736.0,1585.0,True,regular,fbs,fbs
+657,223200030,2002-11-17T00:00:00.000Z,USC,Arizona State,1917.0,1611.0,True,regular,fbs,fbs
+658,223200228,2002-11-17T00:45:00.000Z,Clemson,Maryland,1588.0,1912.0,True,regular,fbs,fbs
+659,223200099,2002-11-17T02:00:00.000Z,LSU,Alabama,1839.0,1867.0,True,regular,fbs,fbs
+660,223240259,2002-11-21T00:00:00.000Z,Virginia Tech,West Virginia,1823.0,1707.0,True,regular,fbs,fbs
+661,223252390,2002-11-22T00:30:00.000Z,Miami,Pittsburgh,2132.0,1737.0,True,regular,fbs,fbs
+662,223270218,2002-11-23T17:00:00.000Z,Temple,Boston College,1345.0,1735.0,True,regular,fbs,fbs
+663,223272005,2002-11-23T17:00:00.000Z,Air Force,San Diego State,1643.0,1263.0,True,regular,fbs,fbs
+664,223270077,2002-11-23T17:00:00.000Z,Northwestern,Illinois,1112.0,1687.0,True,regular,fbs,fbs
+665,223270150,2002-11-23T17:00:00.000Z,Duke,North Carolina,1206.0,1274.0,True,regular,fbs,fbs
+666,223270275,2002-11-23T17:05:00.000Z,Wisconsin,Minnesota,1627.0,1610.0,True,regular,fbs,fbs
+667,223272459,2002-11-23T17:05:00.000Z,Northern Illinois,Toledo,1578.0,1656.0,True,regular,fbs,fbs
+668,223270194,2002-11-23T17:15:00.000Z,Ohio State,Michigan,1916.0,1835.0,True,regular,fbs,fbs
+669,223270238,2002-11-23T17:30:00.000Z,Vanderbilt,Tennessee,1245.0,1758.0,True,regular,fbs,fbs
+670,223270087,2002-11-23T18:00:00.000Z,Notre Dame,Rutgers,1718.0,1153.0,False,regular,fbs,fbs
+671,223272117,2002-11-23T18:00:00.000Z,Central Michigan,Western Michigan,1128.0,1382.0,True,regular,fbs,fbs
+672,223272050,2002-11-23T18:00:00.000Z,Ball State,Buffalo,1317.0,1021.0,True,regular,fbs,fbs
+673,223270097,2002-11-23T18:00:00.000Z,Louisville,UAB,1676.0,1345.0,True,regular,fbs,fbs
+674,223270193,2002-11-23T18:00:00.000Z,Miami (OH),UCF,1631.0,1586.0,True,regular,fbs,fbs
+675,223272309,2002-11-23T19:00:00.000Z,Kent State,Akron,992.0,1308.0,True,regular,fbs,fbs
+676,223270151,2002-11-23T19:00:00.000Z,East Carolina,TCU,1454.0,1698.0,True,regular,fbs,fbs
+677,223270197,2002-11-23T19:00:00.000Z,Oklahoma State,Baylor,1507.0,976.0,True,regular,fbs,fbs
+678,223270066,2002-11-23T19:00:00.000Z,Iowa State,Connecticut,1570.0,1549.0,False,regular,fbs,fbs
+679,223270235,2002-11-23T19:00:00.000Z,Memphis,Army,1298.0,1089.0,True,regular,fbs,fbs
+680,223270344,2002-11-23T19:30:00.000Z,Mississippi State,Arkansas,1350.0,1783.0,True,regular,fbs,fbs
+681,223272567,2002-11-23T20:00:00.000Z,SMU,Tulsa,1078.0,1023.0,True,regular,fbs,fbs
+682,223272348,2002-11-23T20:00:00.000Z,Louisiana Tech,UTEP,1291.0,791.0,True,regular,fbs,fbs
+683,223270254,2002-11-23T20:00:00.000Z,Utah,BYU,1546.0,1423.0,True,regular,fbs,fbs
+684,223270248,2002-11-23T20:00:00.000Z,Houston,South Florida,1204.0,1676.0,True,regular,fbs,fbs
+685,223272440,2002-11-23T20:05:00.000Z,Nevada,Boise State,1303.0,1934.0,True,regular,fbs,fbs
+686,223270026,2002-11-23T20:30:00.000Z,UCLA,USC,1752.0,1936.0,True,regular,fbs,fbs
+687,223270204,2002-11-23T20:30:00.000Z,Oregon State,Oregon,1767.0,1692.0,True,regular,fbs,fbs
+688,223270195,2002-11-23T20:30:00.000Z,Ohio,Marshall,1392.0,1621.0,True,regular,fbs,fbs
+689,223270025,2002-11-23T20:30:00.000Z,California,Stanford,1565.0,1396.0,True,regular,fbs,fbs
+690,223270154,2002-11-23T20:30:00.000Z,Wake Forest,Navy,1589.0,1042.0,False,regular,fbs,fbs
+691,223270333,2002-11-23T20:30:00.000Z,Alabama,Auburn,1951.0,1696.0,True,regular,fbs,fbs
+692,223270213,2002-11-23T20:30:00.000Z,Penn State,Michigan State,1884.0,1497.0,True,regular,fbs,fbs
+693,223270152,2002-11-23T20:30:00.000Z,NC State,Florida State,1815.0,1850.0,True,regular,fbs,fbs
+694,223270142,2002-11-23T20:30:00.000Z,Missouri,Kansas State,1595.0,2211.0,True,regular,fbs,fbs
+695,223272393,2002-11-23T20:30:00.000Z,Middle Tennessee,North Texas,1416.0,1436.0,True,regular,fbs,fbs
+696,223272655,2002-11-23T20:30:00.000Z,Tulane,Southern Mississippi,1412.0,1564.0,True,regular,fbs,fbs
+697,223272509,2002-11-23T20:30:00.000Z,Purdue,Indiana,1619.0,1252.0,True,regular,fbs,fbs
+698,223270023,2002-11-23T22:00:00.000Z,San José State,Fresno State,1201.0,1465.0,True,regular,fbs,fbs
+699,223270070,2002-11-23T22:00:00.000Z,Idaho,New Mexico State,1072.0,1272.0,True,regular,fbs,fbs
+700,223272433,2002-11-23T22:00:00.000Z,Louisiana Monroe,Louisiana,883.0,1152.0,True,regular,fbs,fbs
+701,223270258,2002-11-23T22:30:00.000Z,Virginia,Maryland,1513.0,1923.0,True,regular,fbs,fbs
+702,223270189,2002-11-23T23:00:00.000Z,Bowling Green,Eastern Michigan,1638.0,876.0,True,regular,fbs,fbs
+703,223270036,2002-11-23T23:00:00.000Z,Colorado State,New Mexico,1705.0,1404.0,True,regular,fbs,fbs
+704,223270265,2002-11-23T23:30:00.000Z,Washington State,Washington,1786.0,1707.0,True,regular,fbs,fbs
+705,223270201,2002-11-24T00:00:00.000Z,Oklahoma,Texas Tech,2061.0,1788.0,True,regular,fbs,fbs
+706,223270228,2002-11-24T00:45:00.000Z,Clemson,South Carolina,1577.0,1547.0,False,regular,fbs,fbs
+707,223270099,2002-11-24T01:30:00.000Z,LSU,Ole Miss,1755.0,1505.0,True,regular,fbs,fbs
+708,223270062,2002-11-24T04:05:00.000Z,Hawai'i,Cincinnati,1589.0,1648.0,False,regular,fbs,fbs
+709,223320145,2002-11-29T00:45:00.000Z,Ole Miss,Mississippi State,1512.0,1368.0,True,regular,fbs,fbs
+710,223330251,2002-11-29T17:00:00.000Z,Texas,Texas A&M,1965.0,1710.0,True,regular,fbs,fbs
+711,223330008,2002-11-29T19:30:00.000Z,Arkansas,LSU,1765.0,1748.0,True,regular,fbs,fbs
+712,223330012,2002-11-29T20:00:00.000Z,Arizona,Arizona State,1383.0,1592.0,True,regular,fbs,fbs
+713,223330158,2002-11-29T20:30:00.000Z,Nebraska,Colorado,1715.0,1751.0,True,regular,fbs,fbs
+714,223340103,2002-11-30T17:00:00.000Z,Boston College,Rutgers,1750.0,1103.0,True,regular,fbs,fbs
+715,223340120,2002-11-30T17:00:00.000Z,Maryland,Wake Forest,1762.0,1584.0,True,regular,fbs,fbs
+716,223342633,2002-11-30T17:30:00.000Z,Tennessee,Kentucky,1766.0,1662.0,True,regular,fbs,fbs
+717,223340221,2002-11-30T18:00:00.000Z,Pittsburgh,West Virginia,1748.0,1719.0,True,regular,fbs,fbs
+718,223342132,2002-11-30T18:00:00.000Z,Cincinnati,UAB,1646.0,1330.0,True,regular,fbs,fbs
+719,223342116,2002-11-30T18:00:00.000Z,UCF,Ohio,1632.0,1401.0,True,regular,fbs,fbs
+720,223340183,2002-11-30T18:00:00.000Z,Syracuse,Miami,1541.0,2121.0,True,regular,fbs,fbs
+721,223340167,2002-11-30T19:00:00.000Z,New Mexico,Wyoming,1410.0,1228.0,True,regular,fbs,fbs
+722,223340197,2002-11-30T19:30:00.000Z,Oklahoma State,Oklahoma,1541.0,2157.0,True,regular,fbs,fbs
+723,223342572,2002-11-30T20:00:00.000Z,Southern Mississippi,East Carolina,1497.0,1458.0,True,regular,fbs,fbs
+724,223340248,2002-11-30T20:00:00.000Z,Houston,Louisville,1206.0,1691.0,True,regular,fbs,fbs
+725,223342628,2002-11-30T20:00:00.000Z,TCU,Memphis,1694.0,1347.0,True,regular,fbs,fbs
+726,223342393,2002-11-30T20:00:00.000Z,Middle Tennessee,Utah State,1397.0,1222.0,True,regular,fbs,fbs
+727,223340036,2002-11-30T20:00:00.000Z,Colorado State,UNLV,1699.0,1383.0,True,regular,fbs,fbs
+728,223340259,2002-11-30T20:30:00.000Z,Virginia Tech,Virginia,1811.0,1674.0,False,regular,fbs,fbs
+729,223340061,2002-11-30T20:30:00.000Z,Georgia,Georgia Tech,1822.0,1675.0,False,regular,fbs,fbs
+730,223340276,2002-11-30T21:30:00.000Z,Marshall,Ball State,1612.0,1335.0,True,regular,fbs,fbs
+731,223342649,2002-12-01T00:00:00.000Z,Toledo,Bowling Green,1656.0,1667.0,True,regular,fbs,fbs
+732,223340062,2002-12-01T00:45:00.000Z,Hawai'i,Alabama,1591.0,1906.0,False,regular,fbs,fbs
+733,223340030,2002-12-01T01:00:00.000Z,USC,Notre Dame,2000.0,1768.0,False,regular,fbs,fbs
+734,223340052,2002-12-01T01:00:00.000Z,Florida State,Florida,1830.0,1898.0,False,regular,fbs,fbs
+735,223392348,2002-12-06T02:00:00.000Z,Louisiana Tech,Fresno State,1280.0,1454.0,True,regular,fbs,fbs
+736,223400151,2002-12-07T00:00:00.000Z,East Carolina,Cincinnati,1424.0,1640.0,True,regular,fbs,fbs
+737,223412426,2002-12-07T17:00:00.000Z,Navy,Army,1047.0,1040.0,False,regular,fbs,fbs
+738,223412390,2002-12-07T18:00:00.000Z,Miami,Virginia Tech,2171.0,1823.0,True,regular,fbs,fbs
+739,223410276,2002-12-07T19:30:00.000Z,Marshall,Toledo,1642.0,1697.0,True,regular,fbs,fbs
+740,223410026,2002-12-07T21:30:00.000Z,UCLA,Washington State,1688.0,1777.0,True,regular,fbs,fbs
+741,223410008,2002-12-07T23:00:00.000Z,Arkansas,Georgia,1765.0,1932.0,True,regular,fbs,fbs
+742,223410038,2002-12-08T01:00:00.000Z,Colorado,Oklahoma,1782.0,2087.0,True,regular,fbs,fbs
+743,223410062,2002-12-08T04:05:00.000Z,Hawai'i,San Diego State,1603.0,1297.0,False,regular,fbs,fbs

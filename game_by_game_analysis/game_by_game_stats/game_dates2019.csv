@@ -1,0 +1,1578 @@
+,id,date,home_team,away_team,home_pregame_elo,away_pregame_elo,conference_game,season_type,home_division,away_division
+0,401128622,2019-08-24T16:00:00.000Z,Colgate,Villanova,,,False,regular,fcs,fcs
+1,401127303,2019-08-24T19:00:00.000Z,Samford,Youngstown State,,,False,regular,fcs,fcs
+2,401110723,2019-08-24T23:00:00.000Z,Florida,Miami,1683.0,1611.0,False,regular,fbs,fbs
+3,401114164,2019-08-25T02:30:00.000Z,Hawai'i,Arizona,1281.0,1467.0,False,regular,fbs,fbs
+4,401128597,2019-08-29T22:00:00.000Z,Morehead State,Union College,,,False,regular,fcs,
+5,401117854,2019-08-29T23:00:00.000Z,Cincinnati,UCLA,1625.0,1431.0,False,regular,fbs,fbs
+6,401127043,2019-08-29T23:00:00.000Z,Stony Brook,Bryant,,,False,regular,fcs,fcs
+7,401128354,2019-08-29T23:00:00.000Z,Eastern Kentucky,Valparaiso,,,False,regular,fcs,fcs
+8,401128490,2019-08-29T23:00:00.000Z,Chattanooga,Eastern Illinois,,,False,regular,fcs,fcs
+9,401127042,2019-08-29T23:00:00.000Z,Richmond,Jacksonville,,,False,regular,fcs,fcs
+10,401128370,2019-08-29T23:00:00.000Z,Murray State,Pikeville,,,False,regular,fcs,
+11,401119255,2019-08-29T23:00:00.000Z,Buffalo,Robert Morris,,,False,regular,fbs,fcs
+12,401119254,2019-08-29T23:00:00.000Z,Bowling Green,Morgan State,,,False,regular,fbs,fcs
+13,401117855,2019-08-29T23:00:00.000Z,Connecticut,Wagner,,,False,regular,fbs,fcs
+14,401127039,2019-08-29T23:00:00.000Z,Delaware,Delaware State,,,False,regular,fcs,fcs
+15,401128724,2019-08-29T23:30:00.000Z,UT Martin,Northwestern State,,,False,regular,fcs,fcs
+16,401117853,2019-08-29T23:30:00.000Z,UCF,Florida A&M,,,False,regular,fbs,fcs
+17,401135910,2019-08-29T23:30:00.000Z,Charlotte,Gardner-Webb,,,False,regular,fbs,fcs
+18,401114246,2019-08-29T23:30:00.000Z,Western Kentucky,Central Arkansas,,,False,regular,fbs,fcs
+19,401127297,2019-08-29T23:30:00.000Z,Southeast Missouri State,Southern Illinois,,,False,regular,fcs,fcs
+20,401128709,2019-08-30T00:00:00.000Z,Lamar,Bethel (TN),,,False,regular,fcs,
+21,401127029,2019-08-30T00:00:00.000Z,North Alabama,Western Illinois,,,False,regular,fcs,fcs
+22,401127240,2019-08-30T00:00:00.000Z,Austin Peay,North Carolina Central,,,False,regular,fcs,fcs
+23,401128362,2019-08-30T00:00:00.000Z,Southeastern Louisiana,Jacksonville State,,,False,regular,fcs,fcs
+24,401111653,2019-08-30T00:00:00.000Z,Clemson,Georgia Tech,2092.0,1571.0,True,regular,fbs,fbs
+25,401114237,2019-08-30T00:00:00.000Z,UAB,Alabama State,,,False,regular,fbs,fcs
+26,401114236,2019-08-30T00:00:00.000Z,Tulane,Florida International,1451.0,1471.0,False,regular,fbs,fbs
+27,401110731,2019-08-30T00:30:00.000Z,Texas A&M,Texas State,1739.0,1217.0,False,regular,fbs,fbs
+28,401119253,2019-08-30T00:50:00.000Z,Central Michigan,Albany,,,False,regular,fbs,fcs
+29,401112229,2019-08-30T01:00:00.000Z,Minnesota,South Dakota State,,,False,regular,fbs,fcs
+30,401126954,2019-08-30T01:00:00.000Z,Northern Arizona,Missouri State,,,False,regular,fcs,fcs
+31,401114153,2019-08-30T02:00:00.000Z,Arizona State,Kent State,1597.0,1165.0,False,regular,fbs,fbs
+32,401117493,2019-08-30T02:00:00.000Z,San José State,Northern Colorado,,,False,regular,fbs,fcs
+33,401114223,2019-08-30T02:15:00.000Z,BYU,Utah,1553.0,1657.0,False,regular,fbs,fbs
+34,401114238,2019-08-30T22:00:00.000Z,Army,Rice,1745.0,1185.0,False,regular,fbs,fbs
+35,401127040,2019-08-30T22:00:00.000Z,Maine,Sacred Heart,,,False,regular,fcs,fcs
+36,401112212,2019-08-30T23:00:00.000Z,Michigan State,Tulsa,1615.0,1379.0,False,regular,fbs,fbs
+37,401112264,2019-08-30T23:15:00.000Z,Rutgers,UMass,1265.0,1261.0,False,regular,fbs,fbs
+38,401117856,2019-08-30T23:55:00.000Z,South Florida,Wisconsin,1423.0,1676.0,False,regular,fbs,fbs
+39,401112430,2019-08-31T00:00:00.000Z,Wake Forest,Utah State,1579.0,1731.0,False,regular,fbs,fbs
+40,401112262,2019-08-31T01:30:00.000Z,Nevada,Purdue,1462.0,1507.0,False,regular,fbs,fbs
+41,401114184,2019-08-31T02:00:00.000Z,Colorado,Colorado State,1449.0,1307.0,False,regular,fbs,fbs
+42,401112122,2019-08-31T02:30:00.000Z,Oregon State,Oklahoma State,1207.0,1637.0,False,regular,fbs,fbs
+43,401110726,2019-08-31T16:00:00.000Z,Memphis,Ole Miss,1622.0,1477.0,False,regular,fbs,fbs
+44,401112085,2019-08-31T16:00:00.000Z,Iowa State,Northern Iowa,,,False,regular,fbs,fcs
+45,401112096,2019-08-31T16:00:00.000Z,Kansas,Indiana State,,,False,regular,fbs,fcs
+46,401112201,2019-08-31T16:00:00.000Z,Maryland,Howard,,,False,regular,fbs,fcs
+47,401110724,2019-08-31T16:00:00.000Z,Kentucky,Toledo,1615.0,1533.0,False,regular,fbs,fbs
+48,401112251,2019-08-31T16:00:00.000Z,Ohio State,Florida Atlantic,1847.0,1520.0,False,regular,fbs,fbs
+49,401112238,2019-08-31T16:00:00.000Z,Nebraska,South Alabama,1475.0,1168.0,False,regular,fbs,fbs
+50,401110727,2019-08-31T16:00:00.000Z,Louisiana,Mississippi State,1361.0,1791.0,False,regular,fbs,fbs
+51,401112145,2019-08-31T16:00:00.000Z,Illinois,Akron,1263.0,1261.0,False,regular,fbs,fbs
+52,401112157,2019-08-31T16:00:00.000Z,Ball State,Indiana,1195.0,1509.0,False,regular,fbs,fbs
+53,401112431,2019-08-31T16:00:00.000Z,Florida State,Boise State,1442.0,1703.0,False,regular,fbs,fbs
+54,401112432,2019-08-31T16:00:00.000Z,NC State,East Carolina,1612.0,1217.0,False,regular,fbs,fbs
+55,401128648,2019-08-31T16:30:00.000Z,Lehigh,St Francis (PA),,,False,regular,fcs,fcs
+56,401128564,2019-08-31T17:00:00.000Z,Davidson,Georgetown,,,False,regular,fcs,fcs
+57,401126996,2019-08-31T17:00:00.000Z,Furman,Charleston Southern,,,False,regular,fcs,fcs
+58,401119259,2019-08-31T18:00:00.000Z,Ohio,Rhode Island,,,False,regular,fbs,fcs
+59,401112143,2019-08-31T18:00:00.000Z,West Virginia,James Madison,1692.0,1477.0,False,regular,fbs,fcs
+60,401136278,2019-08-31T19:00:00.000Z,Merrimack,Virginia Lynchburg,,,False,regular,fcs,
+61,401127044,2019-08-31T19:00:00.000Z,The Citadel,Towson,,,False,regular,fcs,fcs
+62,401114233,2019-08-31T19:00:00.000Z,Washington,Eastern Washington,,,False,regular,fbs,fcs
+63,401126937,2019-08-31T19:00:00.000Z,South Dakota,Montana,,,False,regular,fcs,fcs
+64,401117859,2019-08-31T19:00:00.000Z,Temple,Bucknell,,,False,regular,fbs,fcs
+65,401117494,2019-08-31T19:30:00.000Z,Air Force,Colgate,,,False,regular,fbs,fcs
+66,401121934,2019-08-31T19:30:00.000Z,Appalachian State,East Tennessee State,,,False,regular,fbs,fcs
+67,401110730,2019-08-31T19:30:00.000Z,Tennessee,Georgia State,1399.0,1265.0,False,regular,fbs,fbs
+68,401110729,2019-08-31T19:30:00.000Z,North Carolina,South Carolina,1409.0,1532.0,False,regular,fbs,fbs
+69,401110720,2019-08-31T19:30:00.000Z,Alabama,Duke,2005.0,1526.0,False,regular,fbs,fbs
+70,401117857,2019-08-31T19:30:00.000Z,Navy,Holy Cross,,,False,regular,fbs,fcs
+71,401119256,2019-08-31T19:30:00.000Z,Coastal Carolina,Eastern Michigan,1256.0,1466.0,False,regular,fbs,fbs
+72,401112257,2019-08-31T19:30:00.000Z,Penn State,Idaho,,,False,regular,fbs,fcs
+73,401112435,2019-08-31T20:00:00.000Z,Boston College,Virginia Tech,1591.0,1520.0,True,regular,fbs,fbs
+74,401112139,2019-08-31T20:00:00.000Z,Texas Tech,Montana State,,,False,regular,fbs,fcs
+75,401127277,2019-08-31T20:00:00.000Z,North Dakota State,Butler,,,False,regular,fcs,fcs
+76,401112245,2019-08-31T20:00:00.000Z,Stanford,Northwestern,1638.0,1612.0,False,regular,fbs,fbs
+77,401110721,2019-08-31T20:00:00.000Z,Arkansas,Portland State,,,False,regular,fbs,fcs
+78,401126901,2019-08-31T21:00:00.000Z,Cal Poly,San Diego,,,False,regular,fcs,fcs
+79,401127201,2019-08-31T21:00:00.000Z,North Dakota,Drake,,,False,regular,fcs,fcs
+80,401128520,2019-08-31T22:00:00.000Z,Western Carolina,Mercer,,,True,regular,fcs,fcs
+81,401121935,2019-08-31T22:00:00.000Z,Troy,Campbell,,,False,regular,fbs,fcs
+82,401114245,2019-08-31T22:00:00.000Z,UT San Antonio,Incarnate Word,,,False,regular,fbs,fcs
+83,401127041,2019-08-31T22:00:00.000Z,North Carolina A&T,Elon,,,False,regular,fcs,fcs
+84,401127045,2019-08-31T22:00:00.000Z,William & Mary,Lafayette,,,False,regular,fcs,fcs
+85,401112434,2019-08-31T22:00:00.000Z,Liberty,Syracuse,1311.0,1629.0,False,regular,fbs,fbs
+86,401130355,2019-08-31T22:00:00.000Z,Fordham,Central Connecticut,,,False,regular,fcs,fcs
+87,401127245,2019-08-31T22:00:00.000Z,South Carolina State,Wofford,,,False,regular,fcs,fcs
+88,401127034,2019-08-31T22:00:00.000Z,Hampton,Elizabeth City State,,,False,regular,fcs,ii
+89,401117495,2019-08-31T22:00:00.000Z,New Mexico,Sam Houston State,,,False,regular,fbs,fcs
+90,401128942,2019-08-31T22:00:00.000Z,Kennesaw State,Point University,,,False,regular,fcs,
+91,401114174,2019-08-31T22:30:00.000Z,California,UC Davis,,,False,regular,fbs,fcs
+92,401128481,2019-08-31T22:30:00.000Z,Texas Southern,Prairie View,,,True,regular,fcs,fcs
+93,401114240,2019-08-31T22:30:00.000Z,Marshall,VMI,,,False,regular,fbs,fcs
+94,401117858,2019-08-31T23:00:00.000Z,Arkansas State,SMU,1525.0,1402.0,False,regular,fbs,fbs
+95,401128382,2019-08-31T23:00:00.000Z,Tennessee State,Mississippi Valley State,,,False,regular,fcs,fcs
+96,401128388,2019-08-31T23:00:00.000Z,Tennessee Tech,Samford,,,False,regular,fcs,fcs
+97,401128486,2019-08-31T23:00:00.000Z,McNeese,Southern,,,False,regular,fcs,fcs
+98,401112073,2019-08-31T23:00:00.000Z,Baylor,Stephen F. Austin,,,False,regular,fbs,fcs
+99,401114243,2019-08-31T23:00:00.000Z,Southern Mississippi,Alcorn State,,,False,regular,fbs,fcs
+100,401114242,2019-08-31T23:00:00.000Z,Old Dominion,Norfolk State,,,False,regular,fbs,fcs
+101,401112106,2019-08-31T23:00:00.000Z,Kansas State,Nicholls,,,False,regular,fbs,fcs
+102,401119257,2019-08-31T23:00:00.000Z,Northern Illinois,Illinois State,,,False,regular,fbs,fcs
+103,401119258,2019-08-31T23:00:00.000Z,Western Michigan,Monmouth,,,False,regular,fbs,fcs
+104,401112222,2019-08-31T23:30:00.000Z,Michigan,Middle Tennessee,1744.0,1461.0,False,regular,fbs,fbs
+105,401112433,2019-08-31T23:30:00.000Z,Pittsburgh,Virginia,1563.0,1602.0,True,regular,fbs,fbs
+106,401110725,2019-08-31T23:30:00.000Z,LSU,Georgia Southern,1733.0,1485.0,False,regular,fbs,fbs
+107,401110728,2019-08-31T23:30:00.000Z,Wyoming,Missouri,1493.0,1734.0,False,regular,fbs,fbs
+108,401110722,2019-08-31T23:30:00.000Z,Auburn,Oregon,1805.0,1593.0,False,regular,fbs,fbs
+109,401114241,2019-08-31T23:30:00.000Z,North Texas,Abilene Christian,,,False,regular,fbs,fcs
+110,401112191,2019-08-31T23:30:00.000Z,Iowa,Miami (OH),1792.0,1458.0,False,regular,fbs,fbs
+111,401110732,2019-08-31T23:30:00.000Z,Vanderbilt,Georgia,1534.0,1837.0,True,regular,fbs,fbs
+112,401114244,2019-09-01T00:00:00.000Z,UTEP,Houston Christian,,,False,regular,fbs,fcs
+113,401112135,2019-09-01T00:00:00.000Z,Texas,Louisiana Tech,1681.0,1423.0,False,regular,fbs,fbs
+114,401128468,2019-09-01T00:00:00.000Z,Louisiana Monroe,Grambling,,,False,regular,fbs,fcs
+115,401112129,2019-09-01T00:00:00.000Z,TCU,Arkansas-Pine Bluff,,,False,regular,fbs,fcs
+116,401126970,2019-09-01T01:00:00.000Z,Sacramento State,Southern Oregon,,,False,regular,fcs,
+117,401117496,2019-09-01T01:00:00.000Z,San Diego State,Weber State,,,False,regular,fbs,fcs
+118,401114228,2019-09-01T02:00:00.000Z,Washington State,New Mexico State,1689.0,1169.0,False,regular,fbs,fbs
+119,401117497,2019-09-01T02:00:00.000Z,UNLV,Southern Utah,,,False,regular,fbs,fcs
+120,401114218,2019-09-01T02:30:00.000Z,USC,Fresno State,1571.0,1695.0,False,regular,fbs,fbs
+121,401127204,2019-09-01T19:00:00.000Z,Jackson State,Bethune-Cookman,,,False,regular,fcs,fcs
+122,401128433,2019-09-01T19:30:00.000Z,Alabama A&M,Morehouse,,,False,regular,fcs,ii
+123,401112114,2019-09-01T23:30:00.000Z,Oklahoma,Houston,1849.0,1460.0,False,regular,fbs,fbs
+124,401112436,2019-09-03T00:00:00.000Z,Louisville,Notre Dame,1223.0,1775.0,False,regular,fbs,fbs
+125,401126929,2019-09-06T00:35:00.000Z,Idaho State,Western State,,,False,regular,fcs,ii
+126,401112437,2019-09-07T00:00:00.000Z,Virginia,William & Mary,,,False,regular,fbs,fcs
+127,401112447,2019-09-07T00:00:00.000Z,Rice,Wake Forest,1203.0,1582.0,False,regular,fbs,fbs
+128,401114251,2019-09-07T01:00:00.000Z,Boise State,Marshall,1694.0,1511.0,False,regular,fbs,fbs
+129,401114154,2019-09-07T02:00:00.000Z,Arizona State,Sacramento State,,,False,regular,fbs,fcs
+130,401112445,2019-09-07T15:00:00.000Z,Pittsburgh,Ohio,1529.0,1719.0,False,regular,fbs,fbs
+131,401112252,2019-09-07T16:00:00.000Z,Ohio State,Cincinnati,1872.0,1629.0,False,regular,fbs,fbs
+132,401110785,2019-09-07T16:00:00.000Z,Purdue,Vanderbilt,1505.0,1505.0,False,regular,fbs,fbs
+133,401112223,2019-09-07T16:00:00.000Z,Michigan,Army,1760.0,1727.0,False,regular,fbs,fbs
+134,401110782,2019-09-07T16:00:00.000Z,South Carolina,Charleston Southern,,,False,regular,fbs,fcs
+135,401117862,2019-09-07T16:00:00.000Z,Memphis,Southern,,,False,regular,fbs,fcs
+136,401112192,2019-09-07T16:00:00.000Z,Iowa,Rutgers,1816.0,1334.0,True,regular,fbs,fbs
+137,401112107,2019-09-07T16:00:00.000Z,Kansas State,Bowling Green,1562.0,1203.0,False,regular,fbs,fbs
+138,401119261,2019-09-07T16:00:00.000Z,Kent State,Kennesaw State,,,False,regular,fbs,fcs
+139,401112446,2019-09-07T16:00:00.000Z,Virginia Tech,Old Dominion,1514.0,1226.0,False,regular,fbs,fbs
+140,401110781,2019-09-07T16:00:00.000Z,Missouri,West Virginia,1714.0,1690.0,False,regular,fbs,fbs
+141,401112202,2019-09-07T16:00:00.000Z,Maryland,Syracuse,1468.0,1657.0,False,regular,fbs,fbs
+142,401114254,2019-09-07T16:00:00.000Z,Akron,UAB,1148.0,1537.0,False,regular,fbs,fbs
+143,401112444,2019-09-07T16:30:00.000Z,NC State,Western Carolina,,,False,regular,fbs,fcs
+144,401128590,2019-09-07T16:30:00.000Z,Georgetown,Marist,,,False,regular,fcs,fcs
+145,401127050,2019-09-07T17:00:00.000Z,Holy Cross,New Hampshire,,,False,regular,fcs,fcs
+146,401114224,2019-09-07T17:00:00.000Z,Utah,Northern Illinois,1690.0,1442.0,False,regular,fbs,fbs
+147,401127268,2019-09-07T17:00:00.000Z,Indiana State,Dayton,,,False,regular,fcs,fcs
+148,401132279,2019-09-07T17:00:00.000Z,Robert Morris,Kentucky State,,,False,regular,fcs,ii
+149,401127014,2019-09-07T17:00:00.000Z,Monmouth,Lafayette,,,False,regular,fcs,fcs
+150,401128527,2019-09-07T17:30:00.000Z,VMI,Mars Hill,,,False,regular,fcs,ii
+151,401127048,2019-09-07T18:00:00.000Z,Elon,The Citadel,,,False,regular,fcs,fcs
+152,401127304,2019-09-07T18:00:00.000Z,Youngstown State,Howard,,,False,regular,fcs,fcs
+153,401119260,2019-09-07T18:00:00.000Z,Ball State,Fordham,,,False,regular,fbs,fcs
+154,401165357,2019-09-07T18:00:00.000Z,Presbyterian College,Mercer,,,False,regular,fcs,fcs
+155,401112441,2019-09-07T18:00:00.000Z,Georgia Tech,South Florida,1527.0,1307.0,False,regular,fbs,fbs
+156,401119262,2019-09-07T18:30:00.000Z,Miami (OH),Tennessee Tech,,,False,regular,fbs,fcs
+157,401127428,2019-09-07T19:00:00.000Z,Austin Peay,Central Arkansas,,,False,regular,fcs,fcs
+158,401112239,2019-09-07T19:30:00.000Z,Colorado,Nebraska,1492.0,1478.0,False,regular,fbs,fbs
+159,401114250,2019-09-07T19:30:00.000Z,Louisiana Tech,Grambling,,,False,regular,fbs,fcs
+160,401127202,2019-09-07T19:30:00.000Z,North Dakota State,North Dakota,,,False,regular,fcs,fcs
+161,401114354,2019-09-07T19:30:00.000Z,UMass,Southern Illinois,,,False,regular,fbs,fcs
+162,401112146,2019-09-07T19:30:00.000Z,Connecticut,Illinois,1058.0,1376.0,False,regular,fbs,fbs
+163,401110784,2019-09-07T19:30:00.000Z,Clemson,Texas A&M,2136.0,1771.0,False,regular,fbs,fbs
+164,401114247,2019-09-07T19:30:00.000Z,Appalachian State,Charlotte,1695.0,1294.0,False,regular,fbs,fbs
+165,401110780,2019-09-07T19:30:00.000Z,Mississippi State,Southern Mississippi,1774.0,1463.0,False,regular,fbs,fbs
+166,401112158,2019-09-07T19:30:00.000Z,Indiana,Eastern Illinois,,,False,regular,fbs,fcs
+167,401112268,2019-09-07T19:30:00.000Z,Wisconsin,Central Michigan,1792.0,1237.0,False,regular,fbs,fbs
+168,401112438,2019-09-07T19:30:00.000Z,Boston College,Richmond,,,False,regular,fbs,fcs
+169,401112074,2019-09-07T20:00:00.000Z,Baylor,UT San Antonio,1456.0,1202.0,False,regular,fbs,fbs
+170,401110776,2019-09-07T20:00:00.000Z,Georgia,Murray State,,,False,regular,fbs,fcs
+171,401135473,2019-09-07T20:00:00.000Z,South Carolina State,Lane,,,False,regular,fcs,ii
+172,401133586,2019-09-07T20:00:00.000Z,Duquesne,Walsh,,,False,regular,fcs,ii
+173,401110773,2019-09-07T20:00:00.000Z,Alabama,New Mexico State,2064.0,1086.0,False,regular,fbs,fbs
+174,401117498,2019-09-07T20:00:00.000Z,Colorado State,Western Illinois,,,False,regular,fbs,fcs
+175,401126911,2019-09-07T20:05:00.000Z,Eastern Washington,Lindenwood,,,False,regular,fcs,ii
+176,401114214,2019-09-07T20:15:00.000Z,UCLA,San Diego State,1427.0,1479.0,False,regular,fbs,fbs
+177,401126973,2019-09-07T21:00:00.000Z,Northern Iowa,Southern Utah,,,False,regular,fcs,fcs
+178,401126979,2019-09-07T21:00:00.000Z,San Diego,UC Davis,,,False,regular,fcs,fcs
+179,401112440,2019-09-07T21:00:00.000Z,Florida State,Louisiana Monroe,1451.0,1347.0,False,regular,fbs,fbs
+180,401114229,2019-09-07T21:00:00.000Z,Washington State,Northern Colorado,,,False,regular,fbs,fcs
+181,401126966,2019-09-07T21:05:00.000Z,Portland State,Simon Fraser,,,False,regular,fcs,ii
+182,401133640,2019-09-07T22:00:00.000Z,Wagner,East Stroudsburg,,,False,regular,fcs,ii
+183,401126986,2019-09-07T22:00:00.000Z,Campbell,Shaw,,,False,regular,fcs,ii
+184,401127035,2019-09-07T22:00:00.000Z,Hampton,Virginia Union,,,False,regular,fcs,ii
+185,401127229,2019-09-07T22:00:00.000Z,Norfolk State,Virginia State,,,False,regular,fcs,ii
+186,401128444,2019-09-07T22:00:00.000Z,Alabama State,Tuskegee,,,False,regular,fcs,ii
+187,401128553,2019-09-07T22:00:00.000Z,Butler,Indiana Wesleyan,,,False,regular,fcs,
+188,401128565,2019-09-07T22:00:00.000Z,Davidson,Virginia Lynchburg,,,False,regular,fcs,
+189,401132247,2019-09-07T22:00:00.000Z,Stetson,Louisiana College,,,False,regular,fcs,iii
+190,401127049,2019-09-07T22:00:00.000Z,James Madison,St Francis (PA),,,False,regular,fcs,fcs
+191,401127051,2019-09-07T22:00:00.000Z,Villanova,Lehigh,,,False,regular,fcs,fcs
+192,401127134,2019-09-07T22:00:00.000Z,Towson,North Carolina Central,,,False,regular,fcs,fcs
+193,401128614,2019-09-07T22:00:00.000Z,Sacred Heart,Bucknell,,,False,regular,fcs,fcs
+194,401136279,2019-09-07T22:00:00.000Z,Central Connecticut,Merrimack,,,False,regular,fcs,fcs
+195,401121936,2019-09-07T22:00:00.000Z,Georgia Southern,Maine,,,False,regular,fbs,fcs
+196,401117860,2019-09-07T22:00:00.000Z,East Carolina,Gardner-Webb,,,False,regular,fbs,fcs
+197,401112439,2019-09-07T22:00:00.000Z,Duke,North Carolina A&T,,,False,regular,fbs,fcs
+198,401112115,2019-09-07T23:00:00.000Z,Oklahoma,South Dakota,,,False,regular,fbs,fcs
+199,401128478,2019-09-07T23:00:00.000Z,Lamar,Mississippi Valley State,,,False,regular,fcs,fcs
+200,401128434,2019-09-07T23:00:00.000Z,Alabama A&M,Arkansas-Pine Bluff,,,True,regular,fcs,fcs
+201,401128363,2019-09-07T23:00:00.000Z,Jacksonville State,Chattanooga,,,False,regular,fcs,fcs
+202,401127293,2019-09-07T23:00:00.000Z,South Dakota State,Long Island University,,,False,regular,fcs,fcs
+203,401114248,2019-09-07T23:00:00.000Z,Florida International,Western Kentucky,1395.0,1365.0,True,regular,fbs,fbs
+204,401127047,2019-09-07T23:00:00.000Z,Albany,Bryant,,,False,regular,fcs,fcs
+205,401127046,2019-09-07T23:00:00.000Z,Rhode Island,Delaware,,,True,regular,fcs,fcs
+206,401110783,2019-09-07T23:00:00.000Z,Tennessee,BYU,1372.0,1520.0,False,regular,fbs,fbs
+207,401131357,2019-09-07T23:00:00.000Z,Drake,Truman State,,,False,regular,fcs,ii
+208,401128733,2019-09-07T23:00:00.000Z,Stephen F. Austin,Tarleton State,,,False,regular,fcs,ii
+209,401128729,2019-09-07T23:00:00.000Z,Sam Houston State,OK Panhandle St,,,False,regular,fcs,ii
+210,401128725,2019-09-07T23:00:00.000Z,Northwestern State,Midwestern State,,,False,regular,fcs,ii
+211,401128693,2019-09-07T23:00:00.000Z,Houston Christian,Texas Wesleyan,,,False,regular,fcs,
+212,401128659,2019-09-07T23:00:00.000Z,Abilene Christian,Arizona Christian,,,False,regular,fcs,
+213,401112442,2019-09-07T23:00:00.000Z,Louisville,Eastern Kentucky,,,False,regular,fbs,fcs
+214,401112097,2019-09-07T23:00:00.000Z,Kansas,Coastal Carolina,1383.0,1259.0,False,regular,fbs,fbs
+215,401128452,2019-09-07T23:00:00.000Z,Alcorn State,Mississippi College,,,False,regular,fcs,ii
+216,401114253,2019-09-07T23:00:00.000Z,SMU,North Texas,1425.0,1485.0,False,regular,fbs,fbs
+217,401112123,2019-09-07T23:00:00.000Z,Oklahoma State,McNeese,,,False,regular,fbs,fcs
+218,401114249,2019-09-07T23:00:00.000Z,Florida Atlantic,UCF,1495.0,1773.0,False,regular,fbs,fbs
+219,401121938,2019-09-07T23:00:00.000Z,South Alabama,Jackson State,,,False,regular,fbs,fcs
+220,401117500,2019-09-07T23:00:00.000Z,Texas State,Wyoming,1185.0,1513.0,False,regular,fbs,fbs
+221,401121937,2019-09-07T23:00:00.000Z,Georgia State,Furman,,,False,regular,fbs,fcs
+222,401114252,2019-09-07T23:00:00.000Z,Middle Tennessee,Tennessee State,,,False,regular,fbs,fcs
+223,401128702,2019-09-07T23:00:00.000Z,Incarnate Word,Texas Southern,,,False,regular,fcs,fcs
+224,401112213,2019-09-07T23:30:00.000Z,Michigan State,Western Michigan,1641.0,1319.0,False,regular,fbs,fbs
+225,401110778,2019-09-07T23:30:00.000Z,Texas,LSU,1734.0,1857.0,False,regular,fbs,fbs
+226,401112258,2019-09-07T23:30:00.000Z,Penn State,Buffalo,1777.0,1477.0,False,regular,fbs,fbs
+227,401127259,2019-09-07T23:30:00.000Z,Illinois State,Morehead State,,,False,regular,fcs,fcs
+228,401117499,2019-09-07T23:30:00.000Z,Utah State,Stony Brook,,,False,regular,fbs,fcs
+229,401110779,2019-09-07T23:30:00.000Z,Ole Miss,Arkansas,1478.0,1357.0,True,regular,fbs,fbs
+230,401110775,2019-09-07T23:30:00.000Z,Florida,UT Martin,,,False,regular,fbs,fcs
+231,401110774,2019-09-07T23:30:00.000Z,Auburn,Tulane,1805.0,1527.0,False,regular,fbs,fbs
+232,401114347,2019-09-07T23:30:00.000Z,Louisiana,Liberty,1378.0,1283.0,False,regular,fbs,fbs
+233,401110777,2019-09-07T23:30:00.000Z,Kentucky,Eastern Michigan,1636.0,1463.0,False,regular,fbs,fbs
+234,401114193,2019-09-07T23:30:00.000Z,Oregon,Nevada,1593.0,1464.0,False,regular,fbs,fbs
+235,401128506,2019-09-07T23:30:00.000Z,East Tennessee State,Shorter,,,False,regular,fcs,ii
+236,401126945,2019-09-08T00:00:00.000Z,Montana State,Southeast Missouri State,,,False,regular,fcs,fcs
+237,401112140,2019-09-08T00:00:00.000Z,Texas Tech,UTEP,1563.0,1148.0,False,regular,fbs,fbs
+238,401117861,2019-09-08T00:00:00.000Z,Houston,Prairie View,,,False,regular,fbs,fcs
+239,401112443,2019-09-08T00:00:00.000Z,North Carolina,Miami,1424.0,1606.0,True,regular,fbs,fbs
+240,401126902,2019-09-08T00:00:00.000Z,Weber State,Cal Poly,,,True,regular,fcs,fcs
+241,401117501,2019-09-08T01:00:00.000Z,San José State,Tulsa,1203.0,1353.0,False,regular,fbs,fbs
+242,401126938,2019-09-08T01:00:00.000Z,Montana,North Alabama,,,False,regular,fcs,fcs
+243,401126921,2019-09-08T01:00:00.000Z,Idaho,Central Washington,,,False,regular,fcs,ii
+244,401117502,2019-09-08T02:00:00.000Z,UNLV,Arkansas State,1276.0,1502.0,False,regular,fbs,fbs
+245,401114175,2019-09-08T02:30:00.000Z,Washington,California,1739.0,1521.0,True,regular,fbs,fbs
+246,401112230,2019-09-08T02:30:00.000Z,Fresno State,Minnesota,1675.0,1595.0,False,regular,fbs,fbs
+247,401114207,2019-09-08T02:30:00.000Z,USC,Stanford,1591.0,1653.0,True,regular,fbs,fbs
+248,401114165,2019-09-08T02:45:00.000Z,Arizona,Northern Arizona,,,False,regular,fbs,fcs
+249,401114200,2019-09-08T03:59:00.000Z,Hawai'i,Oregon State,1302.0,1210.0,False,regular,fbs,fbs
+250,401112448,2019-09-13T22:00:00.000Z,Wake Forest,North Carolina,1593.0,1427.0,False,regular,fbs,fbs
+251,401112098,2019-09-13T23:30:00.000Z,Boston College,Kansas,1597.0,1365.0,False,regular,fbs,fbs
+252,401114230,2019-09-14T01:15:00.000Z,Houston,Washington State,1455.0,1772.0,False,regular,fbs,fbs
+253,401112259,2019-09-14T16:00:00.000Z,Penn State,Pittsburgh,1828.0,1561.0,False,regular,fbs,fbs
+254,401136280,2019-09-14T16:00:00.000Z,St Francis (PA),Merrimack,,,False,regular,fcs,fcs
+255,401110788,2019-09-14T16:00:00.000Z,Georgia,Arkansas State,1866.0,1545.0,False,regular,fbs,fbs
+256,401128591,2019-09-14T16:00:00.000Z,Marist,Stetson,,,True,regular,fcs,fcs
+257,401112159,2019-09-14T16:00:00.000Z,Indiana,Ohio State,1500.0,1962.0,True,regular,fbs,fbs
+258,401112147,2019-09-14T16:00:00.000Z,Illinois,Eastern Michigan,1367.0,1431.0,False,regular,fbs,fbs
+259,401112144,2019-09-14T16:00:00.000Z,West Virginia,NC State,1609.0,1641.0,False,regular,fbs,fbs
+260,401128630,2019-09-14T16:00:00.000Z,Georgetown,Catholic University,,,False,regular,fcs,iii
+261,401117863,2019-09-14T16:00:00.000Z,Cincinnati,Miami (OH),1539.0,1434.0,False,regular,fbs,fbs
+262,401110795,2019-09-14T16:00:00.000Z,Tennessee,Chattanooga,,,False,regular,fbs,fcs
+263,401110792,2019-09-14T16:00:00.000Z,Mississippi State,Kansas State,1798.0,1670.0,False,regular,fbs,fbs
+264,401112455,2019-09-14T16:00:00.000Z,Virginia Tech,Furman,,,False,regular,fbs,fcs
+265,401112203,2019-09-14T16:00:00.000Z,Temple,Maryland,1558.0,1626.0,False,regular,fbs,fbs
+266,401112452,2019-09-14T16:30:00.000Z,Georgia Tech,The Citadel,,,False,regular,fbs,fcs
+267,401128643,2019-09-14T16:30:00.000Z,Lafayette,Sacred Heart,,,False,regular,fcs,fcs
+268,401127015,2019-09-14T17:00:00.000Z,Monmouth,Albany,,,False,regular,fcs,fcs
+269,401127269,2019-09-14T17:00:00.000Z,Indiana State,Eastern Kentucky,,,False,regular,fcs,fcs
+270,401127417,2019-09-14T17:00:00.000Z,Bryant,Fordham,,,False,regular,fcs,fcs
+271,401114185,2019-09-14T17:00:00.000Z,Colorado,Air Force,1493.0,1499.0,False,regular,fbs,fbs
+272,401127055,2019-09-14T17:00:00.000Z,Delaware,North Dakota State,,,False,regular,fcs,fcs
+273,401128610,2019-09-14T18:00:00.000Z,Valparaiso,Central Connecticut,,,False,regular,fcs,fcs
+274,401127294,2019-09-14T18:00:00.000Z,South Dakota State,Drake,,,False,regular,fcs,fcs
+275,401114257,2019-09-14T18:00:00.000Z,Ball State,Florida Atlantic,1204.0,1433.0,False,regular,fbs,fbs
+276,401121939,2019-09-14T18:00:00.000Z,Coastal Carolina,Norfolk State,,,False,regular,fbs,fcs
+277,401127305,2019-09-14T18:00:00.000Z,Youngstown State,Duquesne,,,False,regular,fcs,fcs
+278,401114336,2019-09-14T18:30:00.000Z,Notre Dame,New Mexico,1766.0,1282.0,False,regular,fbs,fbs
+279,401119263,2019-09-14T19:00:00.000Z,Central Michigan,Akron,1126.0,1157.0,True,regular,fbs,fbs
+280,401128574,2019-09-14T19:00:00.000Z,Robert Morris,Dayton,,,False,regular,fcs,fcs
+281,401127288,2019-09-14T19:00:00.000Z,South Dakota,Houston Christian,,,False,regular,fcs,fcs
+282,401127260,2019-09-14T19:00:00.000Z,Eastern Illinois,Illinois State,,,False,regular,fcs,fcs
+283,401117864,2019-09-14T19:30:00.000Z,Navy,East Carolina,1406.0,1188.0,True,regular,fbs,fbs
+284,401117865,2019-09-14T19:30:00.000Z,South Alabama,Memphis,1165.0,1621.0,False,regular,fbs,fbs
+285,401114261,2019-09-14T19:30:00.000Z,UT San Antonio,Army,1089.0,1726.0,False,regular,fbs,fbs
+286,401112124,2019-09-14T19:30:00.000Z,Tulsa,Oklahoma State,1381.0,1634.0,False,regular,fbs,fbs
+287,401112246,2019-09-14T19:30:00.000Z,Northwestern,UNLV,1597.0,1233.0,False,regular,fbs,fbs
+288,401114219,2019-09-14T19:30:00.000Z,BYU,USC,1516.0,1661.0,False,regular,fbs,fbs
+289,401112231,2019-09-14T19:30:00.000Z,Minnesota,Georgia Southern,1604.0,1361.0,False,regular,fbs,fbs
+290,401110794,2019-09-14T19:30:00.000Z,South Carolina,Alabama,1517.0,2096.0,True,regular,fbs,fbs
+291,401114208,2019-09-14T19:30:00.000Z,UCF,Stanford,1835.0,1583.0,False,regular,fbs,fbs
+292,401128531,2019-09-14T19:30:00.000Z,Western Carolina,North Greenville,,,False,regular,fcs,ii
+293,401112086,2019-09-14T20:00:00.000Z,Iowa State,Iowa,1636.0,1842.0,False,regular,fbs,fbs
+294,401112454,2019-09-14T20:00:00.000Z,Miami,Bethune-Cookman,,,False,regular,fbs,fcs
+295,401126912,2019-09-14T20:00:00.000Z,Jacksonville State,Eastern Washington,,,False,regular,fcs,fcs
+296,401112453,2019-09-14T20:00:00.000Z,Western Kentucky,Louisville,1378.0,1232.0,False,regular,fbs,fbs
+297,401127413,2019-09-14T20:00:00.000Z,Delaware State,Lincoln (PA),,,False,regular,fcs,ii
+298,401127056,2019-09-14T20:00:00.000Z,James Madison,Morgan State,,,False,regular,fcs,fcs
+299,401110786,2019-09-14T20:00:00.000Z,Arkansas,Colorado State,1339.0,1264.0,False,regular,fbs,fbs
+300,401110791,2019-09-14T20:00:00.000Z,Ole Miss,Southeastern Louisiana,,,False,regular,fbs,fcs
+301,401128598,2019-09-14T20:00:00.000Z,Morehead State,Kentucky Christian,,,False,regular,fcs,
+302,401126946,2019-09-14T20:00:00.000Z,Western Illinois,Montana State,,,False,regular,fcs,fcs
+303,401112214,2019-09-14T20:00:00.000Z,Michigan State,Arizona State,1695.0,1610.0,False,regular,fbs,fbs
+304,401114225,2019-09-14T20:15:00.000Z,Utah,Idaho State,,,False,regular,fbs,fcs
+305,401114176,2019-09-14T20:15:00.000Z,California,North Texas,1533.0,1425.0,False,regular,fbs,fbs
+306,401114201,2019-09-14T20:15:00.000Z,Oregon State,Cal Poly,,,False,regular,fbs,fcs
+307,401127036,2019-09-14T20:30:00.000Z,Howard,Hampton,,,False,regular,fcs,fcs
+308,401117504,2019-09-14T21:00:00.000Z,Wyoming,Idaho,,,False,regular,fbs,fcs
+309,401114258,2019-09-14T21:00:00.000Z,Bowling Green,Louisiana Tech,1095.0,1370.0,False,regular,fbs,fbs
+310,401127203,2019-09-14T21:00:00.000Z,North Dakota,Sam Houston State,,,False,regular,fcs,fcs
+311,401127215,2019-09-14T22:00:00.000Z,Florida A&M,Fort Valley State,,,False,regular,fcs,ii
+312,401114348,2019-09-14T22:00:00.000Z,Liberty,Buffalo,1243.0,1426.0,False,regular,fbs,fbs
+313,401126997,2019-09-14T22:00:00.000Z,Charleston Southern,North Carolina A&T,,,False,regular,fcs,fcs
+314,401127006,2019-09-14T22:00:00.000Z,Gardner-Webb,North Carolina Central,,,False,regular,fcs,fcs
+315,401127053,2019-09-14T22:00:00.000Z,Richmond,Elon,,,True,regular,fcs,fcs
+316,401127057,2019-09-14T22:00:00.000Z,Stony Brook,Wagner,,,False,regular,fcs,fcs
+317,401127058,2019-09-14T22:00:00.000Z,Bucknell,Villanova,,,False,regular,fcs,fcs
+318,401127059,2019-09-14T22:00:00.000Z,William & Mary,Colgate,,,False,regular,fcs,fcs
+319,401128445,2019-09-14T22:00:00.000Z,Alabama State,Kennesaw State,,,False,regular,fcs,fcs
+320,401128524,2019-09-14T22:00:00.000Z,Wofford,Samford,,,True,regular,fcs,fcs
+321,401128554,2019-09-14T22:00:00.000Z,Butler,Taylor,,,False,regular,fcs,
+322,401114255,2019-09-14T22:00:00.000Z,Charlotte,UMass,1296.0,1192.0,False,regular,fbs,fbs
+323,401114260,2019-09-14T22:00:00.000Z,Troy,Southern Mississippi,1540.0,1439.0,False,regular,fbs,fbs
+324,401117866,2019-09-14T22:00:00.000Z,South Florida,South Carolina State,,,False,regular,fbs,fcs
+325,401114259,2019-09-14T22:30:00.000Z,Marshall,Ohio,1511.0,1687.0,False,regular,fbs,fbs
+326,401127022,2019-09-14T23:00:00.000Z,Presbyterian College,Jacksonville,,,False,regular,fcs,fcs
+327,401110796,2019-09-14T23:00:00.000Z,Texas A&M,Lamar,,,False,regular,fbs,fcs
+328,401128460,2019-09-14T23:00:00.000Z,Arkansas-Pine Bluff,Langston,,,False,regular,fcs,
+329,401128389,2019-09-14T23:00:00.000Z,Tennessee Tech,UVA-Wise,,,False,regular,fcs,ii
+330,401126955,2019-09-14T23:00:00.000Z,Northern Arizona,Western New Mexico,,,False,regular,fcs,ii
+331,401112450,2019-09-14T23:00:00.000Z,Middle Tennessee,Duke,1445.0,1467.0,False,regular,fbs,fbs
+332,401128660,2019-09-14T23:00:00.000Z,Central Arkansas,Abilene Christian,,,True,regular,fcs,fcs
+333,401128482,2019-09-14T23:00:00.000Z,Prairie View,Nicholls,,,False,regular,fcs,fcs
+334,401128453,2019-09-14T23:00:00.000Z,McNeese,Alcorn State,,,False,regular,fcs,fcs
+335,401128383,2019-09-14T23:00:00.000Z,Jackson State,Tennessee State,,,False,regular,fcs,fcs
+336,401127429,2019-09-14T23:00:00.000Z,Mercer,Austin Peay,,,False,regular,fcs,fcs
+337,401119265,2019-09-14T23:00:00.000Z,Toledo,Murray State,,,False,regular,fbs,fcs
+338,401127298,2019-09-14T23:00:00.000Z,Southern Illinois,UT Martin,,,False,regular,fcs,fcs
+339,401127054,2019-09-14T23:00:00.000Z,Maine,Towson,,,True,regular,fcs,fcs
+340,401127030,2019-09-14T23:00:00.000Z,North Alabama,Alabama A&M,,,False,regular,fcs,fcs
+341,401110789,2019-09-14T23:00:00.000Z,Kentucky,Florida,1668.0,1688.0,True,regular,fbs,fbs
+342,401119264,2019-09-14T23:00:00.000Z,Western Michigan,Georgia State,1265.0,1292.0,False,regular,fbs,fbs
+343,401114256,2019-09-14T23:00:00.000Z,Florida International,New Hampshire,,,False,regular,fbs,fcs
+344,401117505,2019-09-14T23:00:00.000Z,Nevada,Weber State,,,False,regular,fbs,fcs
+345,401117867,2019-09-14T23:00:00.000Z,SMU,Texas State,1485.0,1193.0,False,regular,fbs,fbs
+346,401110787,2019-09-14T23:00:00.000Z,Auburn,Kent State,1819.0,1152.0,False,regular,fbs,fbs
+347,401128566,2019-09-14T23:00:00.000Z,Davidson,WV Wesleyan,,,False,regular,fcs,ii
+348,401128487,2019-09-14T23:00:00.000Z,Southern,Edward Waters,,,False,regular,fcs,ii
+349,401112451,2019-09-14T23:30:00.000Z,Virginia,Florida State,1636.0,1449.0,True,regular,fbs,fbs
+350,401112130,2019-09-14T23:30:00.000Z,Purdue,TCU,1545.0,1557.0,False,regular,fbs,fbs
+351,401110793,2019-09-14T23:30:00.000Z,Missouri,Southeast Missouri State,,,False,regular,fbs,fcs
+352,401114234,2019-09-14T23:30:00.000Z,Washington,Hawai'i,1727.0,1302.0,False,regular,fbs,fbs
+353,401110790,2019-09-14T23:30:00.000Z,LSU,Northwestern State,,,False,regular,fbs,fcs
+354,401121940,2019-09-14T23:30:00.000Z,Louisiana,Texas Southern,,,False,regular,fbs,fcs
+355,401112449,2019-09-14T23:30:00.000Z,Syracuse,Clemson,1499.0,2135.0,True,regular,fbs,fbs
+356,401117868,2019-09-15T00:00:00.000Z,Tulane,Missouri State,,,False,regular,fbs,fcs
+357,401112116,2019-09-15T00:00:00.000Z,UCLA,Oklahoma,1413.0,1854.0,False,regular,fbs,fbs
+358,401112136,2019-09-15T00:00:00.000Z,Rice,Texas,1192.0,1730.0,False,regular,fbs,fbs
+359,401114339,2019-09-15T00:00:00.000Z,New Mexico State,San Diego State,1054.0,1493.0,False,regular,fbs,fbs
+360,401112240,2019-09-15T00:00:00.000Z,Nebraska,Northern Illinois,1477.0,1425.0,False,regular,fbs,fbs
+361,401126974,2019-09-15T00:05:00.000Z,Southern Utah,Stephen F. Austin,,,False,regular,fcs,fcs
+362,401128507,2019-09-15T00:50:00.000Z,East Tennessee State,VMI,,,True,regular,fcs,fcs
+363,401126962,2019-09-15T01:00:00.000Z,Sacramento State,Northern Colorado,,,True,regular,fcs,fcs
+364,401126980,2019-09-15T02:00:00.000Z,UC Davis,Lehigh,,,False,regular,fcs,fcs
+365,401117503,2019-09-15T02:15:00.000Z,Boise State,Portland State,,,False,regular,fbs,fcs
+366,401112141,2019-09-15T02:30:00.000Z,Arizona,Texas Tech,1446.0,1610.0,False,regular,fbs,fbs
+367,401114194,2019-09-15T02:45:00.000Z,Oregon,Montana,,,False,regular,fbs,fcs
+368,401117869,2019-09-20T00:00:00.000Z,Tulane,Houston,1513.0,1468.0,True,regular,fbs,fbs
+369,401114262,2019-09-21T00:00:00.000Z,Louisiana Tech,Florida International,1414.0,1382.0,True,regular,fbs,fbs
+370,401114220,2019-09-21T01:00:00.000Z,USC,Utah,1658.0,1707.0,True,regular,fbs,fbs
+371,401117506,2019-09-21T01:00:00.000Z,Boise State,Air Force,1694.0,1512.0,True,regular,fbs,fbs
+372,401127065,2019-09-21T16:00:00.000Z,Colgate,Maine,,,False,regular,fcs,fcs
+373,401128592,2019-09-21T16:00:00.000Z,Marist,Cornell,,,False,regular,fcs,fcs
+374,401112265,2019-09-21T16:00:00.000Z,Rutgers,Boston College,1308.0,1503.0,False,regular,fbs,fbs
+375,401112087,2019-09-21T16:00:00.000Z,Iowa State,Louisiana Monroe,1644.0,1349.0,False,regular,fbs,fbs
+376,401110799,2019-09-21T16:00:00.000Z,Florida,Tennessee,1702.0,1376.0,True,regular,fbs,fbs
+377,401112464,2019-09-21T16:00:00.000Z,Wake Forest,Elon,,,False,regular,fbs,fcs
+378,401110797,2019-09-21T16:00:00.000Z,Alabama,Southern Mississippi,2098.0,1455.0,False,regular,fbs,fbs
+379,401112224,2019-09-21T16:00:00.000Z,Wisconsin,Michigan,1903.0,1761.0,True,regular,fbs,fbs
+380,401112462,2019-09-21T16:00:00.000Z,Syracuse,Western Michigan,1475.0,1413.0,False,regular,fbs,fbs
+381,401114327,2019-09-21T16:00:00.000Z,Army,Morgan State,,,False,regular,fbs,fcs
+382,401110801,2019-09-21T16:00:00.000Z,Ole Miss,California,1496.0,1535.0,False,regular,fbs,fbs
+383,401112160,2019-09-21T16:00:00.000Z,Indiana,Connecticut,1439.0,1067.0,False,regular,fbs,fbs
+384,401110805,2019-09-21T16:00:00.000Z,Vanderbilt,LSU,1465.0,1861.0,True,regular,fbs,fbs
+385,401112215,2019-09-21T16:00:00.000Z,Northwestern,Michigan State,1600.0,1685.0,True,regular,fbs,fbs
+386,401136614,2019-09-21T17:00:00.000Z,Long Island University,Sacred Heart,,,True,regular,fcs,fcs
+387,401127270,2019-09-21T17:00:00.000Z,Indiana State,Eastern Illinois,,,False,regular,fcs,fcs
+388,401127063,2019-09-21T17:00:00.000Z,Delaware,Pennsylvania,,,False,regular,fcs,fcs
+389,401136281,2019-09-21T17:00:00.000Z,Merrimack,Mayville State,,,False,regular,fcs,
+390,401128514,2019-09-21T17:00:00.000Z,Furman,Mercer,,,True,regular,fcs,fcs
+391,401128637,2019-09-21T17:00:00.000Z,Yale,Holy Cross,,,False,regular,fcs,fcs
+392,401128583,2019-09-21T17:00:00.000Z,Jacksonville,Dartmouth,,,False,regular,fcs,fcs
+393,401128575,2019-09-21T17:00:00.000Z,Dayton,Duquesne,,,False,regular,fcs,fcs
+394,401127023,2019-09-21T17:00:00.000Z,Presbyterian College,Eastern Kentucky,,,False,regular,fcs,fcs
+395,401114355,2019-09-21T17:00:00.000Z,UMass,Coastal Carolina,1108.0,1277.0,False,regular,fbs,fbs
+396,401128946,2019-09-21T17:00:00.000Z,St Francis (PA),Columbia,,,False,regular,fcs,fcs
+397,401128528,2019-09-21T17:30:00.000Z,VMI,Robert Morris,,,False,regular,fcs,fcs
+398,401127414,2019-09-21T18:00:00.000Z,Delaware State,Howard,,,True,regular,fcs,fcs
+399,401128377,2019-09-21T18:00:00.000Z,Southeast Missouri State,West Virginia State,,,False,regular,fcs,ii
+400,401119268,2019-09-21T18:00:00.000Z,Ohio,Louisiana,1684.0,1418.0,False,regular,fbs,fbs
+401,401127418,2019-09-21T18:00:00.000Z,Bryant,Brown,,,False,regular,fcs,fcs
+402,401127250,2019-09-21T19:00:00.000Z,Missouri State,Kennesaw State,,,False,regular,fcs,fcs
+403,401126947,2019-09-21T19:00:00.000Z,Montana State,Norfolk State,,,False,regular,fcs,fcs
+404,401119269,2019-09-21T19:00:00.000Z,Akron,Troy,1104.0,1524.0,False,regular,fbs,fbs
+405,401119267,2019-09-21T19:00:00.000Z,Eastern Michigan,Central Connecticut,,,False,regular,fbs,fcs
+406,401126939,2019-09-21T19:00:00.000Z,Montana,Monmouth,,,False,regular,fcs,fcs
+407,401126913,2019-09-21T19:00:00.000Z,Idaho,Eastern Washington,,,True,regular,fcs,fcs
+408,401128384,2019-09-21T19:00:00.000Z,Tennessee State,Arkansas-Pine Bluff,,,False,regular,fcs,fcs
+409,401112131,2019-09-21T19:30:00.000Z,TCU,SMU,1609.0,1531.0,False,regular,fbs,fbs
+410,401117870,2019-09-21T19:30:00.000Z,Buffalo,Temple,1366.0,1560.0,False,regular,fbs,fbs
+411,401119266,2019-09-21T19:30:00.000Z,Kent State,Bowling Green,1121.0,1051.0,True,regular,fbs,fbs
+412,401112459,2019-09-21T19:30:00.000Z,North Carolina,Appalachian State,1428.0,1693.0,False,regular,fbs,fbs
+413,401126981,2019-09-21T19:30:00.000Z,North Dakota State,UC Davis,,,False,regular,fcs,fcs
+414,401127062,2019-09-21T19:30:00.000Z,Albany,Lafayette,,,False,regular,fcs,fcs
+415,401110804,2019-09-21T19:30:00.000Z,Texas A&M,Auburn,1772.0,1850.0,True,regular,fbs,fbs
+416,401114235,2019-09-21T19:30:00.000Z,BYU,Washington,1519.0,1764.0,False,regular,fbs,fbs
+417,401112253,2019-09-21T19:30:00.000Z,Ohio State,Miami (OH),2023.0,1392.0,False,regular,fbs,fbs
+418,401117509,2019-09-21T19:30:00.000Z,Tulsa,Wyoming,1360.0,1505.0,False,regular,fbs,fbs
+419,401112461,2019-09-21T19:30:00.000Z,Pittsburgh,UCF,1566.0,1852.0,False,regular,fbs,fbs
+420,401114265,2019-09-21T19:30:00.000Z,UAB,South Alabama,1528.0,1118.0,False,regular,fbs,fbs
+421,401112457,2019-09-21T19:30:00.000Z,Florida State,Louisville,1450.0,1281.0,True,regular,fbs,fbs
+422,401128611,2019-09-21T20:00:00.000Z,Truman State,Valparaiso,,,False,regular,ii,fcs
+423,401110803,2019-09-21T20:00:00.000Z,Missouri,South Carolina,1795.0,1515.0,True,regular,fbs,fbs
+424,401127064,2019-09-21T20:00:00.000Z,Chattanooga,James Madison,,,False,regular,fcs,fcs
+425,401127241,2019-09-21T20:00:00.000Z,North Carolina Central,Elizabeth City State,,,False,regular,fcs,ii
+426,401126963,2019-09-21T20:00:00.000Z,Northern Colorado,South Dakota,,,False,regular,fcs,fcs
+427,401110802,2019-09-21T20:00:00.000Z,Mississippi State,Kentucky,1774.0,1654.0,True,regular,fbs,fbs
+428,401112458,2019-09-21T20:00:00.000Z,Miami,Central Michigan,1603.0,1179.0,False,regular,fbs,fbs
+429,401127301,2019-09-21T20:00:00.000Z,Western Illinois,Tennessee Tech,,,False,regular,fcs,fcs
+430,401128603,2019-09-21T20:00:00.000Z,San Diego,Harvard,,,False,regular,fcs,fcs
+431,401112099,2019-09-21T20:30:00.000Z,Kansas,West Virginia,1459.0,1649.0,True,regular,fbs,fbs
+432,401114340,2019-09-21T20:30:00.000Z,New Mexico,New Mexico State,1191.0,1046.0,False,regular,fbs,fbs
+433,401126930,2019-09-21T21:00:00.000Z,Northern Iowa,Idaho State,,,False,regular,fcs,fcs
+434,401128555,2019-09-21T21:00:00.000Z,Princeton,Butler,,,False,regular,fcs,fcs
+435,401126967,2019-09-21T21:05:00.000Z,Portland State,Eastern Oregon,,,False,regular,fcs,
+436,401127061,2019-09-21T22:00:00.000Z,Towson,Villanova,,,True,regular,fcs,fcs
+437,401128446,2019-09-21T22:00:00.000Z,Alabama State,Grambling,,,True,regular,fcs,fcs
+438,401127216,2019-09-21T22:00:00.000Z,Florida A&M,Southern,,,False,regular,fcs,fcs
+439,401127066,2019-09-21T22:00:00.000Z,Stony Brook,Fordham,,,False,regular,fcs,fcs
+440,401114263,2019-09-21T22:00:00.000Z,Florida Atlantic,Wagner,,,False,regular,fbs,fcs
+441,401116697,2019-09-21T22:00:00.000Z,East Carolina,William & Mary,,,False,regular,fbs,fcs
+442,401128607,2019-09-21T22:00:00.000Z,Stetson,Western New England,,,False,regular,fcs,iii
+443,401126987,2019-09-21T22:00:00.000Z,Campbell,Davidson,,,False,regular,fcs,fcs
+444,401127060,2019-09-21T22:00:00.000Z,New Hampshire,Rhode Island,,,True,regular,fcs,fcs
+445,401128454,2019-09-21T22:00:00.000Z,Alcorn State,Prairie View,,,True,regular,fcs,fcs
+446,401114349,2019-09-21T22:00:00.000Z,Liberty,Hampton,,,False,regular,fbs,fcs
+447,401127007,2019-09-21T22:00:00.000Z,Wofford,Gardner-Webb,,,False,regular,fcs,fcs
+448,401126998,2019-09-21T22:00:00.000Z,The Citadel,Charleston Southern,,,False,regular,fcs,fcs
+449,401128371,2019-09-21T23:00:00.000Z,Murray State,Morehead State,,,False,regular,fcs,fcs
+450,401128661,2019-09-21T23:00:00.000Z,Abilene Christian,McNeese,,,True,regular,fcs,fcs
+451,401128694,2019-09-21T23:00:00.000Z,Houston Christian,Northwestern State,,,True,regular,fcs,fcs
+452,401128703,2019-09-21T23:00:00.000Z,Sam Houston State,Incarnate Word,,,True,regular,fcs,fcs
+453,401128720,2019-09-21T23:00:00.000Z,Stephen F. Austin,Nicholls,,,True,regular,fcs,fcs
+454,401112463,2019-09-21T23:00:00.000Z,Virginia,Old Dominion,1635.0,1221.0,False,regular,fbs,fbs
+455,401121941,2019-09-21T23:00:00.000Z,Arkansas State,Southern Illinois,,,False,regular,fbs,fcs
+456,401114195,2019-09-21T23:00:00.000Z,Stanford,Oregon,1566.0,1809.0,True,regular,fbs,fbs
+457,401121942,2019-09-21T23:00:00.000Z,Texas State,Georgia State,1147.0,1144.0,True,regular,fbs,fbs
+458,401112075,2019-09-21T23:00:00.000Z,Rice,Baylor,1164.0,1569.0,False,regular,fbs,fbs
+459,401112460,2019-09-21T23:00:00.000Z,NC State,Ball State,1601.0,1202.0,False,regular,fbs,fbs
+460,401126975,2019-09-21T23:00:00.000Z,South Dakota State,Southern Utah,,,False,regular,fcs,fcs
+461,401127031,2019-09-21T23:00:00.000Z,Jacksonville State,North Alabama,,,False,regular,fcs,fcs
+462,401127206,2019-09-21T23:00:00.000Z,Mississippi Valley State,Bethune-Cookman,,,False,regular,fcs,fcs
+463,401128435,2019-09-21T23:00:00.000Z,Samford,Alabama A&M,,,False,regular,fcs,fcs
+464,401112125,2019-09-21T23:30:00.000Z,Texas,Oklahoma State,1758.0,1655.0,True,regular,fbs,fbs
+465,401112456,2019-09-21T23:30:00.000Z,Clemson,Charlotte,2159.0,1380.0,False,regular,fbs,fbs
+466,401114264,2019-09-21T23:30:00.000Z,North Texas,UT San Antonio,1423.0,1105.0,True,regular,fbs,fbs
+467,401127430,2019-09-21T23:30:00.000Z,East Tennessee State,Austin Peay,,,False,regular,fcs,fcs
+468,401126956,2019-09-21T23:30:00.000Z,Illinois State,Northern Arizona,,,False,regular,fcs,fcs
+469,401110798,2019-09-21T23:30:00.000Z,Arkansas,San José State,1381.0,1175.0,False,regular,fbs,fbs
+470,401112148,2019-09-22T00:00:00.000Z,Illinois,Nebraska,1366.0,1572.0,True,regular,fbs,fbs
+471,401114266,2019-09-22T00:00:00.000Z,UTEP,Nevada,1101.0,1248.0,False,regular,fbs,fbs
+472,401110800,2019-09-22T00:00:00.000Z,Georgia,Notre Dame,1990.0,1857.0,False,regular,fbs,fbs
+473,401128710,2019-09-22T00:00:00.000Z,Southeastern Louisiana,Lamar,,,True,regular,fcs,fcs
+474,401117510,2019-09-22T02:00:00.000Z,Fresno State,Sacramento State,,,False,regular,fbs,fcs
+475,401114155,2019-09-22T02:00:00.000Z,Arizona State,Colorado,1620.0,1480.0,True,regular,fbs,fbs
+476,401117507,2019-09-22T02:15:00.000Z,Colorado State,Toledo,1222.0,1512.0,False,regular,fbs,fbs
+477,401117508,2019-09-22T02:30:00.000Z,San Diego State,Utah State,1501.0,1728.0,True,regular,fbs,fbs
+478,401114215,2019-09-22T02:30:00.000Z,Washington State,UCLA,1759.0,1370.0,True,regular,fbs,fbs
+479,401117511,2019-09-22T03:59:00.000Z,Hawai'i,Central Arkansas,,,False,regular,fbs,fcs
+480,401127235,2019-09-26T23:30:00.000Z,North Carolina A&T,Delaware State,,,True,regular,fcs,fcs
+481,401117871,2019-09-27T00:00:00.000Z,Memphis,Navy,1668.0,1466.0,True,regular,fbs,fbs
+482,401112465,2019-09-27T23:00:00.000Z,Virginia Tech,Duke,1519.0,1525.0,True,regular,fbs,fbs
+483,401128652,2019-09-27T23:00:00.000Z,Harvard,Brown,,,True,regular,fcs,fcs
+484,401112204,2019-09-28T00:00:00.000Z,Maryland,Penn State,1624.0,1823.0,True,regular,fbs,fbs
+485,401117512,2019-09-28T00:00:00.000Z,Air Force,San José State,1506.0,1205.0,True,regular,fbs,fbs
+486,401114156,2019-09-28T02:30:00.000Z,California,Arizona State,1547.0,1607.0,True,regular,fbs,fbs
+487,401112193,2019-09-28T16:00:00.000Z,Iowa,Middle Tennessee,1834.0,1387.0,False,regular,fbs,fbs
+488,401136617,2019-09-28T16:00:00.000Z,Wagner,Long Island University,,,True,regular,fcs,fcs
+489,401110811,2019-09-28T16:00:00.000Z,Vanderbilt,Northern Illinois,1434.0,1330.0,False,regular,fbs,fbs
+490,401117213,2019-09-28T16:00:00.000Z,Toledo,BYU,1503.0,1478.0,False,regular,fbs,fbs
+491,401110807,2019-09-28T16:00:00.000Z,Arkansas,Texas A&M,1351.0,1763.0,True,regular,fbs,fbs
+492,401112471,2019-09-28T16:00:00.000Z,Syracuse,Holy Cross,,,False,regular,fbs,fcs
+493,401112100,2019-09-28T16:00:00.000Z,TCU,Kansas,1600.0,1463.0,True,regular,fbs,fbs
+494,401112247,2019-09-28T16:00:00.000Z,Wisconsin,Northwestern,1938.0,1556.0,True,regular,fbs,fbs
+495,401112117,2019-09-28T16:00:00.000Z,Oklahoma,Texas Tech,1897.0,1567.0,True,regular,fbs,fbs
+496,401119270,2019-09-28T16:00:00.000Z,Miami (OH),Buffalo,1258.0,1419.0,True,regular,fbs,fbs
+497,401119271,2019-09-28T16:00:00.000Z,Western Michigan,Central Michigan,1376.0,1190.0,True,regular,fbs,fbs
+498,401112225,2019-09-28T16:00:00.000Z,Michigan,Rutgers,1726.0,1294.0,True,regular,fbs,fbs
+499,401128649,2019-09-28T16:30:00.000Z,Lehigh,Merrimack,,,False,regular,fcs,fcs
+500,401112470,2019-09-28T16:30:00.000Z,Pittsburgh,Delaware,,,False,regular,fbs,fcs
+501,401127072,2019-09-28T17:00:00.000Z,Fordham,Richmond,,,False,regular,fcs,fcs
+502,401127207,2019-09-28T17:00:00.000Z,Howard,Bethune-Cookman,,,True,regular,fcs,fcs
+503,401128608,2019-09-28T17:00:00.000Z,Stetson,NC Wesleyan,,,False,regular,fcs,iii
+504,401128584,2019-09-28T17:00:00.000Z,Jacksonville,Ave Maria,,,False,regular,fcs,
+505,401127071,2019-09-28T17:00:00.000Z,New Hampshire,Duquesne,,,False,regular,fcs,fcs
+506,401127419,2019-09-28T17:00:00.000Z,Bryant,St Francis (PA),,,True,regular,fcs,fcs
+507,401128631,2019-09-28T17:00:00.000Z,Columbia,Georgetown,,,False,regular,fcs,fcs
+508,401128951,2019-09-28T17:00:00.000Z,Yale,Cornell,,,True,regular,fcs,fcs
+509,401128593,2019-09-28T17:00:00.000Z,Marist,Drake,,,True,regular,fcs,fcs
+510,401128508,2019-09-28T17:00:00.000Z,Furman,East Tennessee State,,,True,regular,fcs,fcs
+511,401128529,2019-09-28T17:30:00.000Z,VMI,Wofford,,,True,regular,fcs,fcs
+512,401128612,2019-09-28T18:00:00.000Z,Valparaiso,Charleston (WV),,,False,regular,fcs,ii
+513,401127068,2019-09-28T18:00:00.000Z,Elon,James Madison,,,True,regular,fcs,fcs
+514,401128474,2019-09-28T19:00:00.000Z,Jackson State,Kentucky State,,,False,regular,fcs,ii
+515,401126922,2019-09-28T19:00:00.000Z,Northern Colorado,Idaho,,,True,regular,fcs,fcs
+516,401126948,2019-09-28T19:00:00.000Z,Montana State,Northern Arizona,,,True,regular,fcs,fcs
+517,401127431,2019-09-28T19:00:00.000Z,Austin Peay,Jacksonville State,,,True,regular,fcs,fcs
+518,401128499,2019-09-28T19:00:00.000Z,Samford,The Citadel,,,True,regular,fcs,fcs
+519,401112469,2019-09-28T19:30:00.000Z,Temple,Georgia Tech,1507.0,1524.0,False,regular,fbs,fbs
+520,401112161,2019-09-28T19:30:00.000Z,Michigan State,Indiana,1729.0,1491.0,True,regular,fbs,fbs
+521,401121943,2019-09-28T19:30:00.000Z,Appalachian State,Coastal Carolina,1682.0,1353.0,True,regular,fbs,fbs
+522,401128644,2019-09-28T19:30:00.000Z,Lafayette,Pennsylvania,,,False,regular,fcs,fcs
+523,401128615,2019-09-28T19:30:00.000Z,Bucknell,Princeton,,,False,regular,fcs,fcs
+524,401114356,2019-09-28T19:30:00.000Z,UMass,Akron,1032.0,1076.0,False,regular,fbs,fbs
+525,401110806,2019-09-28T19:30:00.000Z,Alabama,Ole Miss,2140.0,1484.0,True,regular,fbs,fbs
+526,401112467,2019-09-28T19:30:00.000Z,North Carolina,Clemson,1439.0,2186.0,True,regular,fbs,fbs
+527,401127067,2019-09-28T19:30:00.000Z,Albany,William & Mary,,,True,regular,fcs,fcs
+528,401112472,2019-09-28T19:30:00.000Z,Notre Dame,Virginia,1856.0,1626.0,False,regular,fbs,fbs
+529,401112232,2019-09-28T19:30:00.000Z,Purdue,Minnesota,1493.0,1602.0,True,regular,fbs,fbs
+530,401114221,2019-09-28T19:30:00.000Z,Washington,USC,1805.0,1670.0,True,regular,fbs,fbs
+531,401112076,2019-09-28T19:30:00.000Z,Baylor,Iowa State,1554.0,1761.0,True,regular,fbs,fbs
+532,401127069,2019-09-28T19:30:00.000Z,Villanova,Maine,,,True,regular,fcs,fcs
+533,401112466,2019-09-28T19:30:00.000Z,Boston College,Wake Forest,1517.0,1592.0,True,regular,fbs,fbs
+534,401114267,2019-09-28T19:30:00.000Z,Charlotte,Florida Atlantic,1353.0,1435.0,True,regular,fbs,fbs
+535,401127217,2019-09-28T20:00:00.000Z,Norfolk State,Florida A&M,,,True,regular,fcs,fcs
+536,401128491,2019-09-28T20:00:00.000Z,Chattanooga,Western Carolina,,,True,regular,fcs,fcs
+537,401117873,2019-09-28T20:00:00.000Z,South Florida,SMU,1310.0,1540.0,True,regular,fbs,fbs
+538,401127024,2019-09-28T20:00:00.000Z,North Alabama,Presbyterian College,,,True,regular,fcs,fcs
+539,401126940,2019-09-28T20:00:00.000Z,UC Davis,Montana,,,True,regular,fcs,fcs
+540,401110809,2019-09-28T20:00:00.000Z,Florida,Towson,,,False,regular,fbs,fcs
+541,401126914,2019-09-28T21:00:00.000Z,Eastern Washington,North Dakota,,,False,regular,fcs,fcs
+542,401128390,2019-09-28T21:00:00.000Z,Eastern Illinois,Tennessee Tech,,,True,regular,fcs,fcs
+543,401114269,2019-09-28T21:00:00.000Z,Marshall,Cincinnati,1514.0,1581.0,False,regular,fbs,fbs
+544,401128469,2019-09-28T21:00:00.000Z,Prairie View,Grambling,,,True,regular,fcs,fcs
+545,401126931,2019-09-28T21:05:00.000Z,Idaho State,Portland State,,,True,regular,fcs,fcs
+546,401127223,2019-09-28T22:00:00.000Z,Morgan State,North Carolina Central,,,True,regular,fcs,fcs
+547,401114350,2019-09-28T22:00:00.000Z,Liberty,New Mexico,1303.0,1190.0,False,regular,fbs,fbs
+548,401127306,2019-09-28T22:00:00.000Z,Youngstown State,Robert Morris,,,False,regular,fcs,fcs
+549,401128355,2019-09-28T22:00:00.000Z,Eastern Kentucky,Tennessee State,,,True,regular,fcs,fcs
+550,401128623,2019-09-28T22:00:00.000Z,Dartmouth,Colgate,,,False,regular,fcs,fcs
+551,401128943,2019-09-28T22:00:00.000Z,Kennesaw State,Reinhardt,,,False,regular,fcs,
+552,401114271,2019-09-28T22:00:00.000Z,Old Dominion,East Carolina,1230.0,1128.0,False,regular,fbs,fbs
+553,401121945,2019-09-28T22:00:00.000Z,Georgia Southern,Louisiana,1363.0,1501.0,True,regular,fbs,fbs
+554,401121944,2019-09-28T22:00:00.000Z,Troy,Arkansas State,1552.0,1421.0,True,regular,fbs,fbs
+555,401114272,2019-09-28T23:00:00.000Z,Southern Mississippi,UTEP,1413.0,1078.0,True,regular,fbs,fbs
+556,401112108,2019-09-28T23:00:00.000Z,Oklahoma State,Kansas State,1653.0,1694.0,True,regular,fbs,fbs
+557,401128662,2019-09-28T23:00:00.000Z,Incarnate Word,Abilene Christian,,,True,regular,fcs,fcs
+558,401128461,2019-09-28T23:00:00.000Z,Arkansas-Pine Bluff,Southern,,,True,regular,fcs,fcs
+559,401128455,2019-09-28T23:00:00.000Z,Alcorn State,Mississippi Valley State,,,True,regular,fcs,fcs
+560,401128372,2019-09-28T23:00:00.000Z,UT Martin,Murray State,,,True,regular,fcs,fcs
+561,401114202,2019-09-28T23:00:00.000Z,Oregon State,Stanford,1210.0,1554.0,True,regular,fbs,fbs
+562,401114273,2019-09-28T23:00:00.000Z,Western Kentucky,UAB,1329.0,1567.0,True,regular,fbs,fbs
+563,401127070,2019-09-28T23:00:00.000Z,Rhode Island,Stony Brook,,,True,regular,fcs,fcs
+564,401126988,2019-09-28T23:00:00.000Z,Mercer,Campbell,,,False,regular,fcs,fcs
+565,401121946,2019-09-28T23:00:00.000Z,Louisiana Monroe,South Alabama,1232.0,1079.0,True,regular,fbs,fbs
+566,401121947,2019-09-28T23:00:00.000Z,Texas State,Nicholls,,,False,regular,fbs,fcs
+567,401117872,2019-09-28T23:00:00.000Z,UCF,Connecticut,1843.0,1015.0,True,regular,fbs,fbs
+568,401128436,2019-09-28T23:00:00.000Z,Alabama A&M,Central State,,,False,regular,fcs,ii
+569,401114268,2019-09-28T23:00:00.000Z,Rice,Louisiana Tech,1179.0,1434.0,True,regular,fbs,fbs
+570,401110808,2019-09-28T23:00:00.000Z,Auburn,Mississippi State,1859.0,1795.0,True,regular,fbs,fbs
+571,401128726,2019-09-28T23:00:00.000Z,Northwestern State,Southeastern Louisiana,,,True,regular,fcs,fcs
+572,401128715,2019-09-28T23:00:00.000Z,McNeese,Sam Houston State,,,True,regular,fcs,fcs
+573,401128711,2019-09-28T23:00:00.000Z,Lamar,Stephen F. Austin,,,True,regular,fcs,fcs
+574,401128695,2019-09-28T23:00:00.000Z,Houston Christian,Texas Southern,,,False,regular,fcs,fcs
+575,401110810,2019-09-28T23:30:00.000Z,South Carolina,Kentucky,1496.0,1633.0,True,regular,fbs,fbs
+576,401117513,2019-09-28T23:30:00.000Z,Utah State,Colorado State,1723.0,1231.0,True,regular,fbs,fbs
+577,401112241,2019-09-28T23:30:00.000Z,Nebraska,Ohio State,1566.0,2157.0,True,regular,fbs,fbs
+578,401112468,2019-09-28T23:30:00.000Z,Florida State,NC State,1457.0,1593.0,True,regular,fbs,fbs
+579,401117514,2019-09-29T00:00:00.000Z,Wyoming,UNLV,1502.0,1230.0,True,regular,fbs,fbs
+580,401126984,2019-09-29T00:00:00.000Z,Weber State,Northern Iowa,,,False,regular,fcs,fcs
+581,401114270,2019-09-29T00:00:00.000Z,North Texas,Houston,1503.0,1461.0,False,regular,fbs,fbs
+582,401114341,2019-09-29T00:00:00.000Z,New Mexico State,Fresno State,1047.0,1666.0,False,regular,fbs,fbs
+583,401126903,2019-09-29T00:05:00.000Z,Southern Utah,Cal Poly,,,True,regular,fcs,fcs
+584,401114226,2019-09-29T02:00:00.000Z,Utah,Washington State,1695.0,1724.0,True,regular,fbs,fbs
+585,401114166,2019-09-29T02:30:00.000Z,Arizona,UCLA,1489.0,1405.0,True,regular,fbs,fbs
+586,401117515,2019-09-29T02:30:00.000Z,Nevada,Hawai'i,1271.0,1265.0,True,regular,fbs,fbs
+587,401121948,2019-10-03T23:30:00.000Z,South Alabama,Georgia Southern,1066.0,1347.0,True,regular,fbs,fbs
+588,401117874,2019-10-04T00:00:00.000Z,East Carolina,Temple,1139.0,1562.0,True,regular,fbs,fbs
+589,401128689,2019-10-04T23:00:00.000Z,Pennsylvania,Dartmouth,,,True,regular,fcs,fcs
+590,401117875,2019-10-05T00:00:00.000Z,Cincinnati,UCF,1685.0,1847.0,True,regular,fbs,fbs
+591,401117519,2019-10-05T02:00:00.000Z,San José State,New Mexico,1195.0,1187.0,True,regular,fbs,fbs
+592,401112269,2019-10-05T16:00:00.000Z,Wisconsin,Kent State,1929.0,1235.0,False,regular,fbs,fbs
+593,401112126,2019-10-05T16:00:00.000Z,Texas Tech,Oklahoma State,1498.0,1682.0,True,regular,fbs,fbs
+594,401117876,2019-10-05T16:00:00.000Z,Connecticut,South Florida,1011.0,1264.0,True,regular,fbs,fbs
+595,401110813,2019-10-05T16:00:00.000Z,LSU,Utah State,1892.0,1708.0,False,regular,fbs,fbs
+596,401128556,2019-10-05T16:00:00.000Z,Stetson,Butler,,,True,regular,fcs,fcs
+597,401128576,2019-10-05T16:00:00.000Z,Dayton,Jacksonville,,,True,regular,fcs,fcs
+598,401136599,2019-10-05T16:00:00.000Z,Duquesne,Long Island University,,,True,regular,fcs,fcs
+599,401114328,2019-10-05T16:00:00.000Z,Army,Tulane,1710.0,1520.0,False,regular,fbs,fbs
+600,401112260,2019-10-05T16:00:00.000Z,Penn State,Purdue,1984.0,1488.0,True,regular,fbs,fbs
+601,401112205,2019-10-05T16:00:00.000Z,Rutgers,Maryland,1196.0,1463.0,True,regular,fbs,fbs
+602,401112101,2019-10-05T16:00:00.000Z,Kansas,Oklahoma,1376.0,1966.0,True,regular,fbs,fbs
+603,401112194,2019-10-05T16:00:00.000Z,Michigan,Iowa,1824.0,1908.0,True,regular,fbs,fbs
+604,401127077,2019-10-05T16:30:00.000Z,Brown,Rhode Island,,,False,regular,fcs,fcs
+605,401112473,2019-10-05T16:30:00.000Z,Louisville,Boston College,1274.0,1517.0,True,regular,fbs,fbs
+606,401126989,2019-10-05T17:00:00.000Z,Campbell,Presbyterian College,,,True,regular,fcs,fcs
+607,401127261,2019-10-05T17:00:00.000Z,Illinois State,North Dakota State,,,True,regular,fcs,fcs
+608,401127420,2019-10-05T17:00:00.000Z,Merrimack,Bryant,,,False,regular,fcs,fcs
+609,401128567,2019-10-05T17:00:00.000Z,Morehead State,Davidson,,,True,regular,fcs,fcs
+610,401128624,2019-10-05T17:00:00.000Z,Colgate,Lehigh,,,True,regular,fcs,fcs
+611,401128669,2019-10-05T17:00:00.000Z,Princeton,Columbia,,,True,regular,fcs,fcs
+612,401128675,2019-10-05T17:00:00.000Z,Harvard,Howard,,,False,regular,fcs,fcs
+613,401130356,2019-10-05T17:00:00.000Z,Yale,Fordham,,,False,regular,fcs,fcs
+614,401127032,2019-10-05T18:00:00.000Z,Hampton,North Alabama,,,True,regular,fcs,fcs
+615,401127075,2019-10-05T18:00:00.000Z,Richmond,Albany,,,True,regular,fcs,fcs
+616,401127218,2019-10-05T18:00:00.000Z,Florida A&M,North Carolina Central,,,True,regular,fcs,fcs
+617,401127230,2019-10-05T18:00:00.000Z,Norfolk State,North Carolina A&T,,,True,regular,fcs,fcs
+618,401136593,2019-10-05T18:00:00.000Z,Sacred Heart,Central Connecticut,,,True,regular,fcs,fcs
+619,401128500,2019-10-05T18:00:00.000Z,The Citadel,VMI,,,True,regular,fcs,fcs
+620,401128616,2019-10-05T18:00:00.000Z,Bucknell,Holy Cross,,,True,regular,fcs,fcs
+621,401126982,2019-10-05T18:00:00.000Z,North Dakota,UC Davis,,,False,regular,fcs,fcs
+622,401112088,2019-10-05T18:00:00.000Z,Iowa State,TCU,1758.0,1687.0,True,regular,fbs,fbs
+623,401128373,2019-10-05T18:00:00.000Z,Murray State,Eastern Illinois,,,True,regular,fcs,fcs
+624,401128437,2019-10-05T19:00:00.000Z,Alabama A&M,Texas Southern,,,True,regular,fcs,fcs
+625,401128613,2019-10-05T19:00:00.000Z,Drake,Valparaiso,,,True,regular,fcs,fcs
+626,401128632,2019-10-05T19:00:00.000Z,Cornell,Georgetown,,,False,regular,fcs,fcs
+627,401128515,2019-10-05T19:00:00.000Z,Samford,Furman,,,True,regular,fcs,fcs
+628,401119273,2019-10-05T19:00:00.000Z,Central Michigan,Eastern Michigan,1173.0,1432.0,True,regular,fbs,fbs
+629,401126932,2019-10-05T19:00:00.000Z,Montana,Idaho State,,,True,regular,fcs,fcs
+630,401127271,2019-10-05T19:00:00.000Z,South Dakota,Indiana State,,,True,regular,fcs,fcs
+631,401127295,2019-10-05T19:00:00.000Z,South Dakota State,Southern Illinois,,,True,regular,fcs,fcs
+632,401128356,2019-10-05T19:00:00.000Z,Eastern Kentucky,UT Martin,,,True,regular,fcs,fcs
+633,401128447,2019-10-05T19:25:00.000Z,Alabama State,Alcorn State,,,True,regular,fcs,fcs
+634,401117516,2019-10-05T19:30:00.000Z,Navy,Air Force,1459.0,1516.0,False,regular,fbs,fbs
+635,401119272,2019-10-05T19:30:00.000Z,Northern Illinois,Ball State,1328.0,1210.0,True,regular,fbs,fbs
+636,401119274,2019-10-05T19:30:00.000Z,Buffalo,Ohio,1376.0,1601.0,True,regular,fbs,fbs
+637,401119275,2019-10-05T19:30:00.000Z,Toledo,Western Michigan,1511.0,1393.0,True,regular,fbs,fbs
+638,401121949,2019-10-05T19:30:00.000Z,Georgia State,Arkansas State,1143.0,1445.0,True,regular,fbs,fbs
+639,401127008,2019-10-05T19:30:00.000Z,Western Carolina,Gardner-Webb,,,False,regular,fcs,fcs
+640,401127074,2019-10-05T19:30:00.000Z,William & Mary,Villanova,,,True,regular,fcs,fcs
+641,401127076,2019-10-05T19:30:00.000Z,New Hampshire,Elon,,,True,regular,fcs,fcs
+642,401128509,2019-10-05T19:30:00.000Z,East Tennessee State,Wofford,,,True,regular,fcs,fcs
+643,401112077,2019-10-05T19:30:00.000Z,Kansas State,Baylor,1665.0,1557.0,True,regular,fbs,fbs
+644,401114275,2019-10-05T19:30:00.000Z,Middle Tennessee,Marshall,1313.0,1410.0,True,regular,fbs,fbs
+645,401112137,2019-10-05T19:30:00.000Z,West Virginia,Texas,1645.0,1760.0,True,regular,fbs,fbs
+646,401110812,2019-10-05T19:30:00.000Z,Florida,Auburn,1747.0,1942.0,True,regular,fbs,fbs
+647,401112476,2019-10-05T19:30:00.000Z,Miami,Virginia Tech,1592.0,1418.0,True,regular,fbs,fbs
+648,401112149,2019-10-05T19:30:00.000Z,Minnesota,Illinois,1607.0,1372.0,True,regular,fbs,fbs
+649,401114337,2019-10-05T19:30:00.000Z,Notre Dame,Bowling Green,1867.0,937.0,False,regular,fbs,fbs
+650,401117877,2019-10-05T19:45:00.000Z,Louisiana Monroe,Memphis,1245.0,1675.0,False,regular,fbs,fbs
+651,401128730,2019-10-05T20:00:00.000Z,Stephen F. Austin,Sam Houston State,,,True,regular,fcs,fcs
+652,401128681,2019-10-05T20:00:00.000Z,Nicholls,Central Arkansas,,,True,regular,fcs,fcs
+653,401127208,2019-10-05T20:00:00.000Z,Bethune-Cookman,Morgan State,,,True,regular,fcs,fcs
+654,401110815,2019-10-05T20:00:00.000Z,Missouri,Troy,1814.0,1528.0,False,regular,fbs,fbs
+655,401127251,2019-10-05T20:00:00.000Z,Western Illinois,Missouri State,,,True,regular,fcs,fcs
+656,401128479,2019-10-05T20:00:00.000Z,Mississippi Valley State,Virginia Lynchburg,,,False,regular,fcs,
+657,401112242,2019-10-05T20:00:00.000Z,Nebraska,Northwestern,1520.0,1565.0,True,regular,fbs,fbs
+658,401112475,2019-10-05T20:00:00.000Z,Georgia Tech,North Carolina,1469.0,1468.0,True,regular,fbs,fbs
+659,401128492,2019-10-05T20:00:00.000Z,Mercer,Chattanooga,,,True,regular,fcs,fcs
+660,401128462,2019-10-05T20:00:00.000Z,Arkansas-Pine Bluff,Lane,,,False,regular,fcs,ii
+661,401114167,2019-10-05T20:30:00.000Z,Colorado,Arizona,1493.0,1489.0,True,regular,fbs,fbs
+662,401126923,2019-10-05T21:00:00.000Z,Idaho,Weber State,,,True,regular,fcs,fcs
+663,401127284,2019-10-05T21:00:00.000Z,Northern Iowa,Youngstown State,,,True,regular,fcs,fcs
+664,401128716,2019-10-05T21:00:00.000Z,McNeese,Southeastern Louisiana,,,True,regular,fcs,fcs
+665,401128594,2019-10-05T21:00:00.000Z,San Diego,Marist,,,True,regular,fcs,fcs
+666,401126968,2019-10-05T21:05:00.000Z,Portland State,Southern Utah,,,True,regular,fcs,fcs
+667,401114276,2019-10-05T22:00:00.000Z,Old Dominion,Western Kentucky,1219.0,1353.0,True,regular,fbs,fbs
+668,401126999,2019-10-05T22:00:00.000Z,Charleston Southern,Savannah State,,,False,regular,fcs,ii
+669,401127073,2019-10-05T22:00:00.000Z,Stony Brook,James Madison,,,True,regular,fcs,fcs
+670,401127016,2019-10-05T22:00:00.000Z,Wagner,Monmouth,,,False,regular,fcs,fcs
+671,401128663,2019-10-05T23:00:00.000Z,Lamar,Abilene Christian,,,True,regular,fcs,fcs
+672,401114274,2019-10-05T23:00:00.000Z,Florida International,UMass,1362.0,1047.0,False,regular,fbs,fbs
+673,401110816,2019-10-05T23:00:00.000Z,Tennessee,Georgia,1331.0,1991.0,True,regular,fbs,fbs
+674,401114277,2019-10-05T23:00:00.000Z,UAB,Rice,1543.0,1189.0,True,regular,fbs,fbs
+675,401126957,2019-10-05T23:00:00.000Z,Northern Arizona,Northern Colorado,,,True,regular,fcs,fcs
+676,401127248,2019-10-05T23:00:00.000Z,Delaware State,South Carolina State,,,True,regular,fcs,fcs
+677,401128364,2019-10-05T23:00:00.000Z,Jacksonville State,Tennessee State,,,True,regular,fcs,fcs
+678,401128378,2019-10-05T23:00:00.000Z,Southeast Missouri State,Tennessee Tech,,,True,regular,fcs,fcs
+679,401128470,2019-10-05T23:00:00.000Z,Jackson State,Grambling,,,True,regular,fcs,fcs
+680,401128696,2019-10-05T23:00:00.000Z,Houston Christian,Incarnate Word,,,True,regular,fcs,fcs
+681,401112216,2019-10-05T23:30:00.000Z,Ohio State,Michigan State,2203.0,1728.0,True,regular,fbs,fbs
+682,401110814,2019-10-05T23:30:00.000Z,Ole Miss,Vanderbilt,1480.0,1436.0,True,regular,fbs,fbs
+683,401117878,2019-10-05T23:30:00.000Z,SMU,Tulsa,1586.0,1363.0,True,regular,fbs,fbs
+684,401114342,2019-10-06T00:00:00.000Z,New Mexico State,Liberty,1070.0,1306.0,False,regular,fbs,fbs
+685,401114177,2019-10-06T00:00:00.000Z,Oregon,California,1821.0,1538.0,True,regular,fbs,fbs
+686,401112474,2019-10-06T00:00:00.000Z,Duke,Pittsburgh,1626.0,1575.0,True,regular,fbs,fbs
+687,401114278,2019-10-06T00:00:00.000Z,UTEP,UT San Antonio,1068.0,1025.0,True,regular,fbs,fbs
+688,401126904,2019-10-06T00:00:00.000Z,Cal Poly,Montana State,,,True,regular,fcs,fcs
+689,401126915,2019-10-06T01:00:00.000Z,Sacramento State,Eastern Washington,,,True,regular,fcs,fcs
+690,401114203,2019-10-06T01:00:00.000Z,UCLA,Oregon State,1405.0,1225.0,True,regular,fbs,fbs
+691,401117518,2019-10-06T02:00:00.000Z,Colorado State,San Diego State,1246.0,1506.0,True,regular,fbs,fbs
+692,401114209,2019-10-06T02:30:00.000Z,Stanford,Washington,1539.0,1822.0,True,regular,fbs,fbs
+693,401117517,2019-10-06T02:30:00.000Z,UNLV,Boise State,1163.0,1700.0,True,regular,fbs,fbs
+694,401121950,2019-10-10T00:00:00.000Z,Louisiana,Appalachian State,1517.0,1694.0,True,regular,fbs,fbs
+695,401127209,2019-10-10T22:00:00.000Z,North Carolina Central,Bethune-Cookman,,,True,regular,fcs,fcs
+696,401112477,2019-10-11T00:00:00.000Z,NC State,Syracuse,1539.0,1512.0,True,regular,fbs,fbs
+697,401121951,2019-10-11T01:15:00.000Z,Texas State,Louisiana Monroe,1148.0,1241.0,True,regular,fbs,fbs
+698,401128645,2019-10-11T23:00:00.000Z,Princeton,Lafayette,,,False,regular,fcs,fcs
+699,401112478,2019-10-12T00:00:00.000Z,Miami,Virginia,1565.0,1615.0,True,regular,fbs,fbs
+700,401117522,2019-10-12T00:00:00.000Z,New Mexico,Colorado State,1168.0,1238.0,True,regular,fbs,fbs
+701,401114186,2019-10-12T02:00:00.000Z,Oregon,Colorado,1819.0,1484.0,True,regular,fbs,fbs
+702,401110821,2019-10-12T16:00:00.000Z,Tennessee,Mississippi State,1325.0,1712.0,True,regular,fbs,fbs
+703,401119278,2019-10-12T16:00:00.000Z,Western Michigan,Miami (OH),1390.0,1301.0,True,regular,fbs,fbs
+704,401112162,2019-10-12T16:00:00.000Z,Indiana,Rutgers,1492.0,1110.0,True,regular,fbs,fbs
+705,401119280,2019-10-12T16:00:00.000Z,Bowling Green,Toledo,899.0,1514.0,True,regular,fbs,fbs
+706,401112150,2019-10-12T16:00:00.000Z,Illinois,Michigan,1340.0,1838.0,True,regular,fbs,fbs
+707,401110817,2019-10-12T16:00:00.000Z,Georgia,South Carolina,1997.0,1547.0,True,regular,fbs,fbs
+708,401117881,2019-10-12T16:00:00.000Z,Temple,Memphis,1549.0,1679.0,True,regular,fbs,fbs
+709,401112118,2019-10-12T16:00:00.000Z,Texas,Oklahoma,1773.0,1969.0,True,regular,fbs,fbs
+710,401127081,2019-10-12T16:00:00.000Z,Maine,Richmond,,,True,regular,fcs,fcs
+711,401136604,2019-10-12T16:00:00.000Z,St Francis (PA),Robert Morris,,,True,regular,fcs,fcs
+712,401112206,2019-10-12T16:00:00.000Z,Purdue,Maryland,1469.0,1549.0,True,regular,fbs,fbs
+713,401112480,2019-10-12T16:30:00.000Z,Duke,Georgia Tech,1618.0,1431.0,True,regular,fbs,fbs
+714,401128638,2019-10-12T16:30:00.000Z,Brown,Holy Cross,,,False,regular,fcs,fcs
+715,401128676,2019-10-12T17:00:00.000Z,Harvard,Cornell,,,True,regular,fcs,fcs
+716,401127017,2019-10-12T17:00:00.000Z,Monmouth,Presbyterian College,,,True,regular,fcs,fcs
+717,401127224,2019-10-12T17:00:00.000Z,Morgan State,Delaware State,,,True,regular,fcs,fcs
+718,401127231,2019-10-12T17:00:00.000Z,Howard,Norfolk State,,,True,regular,fcs,fcs
+719,401127272,2019-10-12T17:00:00.000Z,Indiana State,Western Illinois,,,True,regular,fcs,fcs
+720,401127421,2019-10-12T17:00:00.000Z,Bryant,Long Island University,,,True,regular,fcs,fcs
+721,401128365,2019-10-12T17:00:00.000Z,Eastern Illinois,Jacksonville State,,,True,regular,fcs,fcs
+722,401128557,2019-10-12T17:00:00.000Z,Butler,Drake,,,True,regular,fcs,fcs
+723,401128568,2019-10-12T17:00:00.000Z,Davidson,San Diego,,,True,regular,fcs,fcs
+724,401128585,2019-10-12T17:00:00.000Z,Jacksonville,Morehead State,,,True,regular,fcs,fcs
+725,401128617,2019-10-12T17:00:00.000Z,Colgate,Bucknell,,,True,regular,fcs,fcs
+726,401128947,2019-10-12T17:00:00.000Z,Columbia,Central Connecticut,,,False,regular,fcs,fcs
+727,401136609,2019-10-12T17:00:00.000Z,Pennsylvania,Sacred Heart,,,False,regular,fcs,fcs
+728,401127080,2019-10-12T17:30:00.000Z,James Madison,Villanova,,,True,regular,fcs,fcs
+729,401128525,2019-10-12T17:30:00.000Z,VMI,Samford,,,True,regular,fcs,fcs
+730,401127009,2019-10-12T17:30:00.000Z,Gardner-Webb,Hampton,,,True,regular,fcs,fcs
+731,401128690,2019-10-12T17:30:00.000Z,Dartmouth,Yale,,,True,regular,fcs,fcs
+732,401128633,2019-10-12T18:00:00.000Z,Georgetown,Fordham,,,True,regular,fcs,fcs
+733,401119276,2019-10-12T18:00:00.000Z,Eastern Michigan,Ball State,1333.0,1233.0,True,regular,fbs,fbs
+734,401127219,2019-10-12T18:00:00.000Z,South Carolina State,Florida A&M,,,True,regular,fcs,fcs
+735,401127079,2019-10-12T18:00:00.000Z,Elon,Delaware,,,True,regular,fcs,fcs
+736,401127278,2019-10-12T18:00:00.000Z,North Dakota State,Northern Iowa,,,True,regular,fcs,fcs
+737,401128463,2019-10-12T18:00:00.000Z,Arkansas-Pine Bluff,Mississippi Valley State,,,True,regular,fcs,fcs
+738,401128501,2019-10-12T18:00:00.000Z,The Citadel,Western Carolina,,,True,regular,fcs,fcs
+739,401128577,2019-10-12T18:00:00.000Z,Valparaiso,Dayton,,,True,regular,fcs,fcs
+740,401114283,2019-10-12T18:30:00.000Z,Marshall,Old Dominion,1383.0,1192.0,True,regular,fbs,fbs
+741,401127252,2019-10-12T19:00:00.000Z,Missouri State,South Dakota,,,True,regular,fcs,fcs
+742,401114343,2019-10-12T19:00:00.000Z,Central Michigan,New Mexico State,1272.0,1074.0,False,regular,fbs,fbs
+743,401128456,2019-10-12T19:00:00.000Z,Alcorn State,Savannah State,,,False,regular,fcs,ii
+744,401128945,2019-10-12T19:00:00.000Z,Texas Southern,Missouri S&T,,,False,regular,fcs,ii
+745,401127000,2019-10-12T19:00:00.000Z,Kennesaw State,Charleston Southern,,,True,regular,fcs,fcs
+746,401127432,2019-10-12T19:00:00.000Z,Austin Peay,Southeast Missouri State,,,True,regular,fcs,fcs
+747,401128374,2019-10-12T19:00:00.000Z,Tennessee State,Murray State,,,True,regular,fcs,fcs
+748,401128438,2019-10-12T19:00:00.000Z,Grambling,Alabama A&M,,,True,regular,fcs,fcs
+749,401128448,2019-10-12T19:00:00.000Z,Jackson State,Alabama State,,,True,regular,fcs,fcs
+750,401128712,2019-10-12T19:00:00.000Z,Sam Houston State,Lamar,,,True,regular,fcs,fcs
+751,401126933,2019-10-12T19:05:00.000Z,Idaho State,North Dakota,,,False,regular,fcs,fcs
+752,401112479,2019-10-12T19:30:00.000Z,Clemson,Florida State,2157.0,1511.0,True,regular,fbs,fbs
+753,401110822,2019-10-12T19:30:00.000Z,Texas A&M,Alabama,1746.0,2144.0,True,regular,fbs,fbs
+754,401119279,2019-10-12T19:30:00.000Z,Ohio,Northern Illinois,1592.0,1305.0,True,regular,fbs,fbs
+755,401112217,2019-10-12T19:30:00.000Z,Wisconsin,Michigan State,1982.0,1717.0,True,regular,fbs,fbs
+756,401117879,2019-10-12T19:30:00.000Z,Houston,Cincinnati,1520.0,1688.0,True,regular,fbs,fbs
+757,401114157,2019-10-12T19:30:00.000Z,Arizona State,Washington State,1616.0,1657.0,True,regular,fbs,fbs
+758,401119277,2019-10-12T19:30:00.000Z,Akron,Kent State,1061.0,1182.0,True,regular,fbs,fbs
+759,401117214,2019-10-12T19:30:00.000Z,South Florida,BYU,1304.0,1470.0,False,regular,fbs,fbs
+760,401117880,2019-10-12T19:45:00.000Z,Tulane,Connecticut,1555.0,971.0,True,regular,fbs,fbs
+761,401112482,2019-10-12T20:00:00.000Z,Virginia Tech,Rhode Island,,,False,regular,fbs,fcs
+762,401126949,2019-10-12T20:00:00.000Z,Montana State,Sacramento State,,,True,regular,fcs,fcs
+763,401110823,2019-10-12T20:00:00.000Z,Vanderbilt,UNLV,1378.0,1155.0,False,regular,fbs,fbs
+764,401112078,2019-10-12T20:00:00.000Z,Baylor,Texas Tech,1617.0,1529.0,True,regular,fbs,fbs
+765,401117524,2019-10-12T20:00:00.000Z,Nevada,San José State,1107.0,1214.0,True,regular,fbs,fbs
+766,401128721,2019-10-12T20:00:00.000Z,Nicholls,Northwestern State,,,True,regular,fcs,fcs
+767,401114280,2019-10-12T20:00:00.000Z,Florida Atlantic,Middle Tennessee,1470.0,1340.0,True,regular,fbs,fbs
+768,401112089,2019-10-12T20:00:00.000Z,West Virginia,Iowa State,1632.0,1813.0,True,regular,fbs,fbs
+769,401127078,2019-10-12T20:00:00.000Z,Towson,Albany,,,True,regular,fcs,fcs
+770,401126916,2019-10-12T20:05:00.000Z,Eastern Washington,Northern Colorado,,,True,regular,fcs,fcs
+771,401128682,2019-10-12T21:00:00.000Z,Central Arkansas,McNeese,,,True,regular,fcs,fcs
+772,401128704,2019-10-12T21:00:00.000Z,Southeastern Louisiana,Incarnate Word,,,True,regular,fcs,fcs
+773,401121952,2019-10-12T21:00:00.000Z,Coastal Carolina,Georgia State,1341.0,1200.0,True,regular,fbs,fbs
+774,401126924,2019-10-12T21:05:00.000Z,Portland State,Idaho,,,True,regular,fcs,fcs
+775,401127082,2019-10-12T22:00:00.000Z,Stony Brook,New Hampshire,,,True,regular,fcs,fcs
+776,401114284,2019-10-12T22:00:00.000Z,UT San Antonio,UAB,1050.0,1545.0,True,regular,fbs,fbs
+777,401127296,2019-10-12T22:00:00.000Z,Youngstown State,South Dakota State,,,True,regular,fcs,fcs
+778,401110820,2019-10-12T23:00:00.000Z,Missouri,Ole Miss,1866.0,1538.0,True,regular,fbs,fbs
+779,401128483,2019-10-12T23:00:00.000Z,Southern,Prairie View,,,True,regular,fcs,fcs
+780,401128664,2019-10-12T23:00:00.000Z,Abilene Christian,Houston Christian,,,True,regular,fcs,fcs
+781,401127262,2019-10-12T23:00:00.000Z,Southern Illinois,Illinois State,,,True,regular,fcs,fcs
+782,401114285,2019-10-12T23:00:00.000Z,Western Kentucky,Army,1380.0,1675.0,False,regular,fbs,fbs
+783,401114282,2019-10-12T23:00:00.000Z,Southern Mississippi,North Texas,1423.0,1444.0,True,regular,fbs,fbs
+784,401114281,2019-10-12T23:00:00.000Z,Louisiana Tech,UMass,1424.0,960.0,False,regular,fbs,fbs
+785,401117520,2019-10-12T23:00:00.000Z,Air Force,Fresno State,1498.0,1643.0,True,regular,fbs,fbs
+786,401114279,2019-10-12T23:00:00.000Z,Florida International,Charlotte,1449.0,1318.0,True,regular,fbs,fbs
+787,401128391,2019-10-12T23:00:00.000Z,Tennessee Tech,UT Martin,,,True,regular,fcs,fcs
+788,401126905,2019-10-12T23:05:00.000Z,UC Davis,Cal Poly,,,True,regular,fcs,fcs
+789,401112481,2019-10-12T23:30:00.000Z,Wake Forest,Louisville,1592.0,1278.0,True,regular,fbs,fbs
+790,401114222,2019-10-12T23:30:00.000Z,Notre Dame,USC,1905.0,1653.0,False,regular,fbs,fbs
+791,401110818,2019-10-12T23:30:00.000Z,Kentucky,Arkansas,1582.0,1368.0,True,regular,fbs,fbs
+792,401112233,2019-10-12T23:30:00.000Z,Minnesota,Nebraska,1639.0,1522.0,True,regular,fbs,fbs
+793,401117882,2019-10-12T23:30:00.000Z,Tulsa,Navy,1366.0,1477.0,True,regular,fbs,fbs
+794,401112195,2019-10-12T23:30:00.000Z,Iowa,Penn State,1894.0,2003.0,True,regular,fbs,fbs
+795,401114204,2019-10-13T00:00:00.000Z,Oregon State,Utah,1286.0,1762.0,True,regular,fbs,fbs
+796,401110819,2019-10-13T00:00:00.000Z,LSU,Florida,1970.0,1783.0,True,regular,fbs,fbs
+797,401126976,2019-10-13T00:00:00.000Z,Weber State,Southern Utah,,,True,regular,fcs,fcs
+798,401117521,2019-10-13T02:15:00.000Z,Boise State,Hawai'i,1708.0,1429.0,True,regular,fbs,fbs
+799,401117523,2019-10-13T02:30:00.000Z,San Diego State,Wyoming,1514.0,1569.0,True,regular,fbs,fbs
+800,401114168,2019-10-13T03:00:00.000Z,Arizona,Washington,1498.0,1783.0,True,regular,fbs,fbs
+801,401121953,2019-10-17T00:00:00.000Z,Troy,South Alabama,1476.0,1078.0,True,regular,fbs,fbs
+802,401128493,2019-10-17T23:00:00.000Z,Chattanooga,East Tennessee State,,,True,regular,fcs,fcs
+803,401121954,2019-10-17T23:30:00.000Z,Arkansas State,Louisiana,1388.0,1511.0,True,regular,fbs,fbs
+804,401114210,2019-10-18T01:00:00.000Z,Stanford,UCLA,1578.0,1344.0,True,regular,fbs,fbs
+805,401114288,2019-10-18T22:30:00.000Z,Florida Atlantic,Marshall,1490.0,1395.0,True,regular,fbs,fbs
+806,401112483,2019-10-18T23:00:00.000Z,Syracuse,Pittsburgh,1506.0,1583.0,True,regular,fbs,fbs
+807,401112248,2019-10-19T00:30:00.000Z,Northwestern,Ohio State,1563.0,2214.0,True,regular,fbs,fbs
+808,401117528,2019-10-19T02:00:00.000Z,Fresno State,UNLV,1584.0,1247.0,True,regular,fbs,fbs
+809,401127225,2019-10-19T14:30:00.000Z,South Carolina State,Morgan State,,,True,regular,fcs,fcs
+810,401112485,2019-10-19T16:00:00.000Z,Louisville,Clemson,1303.0,2169.0,True,regular,fbs,fbs
+811,401117886,2019-10-19T16:00:00.000Z,Connecticut,Houston,923.0,1501.0,True,regular,fbs,fbs
+812,401110825,2019-10-19T16:00:00.000Z,Arkansas,Auburn,1371.0,1906.0,True,regular,fbs,fbs
+813,401112196,2019-10-19T16:00:00.000Z,Iowa,Purdue,1893.0,1545.0,True,regular,fbs,fbs
+814,401112484,2019-10-19T16:00:00.000Z,Boston College,NC State,1513.0,1545.0,True,regular,fbs,fbs
+815,401112119,2019-10-19T16:00:00.000Z,Oklahoma,West Virginia,1964.0,1589.0,True,regular,fbs,fbs
+816,401112488,2019-10-19T16:00:00.000Z,Miami,Georgia Tech,1580.0,1408.0,True,regular,fbs,fbs
+817,401110829,2019-10-19T16:00:00.000Z,South Carolina,Florida,1582.0,1770.0,True,regular,fbs,fbs
+818,401128595,2019-10-19T16:00:00.000Z,Marist,Dartmouth,,,False,regular,fcs,fcs
+819,401128634,2019-10-19T16:00:00.000Z,Georgetown,Lafayette,,,True,regular,fcs,fcs
+820,401136600,2019-10-19T16:00:00.000Z,Sacred Heart,Duquesne,,,True,regular,fcs,fcs
+821,401136605,2019-10-19T16:00:00.000Z,Wagner,Robert Morris,,,True,regular,fcs,fcs
+822,401119283,2019-10-19T16:00:00.000Z,Ohio,Kent State,1569.0,1228.0,True,regular,fbs,fbs
+823,401112090,2019-10-19T16:00:00.000Z,Texas Tech,Iowa State,1529.0,1856.0,True,regular,fbs,fbs
+824,401112151,2019-10-19T16:00:00.000Z,Illinois,Wisconsin,1346.0,2056.0,True,regular,fbs,fbs
+825,401128653,2019-10-19T16:30:00.000Z,Brown,Princeton,,,True,regular,fcs,fcs
+826,401127083,2019-10-19T17:00:00.000Z,Delaware,New Hampshire,,,True,regular,fcs,fcs
+827,401127273,2019-10-19T17:00:00.000Z,Indiana State,South Dakota State,,,True,regular,fcs,fcs
+828,401127422,2019-10-19T17:00:00.000Z,Central Connecticut,Bryant,,,True,regular,fcs,fcs
+829,401128502,2019-10-19T17:00:00.000Z,Furman,The Citadel,,,True,regular,fcs,fcs
+830,401128569,2019-10-19T17:00:00.000Z,Jacksonville,Davidson,,,True,regular,fcs,fcs
+831,401128639,2019-10-19T17:00:00.000Z,Holy Cross,Harvard,,,False,regular,fcs,fcs
+832,401128650,2019-10-19T17:00:00.000Z,Fordham,Lehigh,,,True,regular,fcs,fcs
+833,401136612,2019-10-19T17:00:00.000Z,Long Island University,St Francis (PA),,,True,regular,fcs,fcs
+834,401127010,2019-10-19T17:00:00.000Z,Monmouth,Gardner-Webb,,,True,regular,fcs,fcs
+835,401128625,2019-10-19T17:30:00.000Z,Cornell,Colgate,,,False,regular,fcs,fcs
+836,401128948,2019-10-19T17:30:00.000Z,Columbia,Pennsylvania,,,True,regular,fcs,fcs
+837,401128532,2019-10-19T17:30:00.000Z,Wofford,Western Carolina,,,True,regular,fcs,fcs
+838,401127415,2019-10-19T18:00:00.000Z,Delaware State,Merrimack,,,False,regular,fcs,fcs
+839,401128558,2019-10-19T18:00:00.000Z,Morehead State,Butler,,,True,regular,fcs,fcs
+840,401119282,2019-10-19T18:00:00.000Z,Bowling Green,Central Michigan,986.0,1284.0,True,regular,fbs,fbs
+841,401119285,2019-10-19T18:00:00.000Z,Ball State,Toledo,1251.0,1427.0,True,regular,fbs,fbs
+842,401127263,2019-10-19T18:00:00.000Z,Western Illinois,Illinois State,,,True,regular,fcs,fcs
+843,401112109,2019-10-19T18:30:00.000Z,Kansas State,TCU,1605.0,1632.0,True,regular,fbs,fbs
+844,401127025,2019-10-19T18:30:00.000Z,Presbyterian College,Kennesaw State,,,True,regular,fcs,fcs
+845,401119284,2019-10-19T18:30:00.000Z,Miami (OH),Northern Illinois,1257.0,1328.0,True,regular,fbs,fbs
+846,401114178,2019-10-19T18:30:00.000Z,California,Oregon State,1540.0,1214.0,True,regular,fbs,fbs
+847,401128722,2019-10-19T19:00:00.000Z,Sam Houston State,Nicholls,,,True,regular,fcs,fcs
+848,401128944,2019-10-19T19:00:00.000Z,UT Martin,Eastern Illinois,,,True,regular,fcs,fcs
+849,401128484,2019-10-19T19:00:00.000Z,Prairie View,Virginia Lynchburg,,,False,regular,fcs,
+850,401117526,2019-10-19T19:00:00.000Z,Wyoming,New Mexico,1564.0,1143.0,True,regular,fbs,fbs
+851,401121956,2019-10-19T19:00:00.000Z,Georgia Southern,Coastal Carolina,1335.0,1307.0,True,regular,fbs,fbs
+852,401126964,2019-10-19T19:00:00.000Z,Northern Colorado,Portland State,,,True,regular,fcs,fcs
+853,401128357,2019-10-19T19:00:00.000Z,Murray State,Eastern Kentucky,,,True,regular,fcs,fcs
+854,401127299,2019-10-19T19:00:00.000Z,Southern Illinois,Youngstown State,,,True,regular,fcs,fcs
+855,401128475,2019-10-19T19:00:00.000Z,Mississippi Valley State,Jackson State,,,True,regular,fcs,fcs
+856,401128488,2019-10-19T19:00:00.000Z,Texas Southern,Southern,,,True,regular,fcs,fcs
+857,401128521,2019-10-19T19:00:00.000Z,Mercer,VMI,,,True,regular,fcs,fcs
+858,401117883,2019-10-19T19:30:00.000Z,Navy,South Florida,1540.0,1312.0,True,regular,fbs,fbs
+859,401114196,2019-10-19T19:30:00.000Z,Washington,Oregon,1814.0,1897.0,True,regular,fbs,fbs
+860,401114289,2019-10-19T19:30:00.000Z,Louisiana Tech,Southern Mississippi,1505.0,1465.0,True,regular,fbs,fbs
+861,401119281,2019-10-19T19:30:00.000Z,Akron,Buffalo,1015.0,1385.0,True,regular,fbs,fbs
+862,401127084,2019-10-19T19:30:00.000Z,Albany,Rhode Island,,,True,regular,fcs,fcs
+863,401127085,2019-10-19T19:30:00.000Z,William & Mary,James Madison,,,True,regular,fcs,fcs
+864,401127253,2019-10-19T19:30:00.000Z,North Dakota State,Missouri State,,,True,regular,fcs,fcs
+865,401112234,2019-10-19T19:30:00.000Z,Rutgers,Minnesota,1059.0,1695.0,True,regular,fbs,fbs
+866,401110828,2019-10-19T19:30:00.000Z,Mississippi State,LSU,1664.0,1983.0,True,regular,fbs,fbs
+867,401112489,2019-10-19T19:30:00.000Z,Virginia Tech,North Carolina,1445.0,1506.0,True,regular,fbs,fbs
+868,401117885,2019-10-19T19:30:00.000Z,Cincinnati,Tulsa,1707.0,1303.0,True,regular,fbs,fbs
+869,401117887,2019-10-19T19:30:00.000Z,SMU,Temple,1583.0,1551.0,True,regular,fbs,fbs
+870,401121955,2019-10-19T19:30:00.000Z,Appalachian State,Louisiana Monroe,1700.0,1254.0,True,regular,fbs,fbs
+871,401112486,2019-10-19T19:30:00.000Z,Virginia,Duke,1600.0,1641.0,True,regular,fbs,fbs
+872,401112163,2019-10-19T19:30:00.000Z,Maryland,Indiana,1473.0,1543.0,True,regular,fbs,fbs
+873,401126958,2019-10-19T20:00:00.000Z,Weber State,Northern Arizona,,,True,regular,fcs,fcs
+874,401114291,2019-10-19T20:00:00.000Z,UAB,Old Dominion,1543.0,1180.0,True,regular,fbs,fbs
+875,401128366,2019-10-19T20:00:00.000Z,Jacksonville State,Southeast Missouri State,,,True,regular,fcs,fcs
+876,401127087,2019-10-19T20:00:00.000Z,Towson,Bucknell,,,False,regular,fcs,fcs
+877,401126990,2019-10-19T20:00:00.000Z,Campbell,Hampton,,,True,regular,fcs,fcs
+878,401110830,2019-10-19T20:00:00.000Z,Vanderbilt,Missouri,1286.0,1862.0,True,regular,fbs,fbs
+879,401114290,2019-10-19T20:00:00.000Z,North Texas,Middle Tennessee,1402.0,1320.0,True,regular,fbs,fbs
+880,401114286,2019-10-19T20:00:00.000Z,Western Kentucky,Charlotte,1416.0,1270.0,True,regular,fbs,fbs
+881,401112079,2019-10-19T20:00:00.000Z,Oklahoma State,Baylor,1651.0,1617.0,True,regular,fbs,fbs
+882,401128665,2019-10-19T20:00:00.000Z,Abilene Christian,Stephen F. Austin,,,True,regular,fcs,fcs
+883,401128578,2019-10-19T20:00:00.000Z,Stetson,Dayton,,,True,regular,fcs,fcs
+884,401128705,2019-10-19T21:00:00.000Z,Incarnate Word,Lamar,,,True,regular,fcs,fcs
+885,401128697,2019-10-19T21:00:00.000Z,McNeese,Houston Christian,,,True,regular,fcs,fcs
+886,401128604,2019-10-19T21:00:00.000Z,San Diego,Valparaiso,,,True,regular,fcs,fcs
+887,401127285,2019-10-19T21:00:00.000Z,Northern Iowa,South Dakota,,,True,regular,fcs,fcs
+888,401126925,2019-10-19T21:30:00.000Z,Idaho,Idaho State,,,True,regular,fcs,fcs
+889,401127433,2019-10-19T21:30:00.000Z,Tennessee State,Austin Peay,,,True,regular,fcs,fcs
+890,401114351,2019-10-19T22:00:00.000Z,Liberty,Maine,,,False,regular,fbs,fcs
+891,401114158,2019-10-19T22:00:00.000Z,Utah,Arizona State,1834.0,1620.0,True,regular,fbs,fbs
+892,401110826,2019-10-19T22:00:00.000Z,Georgia,Kentucky,1962.0,1579.0,True,regular,fbs,fbs
+893,401114292,2019-10-19T22:00:00.000Z,UT San Antonio,Rice,1052.0,1187.0,True,regular,fbs,fbs
+894,401127086,2019-10-19T22:00:00.000Z,Richmond,Yale,,,False,regular,fcs,fcs
+895,401112102,2019-10-19T23:00:00.000Z,Texas,Kansas,1778.0,1373.0,True,regular,fbs,fbs
+896,401119286,2019-10-19T23:00:00.000Z,Eastern Michigan,Western Michigan,1315.0,1434.0,True,regular,fbs,fbs
+897,401114329,2019-10-19T23:00:00.000Z,Georgia State,Army,1234.0,1639.0,False,regular,fbs,fbs
+898,401114287,2019-10-19T23:00:00.000Z,Florida International,UTEP,1497.0,1043.0,True,regular,fbs,fbs
+899,401117529,2019-10-19T23:00:00.000Z,San José State,San Diego State,1212.0,1519.0,True,regular,fbs,fbs
+900,401127001,2019-10-19T23:00:00.000Z,North Alabama,Charleston Southern,,,True,regular,fcs,fcs
+901,401128683,2019-10-19T23:00:00.000Z,Northwestern State,Central Arkansas,,,True,regular,fcs,fcs
+902,401127210,2019-10-19T23:00:00.000Z,Bethune-Cookman,Norfolk State,,,True,regular,fcs,fcs
+903,401117888,2019-10-19T23:00:00.000Z,Memphis,Tulane,1677.0,1603.0,True,regular,fbs,fbs
+904,401117884,2019-10-19T23:00:00.000Z,UCF,East Carolina,1844.0,1152.0,True,regular,fbs,fbs
+905,401114187,2019-10-19T23:00:00.000Z,Washington State,Colorado,1653.0,1406.0,True,regular,fbs,fbs
+906,401110827,2019-10-19T23:30:00.000Z,Ole Miss,Texas A&M,1542.0,1739.0,True,regular,fbs,fbs
+907,401112226,2019-10-19T23:30:00.000Z,Penn State,Michigan,2004.0,1832.0,True,regular,fbs,fbs
+908,401112487,2019-10-19T23:30:00.000Z,Wake Forest,Florida State,1567.0,1499.0,True,regular,fbs,fbs
+909,401126906,2019-10-20T00:05:00.000Z,Cal Poly,North Dakota,,,False,regular,fcs,fcs
+910,401126977,2019-10-20T00:05:00.000Z,Southern Utah,UC Davis,,,True,regular,fcs,fcs
+911,401110824,2019-10-20T01:00:00.000Z,Alabama,Tennessee,2151.0,1373.0,True,regular,fbs,fbs
+912,401126941,2019-10-20T01:00:00.000Z,Sacramento State,Montana,,,True,regular,fcs,fcs
+913,401114169,2019-10-20T01:30:00.000Z,USC,Arizona,1655.0,1467.0,True,regular,fbs,fbs
+914,401117215,2019-10-20T02:15:00.000Z,BYU,Boise State,1462.0,1732.0,False,regular,fbs,fbs
+915,401117527,2019-10-20T02:15:00.000Z,Utah State,Nevada,1630.0,1109.0,True,regular,fbs,fbs
+916,401117525,2019-10-20T03:00:00.000Z,Hawai'i,Air Force,1405.0,1557.0,True,regular,fbs,fbs
+917,401180853,2019-10-20T18:00:00.000Z,Florida A&M,North Carolina A&T,,,True,regular,fcs,fcs
+918,401128476,2019-10-24T23:30:00.000Z,Prairie View,Jackson State,,,True,regular,fcs,fcs
+919,401117889,2019-10-24T23:30:00.000Z,Houston,SMU,1475.0,1639.0,True,regular,fbs,fbs
+920,401128691,2019-10-25T22:00:00.000Z,Dartmouth,Columbia,,,True,regular,fcs,fcs
+921,401114188,2019-10-26T01:00:00.000Z,Colorado,USC,1352.0,1703.0,True,regular,fbs,fbs
+922,401128579,2019-10-26T16:00:00.000Z,Dayton,San Diego,,,True,regular,fcs,fcs
+923,401121957,2019-10-26T16:00:00.000Z,South Alabama,Appalachian State,1060.0,1774.0,True,regular,fbs,fbs
+924,401119288,2019-10-26T16:00:00.000Z,Western Michigan,Bowling Green,1417.0,972.0,True,regular,fbs,fbs
+925,401127423,2019-10-26T16:00:00.000Z,Robert Morris,Bryant,,,True,regular,fcs,fcs
+926,401136594,2019-10-26T16:00:00.000Z,Central Connecticut,Long Island University,,,True,regular,fcs,fcs
+927,401136610,2019-10-26T16:00:00.000Z,St Francis (PA),Sacred Heart,,,True,regular,fcs,fcs
+928,401136835,2019-10-26T16:00:00.000Z,Yale,Pennsylvania,,,True,regular,fcs,fcs
+929,401112197,2019-10-26T16:00:00.000Z,Northwestern,Iowa,1500.0,1884.0,True,regular,fbs,fbs
+930,401112110,2019-10-26T16:00:00.000Z,Kansas State,Oklahoma,1616.0,2025.0,True,regular,fbs,fbs
+931,401112266,2019-10-26T16:00:00.000Z,Rutgers,Liberty,1035.0,1302.0,False,regular,fbs,fbs
+932,401112152,2019-10-26T16:00:00.000Z,Purdue,Illinois,1554.0,1364.0,True,regular,fbs,fbs
+933,401112254,2019-10-26T16:00:00.000Z,Ohio State,Wisconsin,2277.0,2038.0,True,regular,fbs,fbs
+934,401112494,2019-10-26T16:00:00.000Z,Pittsburgh,Miami,1590.0,1553.0,True,regular,fbs,fbs
+935,401114330,2019-10-26T16:00:00.000Z,Army,San José State,1604.0,1216.0,False,regular,fbs,fbs
+936,401110835,2019-10-26T16:00:00.000Z,Texas A&M,Mississippi State,1737.0,1639.0,True,regular,fbs,fbs
+937,401128635,2019-10-26T16:30:00.000Z,Lehigh,Georgetown,,,True,regular,fcs,fcs
+938,401128559,2019-10-26T17:00:00.000Z,Butler,Jacksonville,,,True,regular,fcs,fcs
+939,401128570,2019-10-26T17:00:00.000Z,Davidson,Marist,,,True,regular,fcs,fcs
+940,401128511,2019-10-26T17:00:00.000Z,Samford,East Tennessee State,,,True,regular,fcs,fcs
+941,401127237,2019-10-26T17:00:00.000Z,North Carolina A&T,Howard,,,True,regular,fcs,fcs
+942,401127091,2019-10-26T17:00:00.000Z,Maine,William & Mary,,,True,regular,fcs,fcs
+943,401127089,2019-10-26T17:00:00.000Z,Rhode Island,Elon,,,True,regular,fcs,fcs
+944,401127088,2019-10-26T17:00:00.000Z,Delaware,Richmond,,,True,regular,fcs,fcs
+945,401128609,2019-10-26T17:00:00.000Z,Valparaiso,Stetson,,,True,regular,fcs,fcs
+946,401128626,2019-10-26T17:00:00.000Z,Holy Cross,Colgate,,,True,regular,fcs,fcs
+947,401128670,2019-10-26T17:00:00.000Z,Princeton,Harvard,,,True,regular,fcs,fcs
+948,401136601,2019-10-26T17:00:00.000Z,Duquesne,Wagner,,,True,regular,fcs,fcs
+949,401127026,2019-10-26T17:00:00.000Z,Merrimack,Presbyterian College,,,False,regular,fcs,fcs
+950,401114298,2019-10-26T17:00:00.000Z,Rice,Southern Mississippi,1180.0,1437.0,True,regular,fbs,fbs
+951,401126950,2019-10-26T17:00:00.000Z,North Dakota,Montana State,,,False,regular,fcs,fcs
+952,401126991,2019-10-26T17:30:00.000Z,Gardner-Webb,Campbell,,,True,regular,fcs,fcs
+953,401128494,2019-10-26T17:30:00.000Z,Wofford,Chattanooga,,,True,regular,fcs,fcs
+954,401128654,2019-10-26T17:30:00.000Z,Cornell,Brown,,,True,regular,fcs,fcs
+955,401119292,2019-10-26T18:00:00.000Z,Ball State,Ohio,1387.0,1561.0,True,regular,fbs,fbs
+956,401117533,2019-10-26T18:00:00.000Z,Wyoming,Nevada,1557.0,1097.0,True,regular,fbs,fbs
+957,401126917,2019-10-26T18:00:00.000Z,Montana,Eastern Washington,,,True,regular,fcs,fcs
+958,401127242,2019-10-26T18:00:00.000Z,North Carolina Central,Delaware State,,,True,regular,fcs,fcs
+959,401127302,2019-10-26T18:00:00.000Z,Youngstown State,Western Illinois,,,True,regular,fcs,fcs
+960,401128379,2019-10-26T18:00:00.000Z,Southeast Missouri State,UT Martin,,,True,regular,fcs,fcs
+961,401128503,2019-10-26T18:00:00.000Z,The Citadel,Mercer,,,True,regular,fcs,fcs
+962,401128599,2019-10-26T18:00:00.000Z,Drake,Morehead State,,,True,regular,fcs,fcs
+963,401127037,2019-10-26T18:00:00.000Z,Hampton,Virginia Lynchburg,,,False,regular,fcs,
+964,401127434,2019-10-26T18:30:00.000Z,Tennessee Tech,Austin Peay,,,True,regular,fcs,fcs
+965,401114297,2019-10-26T18:30:00.000Z,Marshall,Western Kentucky,1410.0,1437.0,True,regular,fbs,fbs
+966,401128480,2019-10-26T19:00:00.000Z,Mississippi Valley State,Texas Southern,,,True,regular,fcs,fcs
+967,401128698,2019-10-26T19:00:00.000Z,Houston Christian,Southeastern Louisiana,,,True,regular,fcs,fcs
+968,401127264,2019-10-26T19:00:00.000Z,Illinois State,Indiana State,,,True,regular,fcs,fcs
+969,401127254,2019-10-26T19:00:00.000Z,Missouri State,Northern Iowa,,,True,regular,fcs,fcs
+970,401127220,2019-10-26T19:00:00.000Z,Morgan State,Florida A&M,,,True,regular,fcs,fcs
+971,401127033,2019-10-26T19:00:00.000Z,Kennesaw State,North Alabama,,,True,regular,fcs,fcs
+972,401114344,2019-10-26T19:00:00.000Z,Georgia Southern,New Mexico State,1336.0,1062.0,False,regular,fbs,fbs
+973,401128358,2019-10-26T19:00:00.000Z,Eastern Illinois,Eastern Kentucky,,,True,regular,fcs,fcs
+974,401127279,2019-10-26T19:00:00.000Z,South Dakota State,North Dakota State,,,True,regular,fcs,fcs
+975,401128457,2019-10-26T19:00:00.000Z,Alcorn State,Southern,,,True,regular,fcs,fcs
+976,401119291,2019-10-26T19:30:00.000Z,Kent State,Miami (OH),1236.0,1259.0,True,regular,fbs,fbs
+977,401127090,2019-10-26T19:30:00.000Z,James Madison,Towson,,,True,regular,fcs,fcs
+978,401127092,2019-10-26T19:30:00.000Z,Villanova,Stony Brook,,,True,regular,fcs,fcs
+979,401128439,2019-10-26T19:30:00.000Z,Alabama State,Alabama A&M,,,True,regular,fcs,fcs
+980,401128516,2019-10-26T19:30:00.000Z,Western Carolina,Furman,,,True,regular,fcs,fcs
+981,401128618,2019-10-26T19:30:00.000Z,Lafayette,Bucknell,,,True,regular,fcs,fcs
+982,401114170,2019-10-26T19:30:00.000Z,Stanford,Arizona,1507.0,1419.0,True,regular,fbs,fbs
+983,401112218,2019-10-26T19:30:00.000Z,Michigan State,Penn State,1643.0,2004.0,True,regular,fbs,fbs
+984,401112132,2019-10-26T19:30:00.000Z,TCU,Texas,1621.0,1773.0,True,regular,fbs,fbs
+985,401114293,2019-10-26T19:30:00.000Z,Charlotte,North Texas,1249.0,1402.0,True,regular,fbs,fbs
+986,401110833,2019-10-26T19:30:00.000Z,LSU,Auburn,2008.0,1958.0,True,regular,fbs,fbs
+987,401112493,2019-10-26T19:30:00.000Z,Louisville,Virginia,1302.0,1700.0,True,regular,fbs,fbs
+988,401114357,2019-10-26T19:30:00.000Z,UMass,Connecticut,879.0,949.0,False,regular,fbs,fbs
+989,401114295,2019-10-26T19:30:00.000Z,Old Dominion,Florida Atlantic,1158.0,1475.0,True,regular,fbs,fbs
+990,401112207,2019-10-26T19:30:00.000Z,Minnesota,Maryland,1719.0,1467.0,True,regular,fbs,fbs
+991,401112492,2019-10-26T19:30:00.000Z,Florida State,Syracuse,1499.0,1499.0,True,regular,fbs,fbs
+992,401114294,2019-10-26T19:30:00.000Z,Middle Tennessee,Florida International,1320.0,1491.0,True,regular,fbs,fbs
+993,401112164,2019-10-26T19:30:00.000Z,Nebraska,Indiana,1466.0,1549.0,True,regular,fbs,fbs
+994,401117890,2019-10-26T19:30:00.000Z,Navy,Tulane,1599.0,1532.0,True,regular,fbs,fbs
+995,401112091,2019-10-26T19:30:00.000Z,Iowa State,Oklahoma State,1850.0,1603.0,True,regular,fbs,fbs
+996,401119290,2019-10-26T19:30:00.000Z,Toledo,Eastern Michigan,1291.0,1332.0,True,regular,fbs,fbs
+997,401119289,2019-10-26T19:30:00.000Z,Buffalo,Central Michigan,1400.0,1298.0,True,regular,fbs,fbs
+998,401119287,2019-10-26T19:30:00.000Z,Northern Illinois,Akron,1326.0,1000.0,True,regular,fbs,fbs
+999,401117892,2019-10-26T19:45:00.000Z,East Carolina,South Florida,1176.0,1253.0,True,regular,fbs,fbs
+1000,401128367,2019-10-26T20:00:00.000Z,Jacksonville State,Murray State,,,True,regular,fcs,fcs
+1001,401112491,2019-10-26T20:00:00.000Z,North Carolina,Duke,1505.0,1541.0,True,regular,fbs,fbs
+1002,401127211,2019-10-26T20:00:00.000Z,Bethune-Cookman,South Carolina State,,,True,regular,fcs,fcs
+1003,401128666,2019-10-26T20:00:00.000Z,Nicholls,Abilene Christian,,,True,regular,fcs,fcs
+1004,401128717,2019-10-26T20:00:00.000Z,Stephen F. Austin,McNeese,,,True,regular,fcs,fcs
+1005,401110834,2019-10-26T20:00:00.000Z,Tennessee,South Carolina,1391.0,1575.0,True,regular,fbs,fbs
+1006,401128464,2019-10-26T20:00:00.000Z,Arkansas-Pine Bluff,Grambling,,,True,regular,fcs,fcs
+1007,401117532,2019-10-26T20:00:00.000Z,New Mexico,Hawai'i,1150.0,1340.0,True,regular,fbs,fbs
+1008,401126934,2019-10-26T20:05:00.000Z,Southern Utah,Idaho State,,,True,regular,fcs,fcs
+1009,401128706,2019-10-26T21:00:00.000Z,Incarnate Word,Northwestern State,,,True,regular,fcs,fcs
+1010,401127289,2019-10-26T21:00:00.000Z,South Dakota,Southern Illinois,,,True,regular,fcs,fcs
+1011,401127002,2019-10-26T22:00:00.000Z,Charleston Southern,Monmouth,,,True,regular,fcs,fcs
+1012,401126959,2019-10-26T23:00:00.000Z,Northern Arizona,Portland State,,,True,regular,fcs,fcs
+1013,401121959,2019-10-26T23:00:00.000Z,Georgia State,Troy,1269.0,1494.0,True,regular,fbs,fbs
+1014,401110831,2019-10-26T23:00:00.000Z,Alabama,Arkansas,2133.0,1319.0,True,regular,fbs,fbs
+1015,401121958,2019-10-26T23:00:00.000Z,Arkansas State,Texas State,1360.0,1135.0,True,regular,fbs,fbs
+1016,401117893,2019-10-26T23:00:00.000Z,Tulsa,Memphis,1311.0,1748.0,True,regular,fbs,fbs
+1017,401126983,2019-10-26T23:00:00.000Z,UC Davis,Weber State,,,True,regular,fcs,fcs
+1018,401128684,2019-10-26T23:00:00.000Z,Central Arkansas,Sam Houston State,,,True,regular,fcs,fcs
+1019,401117891,2019-10-26T23:00:00.000Z,Temple,UCF,1495.0,1820.0,True,regular,fbs,fbs
+1020,401112103,2019-10-26T23:00:00.000Z,Kansas,Texas Tech,1378.0,1535.0,True,regular,fbs,fbs
+1021,401114159,2019-10-26T23:30:00.000Z,UCLA,Arizona State,1415.0,1600.0,True,regular,fbs,fbs
+1022,401117531,2019-10-26T23:30:00.000Z,Fresno State,Colorado State,1622.0,1263.0,True,regular,fbs,fbs
+1023,401112490,2019-10-26T23:30:00.000Z,Clemson,Boston College,2170.0,1566.0,True,regular,fbs,fbs
+1024,401112227,2019-10-26T23:30:00.000Z,Michigan,Notre Dame,1832.0,1903.0,False,regular,fbs,fbs
+1025,401110832,2019-10-26T23:30:00.000Z,Kentucky,Missouri,1567.0,1814.0,True,regular,fbs,fbs
+1026,401126907,2019-10-27T00:00:00.000Z,Cal Poly,Sacramento State,,,True,regular,fcs,fcs
+1027,401114296,2019-10-27T00:00:00.000Z,UTEP,Louisiana Tech,1049.0,1533.0,True,regular,fbs,fbs
+1028,401114179,2019-10-27T02:00:00.000Z,Utah,California,1854.0,1510.0,True,regular,fbs,fbs
+1029,401117530,2019-10-27T02:15:00.000Z,Air Force,Utah State,1622.0,1642.0,True,regular,fbs,fbs
+1030,401117534,2019-10-27T02:30:00.000Z,UNLV,San Diego State,1209.0,1515.0,True,regular,fbs,fbs
+1031,401114197,2019-10-27T02:30:00.000Z,Oregon,Washington State,1898.0,1707.0,True,regular,fbs,fbs
+1032,401121960,2019-11-01T00:00:00.000Z,Appalachian State,Georgia Southern,1770.0,1396.0,True,regular,fbs,fbs
+1033,401112080,2019-11-01T00:00:00.000Z,Baylor,West Virginia,1665.0,1528.0,True,regular,fbs,fbs
+1034,401128671,2019-11-01T22:00:00.000Z,Cornell,Princeton,,,True,regular,fcs,fcs
+1035,401117894,2019-11-02T00:00:00.000Z,Connecticut,Navy,995.0,1599.0,True,regular,fbs,fbs
+1036,401128560,2019-11-02T16:00:00.000Z,Marist,Butler,,,True,regular,fcs,fcs
+1037,401128627,2019-11-02T16:00:00.000Z,Georgetown,Colgate,,,True,regular,fcs,fcs
+1038,401128949,2019-11-02T16:00:00.000Z,Yale,Columbia,,,True,regular,fcs,fcs
+1039,401114352,2019-11-02T16:00:00.000Z,UMass,Liberty,833.0,1264.0,False,regular,fbs,fbs
+1040,401112495,2019-11-02T16:00:00.000Z,Syracuse,Boston College,1459.0,1490.0,True,regular,fbs,fbs
+1041,401119295,2019-11-02T16:00:00.000Z,Central Michigan,Northern Illinois,1253.0,1429.0,True,regular,fbs,fbs
+1042,401119294,2019-11-02T16:00:00.000Z,Eastern Michigan,Buffalo,1330.0,1445.0,True,regular,fbs,fbs
+1043,401136595,2019-11-02T16:00:00.000Z,Wagner,Central Connecticut,,,True,regular,fcs,fcs
+1044,401136602,2019-11-02T16:00:00.000Z,Duquesne,St Francis (PA),,,True,regular,fcs,fcs
+1045,401136606,2019-11-02T16:00:00.000Z,Robert Morris,Long Island University,,,True,regular,fcs,fcs
+1046,401112500,2019-11-02T16:00:00.000Z,Wake Forest,NC State,1567.0,1492.0,True,regular,fbs,fbs
+1047,401117895,2019-11-02T16:00:00.000Z,UCF,Houston,1902.0,1480.0,True,regular,fbs,fbs
+1048,401112243,2019-11-02T16:00:00.000Z,Purdue,Nebraska,1488.0,1459.0,True,regular,fbs,fbs
+1049,401110841,2019-11-02T16:00:00.000Z,Texas A&M,UT San Antonio,1771.0,1059.0,False,regular,fbs,fbs
+1050,401112208,2019-11-02T16:00:00.000Z,Maryland,Michigan,1378.0,1925.0,True,regular,fbs,fbs
+1051,401114300,2019-11-02T16:00:00.000Z,Florida International,Old Dominion,1376.0,1088.0,True,regular,fbs,fbs
+1052,401128640,2019-11-02T16:30:00.000Z,Lehigh,Holy Cross,,,True,regular,fcs,fcs
+1053,401128646,2019-11-02T16:30:00.000Z,Lafayette,Fordham,,,True,regular,fcs,fcs
+1054,401127265,2019-11-02T17:00:00.000Z,Illinois State,Northern Iowa,,,True,regular,fcs,fcs
+1055,401127027,2019-11-02T17:00:00.000Z,Hampton,Presbyterian College,,,True,regular,fcs,fcs
+1056,401127094,2019-11-02T17:00:00.000Z,New Hampshire,Villanova,,,True,regular,fcs,fcs
+1057,401127243,2019-11-02T17:00:00.000Z,Howard,North Carolina Central,,,True,regular,fcs,fcs
+1058,401127274,2019-11-02T17:00:00.000Z,Indiana State,Southern Illinois,,,True,regular,fcs,fcs
+1059,401127424,2019-11-02T17:00:00.000Z,Bryant,Sacred Heart,,,True,regular,fcs,fcs
+1060,401127435,2019-11-02T17:00:00.000Z,Eastern Kentucky,Austin Peay,,,True,regular,fcs,fcs
+1061,401128571,2019-11-02T17:00:00.000Z,Davidson,Valparaiso,,,True,regular,fcs,fcs
+1062,401128580,2019-11-02T17:00:00.000Z,Morehead State,Dayton,,,True,regular,fcs,fcs
+1063,401128586,2019-11-02T17:00:00.000Z,Jacksonville,Stetson,,,True,regular,fcs,fcs
+1064,401128655,2019-11-02T17:00:00.000Z,Pennsylvania,Brown,,,True,regular,fcs,fcs
+1065,401128677,2019-11-02T17:00:00.000Z,Harvard,Dartmouth,,,True,regular,fcs,fcs
+1066,401136282,2019-11-02T17:00:00.000Z,Rhode Island,Merrimack,,,False,regular,fcs,fcs
+1067,401127003,2019-11-02T17:30:00.000Z,Gardner-Webb,Charleston Southern,,,True,regular,fcs,fcs
+1068,401127238,2019-11-02T17:30:00.000Z,South Carolina State,North Carolina A&T,,,True,regular,fcs,fcs
+1069,401128530,2019-11-02T17:30:00.000Z,VMI,Western Carolina,,,True,regular,fcs,fcs
+1070,401127226,2019-11-02T18:00:00.000Z,Norfolk State,Morgan State,,,True,regular,fcs,fcs
+1071,401127290,2019-11-02T18:00:00.000Z,Western Illinois,South Dakota,,,True,regular,fcs,fcs
+1072,401128375,2019-11-02T18:00:00.000Z,Murray State,Tennessee Tech,,,True,regular,fcs,fcs
+1073,401128449,2019-11-02T18:00:00.000Z,Mississippi Valley State,Alabama State,,,True,regular,fcs,fcs
+1074,401128495,2019-11-02T18:00:00.000Z,Chattanooga,Furman,,,True,regular,fcs,fcs
+1075,401127018,2019-11-02T18:00:00.000Z,Kennesaw State,Monmouth,,,True,regular,fcs,fcs
+1076,401127093,2019-11-02T18:00:00.000Z,Elon,William & Mary,,,True,regular,fcs,fcs
+1077,401127097,2019-11-02T18:00:00.000Z,Towson,Delaware,,,True,regular,fcs,fcs
+1078,401126951,2019-11-02T18:00:00.000Z,Montana State,Southern Utah,,,True,regular,fcs,fcs
+1079,401119293,2019-11-02T18:00:00.000Z,Bowling Green,Akron,917.0,897.0,True,regular,fbs,fbs
+1080,401126992,2019-11-02T18:30:00.000Z,North Alabama,Campbell,,,True,regular,fcs,fcs
+1081,401112501,2019-11-02T18:30:00.000Z,Notre Dame,Virginia Tech,1810.0,1446.0,False,regular,fbs,fbs
+1082,401127255,2019-11-02T19:00:00.000Z,Missouri State,South Dakota State,,,True,regular,fcs,fcs
+1083,401127095,2019-11-02T19:00:00.000Z,Richmond,Stony Brook,,,True,regular,fcs,fcs
+1084,401128368,2019-11-02T19:00:00.000Z,UT Martin,Jacksonville State,,,True,regular,fcs,fcs
+1085,401128471,2019-11-02T19:00:00.000Z,Grambling,Texas Southern,,,True,regular,fcs,fcs
+1086,401128380,2019-11-02T19:00:00.000Z,Tennessee State,Southeast Missouri State,,,True,regular,fcs,fcs
+1087,401121962,2019-11-02T19:00:00.000Z,Coastal Carolina,Troy,1306.0,1426.0,True,regular,fbs,fbs
+1088,401117538,2019-11-02T19:30:00.000Z,Colorado State,UNLV,1319.0,1222.0,True,regular,fbs,fbs
+1089,401127096,2019-11-02T19:30:00.000Z,Albany,Maine,,,True,regular,fcs,fcs
+1090,401128504,2019-11-02T19:30:00.000Z,East Tennessee State,The Citadel,,,True,regular,fcs,fcs
+1091,401114331,2019-11-02T19:30:00.000Z,Air Force,Army,1684.0,1565.0,False,regular,fbs,fbs
+1092,401112153,2019-11-02T19:30:00.000Z,Illinois,Rutgers,1430.0,1073.0,True,regular,fbs,fbs
+1093,401112104,2019-11-02T19:30:00.000Z,Kansas,Kansas State,1381.0,1651.0,True,regular,fbs,fbs
+1094,401114303,2019-11-02T19:30:00.000Z,North Texas,UTEP,1397.0,1045.0,True,regular,fbs,fbs
+1095,401114302,2019-11-02T19:30:00.000Z,Rice,Marshall,1172.0,1411.0,True,regular,fbs,fbs
+1096,401110838,2019-11-02T19:30:00.000Z,Florida,Georgia,1777.0,1974.0,True,regular,fbs,fbs
+1097,401112127,2019-11-02T19:30:00.000Z,Oklahoma State,TCU,1637.0,1650.0,True,regular,fbs,fbs
+1098,401121961,2019-11-02T19:30:00.000Z,Louisiana Monroe,Arkansas State,1180.0,1395.0,True,regular,fbs,fbs
+1099,401114299,2019-11-02T19:30:00.000Z,Charlotte,Middle Tennessee,1254.0,1435.0,True,regular,fbs,fbs
+1100,401112497,2019-11-02T19:30:00.000Z,Florida State,Miami,1539.0,1562.0,True,regular,fbs,fbs
+1101,401114227,2019-11-02T20:00:00.000Z,Washington,Utah,1813.0,1909.0,True,regular,fbs,fbs
+1102,401128685,2019-11-02T20:00:00.000Z,Lamar,Central Arkansas,,,True,regular,fcs,fcs
+1103,401110836,2019-11-02T20:00:00.000Z,Arkansas,Mississippi State,1298.0,1605.0,True,regular,fbs,fbs
+1104,401127221,2019-11-02T20:00:00.000Z,Florida A&M,Delaware State,,,True,regular,fcs,fcs
+1105,401117898,2019-11-02T20:00:00.000Z,Tulane,Tulsa,1532.0,1329.0,True,regular,fbs,fbs
+1106,401112498,2019-11-02T20:00:00.000Z,Georgia Tech,Pittsburgh,1435.0,1581.0,True,regular,fbs,fbs
+1107,401112496,2019-11-02T20:00:00.000Z,Clemson,Wofford,,,False,regular,fbs,fcs
+1108,401114301,2019-11-02T20:00:00.000Z,Western Kentucky,Florida Atlantic,1436.0,1545.0,True,regular,fbs,fbs
+1109,401126918,2019-11-02T20:05:00.000Z,Eastern Washington,Northern Arizona,,,True,regular,fcs,fcs
+1110,401126935,2019-11-02T20:30:00.000Z,Idaho State,Northern Colorado,,,True,regular,fcs,fcs
+1111,401114171,2019-11-02T20:30:00.000Z,Arizona,Oregon State,1408.0,1244.0,True,regular,fbs,fbs
+1112,401128707,2019-11-02T21:00:00.000Z,Incarnate Word,Nicholls,,,True,regular,fcs,fcs
+1113,401128731,2019-11-02T21:00:00.000Z,Southeastern Louisiana,Stephen F. Austin,,,True,regular,fcs,fcs
+1114,401126908,2019-11-02T21:00:00.000Z,Idaho,Cal Poly,,,True,regular,fcs,fcs
+1115,401121963,2019-11-02T21:00:00.000Z,Louisiana,Texas State,1539.0,1100.0,True,regular,fbs,fbs
+1116,401128440,2019-11-02T21:00:00.000Z,Southern,Alabama A&M,,,True,regular,fcs,fcs
+1117,401128605,2019-11-02T21:00:00.000Z,San Diego,Drake,,,True,regular,fcs,fcs
+1118,401128718,2019-11-02T21:00:00.000Z,McNeese,Northwestern State,,,True,regular,fcs,fcs
+1119,401126942,2019-11-02T21:05:00.000Z,Portland State,Montana,,,True,regular,fcs,fcs
+1120,401127280,2019-11-02T22:00:00.000Z,Youngstown State,North Dakota State,,,True,regular,fcs,fcs
+1121,401128465,2019-11-02T23:00:00.000Z,Jackson State,Arkansas-Pine Bluff,,,True,regular,fcs,fcs
+1122,401110837,2019-11-02T23:00:00.000Z,Auburn,Ole Miss,1958.0,1544.0,True,regular,fbs,fbs
+1123,401112165,2019-11-02T23:00:00.000Z,Indiana,Northwestern,1556.0,1489.0,True,regular,fbs,fbs
+1124,401110840,2019-11-02T23:00:00.000Z,Tennessee,UAB,1458.0,1565.0,False,regular,fbs,fbs
+1125,401128522,2019-11-02T23:00:00.000Z,Mercer,Samford,,,True,regular,fcs,fcs
+1126,401117896,2019-11-02T23:00:00.000Z,East Carolina,Cincinnati,1118.0,1699.0,True,regular,fbs,fbs
+1127,401117897,2019-11-02T23:30:00.000Z,Memphis,SMU,1730.0,1634.0,True,regular,fbs,fbs
+1128,401110839,2019-11-02T23:30:00.000Z,South Carolina,Vanderbilt,1508.0,1334.0,True,regular,fbs,fbs
+1129,401112499,2019-11-02T23:30:00.000Z,North Carolina,Virginia,1506.0,1665.0,True,regular,fbs,fbs
+1130,401114198,2019-11-03T00:00:00.000Z,USC,Oregon,1688.0,1896.0,True,regular,fbs,fbs
+1131,401126971,2019-11-03T01:00:00.000Z,Sacramento State,Weber State,,,True,regular,fcs,fcs
+1132,401114189,2019-11-03T01:00:00.000Z,UCLA,Colorado,1446.0,1367.0,True,regular,fbs,fbs
+1133,401117216,2019-11-03T02:00:00.000Z,Utah State,BYU,1580.0,1467.0,False,regular,fbs,fbs
+1134,401117536,2019-11-03T02:30:00.000Z,Nevada,New Mexico,1074.0,1136.0,True,regular,fbs,fbs
+1135,401117535,2019-11-03T02:30:00.000Z,San José State,Boise State,1255.0,1727.0,True,regular,fbs,fbs
+1136,401117537,2019-11-03T03:59:00.000Z,Hawai'i,Fresno State,1354.0,1566.0,True,regular,fbs,fbs
+1137,401119297,2019-11-06T00:00:00.000Z,Toledo,Kent State,1293.0,1225.0,True,regular,fbs,fbs
+1138,401119296,2019-11-06T01:00:00.000Z,Western Michigan,Ball State,1472.0,1374.0,True,regular,fbs,fbs
+1139,401119298,2019-11-07T01:00:00.000Z,Ohio,Miami (OH),1574.0,1270.0,True,regular,fbs,fbs
+1140,401121964,2019-11-08T00:30:00.000Z,Coastal Carolina,Louisiana,1310.0,1564.0,True,regular,fbs,fbs
+1141,401117899,2019-11-08T01:00:00.000Z,South Florida,Temple,1311.0,1413.0,True,regular,fbs,fbs
+1142,401117900,2019-11-09T00:00:00.000Z,Tulsa,UCF,1322.0,1898.0,True,regular,fbs,fbs
+1143,401114205,2019-11-09T03:30:00.000Z,Oregon State,Washington,1307.0,1811.0,True,regular,fbs,fbs
+1144,401128606,2019-11-09T17:00:00.000Z,Stetson,San Diego,,,True,regular,fcs,fcs
+1145,401112235,2019-11-09T17:00:00.000Z,Minnesota,Penn State,1808.0,2019.0,True,regular,fbs,fbs
+1146,401127019,2019-11-09T17:00:00.000Z,Monmouth,North Alabama,,,True,regular,fcs,fcs
+1147,401112249,2019-11-09T17:00:00.000Z,Northwestern,Purdue,1414.0,1490.0,True,regular,fbs,fbs
+1148,401112209,2019-11-09T17:00:00.000Z,Ohio State,Maryland,2332.0,1355.0,True,regular,fbs,fbs
+1149,401110843,2019-11-09T17:00:00.000Z,Arkansas,Western Kentucky,1252.0,1422.0,False,regular,fbs,fbs
+1150,401112502,2019-11-09T17:00:00.000Z,Boston College,Florida State,1574.0,1500.0,True,regular,fbs,fbs
+1151,401112142,2019-11-09T17:00:00.000Z,West Virginia,Texas Tech,1529.0,1532.0,True,regular,fbs,fbs
+1152,401110844,2019-11-09T17:00:00.000Z,Florida,Vanderbilt,1782.0,1313.0,True,regular,fbs,fbs
+1153,401128561,2019-11-09T17:00:00.000Z,Butler,Davidson,,,True,regular,fcs,fcs
+1154,401112081,2019-11-09T17:00:00.000Z,TCU,Baylor,1640.0,1664.0,True,regular,fbs,fbs
+1155,401114332,2019-11-09T17:00:00.000Z,Army,UMass,1566.0,765.0,False,regular,fbs,fbs
+1156,401117902,2019-11-09T17:00:00.000Z,SMU,East Carolina,1631.0,1144.0,True,regular,fbs,fbs
+1157,401136611,2019-11-09T17:00:00.000Z,Sacred Heart,Wagner,,,True,regular,fcs,fcs
+1158,401136596,2019-11-09T17:00:00.000Z,Central Connecticut,St Francis (PA),,,True,regular,fcs,fcs
+1159,401128641,2019-11-09T17:00:00.000Z,Holy Cross,Lafayette,,,True,regular,fcs,fcs
+1160,401112504,2019-11-09T17:30:00.000Z,Virginia,Georgia Tech,1666.0,1427.0,True,regular,fbs,fbs
+1161,401128656,2019-11-09T17:30:00.000Z,Brown,Yale,,,True,regular,fcs,fcs
+1162,401127103,2019-11-09T18:00:00.000Z,William & Mary,Rhode Island,,,True,regular,fcs,fcs
+1163,401128517,2019-11-09T18:00:00.000Z,Furman,VMI,,,True,regular,fcs,fcs
+1164,401128581,2019-11-09T18:00:00.000Z,Dayton,Marist,,,True,regular,fcs,fcs
+1165,401128619,2019-11-09T18:00:00.000Z,Bucknell,Lehigh,,,True,regular,fcs,fcs
+1166,401128628,2019-11-09T18:00:00.000Z,Colgate,Fordham,,,True,regular,fcs,fcs
+1167,401128678,2019-11-09T18:00:00.000Z,Columbia,Harvard,,,True,regular,fcs,fcs
+1168,401136603,2019-11-09T18:00:00.000Z,Robert Morris,Duquesne,,,True,regular,fcs,fcs
+1169,401126993,2019-11-09T18:00:00.000Z,Campbell,Kennesaw State,,,True,regular,fcs,fcs
+1170,401127011,2019-11-09T18:00:00.000Z,Presbyterian College,Gardner-Webb,,,True,regular,fcs,fcs
+1171,401127098,2019-11-09T18:00:00.000Z,Villanova,Richmond,,,True,regular,fcs,fcs
+1172,401127100,2019-11-09T18:00:00.000Z,Delaware,Albany,,,True,regular,fcs,fcs
+1173,401127227,2019-11-09T18:00:00.000Z,Morgan State,North Carolina A&T,,,True,regular,fcs,fcs
+1174,401127249,2019-11-09T18:30:00.000Z,South Carolina State,Howard,,,True,regular,fcs,fcs
+1175,401128952,2019-11-09T18:30:00.000Z,Pennsylvania,Cornell,,,True,regular,fcs,fcs
+1176,401128587,2019-11-09T19:00:00.000Z,Drake,Jacksonville,,,True,regular,fcs,fcs
+1177,401128441,2019-11-09T19:00:00.000Z,Alabama A&M,Jackson State,,,True,regular,fcs,fcs
+1178,401126952,2019-11-09T19:00:00.000Z,Northern Colorado,Montana State,,,True,regular,fcs,fcs
+1179,401127101,2019-11-09T19:00:00.000Z,Elon,Maine,,,True,regular,fcs,fcs
+1180,401127232,2019-11-09T19:00:00.000Z,North Carolina Central,Norfolk State,,,True,regular,fcs,fcs
+1181,401127099,2019-11-09T19:00:00.000Z,Stony Brook,Towson,,,True,regular,fcs,fcs
+1182,401128600,2019-11-09T19:00:00.000Z,Valparaiso,Morehead State,,,True,regular,fcs,fcs
+1183,401114307,2019-11-09T19:00:00.000Z,Old Dominion,UT San Antonio,1094.0,1053.0,True,regular,fbs,fbs
+1184,401128359,2019-11-09T19:00:00.000Z,Southeast Missouri State,Eastern Kentucky,,,True,regular,fcs,fcs
+1185,401127212,2019-11-09T19:00:00.000Z,Delaware State,Bethune-Cookman,,,True,regular,fcs,fcs
+1186,401128369,2019-11-09T19:30:00.000Z,Tennessee Tech,Jacksonville State,,1493.0,True,regular,fcs,fcs
+1187,401128523,2019-11-09T20:00:00.000Z,Mercer,Wofford,,,True,regular,fcs,fcs
+1188,401127256,2019-11-09T20:00:00.000Z,Southern Illinois,Missouri State,,,True,regular,fcs,fcs
+1189,401127266,2019-11-09T20:00:00.000Z,South Dakota State,Illinois State,,,True,regular,fcs,fcs
+1190,401127291,2019-11-09T20:00:00.000Z,South Dakota,Youngstown State,,,True,regular,fcs,fcs
+1191,401128385,2019-11-09T20:00:00.000Z,Tennessee State,Eastern Illinois,,,True,regular,fcs,fcs
+1192,401128450,2019-11-09T20:00:00.000Z,Texas Southern,Alabama State,,,True,regular,fcs,fcs
+1193,401128458,2019-11-09T20:00:00.000Z,Grambling,Alcorn State,,,True,regular,fcs,fcs
+1194,401128466,2019-11-09T20:00:00.000Z,Prairie View,Arkansas-Pine Bluff,,,True,regular,fcs,fcs
+1195,401128496,2019-11-09T20:00:00.000Z,Samford,Chattanooga,,,True,regular,fcs,fcs
+1196,401121967,2019-11-09T20:00:00.000Z,Texas State,South Alabama,1075.0,1064.0,True,regular,fbs,fbs
+1197,401114190,2019-11-09T20:00:00.000Z,Colorado,Stanford,1337.0,1518.0,True,regular,fbs,fbs
+1198,401114304,2019-11-09T20:00:00.000Z,UTEP,Charlotte,1017.0,1299.0,True,regular,fbs,fbs
+1199,401126926,2019-11-09T20:10:00.000Z,Montana,Idaho,,,True,regular,fcs,fcs
+1200,401114308,2019-11-09T20:30:00.000Z,Southern Mississippi,UAB,1445.0,1496.0,True,regular,fbs,fbs
+1201,401117901,2019-11-09T20:30:00.000Z,Cincinnati,Connecticut,1673.0,936.0,True,regular,fbs,fbs
+1202,401114160,2019-11-09T20:30:00.000Z,Arizona State,USC,1569.0,1624.0,True,regular,fbs,fbs
+1203,401127102,2019-11-09T20:30:00.000Z,James Madison,New Hampshire,1740.0,,True,regular,fcs,fcs
+1204,401112506,2019-11-09T20:30:00.000Z,Virginia Tech,Wake Forest,1457.0,1652.0,True,regular,fbs,fbs
+1205,401110842,2019-11-09T20:30:00.000Z,Alabama,LSU,2154.0,2008.0,True,regular,fbs,fbs
+1206,401112111,2019-11-09T20:30:00.000Z,Texas,Kansas State,1744.0,1695.0,True,regular,fbs,fbs
+1207,401121965,2019-11-09T20:30:00.000Z,Troy,Georgia Southern,1422.0,1426.0,True,regular,fbs,fbs
+1208,401127281,2019-11-09T20:30:00.000Z,North Dakota State,Western Illinois,,,True,regular,fcs,fcs
+1209,401112505,2019-11-09T20:30:00.000Z,Miami,Louisville,1601.0,1337.0,True,regular,fbs,fbs
+1210,401128512,2019-11-09T20:30:00.000Z,Western Carolina,East Tennessee State,,,True,regular,fcs,fcs
+1211,401128672,2019-11-09T20:30:00.000Z,Dartmouth,Princeton,,,True,regular,fcs,fcs
+1212,401112154,2019-11-09T20:30:00.000Z,Michigan State,Illinois,1628.0,1463.0,True,regular,fbs,fbs
+1213,401114306,2019-11-09T21:00:00.000Z,Louisiana Tech,North Texas,1537.0,1425.0,True,regular,fbs,fbs
+1214,401110847,2019-11-09T21:00:00.000Z,Ole Miss,New Mexico State,1556.0,1002.0,False,regular,fbs,fbs
+1215,401112198,2019-11-09T21:00:00.000Z,Wisconsin,Iowa,1983.0,1895.0,True,regular,fbs,fbs
+1216,401126960,2019-11-09T21:00:00.000Z,Northern Arizona,Sacramento State,,,True,regular,fcs,fcs
+1217,401126985,2019-11-09T21:00:00.000Z,Weber State,North Dakota,,,False,regular,fcs,fcs
+1218,401127436,2019-11-09T21:00:00.000Z,Austin Peay,UT Martin,,,True,regular,fcs,fcs
+1219,401128667,2019-11-09T21:00:00.000Z,Abilene Christian,Sam Houston State,,1307.0,True,regular,fcs,fcs
+1220,401128686,2019-11-09T21:00:00.000Z,Central Arkansas,Southeastern Louisiana,,,True,regular,fcs,fcs
+1221,401128699,2019-11-09T21:00:00.000Z,Nicholls,Houston Christian,,,True,regular,fcs,fcs
+1222,401126919,2019-11-09T21:30:00.000Z,Idaho State,Eastern Washington,,,True,regular,fcs,fcs
+1223,401121966,2019-11-09T22:00:00.000Z,Louisiana Monroe,Georgia State,1183.0,1337.0,True,regular,fbs,fbs
+1224,401128489,2019-11-09T22:00:00.000Z,Southern,Virginia Lynchburg,,,False,regular,fcs,
+1225,401127275,2019-11-09T22:00:00.000Z,Northern Iowa,Indiana State,,,True,regular,fcs,fcs
+1226,401128708,2019-11-09T22:00:00.000Z,Stephen F. Austin,Incarnate Word,,,True,regular,fcs,fcs
+1227,401126969,2019-11-09T22:05:00.000Z,Portland State,UC Davis,,,True,regular,fcs,fcs
+1228,401114305,2019-11-09T23:00:00.000Z,Florida Atlantic,Florida International,1559.0,1370.0,True,regular,fbs,fbs
+1229,401127004,2019-11-09T23:00:00.000Z,Charleston Southern,Hampton,,,True,regular,fcs,fcs
+1230,401110845,2019-11-10T00:00:00.000Z,Georgia,Missouri,1969.0,1732.0,True,regular,fbs,fbs
+1231,401114180,2019-11-10T00:00:00.000Z,California,Washington State,1455.0,1709.0,True,regular,fbs,fbs
+1232,401117540,2019-11-10T00:00:00.000Z,Fresno State,Utah State,1558.0,1488.0,True,regular,fbs,fbs
+1233,401110848,2019-11-10T00:00:00.000Z,South Carolina,Appalachian State,1529.0,1740.0,False,regular,fbs,fbs
+1234,401112503,2019-11-10T00:30:00.000Z,NC State,Clemson,1407.0,2246.0,True,regular,fbs,fbs
+1235,401111654,2019-11-10T00:30:00.000Z,Duke,Notre Dame,1540.0,1799.0,False,regular,fbs,fbs
+1236,401110846,2019-11-10T00:30:00.000Z,Kentucky,Tennessee,1649.0,1527.0,True,regular,fbs,fbs
+1237,401114353,2019-11-10T00:30:00.000Z,BYU,Liberty,1559.0,1332.0,False,regular,fbs,fbs
+1238,401128713,2019-11-10T00:30:00.000Z,Northwestern State,Lamar,,,True,regular,fcs,fcs
+1239,401112092,2019-11-10T01:00:00.000Z,Oklahoma,Iowa State,1990.0,1816.0,True,regular,fbs,fbs
+1240,401117541,2019-11-10T03:15:00.000Z,Boise State,Wyoming,1710.0,1580.0,True,regular,fbs,fbs
+1241,401117542,2019-11-10T03:30:00.000Z,San Diego State,Nevada,1502.0,1099.0,True,regular,fbs,fbs
+1242,401117543,2019-11-10T04:00:00.000Z,Hawai'i,San José State,1362.0,1272.0,True,regular,fbs,fbs
+1243,401119299,2019-11-12T23:00:00.000Z,Akron,Eastern Michigan,823.0,1264.0,True,regular,fbs,fbs
+1244,401119300,2019-11-12T23:30:00.000Z,Ohio,Western Michigan,1549.0,1472.0,True,regular,fbs,fbs
+1245,401119302,2019-11-14T01:00:00.000Z,Toledo,Northern Illinois,1293.0,1293.0,True,regular,fbs,fbs
+1246,401119301,2019-11-14T01:00:00.000Z,Miami (OH),Bowling Green,1295.0,991.0,True,regular,fbs,fbs
+1247,401119303,2019-11-15T00:00:00.000Z,Kent State,Buffalo,1225.0,1511.0,True,regular,fbs,fbs
+1248,401112507,2019-11-15T01:00:00.000Z,Pittsburgh,North Carolina,1589.0,1505.0,True,regular,fbs,fbs
+1249,401136615,2019-11-16T00:00:00.000Z,Villanova,Long Island University,,,False,regular,fcs,fcs
+1250,401114309,2019-11-16T00:00:00.000Z,Marshall,Louisiana Tech,1418.0,1620.0,True,regular,fbs,fbs
+1251,401117547,2019-11-16T02:30:00.000Z,San Diego State,Fresno State,1466.0,1551.0,True,regular,fbs,fbs
+1252,401114333,2019-11-16T17:00:00.000Z,Army,VMI,,,False,regular,fbs,fcs
+1253,401112510,2019-11-16T17:00:00.000Z,Florida State,Alabama State,,,False,regular,fbs,fcs
+1254,401110852,2019-11-16T17:00:00.000Z,Missouri,Florida,1689.0,1889.0,True,regular,fbs,fbs
+1255,401136613,2019-11-16T17:00:00.000Z,St Francis (PA),Wagner,,,True,regular,fcs,fcs
+1256,401136597,2019-11-16T17:00:00.000Z,Central Connecticut,Robert Morris,,,True,regular,fcs,fcs
+1257,401128679,2019-11-16T17:00:00.000Z,Harvard,Pennsylvania,,,True,regular,fcs,fcs
+1258,401128651,2019-11-16T17:00:00.000Z,Sacred Heart,Lehigh,,,False,regular,fcs,fcs
+1259,401128588,2019-11-16T17:00:00.000Z,Marist,Jacksonville,,,True,regular,fcs,fcs
+1260,401128572,2019-11-16T17:00:00.000Z,Stetson,Davidson,,,True,regular,fcs,fcs
+1261,401112250,2019-11-16T17:00:00.000Z,Northwestern,UMass,1415.0,701.0,False,regular,fbs,fbs
+1262,401112133,2019-11-16T17:00:00.000Z,Texas Tech,TCU,1585.0,1631.0,True,regular,fbs,fbs
+1263,401127105,2019-11-16T17:00:00.000Z,Maine,Rhode Island,,,True,regular,fcs,fcs
+1264,401110851,2019-11-16T17:00:00.000Z,Mississippi State,Alabama,1651.0,2135.0,True,regular,fbs,fbs
+1265,401112219,2019-11-16T17:00:00.000Z,Michigan,Michigan State,1948.0,1613.0,True,regular,fbs,fbs
+1266,401112105,2019-11-16T17:00:00.000Z,Oklahoma State,Kansas,1647.0,1337.0,True,regular,fbs,fbs
+1267,401112244,2019-11-16T17:00:00.000Z,Nebraska,Wisconsin,1457.0,1982.0,True,regular,fbs,fbs
+1268,401117905,2019-11-16T17:00:00.000Z,Temple,Tulane,1425.0,1539.0,True,regular,fbs,fbs
+1269,401112166,2019-11-16T17:00:00.000Z,Penn State,Indiana,2005.0,1631.0,True,regular,fbs,fbs
+1270,401128562,2019-11-16T17:00:00.000Z,Butler,Valparaiso,,,True,regular,fcs,fcs
+1271,401128629,2019-11-16T17:30:00.000Z,Lafayette,Colgate,,,True,regular,fcs,fcs
+1272,401127437,2019-11-16T18:00:00.000Z,Murray State,Austin Peay,,,True,regular,fcs,fcs
+1273,401127038,2019-11-16T18:00:00.000Z,Hampton,Kennesaw State,,,True,regular,fcs,fcs
+1274,401127106,2019-11-16T18:00:00.000Z,William & Mary,Towson,,,True,regular,fcs,fcs
+1275,401127107,2019-11-16T18:00:00.000Z,Albany,New Hampshire,,,True,regular,fcs,fcs
+1276,401114312,2019-11-16T18:00:00.000Z,UAB,UTEP,1391.0,1025.0,True,regular,fbs,fbs
+1277,401133684,2019-11-16T18:00:00.000Z,Merrimack,Franklin Pierce,,,False,regular,fcs,ii
+1278,401152635,2019-11-16T18:00:00.000Z,Morgan State,Virginia Lynchburg,,,False,regular,fcs,
+1279,401126994,2019-11-16T18:00:00.000Z,Campbell,Monmouth,,,True,regular,fcs,fcs
+1280,401127005,2019-11-16T18:00:00.000Z,Presbyterian College,Charleston Southern,,,True,regular,fcs,fcs
+1281,401127108,2019-11-16T18:00:00.000Z,Delaware,Stony Brook,,,True,regular,fcs,fcs
+1282,401127213,2019-11-16T18:00:00.000Z,North Carolina A&T,Bethune-Cookman,,,True,regular,fcs,fcs
+1283,401127257,2019-11-16T18:00:00.000Z,Illinois State,Missouri State,,,True,regular,fcs,fcs
+1284,401127276,2019-11-16T18:00:00.000Z,Indiana State,Youngstown State,,,True,regular,fcs,fcs
+1285,401127425,2019-11-16T18:00:00.000Z,Bryant,Duquesne,,,True,regular,fcs,fcs
+1286,401128360,2019-11-16T18:00:00.000Z,Eastern Kentucky,Tennessee Tech,,,True,regular,fcs,fcs
+1287,401128381,2019-11-16T18:00:00.000Z,Eastern Illinois,Southeast Missouri State,,,True,regular,fcs,fcs
+1288,401128513,2019-11-16T18:00:00.000Z,East Tennessee State,Mercer,,,True,regular,fcs,fcs
+1289,401128620,2019-11-16T18:00:00.000Z,Bucknell,Georgetown,,,True,regular,fcs,fcs
+1290,401128642,2019-11-16T18:00:00.000Z,Fordham,Holy Cross,,,True,regular,fcs,fcs
+1291,401128657,2019-11-16T18:00:00.000Z,Columbia,Brown,,,True,regular,fcs,fcs
+1292,401128673,2019-11-16T18:00:00.000Z,Princeton,Yale,,,True,regular,fcs,fcs
+1293,401128727,2019-11-16T18:00:00.000Z,Sam Houston State,Northwestern State,,,True,regular,fcs,fcs
+1294,401128518,2019-11-16T18:30:00.000Z,Wofford,Furman,,,True,regular,fcs,fcs
+1295,401128692,2019-11-16T18:30:00.000Z,Dartmouth,Cornell,,,True,regular,fcs,fcs
+1296,401127012,2019-11-16T18:30:00.000Z,Gardner-Webb,North Alabama,,,True,regular,fcs,fcs
+1297,401127300,2019-11-16T19:00:00.000Z,Western Illinois,Southern Illinois,,,True,regular,fcs,fcs
+1298,401127244,2019-11-16T19:00:00.000Z,North Carolina Central,South Carolina State,,,True,regular,fcs,fcs
+1299,401127233,2019-11-16T19:00:00.000Z,Delaware State,Norfolk State,,,True,regular,fcs,fcs
+1300,401128582,2019-11-16T19:00:00.000Z,Drake,Dayton,,,True,regular,fcs,fcs
+1301,401128526,2019-11-16T19:00:00.000Z,Western Carolina,Samford,,,True,regular,fcs,fcs
+1302,401128497,2019-11-16T19:00:00.000Z,Chattanooga,The Citadel,,,True,regular,fcs,fcs
+1303,401126965,2019-11-16T19:00:00.000Z,North Dakota,Northern Colorado,,,False,regular,fcs,fcs
+1304,401128668,2019-11-16T19:00:00.000Z,Abilene Christian,Southeastern Louisiana,,,True,regular,fcs,fcs
+1305,401128472,2019-11-16T19:00:00.000Z,Mississippi Valley State,Grambling,,,True,regular,fcs,fcs
+1306,401114338,2019-11-16T19:30:00.000Z,Notre Dame,Navy,1854.0,1658.0,False,regular,fbs,fbs
+1307,401121969,2019-11-16T20:00:00.000Z,Arkansas State,Coastal Carolina,1392.0,1222.0,True,regular,fbs,fbs
+1308,401117217,2019-11-16T20:00:00.000Z,BYU,Idaho State,,,False,regular,fbs,fcs
+1309,401127286,2019-11-16T20:00:00.000Z,South Dakota State,Northern Iowa,,,True,regular,fcs,fcs
+1310,401128386,2019-11-16T20:00:00.000Z,UT Martin,Tennessee State,,,True,regular,fcs,fcs
+1311,401128442,2019-11-16T20:00:00.000Z,Alcorn State,Alabama A&M,,,True,regular,fcs,fcs
+1312,401128477,2019-11-16T20:00:00.000Z,Jackson State,Southern,,,True,regular,fcs,fcs
+1313,401128700,2019-11-16T20:00:00.000Z,Houston Christian,Lamar,,,True,regular,fcs,fcs
+1314,401128485,2019-11-16T20:00:00.000Z,Prairie View,Edward Waters,,,False,regular,fcs,ii
+1315,401126943,2019-11-16T20:00:00.000Z,Montana,Weber State,,,True,regular,fcs,fcs
+1316,401121970,2019-11-16T20:00:00.000Z,Georgia Southern,Louisiana Monroe,1376.0,1225.0,True,regular,fbs,fbs
+1317,401121972,2019-11-16T20:00:00.000Z,Texas State,Troy,1076.0,1472.0,True,regular,fbs,fbs
+1318,401119304,2019-11-16T20:30:00.000Z,Ball State,Central Michigan,1374.0,1389.0,True,regular,fbs,fbs
+1319,401110854,2019-11-16T20:30:00.000Z,Vanderbilt,Kentucky,1206.0,1634.0,True,regular,fbs,fbs
+1320,401117904,2019-11-16T20:30:00.000Z,Houston,Memphis,1484.0,1733.0,True,regular,fbs,fbs
+1321,401112255,2019-11-16T20:30:00.000Z,Rutgers,Ohio State,1040.0,2384.0,True,regular,fbs,fbs
+1322,401112093,2019-11-16T20:30:00.000Z,Iowa State,Texas,1821.0,1744.0,True,regular,fbs,fbs
+1323,401110849,2019-11-16T20:30:00.000Z,Auburn,Georgia,1946.0,2012.0,True,regular,fbs,fbs
+1324,401112508,2019-11-16T20:30:00.000Z,Clemson,Wake Forest,2275.0,1587.0,True,regular,fbs,fbs
+1325,401112112,2019-11-16T20:30:00.000Z,Kansas State,West Virginia,1695.0,1476.0,True,regular,fbs,fbs
+1326,401127282,2019-11-16T20:30:00.000Z,North Dakota State,South Dakota,,,True,regular,fcs,fcs
+1327,401127104,2019-11-16T20:30:00.000Z,James Madison,Richmond,,,True,regular,fcs,fcs
+1328,401112511,2019-11-16T20:30:00.000Z,Georgia Tech,Virginia Tech,1431.0,1522.0,True,regular,fbs,fbs
+1329,401127222,2019-11-16T21:00:00.000Z,Florida A&M,Howard,,,True,regular,fcs,fcs
+1330,401114345,2019-11-16T21:00:00.000Z,New Mexico State,Incarnate Word,,,False,regular,fbs,fcs
+1331,401117548,2019-11-16T21:00:00.000Z,UNLV,Hawai'i,1185.0,1361.0,True,regular,fbs,fbs
+1332,401126961,2019-11-16T21:00:00.000Z,Southern Utah,Northern Arizona,,,True,regular,fcs,fcs
+1333,401128687,2019-11-16T21:00:00.000Z,Central Arkansas,Stephen F. Austin,,,True,regular,fcs,fcs
+1334,401128719,2019-11-16T21:00:00.000Z,Nicholls,McNeese,,,True,regular,fcs,fcs
+1335,401112199,2019-11-16T21:00:00.000Z,Iowa,Minnesota,1896.0,1822.0,True,regular,fbs,fbs
+1336,401117546,2019-11-16T21:00:00.000Z,Utah State,Wyoming,1495.0,1581.0,True,regular,fbs,fbs
+1337,401112509,2019-11-16T21:00:00.000Z,Duke,Syracuse,1485.0,1375.0,True,regular,fbs,fbs
+1338,401114231,2019-11-16T21:30:00.000Z,Washington State,Stanford,1661.0,1515.0,True,regular,fbs,fbs
+1339,401114310,2019-11-16T21:30:00.000Z,Middle Tennessee,Rice,1390.0,1165.0,True,regular,fbs,fbs
+1340,401128601,2019-11-16T22:00:00.000Z,San Diego,Morehead State,,,True,regular,fcs,fcs
+1341,401126927,2019-11-16T22:00:00.000Z,Idaho,Sacramento State,,,True,regular,fcs,fcs
+1342,401121971,2019-11-16T22:00:00.000Z,South Alabama,Louisiana,1063.0,1652.0,True,regular,fbs,fbs
+1343,401114311,2019-11-16T23:00:00.000Z,UT San Antonio,Southern Mississippi,1056.0,1550.0,True,regular,fbs,fbs
+1344,401117544,2019-11-17T00:00:00.000Z,Colorado State,Air Force,1356.0,1683.0,True,regular,fbs,fbs
+1345,401110850,2019-11-17T00:00:00.000Z,Ole Miss,LSU,1596.0,2027.0,True,regular,fbs,fbs
+1346,401126953,2019-11-17T00:00:00.000Z,UC Davis,Montana State,,,True,regular,fcs,fcs
+1347,401117903,2019-11-17T00:00:00.000Z,South Florida,Cincinnati,1299.0,1713.0,True,regular,fbs,fbs
+1348,401114161,2019-11-17T00:30:00.000Z,Oregon State,Arizona State,1323.0,1564.0,True,regular,fbs,fbs
+1349,401112512,2019-11-17T00:30:00.000Z,NC State,Louisville,1378.0,1303.0,True,regular,fbs,fbs
+1350,401110853,2019-11-17T00:30:00.000Z,Texas A&M,South Carolina,1777.0,1535.0,True,regular,fbs,fbs
+1351,401121968,2019-11-17T00:30:00.000Z,Georgia State,Appalachian State,1295.0,1734.0,True,regular,fbs,fbs
+1352,401112082,2019-11-17T00:30:00.000Z,Baylor,Oklahoma,1673.0,1985.0,True,regular,fbs,fbs
+1353,401126909,2019-11-17T01:00:00.000Z,Cal Poly,Eastern Washington,,,True,regular,fcs,fcs
+1354,401114216,2019-11-17T01:00:00.000Z,Utah,UCLA,1911.0,1476.0,True,regular,fbs,fbs
+1355,401117545,2019-11-17T03:15:00.000Z,Boise State,New Mexico,1709.0,1111.0,True,regular,fbs,fbs
+1356,401114172,2019-11-17T03:30:00.000Z,Oregon,Arizona,1960.0,1345.0,True,regular,fbs,fbs
+1357,401114181,2019-11-17T04:00:00.000Z,California,USC,1503.0,1629.0,True,regular,fbs,fbs
+1358,401127020,2019-11-23T17:00:00.000Z,Monmouth,Hampton,,,True,regular,fcs,fcs
+1359,401127013,2019-11-23T19:00:00.000Z,Kennesaw State,Gardner-Webb,,,True,regular,fcs,fcs
+1360,401126995,2019-11-23T20:30:00.000Z,Charleston Southern,Campbell,,,True,regular,fcs,fcs
+1361,401119306,2019-11-20T00:30:00.000Z,Bowling Green,Ohio,912.0,1540.0,True,regular,fbs,fbs
+1362,401119305,2019-11-20T00:30:00.000Z,Northern Illinois,Eastern Michigan,1297.0,1290.0,True,regular,fbs,fbs
+1363,401119308,2019-11-21T00:30:00.000Z,Buffalo,Toledo,1506.0,1289.0,True,regular,fbs,fbs
+1364,401119307,2019-11-21T00:30:00.000Z,Miami (OH),Akron,1374.0,797.0,True,regular,fbs,fbs
+1365,401128723,2019-11-22T00:00:00.000Z,Southeastern Louisiana,Nicholls,,,True,regular,fcs,fcs
+1366,401128728,2019-11-22T00:00:00.000Z,Northwestern State,Stephen F. Austin,,,True,regular,fcs,fcs
+1367,401112513,2019-11-22T01:00:00.000Z,Georgia Tech,NC State,1305.0,1338.0,True,regular,fbs,fbs
+1368,401128688,2019-11-23T00:30:00.000Z,Incarnate Word,Central Arkansas,,,True,regular,fcs,fcs
+1369,401117550,2019-11-23T02:30:00.000Z,Wyoming,Colorado State,1572.0,1347.0,True,regular,fbs,fbs
+1370,401128589,2019-11-23T17:00:00.000Z,Jacksonville,San Diego,,,True,regular,fcs,fcs
+1371,401127267,2019-11-23T17:00:00.000Z,Youngstown State,Illinois State,,,True,regular,fcs,fcs
+1372,401110856,2019-11-23T17:00:00.000Z,Auburn,Samford,,,False,regular,fbs,fcs
+1373,401110855,2019-11-23T17:00:00.000Z,Alabama,Western Carolina,,,False,regular,fbs,fcs
+1374,401128505,2019-11-23T17:00:00.000Z,The Citadel,Wofford,,,True,regular,fcs,fcs
+1375,401128680,2019-11-23T17:00:00.000Z,Yale,Harvard,,,True,regular,fcs,fcs
+1376,401112520,2019-11-23T17:00:00.000Z,Virginia,Liberty,1662.0,1335.0,False,regular,fbs,fbs
+1377,401128636,2019-11-23T17:00:00.000Z,Holy Cross,Georgetown,,,True,regular,fcs,fcs
+1378,401136616,2019-11-23T17:00:00.000Z,Long Island University,Merrimack,,,False,regular,fcs,fcs
+1379,401128658,2019-11-23T17:00:00.000Z,Brown,Dartmouth,,,True,regular,fcs,fcs
+1380,401119309,2019-11-23T17:00:00.000Z,Kent State,Ball State,1230.0,1374.0,True,regular,fbs,fbs
+1381,401114358,2019-11-23T17:00:00.000Z,UMass,BYU,675.0,1556.0,False,regular,fbs,fbs
+1382,401112155,2019-11-23T17:00:00.000Z,Iowa,Illinois,1897.0,1478.0,True,regular,fbs,fbs
+1383,401112220,2019-11-23T17:00:00.000Z,Rutgers,Michigan State,1081.0,1560.0,True,regular,fbs,fbs
+1384,401117908,2019-11-23T17:00:00.000Z,Connecticut,East Carolina,896.0,1159.0,True,regular,fbs,fbs
+1385,401112236,2019-11-23T17:00:00.000Z,Northwestern,Minnesota,1441.0,1821.0,True,regular,fbs,fbs
+1386,401112128,2019-11-23T17:00:00.000Z,West Virginia,Oklahoma State,1498.0,1659.0,True,regular,fbs,fbs
+1387,401127112,2019-11-23T17:00:00.000Z,Rhode Island,James Madison,,,True,regular,fcs,fcs
+1388,401127114,2019-11-23T17:00:00.000Z,Richmond,William & Mary,,,True,regular,fcs,fcs
+1389,401112256,2019-11-23T17:00:00.000Z,Ohio State,Penn State,2343.0,1995.0,True,regular,fbs,fbs
+1390,401112094,2019-11-23T17:00:00.000Z,Iowa State,Kansas,1821.0,1325.0,True,regular,fbs,fbs
+1391,401127426,2019-11-23T17:00:00.000Z,Wagner,Bryant,,,True,regular,fcs,fcs
+1392,401136598,2019-11-23T17:00:00.000Z,Duquesne,Central Connecticut,,,True,regular,fcs,fcs
+1393,401117906,2019-11-23T17:00:00.000Z,Tulane,UCF,1520.0,1888.0,True,regular,fbs,fbs
+1394,401136607,2019-11-23T17:00:00.000Z,Robert Morris,Sacred Heart,,,True,regular,fcs,fcs
+1395,401128647,2019-11-23T17:30:00.000Z,Lehigh,Lafayette,,,True,regular,fcs,fcs
+1396,401128563,2019-11-23T18:00:00.000Z,Dayton,Butler,,,True,regular,fcs,fcs
+1397,401128573,2019-11-23T18:00:00.000Z,Davidson,Drake,,,True,regular,fcs,fcs
+1398,401128621,2019-11-23T18:00:00.000Z,Fordham,Bucknell,,,True,regular,fcs,fcs
+1399,401128701,2019-11-23T18:00:00.000Z,Sam Houston State,Houston Christian,,,True,regular,fcs,fcs
+1400,401128674,2019-11-23T18:00:00.000Z,Pennsylvania,Princeton,,,True,regular,fcs,fcs
+1401,401127113,2019-11-23T18:00:00.000Z,New Hampshire,Maine,,,True,regular,fcs,fcs
+1402,401127234,2019-11-23T18:00:00.000Z,Norfolk State,South Carolina State,,,True,regular,fcs,fcs
+1403,401128498,2019-11-23T18:00:00.000Z,VMI,Chattanooga,,,True,regular,fcs,fcs
+1404,401127228,2019-11-23T18:00:00.000Z,Howard,Morgan State,,,True,regular,fcs,fcs
+1405,401128602,2019-11-23T18:00:00.000Z,Morehead State,Stetson,,,True,regular,fcs,fcs
+1406,401127239,2019-11-23T18:00:00.000Z,North Carolina A&T,North Carolina Central,,,True,regular,fcs,fcs
+1407,401127110,2019-11-23T18:00:00.000Z,Villanova,Delaware,,,True,regular,fcs,fcs
+1408,401128519,2019-11-23T18:00:00.000Z,Furman,Point University,,,False,regular,fcs,
+1409,401128950,2019-11-23T18:30:00.000Z,Cornell,Columbia,,,True,regular,fcs,fcs
+1410,401128443,2019-11-23T19:00:00.000Z,Alabama A&M,Mississippi Valley State,,,True,regular,fcs,fcs
+1411,401183793,2019-11-23T19:00:00.000Z,New Mexico,Air Force,1089.0,1692.0,True,regular,fbs,fbs
+1412,401127287,2019-11-23T19:00:00.000Z,Northern Iowa,Western Illinois,,,True,regular,fcs,fcs
+1413,401128376,2019-11-23T19:00:00.000Z,Southeast Missouri State,Murray State,,,True,regular,fcs,fcs
+1414,401128361,2019-11-23T19:00:00.000Z,Jacksonville State,Eastern Kentucky,,,True,regular,fcs,fcs
+1415,401126944,2019-11-23T19:00:00.000Z,Montana State,Montana,,,True,regular,fcs,fcs
+1416,401126978,2019-11-23T19:00:00.000Z,North Dakota,Southern Utah,,,False,regular,fcs,fcs
+1417,401127109,2019-11-23T19:00:00.000Z,Stony Brook,Albany,,,True,regular,fcs,fcs
+1418,401128596,2019-11-23T19:00:00.000Z,Valparaiso,Marist,,,True,regular,fcs,fcs
+1419,401127416,2019-11-23T19:00:00.000Z,Delaware State,St Francis (PA),,,False,regular,fcs,fcs
+1420,401121976,2019-11-23T19:00:00.000Z,Georgia State,South Alabama,1266.0,1088.0,True,regular,fbs,fbs
+1421,401127111,2019-11-23T19:00:00.000Z,Towson,Elon,,,True,regular,fcs,fcs
+1422,401126910,2019-11-23T19:05:00.000Z,Northern Colorado,Cal Poly,,,True,regular,fcs,fcs
+1423,401112514,2019-11-23T19:30:00.000Z,Notre Dame,Boston College,1917.0,1555.0,False,regular,fbs,fbs
+1424,401128387,2019-11-23T19:30:00.000Z,Tennessee Tech,Tennessee State,,,True,regular,fcs,fcs
+1425,401121973,2019-11-23T19:30:00.000Z,Appalachian State,Texas State,1763.0,1022.0,True,regular,fbs,fbs
+1426,401127438,2019-11-23T20:00:00.000Z,Austin Peay,Eastern Illinois,,,True,regular,fcs,fcs
+1427,401128459,2019-11-23T20:00:00.000Z,Jackson State,Alcorn State,,,True,regular,fcs,fcs
+1428,401127292,2019-11-23T20:00:00.000Z,South Dakota,South Dakota State,,,True,regular,fcs,fcs
+1429,401121974,2019-11-23T20:00:00.000Z,Arkansas State,Georgia Southern,1388.0,1413.0,True,regular,fbs,fbs
+1430,401127258,2019-11-23T20:00:00.000Z,Missouri State,Indiana State,,,True,regular,fcs,fcs
+1431,401127283,2019-11-23T20:00:00.000Z,Southern Illinois,North Dakota State,,,True,regular,fcs,fcs
+1432,401127214,2019-11-23T20:30:00.000Z,Bethune-Cookman,Florida A&M,,,True,regular,fcs,fcs
+1433,401114318,2019-11-23T20:30:00.000Z,Southern Mississippi,Western Kentucky,1548.0,1472.0,True,regular,fbs,fbs
+1434,401114315,2019-11-23T20:30:00.000Z,UAB,Louisiana Tech,1420.0,1547.0,True,regular,fbs,fbs
+1435,401112210,2019-11-23T20:30:00.000Z,Maryland,Nebraska,1303.0,1468.0,True,regular,fbs,fbs
+1436,401114217,2019-11-23T20:30:00.000Z,USC,UCLA,1678.0,1398.0,True,regular,fbs,fbs
+1437,401110857,2019-11-23T20:30:00.000Z,Georgia,Texas A&M,2020.0,1811.0,True,regular,fbs,fbs
+1438,401112519,2019-11-23T20:30:00.000Z,Virginia Tech,Pittsburgh,1648.0,1594.0,True,regular,fbs,fbs
+1439,401117911,2019-11-23T20:30:00.000Z,Navy,SMU,1595.0,1616.0,True,regular,fbs,fbs
+1440,401112167,2019-11-23T20:30:00.000Z,Indiana,Michigan,1641.0,2001.0,True,regular,fbs,fbs
+1441,401110858,2019-11-23T20:30:00.000Z,Kentucky,UT Martin,,,False,regular,fbs,fcs
+1442,401114313,2019-11-23T20:30:00.000Z,Charlotte,Marshall,1291.0,1491.0,True,regular,fbs,fbs
+1443,401114317,2019-11-23T20:30:00.000Z,Rice,North Texas,1184.0,1342.0,True,regular,fbs,fbs
+1444,401110862,2019-11-23T20:30:00.000Z,Vanderbilt,East Tennessee State,,,False,regular,fbs,fcs
+1445,401112518,2019-11-23T20:30:00.000Z,North Carolina,Mercer,,,False,regular,fbs,fcs
+1446,401112083,2019-11-23T20:30:00.000Z,Baylor,Texas,1686.0,1744.0,True,regular,fbs,fbs
+1447,401112516,2019-11-23T21:00:00.000Z,Louisville,Syracuse,1343.0,1525.0,True,regular,fbs,fbs
+1448,401128467,2019-11-23T21:00:00.000Z,Arkansas-Pine Bluff,Texas Southern,,,True,regular,fcs,fcs
+1449,401126936,2019-11-23T21:00:00.000Z,Weber State,Idaho State,,,True,regular,fcs,fcs
+1450,401126928,2019-11-23T21:00:00.000Z,Northern Arizona,Idaho,,,True,regular,fcs,fcs
+1451,401117553,2019-11-23T21:00:00.000Z,UNLV,San José State,1170.0,1273.0,True,regular,fbs,fbs
+1452,401112263,2019-11-23T21:00:00.000Z,Wisconsin,Purdue,1971.0,1489.0,True,regular,fbs,fbs
+1453,401114319,2019-11-23T21:00:00.000Z,New Mexico State,UTEP,962.0,996.0,False,regular,fbs,fbs
+1454,401128714,2019-11-23T21:00:00.000Z,Lamar,McNeese,,,True,regular,fcs,fcs
+1455,401114182,2019-11-23T21:00:00.000Z,Stanford,California,1462.0,1454.0,True,regular,fbs,fbs
+1456,401117909,2019-11-23T21:00:00.000Z,South Florida,Memphis,1317.0,1752.0,True,regular,fbs,fbs
+1457,401126920,2019-11-23T21:05:00.000Z,Eastern Washington,Portland State,,,True,regular,fcs,fcs
+1458,401114316,2019-11-23T21:30:00.000Z,Middle Tennessee,Old Dominion,1371.0,1091.0,True,regular,fbs,fbs
+1459,401121975,2019-11-23T22:00:00.000Z,Louisiana Monroe,Coastal Carolina,1188.0,1226.0,True,regular,fbs,fbs
+1460,401121977,2019-11-23T22:00:00.000Z,Louisiana,Troy,1627.0,1526.0,True,regular,fbs,fbs
+1461,401126972,2019-11-23T22:00:00.000Z,Sacramento State,UC Davis,,,True,regular,fcs,fcs
+1462,401114314,2019-11-23T23:00:00.000Z,UT San Antonio,Florida Atlantic,1058.0,1616.0,True,regular,fbs,fbs
+1463,401117907,2019-11-24T00:00:00.000Z,Cincinnati,Temple,1695.0,1444.0,True,regular,fbs,fbs
+1464,401112517,2019-11-24T00:00:00.000Z,Florida International,Miami,1313.0,1635.0,False,regular,fbs,fbs
+1465,401110859,2019-11-24T00:00:00.000Z,LSU,Arkansas,2036.0,1202.0,True,regular,fbs,fbs
+1466,401112113,2019-11-24T00:00:00.000Z,Texas Tech,Kansas State,1585.0,1673.0,True,regular,fbs,fbs
+1467,401114162,2019-11-24T00:30:00.000Z,Arizona State,Oregon,1557.0,1968.0,True,regular,fbs,fbs
+1468,401110860,2019-11-24T00:30:00.000Z,Mississippi State,Abilene Christian,,,False,regular,fbs,fcs
+1469,401112515,2019-11-24T00:30:00.000Z,Wake Forest,Duke,1530.0,1335.0,True,regular,fbs,fbs
+1470,401117910,2019-11-24T00:30:00.000Z,Tulsa,Houston,1332.0,1465.0,True,regular,fbs,fbs
+1471,401110861,2019-11-24T00:30:00.000Z,Missouri,Tennessee,1668.0,1542.0,True,regular,fbs,fbs
+1472,401112120,2019-11-24T01:00:00.000Z,Oklahoma,TCU,1972.0,1631.0,True,regular,fbs,fbs
+1473,401114206,2019-11-24T02:00:00.000Z,Washington State,Oregon State,1714.0,1330.0,True,regular,fbs,fbs
+1474,401114191,2019-11-24T03:00:00.000Z,Colorado,Washington,1340.0,1795.0,True,regular,fbs,fbs
+1475,401114173,2019-11-24T03:00:00.000Z,Arizona,Utah,1337.0,1989.0,True,regular,fbs,fbs
+1476,401117551,2019-11-24T03:30:00.000Z,Fresno State,Nevada,1528.0,1135.0,True,regular,fbs,fbs
+1477,401117549,2019-11-24T03:30:00.000Z,Utah State,Boise State,1504.0,1731.0,True,regular,fbs,fbs
+1478,401117552,2019-11-24T04:00:00.000Z,Hawai'i,San Diego State,1376.0,1489.0,True,regular,fbs,fbs
+1479,401119310,2019-11-26T23:00:00.000Z,Akron,Ohio,803.0,1585.0,True,regular,fbs,fbs
+1480,401119311,2019-11-27T00:00:00.000Z,Northern Illinois,Western Michigan,1219.0,1481.0,True,regular,fbs,fbs
+1481,401128451,2019-11-28T20:00:00.000Z,Alabama State,Prairie View,,,True,regular,fcs,fcs
+1482,401110863,2019-11-29T00:30:00.000Z,Mississippi State,Ole Miss,1622.0,1587.0,True,regular,fbs,fbs
+1483,401119315,2019-11-29T17:00:00.000Z,Central Michigan,Toledo,1389.0,1267.0,True,regular,fbs,fbs
+1484,401119313,2019-11-29T17:00:00.000Z,Eastern Michigan,Kent State,1368.0,1233.0,True,regular,fbs,fbs
+1485,401119314,2019-11-29T17:00:00.000Z,Ball State,Miami (OH),1371.0,1368.0,True,regular,fbs,fbs
+1486,401112521,2019-11-29T17:00:00.000Z,Virginia,Virginia Tech,1698.0,1715.0,True,regular,fbs,fbs
+1487,401112138,2019-11-29T17:00:00.000Z,Texas,Texas Tech,1711.0,1586.0,True,regular,fbs,fbs
+1488,401119312,2019-11-29T17:00:00.000Z,Buffalo,Bowling Green,1528.0,867.0,True,regular,fbs,fbs
+1489,401110864,2019-11-29T19:30:00.000Z,Arkansas,Missouri,1196.0,1653.0,True,regular,fbs,fbs
+1490,401112200,2019-11-29T19:30:00.000Z,Nebraska,Iowa,1590.0,1886.0,True,regular,fbs,fbs
+1491,401117913,2019-11-29T20:30:00.000Z,Memphis,Cincinnati,1810.0,1692.0,True,regular,fbs,fbs
+1492,401117554,2019-11-29T20:30:00.000Z,Colorado State,Boise State,1345.0,1803.0,True,regular,fbs,fbs
+1493,401114232,2019-11-29T21:00:00.000Z,Washington,Washington State,1762.0,1702.0,True,regular,fbs,fbs
+1494,401112134,2019-11-29T21:15:00.000Z,TCU,West Virginia,1638.0,1497.0,True,regular,fbs,fbs
+1495,401121979,2019-11-29T22:00:00.000Z,South Alabama,Arkansas State,1077.0,1394.0,True,regular,fbs,fbs
+1496,401121978,2019-11-29T23:00:00.000Z,Troy,Appalachian State,1387.0,1747.0,True,regular,fbs,fbs
+1497,401117912,2019-11-30T01:00:00.000Z,UCF,South Florida,1872.0,1259.0,True,regular,fbs,fbs
+1498,401112156,2019-11-30T17:00:00.000Z,Illinois,Northwestern,1489.0,1439.0,True,regular,fbs,fbs
+1499,401121980,2019-11-30T17:00:00.000Z,Coastal Carolina,Texas State,1225.0,1038.0,True,regular,fbs,fbs
+1500,401114321,2019-11-30T17:00:00.000Z,Marshall,Florida International,1455.0,1338.0,True,regular,fbs,fbs
+1501,401110867,2019-11-30T17:00:00.000Z,Georgia Tech,Georgia,1306.0,2017.0,False,regular,fbs,fbs
+1502,401112228,2019-11-30T17:00:00.000Z,Michigan,Ohio State,2027.0,2338.0,True,regular,fbs,fbs
+1503,401186000,2019-11-30T17:00:00.000Z,Monmouth,Holy Cross,,,False,regular,fcs,fcs
+1504,401117915,2019-11-30T17:00:00.000Z,East Carolina,Tulsa,1153.0,1323.0,True,regular,fbs,fbs
+1505,401110868,2019-11-30T17:00:00.000Z,Kentucky,Louisville,1650.0,1417.0,False,regular,fbs,fbs
+1506,401112168,2019-11-30T17:00:00.000Z,Purdue,Indiana,1485.0,1615.0,True,regular,fbs,fbs
+1507,401110870,2019-11-30T17:00:00.000Z,South Carolina,Clemson,1501.0,2332.0,False,regular,fbs,fbs
+1508,401112525,2019-11-30T17:30:00.000Z,Syracuse,Wake Forest,1451.0,1538.0,True,regular,fbs,fbs
+1509,401185995,2019-11-30T18:00:00.000Z,Albany,Central Connecticut,,,False,regular,fcs,fcs
+1510,401185996,2019-11-30T18:00:00.000Z,Austin Peay,Furman,,,False,regular,fcs,fcs
+1511,401114324,2019-11-30T19:00:00.000Z,Western Kentucky,Middle Tennessee,1525.0,1393.0,True,regular,fbs,fbs
+1512,401114346,2019-11-30T19:00:00.000Z,Liberty,New Mexico State,1299.0,979.0,False,regular,fbs,fbs
+1513,401185999,2019-11-30T19:00:00.000Z,Northern Iowa,San Diego,,,False,regular,fcs,fcs
+1514,401114320,2019-11-30T19:00:00.000Z,Old Dominion,Charlotte,1069.0,1327.0,True,regular,fbs,fbs
+1515,401117556,2019-11-30T19:00:00.000Z,Air Force,Wyoming,1687.0,1574.0,True,regular,fbs,fbs
+1516,401185994,2019-11-30T19:00:00.000Z,Southeast Missouri State,Illinois State,,,False,regular,fcs,fcs
+1517,401117558,2019-11-30T20:00:00.000Z,Nevada,UNLV,1182.0,1172.0,True,regular,fbs,fbs
+1518,401114326,2019-11-30T20:00:00.000Z,UTEP,Rice,979.0,1199.0,True,regular,fbs,fbs
+1519,401112237,2019-11-30T20:30:00.000Z,Minnesota,Wisconsin,1823.0,1975.0,True,regular,fbs,fbs
+1520,401114323,2019-11-30T20:30:00.000Z,Louisiana Tech,UT San Antonio,1533.0,1075.0,True,regular,fbs,fbs
+1521,401110865,2019-11-30T20:30:00.000Z,Auburn,Alabama,1938.0,2164.0,True,regular,fbs,fbs
+1522,401112221,2019-11-30T20:30:00.000Z,Michigan State,Maryland,1579.0,1181.0,True,regular,fbs,fbs
+1523,401112523,2019-11-30T20:30:00.000Z,Duke,Miami,1327.0,1610.0,True,regular,fbs,fbs
+1524,401114322,2019-11-30T20:30:00.000Z,Florida Atlantic,Southern Mississippi,1599.0,1495.0,True,regular,fbs,fbs
+1525,401112261,2019-11-30T20:30:00.000Z,Penn State,Rutgers,2000.0,1062.0,True,regular,fbs,fbs
+1526,401117914,2019-11-30T20:30:00.000Z,Temple,Connecticut,1447.0,902.0,True,regular,fbs,fbs
+1527,401112522,2019-11-30T20:30:00.000Z,Pittsburgh,Boston College,1527.0,1508.0,True,regular,fbs,fbs
+1528,401112084,2019-11-30T20:30:00.000Z,Kansas,Baylor,1340.0,1719.0,True,regular,fbs,fbs
+1529,401185997,2019-11-30T21:00:00.000Z,Wofford,Kennesaw State,,,False,regular,fcs,fcs
+1530,401117555,2019-11-30T21:00:00.000Z,New Mexico,Utah State,1094.0,1432.0,True,regular,fbs,fbs
+1531,401114212,2019-11-30T21:00:00.000Z,Stanford,Notre Dame,1455.0,1964.0,False,regular,fbs,fbs
+1532,401114325,2019-11-30T21:00:00.000Z,North Texas,UAB,1327.0,1434.0,True,regular,fbs,fbs
+1533,401117917,2019-11-30T21:00:00.000Z,SMU,Tulane,1605.0,1536.0,True,regular,fbs,fbs
+1534,401114199,2019-11-30T21:00:00.000Z,Oregon,Oregon State,1961.0,1342.0,True,regular,fbs,fbs
+1535,401185998,2019-11-30T21:00:00.000Z,Southeastern Louisiana,Villanova,,,False,regular,fcs,fcs
+1536,401185993,2019-11-30T21:00:00.000Z,Nicholls,North Dakota,,,False,regular,fcs,fcs
+1537,401110871,2019-11-30T21:00:00.000Z,Tennessee,Vanderbilt,1557.0,1190.0,True,regular,fbs,fbs
+1538,401128473,2019-11-30T22:00:00.000Z,Grambling,Southern,,,True,regular,fcs,fcs
+1539,401121981,2019-11-30T23:00:00.000Z,Georgia Southern,Georgia State,1407.0,1277.0,True,regular,fbs,fbs
+1540,401110869,2019-12-01T00:00:00.000Z,LSU,Texas A&M,2042.0,1814.0,True,regular,fbs,fbs
+1541,401112095,2019-12-01T00:00:00.000Z,Kansas State,Iowa State,1672.0,1806.0,True,regular,fbs,fbs
+1542,401112524,2019-12-01T00:00:00.000Z,NC State,North Carolina,1337.0,1500.0,True,regular,fbs,fbs
+1543,401117916,2019-12-01T00:00:00.000Z,Houston,Navy,1474.0,1606.0,True,regular,fbs,fbs
+1544,401114192,2019-12-01T00:30:00.000Z,Utah,Colorado,1994.0,1373.0,True,regular,fbs,fbs
+1545,401121982,2019-12-01T00:30:00.000Z,Louisiana,Louisiana Monroe,1766.0,1189.0,True,regular,fbs,fbs
+1546,401110866,2019-12-01T00:30:00.000Z,Florida,Florida State,1910.0,1519.0,False,regular,fbs,fbs
+1547,401112121,2019-12-01T01:00:00.000Z,Oklahoma State,Oklahoma,1660.0,1965.0,True,regular,fbs,fbs
+1548,401117218,2019-12-01T02:00:00.000Z,San Diego State,BYU,1486.0,1548.0,False,regular,fbs,fbs
+1549,401114163,2019-12-01T03:00:00.000Z,Arizona State,Arizona,1564.0,1332.0,True,regular,fbs,fbs
+1550,401117557,2019-12-01T03:30:00.000Z,San José State,Fresno State,1271.0,1481.0,True,regular,fbs,fbs
+1551,401114183,2019-12-01T03:30:00.000Z,UCLA,California,1386.0,1461.0,True,regular,fbs,fbs
+1552,401114334,2019-12-01T04:59:00.000Z,Hawai'i,Army,1379.0,1630.0,False,regular,fbs,fbs
+1553,401132973,2019-12-07T01:00:00.000Z,Oregon,Utah,1942.0,2006.0,True,regular,fbs,fbs
+1554,401132984,2019-12-07T17:00:00.000Z,Appalachian State,Louisiana,1802.0,1747.0,True,regular,fbs,fbs
+1555,401132982,2019-12-07T17:00:00.000Z,Central Michigan,Miami (OH),1496.0,1340.0,True,regular,fbs,fbs
+1556,401132974,2019-12-07T17:00:00.000Z,Oklahoma,Baylor,1978.0,1837.0,True,regular,fbs,fbs
+1557,401187253,2019-12-07T18:00:00.000Z,James Madison,Monmouth,,,False,regular,fcs,fcs
+1558,401132980,2019-12-07T18:30:00.000Z,Florida Atlantic,UAB,1626.0,1435.0,True,regular,fbs,fbs
+1559,401187277,2019-12-07T19:00:00.000Z,South Dakota State,Northern Iowa,,,True,regular,fcs,fcs
+1560,401187276,2019-12-07T20:00:00.000Z,Central Arkansas,Illinois State,,,False,regular,fcs,fcs
+1561,401187252,2019-12-07T20:00:00.000Z,Montana State,Albany,,,False,regular,fcs,fcs
+1562,401187316,2019-12-07T20:00:00.000Z,Montana,Southeastern Louisiana,,,False,regular,fcs,fcs
+1563,401187315,2019-12-07T20:00:00.000Z,Weber State,Kennesaw State,,,False,regular,fcs,fcs
+1564,401132976,2019-12-07T20:30:00.000Z,Memphis,Cincinnati,1819.0,1683.0,True,regular,fbs,fbs
+1565,401187313,2019-12-07T20:30:00.000Z,North Dakota State,Nicholls,,,False,regular,fcs,fcs
+1566,401132981,2019-12-07T21:00:00.000Z,LSU,Georgia,2138.0,2061.0,True,regular,fbs,fbs
+1567,401187336,2019-12-07T21:00:00.000Z,Alcorn State,Southern,,,True,regular,fcs,fcs
+1568,401132979,2019-12-07T21:00:00.000Z,Boise State,Hawai'i,1784.0,1458.0,True,regular,fbs,fbs
+1569,401132975,2019-12-08T00:30:00.000Z,Clemson,Virginia,2336.0,1714.0,True,regular,fbs,fbs
+1570,401132983,2019-12-08T01:00:00.000Z,Wisconsin,Ohio State,2012.0,2381.0,True,regular,fbs,fbs
+1571,401187314,2019-12-08T02:00:00.000Z,Sacramento State,Austin Peay,,,False,regular,fcs,fcs
+1572,401114335,2019-12-14T20:00:00.000Z,Navy,Army,1628.0,1551.0,False,regular,fbs,fbs
+1573,401188397,2019-12-14T00:00:00.000Z,James Madison,Northern Iowa,,,False,regular,fcs,fcs
+1574,401188398,2019-12-14T01:00:00.000Z,Montana State,Austin Peay,,,False,regular,fcs,fcs
+1575,401188399,2019-12-14T03:00:00.000Z,Weber State,Montana,,,True,regular,fcs,fcs
+1576,401188396,2019-12-14T17:00:00.000Z,North Dakota State,Illinois State,,,True,regular,fcs,fcs

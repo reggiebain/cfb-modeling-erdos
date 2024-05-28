@@ -1,0 +1,1464 @@
+,id,date,home_team,away_team,home_pregame_elo,away_pregame_elo,conference_game,season_type,home_division,away_division
+0,312440097,2011-09-01T22:00:00.000Z,Louisville,Murray State,,,False,regular,fbs,fcs
+1,312440218,2011-09-01T23:00:00.000Z,Temple,Villanova,,,False,regular,fbs,fcs
+2,312442466,2011-09-01T23:00:00.000Z,Northwestern State,Delta State,,,False,regular,fcs,
+3,312442413,2011-09-01T23:00:00.000Z,Morehead State,Kentucky Christian,,,False,regular,fcs,
+4,312442617,2011-09-01T23:00:00.000Z,Stephen F. Austin,McMurry,,,False,regular,fcs,
+5,312440055,2011-09-01T23:00:00.000Z,Jacksonville State,UT Martin,,,True,regular,fcs,fcs
+6,312442534,2011-09-01T23:00:00.000Z,Sam Houston State,Western Illinois,,,False,regular,fcs,fcs
+7,312442649,2011-09-01T23:00:00.000Z,Toledo,New Hampshire,,,False,regular,fbs,fcs
+8,312442117,2011-09-01T23:00:00.000Z,Central Michigan,South Carolina State,,,False,regular,fbs,fcs
+9,312442229,2011-09-01T23:00:00.000Z,Florida International,North Texas,1407.0,1301.0,True,regular,fbs,fbs
+10,312442447,2011-09-01T23:30:00.000Z,Nicholls,Evangel,,,False,regular,fcs,
+11,312440164,2011-09-01T23:30:00.000Z,Rutgers,North Carolina Central,,,False,regular,fbs,fcs
+12,312440059,2011-09-01T23:30:00.000Z,Georgia Tech,Western Carolina,,,False,regular,fbs,fcs
+13,312442197,2011-09-01T23:30:00.000Z,Eastern Illinois,Illinois State,,,False,regular,fcs,fcs
+14,312440275,2011-09-02T00:00:00.000Z,Wisconsin,UNLV,1825.0,1189.0,False,regular,fbs,fbs
+15,312440183,2011-09-02T00:00:00.000Z,Syracuse,Wake Forest,1462.0,1320.0,False,regular,fbs,fbs
+16,312440235,2011-09-02T00:00:00.000Z,Memphis,Mississippi State,1117.0,1668.0,False,regular,fbs,fbs
+17,312442110,2011-09-02T00:00:00.000Z,Central Arkansas,Henderson State,,,False,regular,fcs,
+18,312440107,2011-09-02T00:00:00.000Z,Holy Cross,UMass,,,False,regular,fcs,fcs
+19,312440254,2011-09-02T00:00:00.000Z,Utah,Montana State,,,False,regular,fbs,fcs
+20,312440155,2011-09-02T00:00:00.000Z,North Dakota,Drake,,,False,regular,fcs,fcs
+21,312440070,2011-09-02T01:00:00.000Z,Idaho,Bowling Green,1339.0,1261.0,False,regular,fbs,fbs
+22,312440098,2011-09-02T01:15:00.000Z,Western Kentucky,Kentucky,1243.0,1540.0,False,regular,fbs,fbs
+23,312440009,2011-09-02T02:00:00.000Z,Arizona State,UC Davis,,,False,regular,fbs,fcs
+24,312452247,2011-09-02T23:30:00.000Z,Georgia State,Clark Atlanta,,,False,regular,fcs,
+25,312450127,2011-09-02T23:30:00.000Z,Michigan State,Youngstown State,,,False,regular,fbs,fcs
+26,312450239,2011-09-03T00:00:00.000Z,Baylor,TCU,1501.0,1930.0,False,regular,fbs,fbs
+27,312460002,2011-09-03T16:00:00.000Z,Auburn,Utah State,1831.0,1266.0,False,regular,fbs,fbs
+28,312462509,2011-09-03T16:00:00.000Z,Purdue,Middle Tennessee,1371.0,1377.0,False,regular,fbs,fbs
+29,312460041,2011-09-03T16:00:00.000Z,Connecticut,Fordham,,,False,regular,fbs,fcs
+30,312462115,2011-09-03T16:00:00.000Z,Central Connecticut,Southern Connecticut State,,,False,regular,fcs,
+31,312460194,2011-09-03T16:00:00.000Z,Ohio State,Akron,1885.0,1140.0,False,regular,fbs,fbs
+32,312460213,2011-09-03T16:00:00.000Z,Penn State,Indiana State,,,False,regular,fbs,fcs
+33,312460142,2011-09-03T16:00:00.000Z,Missouri,Miami (OH),1680.0,1415.0,False,regular,fbs,fbs
+34,312460103,2011-09-03T16:00:00.000Z,Boston College,Northwestern,1493.0,1427.0,False,regular,fbs,fbs
+35,312462523,2011-09-03T16:00:00.000Z,Robert Morris,Dayton,,,False,regular,fcs,fcs
+36,312462294,2011-09-03T16:00:00.000Z,Iowa,Tennessee Tech,,,False,regular,fbs,fcs
+37,312460333,2011-09-03T16:20:00.000Z,Alabama,Kent State,1955.0,1379.0,False,regular,fbs,fbs
+38,312460259,2011-09-03T16:30:00.000Z,Virginia Tech,Appalachian State,1775.0,1437.0,False,regular,fbs,fcs
+39,312462405,2011-09-03T17:00:00.000Z,Monmouth,Lehigh,,,False,regular,fcs,fcs
+40,312462681,2011-09-03T17:00:00.000Z,Wagner,St Francis (PA),,,True,regular,fcs,fcs
+41,312462086,2011-09-03T17:00:00.000Z,Butler,Albion,,,False,regular,fcs,
+42,312462506,2011-09-03T17:30:00.000Z,Presbyterian College,Wofford,,,False,regular,fcs,fcs
+43,312462678,2011-09-03T17:30:00.000Z,VMI,Delaware State,,,False,regular,fcs,fcs
+44,312462655,2011-09-03T17:30:00.000Z,Tulane,Southeastern Louisiana,,,False,regular,fbs,fcs
+45,312462636,2011-09-03T18:00:00.000Z,UT San Antonio,Northeastern State,,,False,regular,fcs,
+46,312462005,2011-09-03T18:00:00.000Z,Air Force,South Dakota,,,False,regular,fbs,fcs
+47,312462296,2011-09-03T18:30:00.000Z,Jackson State,Concordia (AL),,,False,regular,fcs,
+48,312460087,2011-09-03T19:30:00.000Z,Notre Dame,South Florida,1670.0,1550.0,False,regular,fbs,fbs
+49,312460248,2011-09-03T19:30:00.000Z,Houston,UCLA,1546.0,1410.0,False,regular,fbs,fbs
+50,312460356,2011-09-03T19:30:00.000Z,Illinois,Arkansas State,1639.0,1416.0,False,regular,fbs,fbs
+51,312460130,2011-09-03T19:30:00.000Z,Michigan,Western Michigan,1475.0,1533.0,False,regular,fbs,fbs
+52,312460052,2011-09-03T19:30:00.000Z,Florida State,Louisiana Monroe,1738.0,1261.0,False,regular,fbs,fbs
+53,312460030,2011-09-03T19:30:00.000Z,USC,Minnesota,1610.0,1415.0,False,regular,fbs,fbs
+54,312460153,2011-09-03T19:30:00.000Z,North Carolina,James Madison,1600.0,1479.0,False,regular,fbs,fcs
+55,312460158,2011-09-03T19:30:00.000Z,Nebraska,Chattanooga,,,False,regular,fbs,fcs
+56,312462426,2011-09-03T19:30:00.000Z,Navy,Delaware,,,False,regular,fbs,fcs
+57,312460228,2011-09-03T19:30:00.000Z,Clemson,Troy,1605.0,1503.0,False,regular,fbs,fbs
+58,312462458,2011-09-03T19:35:00.000Z,Northern Colorado,Lindenwood,,,False,regular,fcs,
+59,312460204,2011-09-03T20:00:00.000Z,Oregon State,Sacramento State,,,False,regular,fbs,fcs
+60,312462448,2011-09-03T20:00:00.000Z,North Carolina A&T,Virginia Lynchburg,,,False,regular,fcs,
+61,312462502,2011-09-03T20:05:00.000Z,Portland State,Southern Oregon,,,False,regular,fcs,
+62,312460145,2011-09-03T20:45:00.000Z,Ole Miss,BYU,1487.0,1629.0,False,regular,fbs,fbs
+63,312462013,2011-09-03T21:00:00.000Z,Albany State (GA),Savannah State,,,False,regular,,fcs
+64,312460265,2011-09-03T21:00:00.000Z,Washington State,Idaho State,,,False,regular,fbs,fcs
+65,312460311,2011-09-03T21:00:00.000Z,Maine,Bryant,,,False,regular,fcs,fcs
+66,312462261,2011-09-03T21:00:00.000Z,Hampton,Alabama A&M,,,False,regular,fcs,fcs
+67,312460024,2011-09-03T21:00:00.000Z,Stanford,San José State,1903.0,1189.0,False,regular,fbs,fbs
+68,312460050,2011-09-03T22:00:00.000Z,Florida A&M,Fort Valley State,,,False,regular,fcs,
+69,312460152,2011-09-03T22:00:00.000Z,NC State,Liberty,1637.0,1463.0,False,regular,fbs,fcs
+70,312460167,2011-09-03T22:00:00.000Z,New Mexico,Colorado State,1133.0,1184.0,True,regular,fbs,fbs
+71,312460221,2011-09-03T22:00:00.000Z,Pittsburgh,Buffalo,1649.0,1199.0,False,regular,fbs,fbs
+72,312462450,2011-09-03T22:00:00.000Z,Norfolk State,Virginia State,,,False,regular,fcs,
+73,312462400,2011-09-03T22:00:00.000Z,Mississippi Valley State,Alabama State,,,True,regular,fcs,fcs
+74,312462029,2011-09-03T22:00:00.000Z,Arkansas-Pine Bluff,Langston,,,False,regular,fcs,
+75,312460295,2011-09-03T22:00:00.000Z,Old Dominion,Campbell,,,False,regular,fcs,fcs
+76,312460258,2011-09-03T22:00:00.000Z,Virginia,William & Mary,,,False,regular,fbs,fcs
+77,312462643,2011-09-03T22:00:00.000Z,The Citadel,Jacksonville,,,False,regular,fcs,fcs
+78,312462241,2011-09-03T22:00:00.000Z,Gardner-Webb,Brevard College,,,False,regular,fcs,
+79,312460324,2011-09-03T22:00:00.000Z,Coastal Carolina,Furman,,,False,regular,fcs,fcs
+80,312462142,2011-09-03T22:00:00.000Z,Colgate,Albany,,,False,regular,fcs,fcs
+81,312462083,2011-09-03T22:00:00.000Z,Bucknell,Duquesne,,,False,regular,fcs,fcs
+82,312460046,2011-09-03T22:00:00.000Z,Georgetown,Davidson,,,False,regular,fcs,fcs
+83,312462633,2011-09-03T22:00:00.000Z,Tennessee,Montana,,,False,regular,fbs,fcs
+84,312460264,2011-09-03T23:00:00.000Z,Washington,Eastern Washington,,,False,regular,fbs,fcs
+85,312462535,2011-09-03T23:00:00.000Z,Samford,Georgia Southern,,,True,regular,fcs,fcs
+86,312462116,2011-09-03T23:00:00.000Z,UCF,Charleston Southern,,,False,regular,fbs,fcs
+87,312462634,2011-09-03T23:00:00.000Z,Tennessee State,Southern,,,False,regular,fcs,fcs
+88,312462546,2011-09-03T23:00:00.000Z,Southeast Missouri State,Southern Illinois,,,False,regular,fcs,fcs
+89,312462459,2011-09-03T23:00:00.000Z,Northern Illinois,Army,1710.0,1423.0,False,regular,fbs,fbs
+90,312462050,2011-09-03T23:00:00.000Z,Ball State,Indiana,1279.0,1319.0,False,regular,fbs,fbs
+91,312462306,2011-09-03T23:00:00.000Z,Kansas State,Eastern Kentucky,,,False,regular,fbs,fcs
+92,312462305,2011-09-03T23:00:00.000Z,Kansas,McNeese,,,False,regular,fbs,fcs
+93,312462579,2011-09-03T23:00:00.000Z,South Carolina,East Carolina,1679.0,1347.0,False,regular,fbs,fbs
+94,312460057,2011-09-03T23:00:00.000Z,Florida,Florida Atlantic,1726.0,1199.0,False,regular,fbs,fbs
+95,312462449,2011-09-03T23:00:00.000Z,North Dakota State,Lafayette,,,False,regular,fcs,fcs
+96,312460197,2011-09-03T23:00:00.000Z,Oklahoma State,Louisiana,1790.0,1206.0,False,regular,fbs,fbs
+97,312460025,2011-09-03T23:00:00.000Z,California,Fresno State,1516.0,1415.0,False,regular,fbs,fbs
+98,312462641,2011-09-03T23:00:00.000Z,Texas Tech,Texas State,1578.0,1378.0,False,regular,fbs,fcs
+99,312460008,2011-09-03T23:00:00.000Z,Arkansas,Missouri State,,,False,regular,fbs,fcs
+100,312462132,2011-09-03T23:00:00.000Z,Cincinnati,Austin Peay,,,False,regular,fbs,fcs
+101,312460150,2011-09-03T23:00:00.000Z,Duke,Richmond,,,False,regular,fbs,fcs
+102,312460119,2011-09-03T23:00:00.000Z,Towson,Morgan State,,,False,regular,fcs,fcs
+103,312462674,2011-09-03T23:00:00.000Z,Valparaiso,Franklin,,,False,regular,fcs,
+104,312462529,2011-09-03T23:00:00.000Z,Sacred Heart,Marist,,,False,regular,fcs,fcs
+105,312462571,2011-09-03T23:00:00.000Z,South Dakota State,Southern Utah,,,False,regular,fcs,fcs
+106,312460066,2011-09-03T23:00:00.000Z,Iowa State,Northern Iowa,,,False,regular,fbs,fcs
+107,312462016,2011-09-03T23:00:00.000Z,Alcorn State,Grambling,,,True,regular,fcs,fcs
+108,312460238,2011-09-03T23:30:00.000Z,Vanderbilt,Elon,,,False,regular,fbs,fcs
+109,312460201,2011-09-04T00:00:00.000Z,Oklahoma,Tulsa,1875.0,1637.0,False,regular,fbs,fbs
+110,312460251,2011-09-04T00:00:00.000Z,Texas,Rice,1609.0,1293.0,False,regular,fbs,fbs
+111,312460166,2011-09-04T00:00:00.000Z,New Mexico State,Ohio,1088.0,1398.0,False,regular,fbs,fbs
+112,312460061,2011-09-04T00:00:00.000Z,Georgia,Boise State,1679.0,1945.0,False,regular,fbs,fbs
+113,312460099,2011-09-04T00:00:00.000Z,LSU,Oregon,1739.0,1889.0,False,regular,fbs,fbs
+114,312462320,2011-09-04T00:30:00.000Z,Lamar,Texas College,,,False,regular,fcs,
+115,312462638,2011-09-04T01:00:00.000Z,UTEP,Stony Brook,,,False,regular,fbs,fcs
+116,312462049,2011-09-04T01:00:00.000Z,Azusa Pacific,San Diego,,,False,regular,,fcs
+117,312462751,2011-09-04T01:00:00.000Z,Wyoming,Weber State,,,False,regular,fbs,fcs
+118,312460021,2011-09-04T02:00:00.000Z,San Diego State,Cal Poly,,,False,regular,fbs,fcs
+119,312460012,2011-09-04T02:00:00.000Z,Arizona,Northern Arizona,,,False,regular,fbs,fcs
+120,312462572,2011-09-04T02:00:00.000Z,Southern Mississippi,Louisiana Tech,1566.0,1417.0,False,regular,fbs,fbs
+121,312460062,2011-09-04T02:15:00.000Z,Hawai'i,Colorado,1550.0,1432.0,False,regular,fbs,fbs
+122,312472065,2011-09-04T16:00:00.000Z,Bethune-Cookman,Prairie View,,,False,regular,fcs,fcs
+123,312472199,2011-09-04T16:00:00.000Z,Eastern Michigan,Howard,,,False,regular,fbs,fcs
+124,312470277,2011-09-04T19:30:00.000Z,West Virginia,Marshall,1669.0,1341.0,False,regular,fbs,fbs
+125,312470245,2011-09-04T23:30:00.000Z,Texas A&M,SMU,1645.0,1459.0,False,regular,fbs,fbs
+126,312480120,2011-09-06T00:00:00.000Z,Maryland,Miami,1591.0,1630.0,True,regular,fbs,fbs
+127,312512261,2011-09-08T23:30:00.000Z,Hampton,Florida A&M,,,True,regular,fcs,fcs
+128,312510197,2011-09-09T00:00:00.000Z,Oklahoma State,Arizona,1798.0,1589.0,False,regular,fbs,fbs
+129,312512635,2011-09-09T00:00:00.000Z,Tennessee Tech,Maryville TN,,,False,regular,fcs,
+130,312520097,2011-09-09T23:00:00.000Z,Louisville,Florida International,1587.0,1458.0,False,regular,fbs,fbs
+131,312520009,2011-09-10T02:30:00.000Z,Arizona State,Missouri,1567.0,1681.0,False,regular,fbs,fbs
+132,312530066,2011-09-10T16:00:00.000Z,Iowa State,Iowa,1401.0,1746.0,False,regular,fbs,fbs
+133,312530349,2011-09-10T16:00:00.000Z,Army,San Diego State,1397.0,1555.0,False,regular,fbs,fbs
+134,312530194,2011-09-10T16:00:00.000Z,Ohio State,Toledo,1915.0,1411.0,False,regular,fbs,fbs
+135,312530127,2011-09-10T16:00:00.000Z,Michigan State,Florida Atlantic,1574.0,1156.0,False,regular,fbs,fbs
+136,312530096,2011-09-10T16:00:00.000Z,Kentucky,Central Michigan,1534.0,1439.0,False,regular,fbs,fbs
+137,312530275,2011-09-10T16:00:00.000Z,Wisconsin,Oregon State,1846.0,1573.0,False,regular,fbs,fbs
+138,312530356,2011-09-10T16:00:00.000Z,Illinois,South Dakota State,,,False,regular,fbs,fcs
+139,312532247,2011-09-10T16:00:00.000Z,Georgia State,Old Dominion,,,False,regular,fcs,fcs
+140,312532428,2011-09-10T16:00:00.000Z,North Carolina Central,Central State,,,False,regular,fcs,
+141,312530002,2011-09-10T16:21:00.000Z,Auburn,Mississippi State,1819.0,1731.0,True,regular,fbs,fbs
+142,312532329,2011-09-10T16:30:00.000Z,Lehigh,New Hampshire,,,False,regular,fcs,fcs
+143,312530153,2011-09-10T16:30:00.000Z,North Carolina,Rutgers,1672.0,1411.0,False,regular,fbs,fbs
+144,312530277,2011-09-10T17:00:00.000Z,West Virginia,Norfolk State,,,False,regular,fbs,fcs
+145,312530221,2011-09-10T17:00:00.000Z,Pittsburgh,Maine,,,False,regular,fbs,fcs
+146,312530107,2011-09-10T17:00:00.000Z,Holy Cross,Colgate,,,True,regular,fcs,fcs
+147,312532168,2011-09-10T17:00:00.000Z,Dayton,Duquesne,,,False,regular,fcs,fcs
+148,312532097,2011-09-10T17:00:00.000Z,Campbell,Apprentice School,,,False,regular,fcs,
+149,312532803,2011-09-10T17:00:00.000Z,Bryant,American International,,,False,regular,fcs,
+150,312532199,2011-09-10T17:00:00.000Z,Eastern Michigan,Alabama State,,,False,regular,fbs,fcs
+151,312532506,2011-09-10T17:30:00.000Z,Presbyterian College,North Greenville,,,False,regular,fcs,
+152,312532678,2011-09-10T17:30:00.000Z,VMI,William & Mary,,,False,regular,fcs,fcs
+153,312532636,2011-09-10T18:00:00.000Z,UT San Antonio,McMurry,,,False,regular,fcs,
+154,312530036,2011-09-10T18:00:00.000Z,Colorado State,Northern Colorado,,,False,regular,fbs,fcs
+155,312530282,2011-09-10T18:00:00.000Z,Indiana State,Butler,,,False,regular,fcs,fcs
+156,312530147,2011-09-10T19:05:00.000Z,Montana State,UC Davis,,,False,regular,fcs,fcs
+157,312530253,2011-09-10T19:05:00.000Z,Southern Utah,Sacramento State,,,False,regular,fcs,fcs
+158,312530149,2011-09-10T19:05:00.000Z,Montana,Cal Poly,,,False,regular,fcs,fcs
+159,312532005,2011-09-10T19:30:00.000Z,Air Force,TCU,1607.0,1924.0,True,regular,fbs,fbs
+160,312532026,2011-09-10T19:30:00.000Z,Appalachian State,North Carolina A&T,,,False,regular,fcs,fcs
+161,312530228,2011-09-10T19:30:00.000Z,Clemson,Wofford,,,False,regular,fbs,fcs
+162,312530077,2011-09-10T19:30:00.000Z,Northwestern,Eastern Illinois,,,False,regular,fbs,fcs
+163,312530213,2011-09-10T19:30:00.000Z,Penn State,Alabama,1588.0,2001.0,False,regular,fbs,fbs
+164,312530150,2011-09-10T19:30:00.000Z,Duke,Stanford,1386.0,1971.0,False,regular,fbs,fbs
+165,312530151,2011-09-10T19:30:00.000Z,East Carolina,Virginia Tech,1329.0,1890.0,False,regular,fbs,fbs
+166,312532483,2011-09-10T19:30:00.000Z,Oregon,Nevada,1842.0,1693.0,False,regular,fbs,fbs
+167,312532633,2011-09-10T19:30:00.000Z,Tennessee,Cincinnati,1598.0,1498.0,False,regular,fbs,fbs
+168,312530264,2011-09-10T19:30:00.000Z,Washington,Hawai'i,1484.0,1576.0,False,regular,fbs,fbs
+169,312530242,2011-09-10T19:30:00.000Z,Rice,Purdue,1264.0,1372.0,False,regular,fbs,fbs
+170,312530276,2011-09-10T19:30:00.000Z,Marshall,Southern Mississippi,1324.0,1565.0,True,regular,fbs,fbs
+171,312530135,2011-09-10T19:30:00.000Z,Minnesota,New Mexico State,1417.0,1070.0,False,regular,fbs,fbs
+172,312530154,2011-09-10T19:30:00.000Z,Wake Forest,NC State,1318.0,1672.0,True,regular,fbs,fbs
+173,312530038,2011-09-10T19:30:00.000Z,Colorado,California,1406.0,1538.0,True,regular,fbs,fbs
+174,312532655,2011-09-10T19:30:00.000Z,Tulane,Tulsa,1207.0,1576.0,True,regular,fbs,fbs
+175,312530060,2011-09-10T19:30:00.000Z,Morehouse,Howard,,,False,regular,,fcs
+176,312532065,2011-09-10T20:00:00.000Z,Bethune-Cookman,South Carolina State,,,True,regular,fcs,fcs
+177,312532754,2011-09-10T20:00:00.000Z,Youngstown State,Valparaiso,,,False,regular,fcs,fcs
+178,312532710,2011-09-10T20:00:00.000Z,Western Illinois,Jacksonville,,,False,regular,fcs,fcs
+179,312530183,2011-09-10T20:30:00.000Z,Syracuse,Rhode Island,,,False,regular,fbs,fcs
+180,312530061,2011-09-10T20:30:00.000Z,Georgia,South Carolina,1672.0,1697.0,True,regular,fbs,fbs
+181,312530265,2011-09-10T21:00:00.000Z,Washington State,UNLV,1296.0,1168.0,False,regular,fbs,fbs
+182,312532400,2011-09-10T21:00:00.000Z,Mississippi Valley State,Murray State,,,False,regular,fcs,fcs
+183,312530006,2011-09-10T21:00:00.000Z,South Alabama,Lamar,,,False,regular,,fcs
+184,312530070,2011-09-10T21:00:00.000Z,Idaho,North Dakota,,,False,regular,fbs,fcs
+185,312530233,2011-09-10T21:00:00.000Z,South Dakota,Eastern Washington,,,False,regular,fcs,fcs
+186,312530236,2011-09-10T22:00:00.000Z,Chattanooga,Jacksonville State,,,False,regular,fcs,fcs
+187,312532198,2011-09-10T22:00:00.000Z,Eastern Kentucky,Missouri State,,,False,regular,fcs,fcs
+188,312532083,2011-09-10T22:00:00.000Z,Bucknell,Marist,,,False,regular,fcs,fcs
+189,312532006,2011-09-10T22:00:00.000Z,Akron,Temple,1110.0,1509.0,True,regular,fbs,fbs
+190,312530290,2011-09-10T22:00:00.000Z,Georgia Southern,Tusculum,,,False,regular,fcs,
+191,312530145,2011-09-10T22:00:00.000Z,Ole Miss,Southern Illinois,,,False,regular,fbs,fcs
+192,312530304,2011-09-10T22:00:00.000Z,Idaho State,Western State,,,False,regular,fcs,
+193,312530046,2011-09-10T22:00:00.000Z,Georgetown,Lafayette,,,True,regular,fcs,fcs
+194,312532751,2011-09-10T22:00:00.000Z,Wyoming,Texas State,1349.0,1289.0,False,regular,fbs,fcs
+195,312530257,2011-09-10T22:00:00.000Z,Richmond,Wagner,,,False,regular,fcs,fcs
+196,312530052,2011-09-10T22:00:00.000Z,Florida State,Charleston Southern,,,False,regular,fbs,fcs
+197,312532084,2011-09-10T22:00:00.000Z,Buffalo,Stony Brook,,,False,regular,fbs,fcs
+198,312530048,2011-09-10T22:00:00.000Z,Delaware,West Chester,,,False,regular,fcs,
+199,312530324,2011-09-10T22:00:00.000Z,Coastal Carolina,Catawba,,,False,regular,fcs,
+200,312530256,2011-09-10T22:00:00.000Z,James Madison,Central Connecticut,,,False,regular,fcs,fcs
+201,312532643,2011-09-10T22:00:00.000Z,The Citadel,Furman,,,True,regular,fcs,fcs
+202,312532717,2011-09-10T22:00:00.000Z,Western Carolina,Mars Hill,,,False,regular,fcs,
+203,312532169,2011-09-10T22:00:00.000Z,Delaware State,Shaw,,,False,regular,fcs,
+204,312532464,2011-09-10T22:05:00.000Z,Northern Arizona,Fort Lewis,,,False,regular,fcs,
+205,312530008,2011-09-10T23:00:00.000Z,Arkansas,New Mexico,1752.0,1130.0,False,regular,fbs,fbs
+206,312532535,2011-09-10T23:00:00.000Z,Samford,Stillman,,,False,regular,fcs,
+207,312532210,2011-09-10T23:00:00.000Z,Elon,Concord,,,False,regular,fcs,
+208,312530195,2011-09-10T23:00:00.000Z,Ohio,Gardner-Webb,,,False,regular,fbs,fcs
+209,312530189,2011-09-10T23:00:00.000Z,Bowling Green,Morgan State,,,False,regular,fbs,fcs
+210,312532433,2011-09-10T23:00:00.000Z,Louisiana Monroe,Grambling,,,False,regular,fbs,fcs
+211,312530249,2011-09-10T23:00:00.000Z,North Texas,Houston,1250.0,1545.0,False,regular,fbs,fbs
+212,312532393,2011-09-10T23:00:00.000Z,Middle Tennessee,Georgia Tech,1376.0,1553.0,False,regular,fbs,fbs
+213,312532309,2011-09-10T23:00:00.000Z,Kent State,Louisiana,1333.0,1198.0,False,regular,fbs,fbs
+214,312532305,2011-09-10T23:00:00.000Z,Kansas,Northern Illinois,1281.0,1736.0,False,regular,fbs,fbs
+215,312532032,2011-09-10T23:00:00.000Z,Arkansas State,Memphis,1397.0,1054.0,False,regular,fbs,fbs
+216,312532567,2011-09-10T23:00:00.000Z,SMU,UTEP,1395.0,1368.0,True,regular,fbs,fbs
+217,312530084,2011-09-10T23:00:00.000Z,Indiana,Virginia,1300.0,1391.0,False,regular,fbs,fbs
+218,312530098,2011-09-10T23:00:00.000Z,Western Kentucky,Navy,1249.0,1599.0,False,regular,fbs,fbs
+219,312530251,2011-09-10T23:00:00.000Z,Texas,BYU,1638.0,1624.0,False,regular,fbs,fbs
+220,312530058,2011-09-10T23:00:00.000Z,South Florida,Ball State,1562.0,1298.0,False,regular,fbs,fbs
+221,312530057,2011-09-10T23:00:00.000Z,Florida,UAB,1769.0,1347.0,False,regular,fbs,fbs
+222,312532582,2011-09-10T23:00:00.000Z,Southern,Alabama A&M,,,True,regular,fcs,fcs
+223,312532029,2011-09-10T23:00:00.000Z,Arkansas-Pine Bluff,Alcorn State,,,True,regular,fcs,fcs
+224,312532449,2011-09-10T23:00:00.000Z,North Dakota State,St Francis (PA),,,False,regular,fcs,fcs
+225,312530119,2011-09-10T23:00:00.000Z,Towson,Villanova,,,True,regular,fcs,fcs
+226,312532181,2011-09-10T23:00:00.000Z,Drake,Grand View,,,False,regular,fcs,
+227,312532166,2011-09-10T23:00:00.000Z,Davidson,Lenoir-Rhyne,,,False,regular,fcs,
+228,312532296,2011-09-10T23:00:00.000Z,Jackson State,Tennessee State,,,False,regular,fcs,fcs
+229,312532335,2011-09-10T23:00:00.000Z,Liberty,Robert Morris,,,False,regular,fcs,fcs
+230,312532711,2011-09-10T23:00:00.000Z,Western Michigan,Nicholls,,,False,regular,fbs,fcs
+231,312532348,2011-09-10T23:00:00.000Z,Louisiana Tech,Central Arkansas,,,False,regular,fbs,fcs
+232,312532617,2011-09-10T23:00:00.000Z,Stephen F. Austin,Northern Iowa,,,False,regular,fcs,fcs
+233,312530158,2011-09-10T23:00:00.000Z,Nebraska,Fresno State,1722.0,1393.0,False,regular,fbs,fbs
+234,312530030,2011-09-10T23:30:00.000Z,USC,Utah,1608.0,1647.0,True,regular,fbs,fbs
+235,312532287,2011-09-10T23:30:00.000Z,Illinois State,Morehead State,,,False,regular,fcs,fcs
+236,312530238,2011-09-10T23:30:00.000Z,Vanderbilt,Connecticut,1307.0,1551.0,False,regular,fbs,fbs
+237,312532116,2011-09-11T00:00:00.000Z,UCF,Boston College,1629.0,1475.0,False,regular,fbs,fbs
+238,312530130,2011-09-11T00:00:00.000Z,Michigan,Notre Dame,1542.0,1658.0,False,regular,fbs,fbs
+239,312530099,2011-09-11T00:00:00.000Z,LSU,Northwestern State,,,False,regular,fbs,fcs
+240,312530328,2011-09-11T00:00:00.000Z,Utah State,Weber State,,,False,regular,fbs,fcs
+241,312532640,2011-09-11T00:00:00.000Z,Texas Southern,Prairie View,,,True,regular,fcs,fcs
+242,312532545,2011-09-11T00:00:00.000Z,Southeastern Louisiana,Savannah State,,,False,regular,fcs,fcs
+243,312530301,2011-09-11T01:00:00.000Z,San Diego,Western New Mexico,,,False,regular,fcs,
+244,312530026,2011-09-11T02:00:00.000Z,UCLA,San José State,1411.0,1121.0,False,regular,fbs,fbs
+245,312582630,2011-09-15T23:00:00.000Z,UT Martin,Union College,,,False,regular,fcs,
+246,312580344,2011-09-16T00:00:00.000Z,Mississippi State,LSU,1726.0,1786.0,True,regular,fbs,fbs
+247,312592529,2011-09-16T23:00:00.000Z,Sacred Heart,Bryant,,,True,regular,fcs,fcs
+248,312590041,2011-09-17T00:00:00.000Z,Connecticut,Iowa State,1547.0,1407.0,False,regular,fbs,fbs
+249,312592649,2011-09-17T00:00:00.000Z,Toledo,Boise State,1424.0,1952.0,False,regular,fbs,fbs
+250,312600189,2011-09-17T16:00:00.000Z,Bowling Green,Wyoming,1311.0,1439.0,False,regular,fbs,fbs
+251,312602184,2011-09-17T16:00:00.000Z,Duquesne,Valparaiso,,,False,regular,fcs,fcs
+252,312600218,2011-09-17T16:00:00.000Z,Temple,Penn State,1569.0,1589.0,False,regular,fbs,fbs
+253,312602711,2011-09-17T16:00:00.000Z,Western Michigan,Central Michigan,1466.0,1419.0,True,regular,fbs,fbs
+254,312600130,2011-09-17T16:00:00.000Z,Michigan,Eastern Michigan,1549.0,1043.0,False,regular,fbs,fbs
+255,312602294,2011-09-17T16:00:00.000Z,Iowa,Pittsburgh,1740.0,1651.0,False,regular,fbs,fbs
+256,312600228,2011-09-17T16:00:00.000Z,Clemson,Auburn,1653.0,1824.0,False,regular,fbs,fbs
+257,312602509,2011-09-17T16:00:00.000Z,Purdue,Southeast Missouri State,,,False,regular,fbs,fcs
+258,312600043,2011-09-17T16:00:00.000Z,Yale,Georgetown,,,False,regular,fcs,fcs
+259,312600120,2011-09-17T16:00:00.000Z,Maryland,West Virginia,1605.0,1686.0,False,regular,fbs,fbs
+260,312600238,2011-09-17T16:21:00.000Z,Vanderbilt,Ole Miss,1311.0,1492.0,True,regular,fbs,fbs
+261,312600103,2011-09-17T16:30:00.000Z,Boston College,Duke,1423.0,1370.0,True,regular,fbs,fbs
+262,312600059,2011-09-17T16:30:00.000Z,Georgia Tech,Kansas,1608.0,1289.0,False,regular,fbs,fbs
+263,312602598,2011-09-17T17:00:00.000Z,St Francis (PA),Morehead State,,,False,regular,fcs,fcs
+264,312600107,2011-09-17T17:00:00.000Z,Holy Cross,Harvard,,,False,regular,fcs,fcs
+265,312602681,2011-09-17T17:00:00.000Z,Wagner,Central Connecticut,,,True,regular,fcs,fcs
+266,312602415,2011-09-17T17:00:00.000Z,Morgan State,Robert Morris,,,False,regular,fcs,fcs
+267,312602230,2011-09-17T17:00:00.000Z,Fordham,Columbia,,,False,regular,fcs,fcs
+268,312600294,2011-09-17T17:00:00.000Z,Jacksonville,Charleston Southern,,,False,regular,fcs,fcs
+269,312600620,2011-09-17T17:00:00.000Z,Taylor,Butler,,,False,regular,,fcs
+270,312602168,2011-09-17T17:00:00.000Z,Dayton,Marist,,,True,regular,fcs,fcs
+271,312600061,2011-09-17T17:00:00.000Z,Georgia,Coastal Carolina,1669.0,1364.0,False,regular,fbs,fcs
+272,312600047,2011-09-17T17:00:00.000Z,Howard,Norfolk State,,,True,regular,fcs,fcs
+273,312600038,2011-09-17T17:30:00.000Z,Colorado,Colorado State,1409.0,1187.0,False,regular,fbs,fbs
+274,312600159,2011-09-17T17:30:00.000Z,Dartmouth,Colgate,,,False,regular,fcs,fcs
+275,312602628,2011-09-17T18:00:00.000Z,TCU,Louisiana Monroe,1931.0,1224.0,False,regular,fbs,fbs
+276,312600149,2011-09-17T19:05:00.000Z,Montana,Eastern Washington,,,True,regular,fcs,fcs
+277,312600135,2011-09-17T19:30:00.000Z,Minnesota,Miami (OH),1374.0,1414.0,False,regular,fbs,fbs
+278,312600026,2011-09-17T19:30:00.000Z,UCLA,Texas,1408.0,1638.0,False,regular,fbs,fbs
+279,312600349,2011-09-17T19:30:00.000Z,Army,Northwestern,1402.0,1445.0,False,regular,fbs,fbs
+280,312600057,2011-09-17T19:30:00.000Z,Florida,Tennessee,1827.0,1640.0,True,regular,fbs,fbs
+281,312602132,2011-09-17T19:30:00.000Z,Cincinnati,Akron,1456.0,1050.0,False,regular,fbs,fbs
+282,312600167,2011-09-17T19:30:00.000Z,New Mexico,Texas Tech,1066.0,1667.0,False,regular,fbs,fbs
+283,312600158,2011-09-17T19:30:00.000Z,Nebraska,Washington,1722.0,1502.0,False,regular,fbs,fbs
+284,312600087,2011-09-17T19:30:00.000Z,Notre Dame,Michigan State,1651.0,1648.0,False,regular,fbs,fbs
+285,312600084,2011-09-17T19:30:00.000Z,Indiana,South Carolina State,,,False,regular,fbs,fcs
+286,312602483,2011-09-17T19:30:00.000Z,Oregon,Missouri State,,,False,regular,fbs,fcs
+287,312602459,2011-09-17T19:30:00.000Z,Northern Illinois,Wisconsin,1728.0,1909.0,False,regular,fbs,fbs
+288,312600055,2011-09-17T19:30:00.000Z,Jacksonville State,Georgia State,,,False,regular,fcs,fcs
+289,312600153,2011-09-17T19:30:00.000Z,North Carolina,Virginia,1669.0,1390.0,True,regular,fbs,fbs
+290,312600222,2011-09-17T19:30:00.000Z,Villanova,Monmouth,,,False,regular,fcs,fcs
+291,312600147,2011-09-17T19:35:00.000Z,Montana State,Minot State,,,False,regular,fcs,
+292,312600023,2011-09-17T20:00:00.000Z,San José State,Nevada,1124.0,1565.0,True,regular,fbs,fbs
+293,312602754,2011-09-17T20:00:00.000Z,Youngstown State,Illinois State,,,True,regular,fcs,fcs
+294,312600005,2011-09-17T20:00:00.000Z,UAB,Tulane,1289.0,1174.0,True,regular,fbs,fbs
+295,312600259,2011-09-17T20:00:00.000Z,Virginia Tech,Arkansas State,1865.0,1481.0,False,regular,fbs,fbs
+296,312602016,2011-09-17T21:00:00.000Z,Alcorn State,Mississippi Valley State,,,True,regular,fcs,fcs
+297,312600233,2011-09-17T21:00:00.000Z,South Dakota,Northwestern Oklahoma State,,,False,regular,fcs,
+298,312600025,2011-09-17T21:30:00.000Z,California,Presbyterian College,,,False,regular,fbs,fcs
+299,312600304,2011-09-17T21:35:00.000Z,Idaho State,Northern Colorado,,,True,regular,fcs,fcs
+300,312602428,2011-09-17T22:00:00.000Z,North Carolina Central,Elon,,,False,regular,fcs,fcs
+301,312602198,2011-09-17T22:00:00.000Z,Eastern Kentucky,Chattanooga,,,False,regular,fcs,fcs
+302,312602229,2011-09-17T22:00:00.000Z,Florida International,UCF,1482.0,1681.0,False,regular,fbs,fbs
+303,312600163,2011-09-17T22:00:00.000Z,Princeton,Lehigh,,,False,regular,fcs,fcs
+304,312602619,2011-09-17T22:00:00.000Z,Stony Brook,Brown,,,False,regular,fcs,fcs
+305,312600172,2011-09-17T22:00:00.000Z,Cornell,Bucknell,,,False,regular,fcs,fcs
+306,312602579,2011-09-17T22:00:00.000Z,South Carolina,Navy,1700.0,1629.0,False,regular,fbs,fbs
+307,312600152,2011-09-17T22:00:00.000Z,NC State,South Alabama,1640.0,1500.0,False,regular,fbs,
+308,312602026,2011-09-17T22:00:00.000Z,Appalachian State,Savannah State,,,False,regular,fcs,fcs
+309,312600257,2011-09-17T22:00:00.000Z,Richmond,VMI,,,False,regular,fcs,fcs
+310,312600399,2011-09-17T22:00:00.000Z,Albany,Maine,,,False,regular,fcs,fcs
+311,312600219,2011-09-17T22:00:00.000Z,Pennsylvania,Lafayette,,,False,regular,fcs,fcs
+312,312600048,2011-09-17T22:00:00.000Z,Delaware,Delaware State,,,False,regular,fcs,fcs
+313,312600295,2011-09-17T22:00:00.000Z,Old Dominion,Hampton,,,False,regular,fcs,fcs
+314,312600154,2011-09-17T22:30:00.000Z,Wake Forest,Gardner-Webb,,,False,regular,fbs,fcs
+315,312600113,2011-09-17T22:30:00.000Z,UMass,Rhode Island,,,True,regular,fcs,fcs
+316,312600021,2011-09-17T22:30:00.000Z,San Diego State,Washington State,1550.0,1439.0,False,regular,fbs,fbs
+317,312600309,2011-09-17T23:00:00.000Z,Louisiana,Nicholls,,,False,regular,fbs,fcs
+318,312602640,2011-09-17T23:00:00.000Z,Texas Southern,Texas College,,,False,regular,fcs,
+319,312600142,2011-09-17T23:00:00.000Z,Missouri,Western Illinois,,,False,regular,fbs,fcs
+320,312600058,2011-09-17T23:00:00.000Z,South Florida,Florida A&M,,,False,regular,fbs,fcs
+321,312600098,2011-09-17T23:00:00.000Z,Western Kentucky,Indiana State,,,False,regular,fbs,fcs
+322,312600245,2011-09-17T23:00:00.000Z,Texas A&M,Idaho,1709.0,1289.0,False,regular,fbs,fbs
+323,312602348,2011-09-17T23:00:00.000Z,Louisiana Tech,Houston,1418.0,1578.0,False,regular,fbs,fbs
+324,312602050,2011-09-17T23:00:00.000Z,Ball State,Buffalo,1249.0,1197.0,True,regular,fbs,fbs
+325,312602306,2011-09-17T23:00:00.000Z,Kansas State,Kent State,1576.0,1306.0,False,regular,fbs,fbs
+326,312600356,2011-09-17T23:00:00.000Z,Illinois,Arizona State,1658.0,1583.0,False,regular,fbs,fbs
+327,312600195,2011-09-17T23:00:00.000Z,Ohio,Marshall,1416.0,1344.0,False,regular,fbs,fbs
+328,312600096,2011-09-17T23:00:00.000Z,Kentucky,Louisville,1554.0,1563.0,False,regular,fbs,fbs
+329,312600235,2011-09-17T23:00:00.000Z,Memphis,Austin Peay,,,False,regular,fbs,fcs
+330,312602582,2011-09-17T23:00:00.000Z,Southern,Jackson State,,,True,regular,fcs,fcs
+331,312602504,2011-09-17T23:00:00.000Z,Prairie View,Arkansas-Pine Bluff,,,True,regular,fcs,fcs
+332,312602010,2011-09-17T23:00:00.000Z,Alabama A&M,Tuskegee,,,False,regular,fcs,
+333,312600013,2011-09-17T23:00:00.000Z,Cal Poly,South Dakota State,,,False,regular,fcs,fcs
+334,312602729,2011-09-17T23:00:00.000Z,William & Mary,New Haven,,,False,regular,fcs,
+335,312602181,2011-09-17T23:00:00.000Z,Drake,Missouri S&T,,,False,regular,fcs,
+336,312600093,2011-09-17T23:00:00.000Z,Murray State,Tennessee State,,,True,regular,fcs,fcs
+337,312602572,2011-09-17T23:00:00.000Z,Southern Mississippi,Southeastern Louisiana,,,False,regular,fbs,fcs
+338,312602335,2011-09-17T23:00:00.000Z,Liberty,James Madison,,,False,regular,fcs,fcs
+339,312600239,2011-09-17T23:00:00.000Z,Baylor,Stephen F. Austin,,,False,regular,fbs,fcs
+340,312602534,2011-09-17T23:00:00.000Z,Sam Houston State,Central Arkansas,,,True,regular,fcs,fcs
+341,312600326,2011-09-17T23:00:00.000Z,Texas State,Tarleton State,,,False,regular,fcs,
+342,312600333,2011-09-17T23:30:00.000Z,Alabama,North Texas,2000.0,1217.0,False,regular,fbs,fbs
+343,312602197,2011-09-17T23:30:00.000Z,Eastern Illinois,Tennessee Tech,,,True,regular,fcs,fcs
+344,312600008,2011-09-17T23:30:00.000Z,Arkansas,Troy,1816.0,1455.0,False,regular,fbs,fbs
+345,312602390,2011-09-17T23:30:00.000Z,Miami,Ohio State,1616.0,1902.0,False,regular,fbs,fbs
+346,312602692,2011-09-18T00:00:00.000Z,Weber State,Sacramento State,,,True,regular,fcs,fcs
+347,312602377,2011-09-18T00:00:00.000Z,McNeese,Sioux Falls,,,False,regular,fcs,
+348,312602320,2011-09-18T00:00:00.000Z,Lamar,Incarnate Word,,,False,regular,fcs,fcs
+349,312602011,2011-09-18T00:00:00.000Z,Alabama State,Grambling,,,True,regular,fcs,fcs
+350,312600052,2011-09-18T00:00:00.000Z,Florida State,Oklahoma,1775.0,1936.0,False,regular,fbs,fbs
+351,312600030,2011-09-18T00:00:00.000Z,USC,Syracuse,1625.0,1464.0,False,regular,fbs,fbs
+352,312600166,2011-09-18T00:00:00.000Z,New Mexico State,UTEP,1113.0,1350.0,False,regular,fbs,fbs
+353,312602567,2011-09-18T00:00:00.000Z,SMU,Northwestern State,,,False,regular,fbs,fcs
+354,312600253,2011-09-18T00:00:00.000Z,Southern Utah,UT San Antonio,,,False,regular,fcs,fcs
+355,312602502,2011-09-18T00:05:00.000Z,Portland State,Northern Arizona,,,True,regular,fcs,fcs
+356,312600302,2011-09-18T01:05:00.000Z,UC Davis,San Diego,,,False,regular,fcs,fcs
+357,312600252,2011-09-18T01:15:00.000Z,BYU,Utah,1624.0,1630.0,False,regular,fbs,fbs
+358,312600202,2011-09-18T02:00:00.000Z,Tulsa,Oklahoma State,1609.0,1832.0,False,regular,fbs,fbs
+359,312602439,2011-09-18T02:00:00.000Z,UNLV,Hawai'i,1025.0,1558.0,False,regular,fbs,fbs
+360,312600278,2011-09-18T02:00:00.000Z,Fresno State,North Dakota,,,False,regular,fbs,fcs
+361,312600012,2011-09-18T02:45:00.000Z,Arizona,Stanford,1555.0,1987.0,True,regular,fbs,fbs
+362,312652630,2011-09-22T23:00:00.000Z,UT Martin,Murray State,,,True,regular,fcs,fcs
+363,312652065,2011-09-22T23:30:00.000Z,Bethune-Cookman,Hampton,,,True,regular,fcs,fcs
+364,312652132,2011-09-23T00:00:00.000Z,Cincinnati,NC State,1535.0,1678.0,False,regular,fbs,fbs
+365,312660108,2011-09-23T23:00:00.000Z,Harvard,Brown,,,True,regular,fcs,fcs
+366,312660252,2011-09-24T00:00:00.000Z,BYU,UCF,1489.0,1660.0,False,regular,fbs,fbs
+367,312672294,2011-09-24T16:00:00.000Z,Iowa,Louisiana Monroe,1740.0,1239.0,False,regular,fbs,fbs
+368,312670221,2011-09-24T16:00:00.000Z,Pittsburgh,Notre Dame,1651.0,1691.0,False,regular,fbs,fbs
+369,312670213,2011-09-24T16:00:00.000Z,Penn State,Eastern Michigan,1594.0,1025.0,False,regular,fbs,fbs
+370,312672086,2011-09-24T16:00:00.000Z,Butler,Drake,,,True,regular,fcs,fcs
+371,312670048,2011-09-24T16:00:00.000Z,Delaware,Old Dominion,,,True,regular,fcs,fcs
+372,312672115,2011-09-24T16:00:00.000Z,Central Connecticut,Monmouth,,,True,regular,fcs,fcs
+373,312670043,2011-09-24T16:00:00.000Z,Yale,Cornell,,,True,regular,fcs,fcs
+374,312670235,2011-09-24T16:00:00.000Z,Memphis,SMU,970.0,1413.0,True,regular,fbs,fbs
+375,312670130,2011-09-24T16:00:00.000Z,Michigan,San Diego State,1567.0,1580.0,False,regular,fbs,fbs
+376,312670059,2011-09-24T16:00:00.000Z,Georgia Tech,North Carolina,1688.0,1669.0,True,regular,fbs,fbs
+377,312670127,2011-09-24T16:00:00.000Z,Michigan State,Central Michigan,1608.0,1345.0,False,regular,fbs,fbs
+378,312670183,2011-09-24T16:00:00.000Z,Syracuse,Toledo,1431.0,1415.0,False,regular,fbs,fbs
+379,312670145,2011-09-24T16:21:00.000Z,Ole Miss,Georgia,1414.0,1810.0,True,regular,fbs,fbs
+380,312672413,2011-09-24T16:30:00.000Z,Morehead State,San Diego,,,True,regular,fcs,fcs
+381,312670171,2011-09-24T16:30:00.000Z,Columbia,Albany,,,False,regular,fcs,fcs
+382,312672329,2011-09-24T16:30:00.000Z,Lehigh,Liberty,,,False,regular,fcs,fcs
+383,312670120,2011-09-24T16:30:00.000Z,Maryland,Temple,1600.0,1564.0,False,regular,fbs,fbs
+384,312670227,2011-09-24T17:00:00.000Z,Rhode Island,Fordham,,,False,regular,fcs,fcs
+385,312672097,2011-09-24T17:00:00.000Z,Campbell,Jacksonville,,,True,regular,fcs,fcs
+386,312670103,2011-09-24T17:00:00.000Z,Boston College,UMass,1419.0,1465.0,False,regular,fbs,fcs
+387,312670231,2011-09-24T17:00:00.000Z,Furman,Presbyterian College,,,False,regular,fcs,fcs
+388,312672368,2011-09-24T17:00:00.000Z,Marist,Georgetown,,,False,regular,fcs,fcs
+389,312672803,2011-09-24T17:00:00.000Z,Bryant,Wagner,,,True,regular,fcs,fcs
+390,312672529,2011-09-24T17:00:00.000Z,Sacred Heart,Dartmouth,,,False,regular,fcs,fcs
+391,312670193,2011-09-24T17:00:00.000Z,Miami (OH),Bowling Green,1405.0,1316.0,True,regular,fbs,fbs
+392,312672210,2011-09-24T17:30:00.000Z,Elon,The Citadel,,,True,regular,fcs,fcs
+393,312672119,2011-09-24T17:30:00.000Z,Central State,Dayton,,,False,regular,,fcs
+394,312672127,2011-09-24T17:30:00.000Z,Charleston Southern,Norfolk State,,,False,regular,fcs,fcs
+395,312672569,2011-09-24T18:00:00.000Z,South Carolina State,Delaware State,,,True,regular,fcs,fcs
+396,312672006,2011-09-24T18:00:00.000Z,Akron,VMI,,,False,regular,fbs,fcs
+397,312672640,2011-09-24T18:00:00.000Z,Texas Southern,Alcorn State,,,True,regular,fcs,fcs
+398,312672636,2011-09-24T18:00:00.000Z,UT San Antonio,Bacone College,,,False,regular,fcs,
+399,312672628,2011-09-24T18:00:00.000Z,TCU,Portland State,,,False,regular,fbs,fcs
+400,312672050,2011-09-24T18:00:00.000Z,Ball State,Army,1249.0,1414.0,False,regular,fbs,fbs
+401,312670164,2011-09-24T18:00:00.000Z,Rutgers,Ohio,1414.0,1512.0,False,regular,fbs,fbs
+402,312670282,2011-09-24T18:00:00.000Z,Indiana State,Youngstown State,,,True,regular,fcs,fcs
+403,312672005,2011-09-24T19:00:00.000Z,Air Force,Tennessee State,,,False,regular,fbs,fcs
+404,312670194,2011-09-24T19:30:00.000Z,Ohio State,Colorado,1831.0,1425.0,False,regular,fbs,fbs
+405,312670257,2011-09-24T19:30:00.000Z,Richmond,New Hampshire,,,True,regular,fcs,fcs
+406,312672026,2011-09-24T19:30:00.000Z,Appalachian State,Chattanooga,,,True,regular,fcs,fcs
+407,312672458,2011-09-24T19:30:00.000Z,Northern Colorado,Weber State,,,True,regular,fcs,fcs
+408,312672459,2011-09-24T19:30:00.000Z,Northern Illinois,Cal Poly,,,False,regular,fbs,fcs
+409,312670275,2011-09-24T19:30:00.000Z,Wisconsin,South Dakota,,,False,regular,fbs,fcs
+410,312670333,2011-09-24T19:30:00.000Z,Alabama,Arkansas,2024.0,1809.0,True,regular,fbs,fbs
+411,312670151,2011-09-24T19:30:00.000Z,East Carolina,UAB,1354.0,1154.0,True,regular,fbs,fbs
+412,312670150,2011-09-24T19:30:00.000Z,Duke,Tulane,1374.0,1309.0,False,regular,fbs,fbs
+413,312670264,2011-09-24T19:30:00.000Z,Washington,California,1494.0,1535.0,True,regular,fbs,fbs
+414,312670258,2011-09-24T19:30:00.000Z,Virginia,Southern Mississippi,1390.0,1545.0,False,regular,fbs,fbs
+415,312670204,2011-09-24T19:30:00.000Z,Oregon State,UCLA,1510.0,1356.0,True,regular,fbs,fbs
+416,312670356,2011-09-24T19:30:00.000Z,Illinois,Western Michigan,1658.0,1540.0,False,regular,fbs,fbs
+417,312670050,2011-09-24T19:30:00.000Z,Florida A&M,Southern,,,False,regular,fcs,fcs
+418,312672415,2011-09-24T19:30:00.000Z,Morgan State,Howard,,,True,regular,fcs,fcs
+419,312672309,2011-09-24T19:30:00.000Z,Kent State,South Alabama,1236.0,1462.0,False,regular,fbs,
+420,312670245,2011-09-24T19:30:00.000Z,Texas A&M,Oklahoma State,1741.0,1876.0,True,regular,fbs,fbs
+421,312670228,2011-09-24T19:30:00.000Z,Clemson,Florida State,1697.0,1768.0,True,regular,fbs,fbs
+422,312670276,2011-09-24T19:30:00.000Z,Marshall,Virginia Tech,1248.0,1873.0,False,regular,fbs,fbs
+423,312672390,2011-09-24T19:59:00.000Z,Miami,Kansas State,1687.0,1646.0,False,regular,fbs,fbs
+424,312672447,2011-09-24T20:00:00.000Z,Nicholls,Northwestern State,,,True,regular,fcs,fcs
+425,312672029,2011-09-24T20:00:00.000Z,Arkansas-Pine Bluff,Clark Atlanta,,,False,regular,fcs,
+426,312672448,2011-09-24T20:00:00.000Z,North Carolina A&T,Coastal Carolina,,,False,regular,fcs,fcs
+427,312670023,2011-09-24T20:00:00.000Z,San José State,New Mexico State,1144.0,1119.0,True,regular,fbs,fbs
+428,312672653,2011-09-24T20:30:00.000Z,Troy,Middle Tennessee,1462.0,1321.0,True,regular,fbs,fbs
+429,312672460,2011-09-24T21:00:00.000Z,Northern Iowa,Western Illinois,,,True,regular,fcs,fcs
+430,312670070,2011-09-24T21:00:00.000Z,Idaho,Fresno State,1257.0,1393.0,True,regular,fbs,fbs
+431,312672296,2011-09-24T21:00:00.000Z,Jackson State,Alabama State,,,True,regular,fcs,fcs
+432,312672084,2011-09-24T22:00:00.000Z,Buffalo,Connecticut,1197.0,1531.0,False,regular,fbs,fbs
+433,312670290,2011-09-24T22:00:00.000Z,Georgia Southern,Western Carolina,,,True,regular,fcs,fcs
+434,312670167,2011-09-24T22:00:00.000Z,New Mexico,Sam Houston State,,,False,regular,fbs,fcs
+435,312672428,2011-09-24T22:00:00.000Z,North Carolina Central,Savannah State,,,True,regular,fcs,fcs
+436,312670163,2011-09-24T22:00:00.000Z,Princeton,Bucknell,,,False,regular,fcs,fcs
+437,312672229,2011-09-24T22:00:00.000Z,Florida International,Louisiana,1503.0,1225.0,True,regular,fbs,fbs
+438,312672619,2011-09-24T22:00:00.000Z,Stony Brook,Lafayette,,,False,regular,fcs,fcs
+439,312672464,2011-09-24T22:05:00.000Z,Northern Arizona,Idaho State,,,True,regular,fcs,fcs
+440,312672641,2011-09-24T23:00:00.000Z,Texas Tech,Nevada,1727.0,1545.0,False,regular,fbs,fbs
+441,312670249,2011-09-24T23:00:00.000Z,North Texas,Indiana,1193.0,1301.0,False,regular,fbs,fbs
+442,312670344,2011-09-24T23:00:00.000Z,Mississippi State,Louisiana Tech,1703.0,1424.0,False,regular,fbs,fbs
+443,312672579,2011-09-24T23:00:00.000Z,South Carolina,Vanderbilt,1700.0,1389.0,True,regular,fbs,fbs
+444,312670096,2011-09-24T23:00:00.000Z,Kentucky,Florida,1542.0,1831.0,True,regular,fbs,fbs
+445,312670239,2011-09-24T23:00:00.000Z,Baylor,Rice,1507.0,1266.0,False,regular,fbs,fbs
+446,312670058,2011-09-24T23:00:00.000Z,South Florida,UTEP,1611.0,1344.0,False,regular,fbs,fbs
+447,312670002,2011-09-24T23:00:00.000Z,Auburn,Florida Atlantic,1780.0,1082.0,False,regular,fbs,fbs
+448,312672755,2011-09-24T23:00:00.000Z,Grambling,Alabama A&M,,,True,regular,fcs,fcs
+449,312672166,2011-09-24T23:00:00.000Z,Davidson,Johnson C Smith,,,False,regular,fcs,
+450,312670135,2011-09-24T23:00:00.000Z,Minnesota,North Dakota State,,,False,regular,fbs,fcs
+451,312672287,2011-09-24T23:00:00.000Z,Illinois State,South Dakota State,,,True,regular,fcs,fcs
+452,312670079,2011-09-24T23:00:00.000Z,Southern Illinois,Missouri State,,,True,regular,fcs,fcs
+453,312670119,2011-09-24T23:00:00.000Z,Towson,Colgate,,,False,regular,fcs,fcs
+454,312672598,2011-09-24T23:00:00.000Z,St Francis (PA),Duquesne,,,True,regular,fcs,fcs
+455,312672747,2011-09-24T23:00:00.000Z,Wofford,Samford,,,True,regular,fcs,fcs
+456,312670155,2011-09-24T23:00:00.000Z,North Dakota,Black Hills State,,,False,regular,fcs,
+457,312670222,2011-09-24T23:00:00.000Z,Villanova,Pennsylvania,,,False,regular,fcs,fcs
+458,312672729,2011-09-24T23:00:00.000Z,William & Mary,James Madison,,,True,regular,fcs,fcs
+459,312672046,2011-09-24T23:00:00.000Z,Austin Peay,Eastern Kentucky,,,True,regular,fcs,fcs
+460,312670055,2011-09-24T23:00:00.000Z,Jacksonville State,Eastern Illinois,,,True,regular,fcs,fcs
+461,312672617,2011-09-24T23:00:00.000Z,Stephen F. Austin,Texas State,,,False,regular,fcs,fcs
+462,312672504,2011-09-24T23:00:00.000Z,Prairie View,Mississippi Valley State,,,True,regular,fcs,fcs
+463,312670331,2011-09-24T23:05:00.000Z,Eastern Washington,Montana State,,,True,regular,fcs,fcs
+464,312672751,2011-09-24T23:30:00.000Z,Wyoming,Nebraska,1434.0,1730.0,False,regular,fbs,fbs
+465,312672032,2011-09-25T00:00:00.000Z,Arkansas State,Central Arkansas,,,False,regular,fbs,fcs
+466,312670068,2011-09-25T00:00:00.000Z,Boise State,Tulsa,1961.0,1565.0,False,regular,fbs,fbs
+467,312670248,2011-09-25T00:00:00.000Z,Houston,Georgia State,1572.0,1436.0,False,regular,fbs,fcs
+468,312672377,2011-09-25T00:00:00.000Z,McNeese,Southeastern Louisiana,,,True,regular,fcs,fcs
+469,312670201,2011-09-25T00:00:00.000Z,Oklahoma,Missouri,1943.0,1665.0,True,regular,fbs,fbs
+470,312670277,2011-09-25T00:00:00.000Z,West Virginia,LSU,1691.0,1809.0,False,regular,fbs,fbs
+471,312670328,2011-09-25T00:00:00.000Z,Utah State,Colorado State,1278.0,1171.0,False,regular,fbs,fbs
+472,312672635,2011-09-25T00:00:00.000Z,Tennessee Tech,Southeast Missouri State,,,True,regular,fcs,fcs
+473,312672439,2011-09-25T01:00:00.000Z,UNLV,Southern Utah,,,False,regular,fbs,fcs
+474,312670016,2011-09-25T01:05:00.000Z,Sacramento State,Montana,,,True,regular,fcs,fcs
+475,312670009,2011-09-25T02:15:00.000Z,Arizona State,USC,1583.0,1658.0,True,regular,fbs,fbs
+476,312670012,2011-09-25T02:15:00.000Z,Arizona,Oregon,1531.0,1970.0,True,regular,fbs,fbs
+477,312670062,2011-09-25T04:00:00.000Z,Hawai'i,UC Davis,,,False,regular,fbs,fcs
+478,312722296,2011-09-29T23:30:00.000Z,Jackson State,Texas Southern,,,True,regular,fcs,fcs
+479,312720221,2011-09-30T00:00:00.000Z,Pittsburgh,South Florida,1649.0,1654.0,True,regular,fbs,fbs
+480,312722638,2011-09-30T00:00:00.000Z,UTEP,Houston,1301.0,1728.0,True,regular,fbs,fbs
+481,312730252,2011-10-01T00:00:00.000Z,BYU,Utah State,1509.0,1271.0,False,regular,fbs,fbs
+482,312740061,2011-10-01T16:00:00.000Z,Georgia,Mississippi State,1806.0,1697.0,True,regular,fbs,fbs
+483,312742115,2011-10-01T16:00:00.000Z,Central Connecticut,Sacred Heart,,,True,regular,fcs,fcs
+484,312742405,2011-10-01T16:00:00.000Z,Monmouth,Robert Morris,,,True,regular,fcs,fcs
+485,312740356,2011-10-01T16:00:00.000Z,Illinois,Northwestern,1657.0,1433.0,True,regular,fbs,fbs
+486,312740160,2011-10-01T16:00:00.000Z,New Hampshire,Holy Cross,,,False,regular,fcs,fcs
+487,312742368,2011-10-01T16:00:00.000Z,Marist,Jacksonville,,,True,regular,fcs,fcs
+488,312740084,2011-10-01T16:00:00.000Z,Indiana,Penn State,1299.0,1606.0,True,regular,fbs,fbs
+489,312740008,2011-10-01T16:00:00.000Z,Arkansas,Texas A&M,1773.0,1746.0,False,regular,fbs,fbs
+490,312742426,2011-10-01T16:00:00.000Z,Navy,Air Force,1629.0,1600.0,False,regular,fbs,fbs
+491,312742305,2011-10-01T16:00:00.000Z,Kansas,Texas Tech,1209.0,1722.0,True,regular,fbs,fbs
+492,312740222,2011-10-01T16:00:00.000Z,Villanova,William & Mary,,,True,regular,fcs,fcs
+493,312740218,2011-10-01T16:00:00.000Z,Temple,Toledo,1657.0,1414.0,True,regular,fbs,fbs
+494,312740183,2011-10-01T16:00:00.000Z,Syracuse,Rutgers,1432.0,1445.0,True,regular,fbs,fbs
+495,312740130,2011-10-01T16:00:00.000Z,Michigan,Minnesota,1618.0,1383.0,True,regular,fbs,fbs
+496,312740349,2011-10-01T16:00:00.000Z,Army,Tulane,1323.0,1266.0,False,regular,fbs,fbs
+497,312740099,2011-10-01T16:21:00.000Z,LSU,Kentucky,1865.0,1469.0,True,regular,fbs,fbs
+498,312740103,2011-10-01T16:30:00.000Z,Boston College,Wake Forest,1498.0,1350.0,True,regular,fbs,fbs
+499,312742633,2011-10-01T16:30:00.000Z,Tennessee,Buffalo,1636.0,1196.0,False,regular,fbs,fbs
+500,312742329,2011-10-01T16:30:00.000Z,Lehigh,Yale,,,False,regular,fcs,fcs
+501,312740172,2011-10-01T16:30:00.000Z,Cornell,Wagner,,,False,regular,fcs,fcs
+502,312742199,2011-10-01T17:00:00.000Z,Eastern Michigan,Akron,1013.0,971.0,True,regular,fbs,fbs
+503,312740193,2011-10-01T17:00:00.000Z,Miami (OH),Cincinnati,1364.0,1634.0,False,regular,fbs,fbs
+504,312742142,2011-10-01T17:00:00.000Z,Colgate,Fordham,,,True,regular,fcs,fcs
+505,312742598,2011-10-01T17:00:00.000Z,St Francis (PA),Albany,,,True,regular,fcs,fcs
+506,312742168,2011-10-01T17:00:00.000Z,Dayton,Butler,,,True,regular,fcs,fcs
+507,312742415,2011-10-01T17:00:00.000Z,Morgan State,North Carolina A&T,,,True,regular,fcs,fcs
+508,312742083,2011-10-01T17:00:00.000Z,Bucknell,Georgetown,,,True,regular,fcs,fcs
+509,312740322,2011-10-01T17:00:00.000Z,Lafayette,Harvard,,,False,regular,fcs,fcs
+510,312742184,2011-10-01T17:10:00.000Z,Duquesne,Bryant,,,True,regular,fcs,fcs
+511,312742127,2011-10-01T17:30:00.000Z,Charleston Southern,Wesley College,,,False,regular,fcs,
+512,312742210,2011-10-01T17:30:00.000Z,Elon,Georgia Southern,,,True,regular,fcs,fcs
+513,312742623,2011-10-01T18:00:00.000Z,Missouri State,Northern Iowa,,,True,regular,fcs,fcs
+514,312740195,2011-10-01T18:00:00.000Z,Ohio,Kent State,1481.0,1263.0,True,regular,fbs,fbs
+515,312742181,2011-10-01T18:00:00.000Z,Drake,Campbell,,,True,regular,fcs,fcs
+516,312742674,2011-10-01T18:00:00.000Z,Valparaiso,Morehead State,,,True,regular,fcs,fcs
+517,312742449,2011-10-01T18:07:00.000Z,North Dakota State,Illinois State,,,True,regular,fcs,fcs
+518,312740068,2011-10-01T18:30:00.000Z,Boise State,Nevada,1970.0,1550.0,False,regular,fbs,fbs
+519,312740311,2011-10-01T19:00:00.000Z,Maine,Delaware,,,True,regular,fcs,fcs
+520,312742535,2011-10-01T19:00:00.000Z,Samford,Gardner-Webb,,,False,regular,fcs,fcs
+521,312742400,2011-10-01T19:00:00.000Z,Mississippi Valley State,Southern,,,True,regular,fcs,fcs
+522,312742747,2011-10-01T19:00:00.000Z,Wofford,Appalachian State,,,True,regular,fcs,fcs
+523,312740253,2011-10-01T19:00:00.000Z,Southern Utah,North Dakota,,,True,regular,fcs,fcs
+524,312740149,2011-10-01T19:05:00.000Z,Montana,Northern Colorado,,,True,regular,fcs,fcs
+525,312740277,2011-10-01T19:30:00.000Z,West Virginia,Bowling Green,1635.0,1357.0,False,regular,fbs,fbs
+526,312742306,2011-10-01T19:30:00.000Z,Kansas State,Baylor,1655.0,1544.0,True,regular,fbs,fbs
+527,312742579,2011-10-01T19:30:00.000Z,South Carolina,Auburn,1712.0,1758.0,True,regular,fbs,fbs
+528,312740256,2011-10-01T19:30:00.000Z,James Madison,Richmond,,,True,regular,fcs,fcs
+529,312740120,2011-10-01T19:30:00.000Z,Maryland,Towson,,,False,regular,fbs,fcs
+530,312740304,2011-10-01T19:30:00.000Z,Idaho State,Portland State,,,True,regular,fcs,fcs
+531,312740331,2011-10-01T19:30:00.000Z,Eastern Washington,Weber State,,,True,regular,fcs,fcs
+532,312742390,2011-10-01T19:30:00.000Z,Miami,Bethune-Cookman,,,False,regular,fbs,fcs
+533,312742628,2011-10-01T19:30:00.000Z,TCU,SMU,1916.0,1480.0,False,regular,fbs,fbs
+534,312740030,2011-10-01T19:30:00.000Z,USC,Arizona,1600.0,1513.0,True,regular,fbs,fbs
+535,312740152,2011-10-01T19:30:00.000Z,NC State,Georgia Tech,1579.0,1696.0,True,regular,fbs,fbs
+536,312740041,2011-10-01T19:30:00.000Z,Connecticut,Western Michigan,1532.0,1541.0,False,regular,fbs,fbs
+537,312740038,2011-10-01T19:30:00.000Z,Colorado,Washington State,1417.0,1409.0,True,regular,fbs,fbs
+538,312740097,2011-10-01T19:30:00.000Z,Louisville,Marshall,1575.0,1259.0,False,regular,fbs,fbs
+539,312740194,2011-10-01T19:30:00.000Z,Ohio State,Michigan State,1839.0,1682.0,True,regular,fbs,fbs
+540,312740258,2011-10-01T19:30:00.000Z,Virginia,Idaho,1390.0,1209.0,False,regular,fbs,fbs
+541,312742117,2011-10-01T19:30:00.000Z,Central Michigan,Northern Illinois,1271.0,1635.0,True,regular,fbs,fbs
+542,312740147,2011-10-01T19:35:00.000Z,Montana State,Sacramento State,,,True,regular,fcs,fcs
+543,312740098,2011-10-01T20:00:00.000Z,Western Kentucky,Arkansas State,1219.0,1473.0,True,regular,fbs,fbs
+544,312742450,2011-10-01T20:00:00.000Z,Norfolk State,South Carolina State,,,True,regular,fcs,fcs
+545,312740036,2011-10-01T20:00:00.000Z,Colorado State,San José State,1178.0,1159.0,False,regular,fbs,fbs
+546,312742710,2011-10-01T20:00:00.000Z,Western Illinois,Southern Illinois,,,True,regular,fcs,fcs
+547,312742545,2011-10-01T20:00:00.000Z,Southeastern Louisiana,Lamar,,,True,regular,fcs,fcs
+548,312740233,2011-10-01T21:00:00.000Z,South Dakota,Lindenwood,,,False,regular,fcs,
+549,312740225,2011-10-01T22:00:00.000Z,Brown,Rhode Island,,,False,regular,fcs,fcs
+550,312742717,2011-10-01T22:00:00.000Z,Western Carolina,Furman,,,True,regular,fcs,fcs
+551,312740301,2011-10-01T22:00:00.000Z,San Diego,Davidson,,,True,regular,fcs,fcs
+552,312740236,2011-10-01T22:00:00.000Z,Chattanooga,The Citadel,,,True,regular,fcs,fcs
+553,312740163,2011-10-01T22:00:00.000Z,Princeton,Columbia,,,True,regular,fcs,fcs
+554,312740159,2011-10-01T22:00:00.000Z,Dartmouth,Pennsylvania,,,True,regular,fcs,fcs
+555,312740259,2011-10-01T22:00:00.000Z,Virginia Tech,Clemson,1862.0,1705.0,True,regular,fbs,fbs
+556,312740050,2011-10-01T22:00:00.000Z,Florida A&M,Delaware State,,,True,regular,fcs,fcs
+557,312740093,2011-10-01T23:00:00.000Z,Murray State,Jacksonville State,,,True,regular,fcs,fcs
+558,312740066,2011-10-01T23:00:00.000Z,Iowa State,Texas,1423.0,1690.0,True,regular,fbs,fbs
+559,312740254,2011-10-01T23:00:00.000Z,Utah,Washington,1765.0,1509.0,True,regular,fbs,fbs
+560,312742348,2011-10-01T23:00:00.000Z,Louisiana Tech,Hawai'i,1430.0,1447.0,True,regular,fbs,fbs
+561,312742229,2011-10-01T23:00:00.000Z,Florida International,Duke,1473.0,1417.0,False,regular,fbs,fbs
+562,312742393,2011-10-01T23:00:00.000Z,Middle Tennessee,Memphis,1322.0,903.0,False,regular,fbs,fbs
+563,312740309,2011-10-01T23:00:00.000Z,Louisiana,Florida Atlantic,1255.0,1104.0,True,regular,fbs,fbs
+564,312740202,2011-10-01T23:00:00.000Z,Tulsa,North Texas,1556.0,1195.0,False,regular,fbs,fbs
+565,312742653,2011-10-01T23:00:00.000Z,Troy,UAB,1461.0,1157.0,False,regular,fbs,fbs
+566,312742534,2011-10-01T23:00:00.000Z,Sam Houston State,UT San Antonio,,,False,regular,fcs,fcs
+567,312740295,2011-10-01T23:00:00.000Z,Old Dominion,UMass,,,True,regular,fcs,fcs
+568,312742010,2011-10-01T23:00:00.000Z,Alabama A&M,Arkansas-Pine Bluff,,,True,regular,fcs,fcs
+569,312742755,2011-10-01T23:00:00.000Z,Grambling,Prairie View,,,True,regular,fcs,fcs
+570,312742546,2011-10-01T23:00:00.000Z,Southeast Missouri State,Eastern Illinois,,,True,regular,fcs,fcs
+571,312742046,2011-10-01T23:00:00.000Z,Austin Peay,Tennessee State,,,True,regular,fcs,fcs
+572,312740201,2011-10-01T23:00:00.000Z,Oklahoma,Ball State,1941.0,1340.0,False,regular,fbs,fbs
+573,312740326,2011-10-01T23:00:00.000Z,Texas State,Nicholls,,,False,regular,fcs,fcs
+574,312742466,2011-10-01T23:00:00.000Z,Northwestern State,McNeese,,,True,regular,fcs,fcs
+575,312742110,2011-10-01T23:00:00.000Z,Central Arkansas,Stephen F. Austin,,,True,regular,fcs,fcs
+576,312742335,2011-10-01T23:00:00.000Z,Liberty,Kentucky Wesleyan,,,False,regular,fcs,
+577,312742542,2011-10-01T23:00:00.000Z,Savannah State,Howard,,,True,regular,fcs,fcs
+578,312742571,2011-10-01T23:00:00.000Z,South Dakota State,Indiana State,,,True,regular,fcs,fcs
+579,312742630,2011-10-01T23:30:00.000Z,UT Martin,Tennessee Tech,,,True,regular,fcs,fcs
+580,312742572,2011-10-01T23:30:00.000Z,Southern Mississippi,Rice,1545.0,1229.0,True,regular,fbs,fbs
+581,312740275,2011-10-02T00:00:00.000Z,Wisconsin,Nebraska,2002.0,1760.0,True,regular,fbs,fbs
+582,312740151,2011-10-02T00:00:00.000Z,East Carolina,North Carolina,1351.0,1661.0,False,regular,fbs,fbs
+583,312742011,2011-10-02T00:00:00.000Z,Alabama State,Alcorn State,,,True,regular,fcs,fcs
+584,312740057,2011-10-02T00:00:00.000Z,Florida,Alabama,1904.0,2060.0,True,regular,fbs,fbs
+585,312740167,2011-10-02T00:00:00.000Z,New Mexico,New Mexico State,1006.0,1104.0,False,regular,fbs,fbs
+586,312742509,2011-10-02T00:00:00.000Z,Purdue,Notre Dame,1370.0,1693.0,False,regular,fbs,fbs
+587,312740278,2011-10-02T01:15:00.000Z,Fresno State,Ole Miss,1441.0,1418.0,False,regular,fbs,fbs
+588,312740009,2011-10-02T02:30:00.000Z,Arizona State,Oregon State,1641.0,1481.0,True,regular,fbs,fbs
+589,312740024,2011-10-02T02:30:00.000Z,Stanford,UCLA,2011.0,1385.0,True,regular,fbs,fbs
+590,312792393,2011-10-06T23:30:00.000Z,Middle Tennessee,Western Kentucky,1310.0,1228.0,True,regular,fbs,fbs
+591,312792483,2011-10-07T01:00:00.000Z,Oregon,California,1988.0,1520.0,True,regular,fbs,fbs
+592,312800278,2011-10-08T01:00:00.000Z,Fresno State,Boise State,1418.0,1977.0,False,regular,fbs,fbs
+593,312812509,2011-10-08T16:00:00.000Z,Purdue,Minnesota,1331.0,1235.0,True,regular,fbs,fbs
+594,312812097,2011-10-08T16:00:00.000Z,Campbell,Butler,,,True,regular,fcs,fcs
+595,312810005,2011-10-08T16:00:00.000Z,UAB,Mississippi State,1166.0,1678.0,False,regular,fbs,fbs
+596,312810160,2011-10-08T16:00:00.000Z,New Hampshire,Villanova,,,True,regular,fcs,fcs
+597,312810251,2011-10-08T16:00:00.000Z,Texas,Oklahoma,1720.0,2030.0,True,regular,fbs,fbs
+598,312810059,2011-10-08T16:00:00.000Z,Georgia Tech,Maryland,1707.0,1507.0,True,regular,fbs,fbs
+599,312810043,2011-10-08T16:00:00.000Z,Yale,Dartmouth,,,True,regular,fcs,fcs
+600,312810277,2011-10-08T16:00:00.000Z,West Virginia,Connecticut,1731.0,1520.0,True,regular,fbs,fbs
+601,312810153,2011-10-08T16:00:00.000Z,North Carolina,Louisville,1667.0,1546.0,False,regular,fbs,fbs
+602,312812579,2011-10-08T16:21:00.000Z,South Carolina,Kentucky,1710.0,1440.0,True,regular,fbs,fbs
+603,312810154,2011-10-08T16:30:00.000Z,Wake Forest,Florida State,1378.0,1760.0,True,regular,fbs,fbs
+604,312810172,2011-10-08T16:30:00.000Z,Cornell,Harvard,,,True,regular,fcs,fcs
+605,312810225,2011-10-08T16:30:00.000Z,Brown,Holy Cross,,,False,regular,fcs,fcs
+606,312810171,2011-10-08T16:30:00.000Z,Columbia,Sacred Heart,,,False,regular,fcs,fcs
+607,312810242,2011-10-08T16:30:00.000Z,Rice,Memphis,1203.0,915.0,True,regular,fbs,fbs
+608,312812415,2011-10-08T17:00:00.000Z,Morgan State,Savannah State,,,True,regular,fcs,fcs
+609,312812643,2011-10-08T17:00:00.000Z,The Citadel,Wofford,,,True,regular,fcs,fcs
+610,312812169,2011-10-08T17:00:00.000Z,Delaware State,Norfolk State,,,True,regular,fcs,fcs
+611,312812413,2011-10-08T17:00:00.000Z,Morehead State,Drake,,,True,regular,fcs,fcs
+612,312812166,2011-10-08T17:00:00.000Z,Davidson,Marist,,,True,regular,fcs,fcs
+613,312810294,2011-10-08T17:00:00.000Z,Jacksonville,Dayton,,,True,regular,fcs,fcs
+614,312810399,2011-10-08T17:00:00.000Z,Albany,Duquesne,,,True,regular,fcs,fcs
+615,312812681,2011-10-08T17:00:00.000Z,Wagner,Georgetown,,,False,regular,fcs,fcs
+616,312812261,2011-10-08T17:00:00.000Z,Hampton,Princeton,,,False,regular,fcs,fcs
+617,312812405,2011-10-08T17:00:00.000Z,Monmouth,Colgate,,,False,regular,fcs,fcs
+618,312812083,2011-10-08T17:00:00.000Z,Bucknell,Lehigh,,,True,regular,fcs,fcs
+619,312812803,2011-10-08T17:00:00.000Z,Bryant,Stonehill,,,False,regular,fcs,
+620,312810227,2011-10-08T17:00:00.000Z,Rhode Island,Old Dominion,,,True,regular,fcs,fcs
+621,312810193,2011-10-08T17:00:00.000Z,Miami (OH),Army,1323.0,1428.0,False,regular,fbs,fbs
+622,312812569,2011-10-08T17:30:00.000Z,South Carolina State,North Carolina Central,,,True,regular,fcs,fcs
+623,312810231,2011-10-08T17:30:00.000Z,Furman,Samford,,,True,regular,fcs,fcs
+624,312812448,2011-10-08T17:30:00.000Z,North Carolina A&T,Bethune-Cookman,,,True,regular,fcs,fcs
+625,312812006,2011-10-08T18:00:00.000Z,Akron,Florida International,962.0,1463.0,False,regular,fbs,fbs
+626,312812247,2011-10-08T18:00:00.000Z,Georgia State,Murray State,,,False,regular,fcs,fcs
+627,312810155,2011-10-08T18:00:00.000Z,North Dakota,Montana-Western,,,False,regular,fcs,
+628,312812010,2011-10-08T18:00:00.000Z,Alabama A&M,Mississippi Valley State,,,True,regular,fcs,fcs
+629,312812640,2011-10-08T18:00:00.000Z,Texas Southern,Alabama State,,,True,regular,fcs,fcs
+630,312812674,2011-10-08T18:00:00.000Z,Valparaiso,San Diego,,,True,regular,fcs,fcs
+631,312812711,2011-10-08T18:00:00.000Z,Western Michigan,Bowling Green,1553.0,1261.0,True,regular,fbs,fbs
+632,312812050,2011-10-08T18:00:00.000Z,Ball State,Temple,1251.0,1566.0,True,regular,fbs,fbs
+633,312812197,2011-10-08T18:30:00.000Z,Eastern Illinois,Eastern Kentucky,,,True,regular,fcs,fcs
+634,312810084,2011-10-08T18:30:00.000Z,Indiana,Illinois,1310.0,1655.0,True,regular,fbs,fbs
+635,312812717,2011-10-08T19:00:00.000Z,Western Carolina,Elon,,,True,regular,fcs,fcs
+636,312810050,2011-10-08T19:00:00.000Z,Florida A&M,Howard,,,True,regular,fcs,fcs
+637,312810228,2011-10-08T19:00:00.000Z,Clemson,Boston College,1774.0,1470.0,True,regular,fbs,fbs
+638,312812649,2011-10-08T19:00:00.000Z,Toledo,Eastern Michigan,1505.0,1022.0,True,regular,fbs,fbs
+639,312810290,2011-10-08T19:00:00.000Z,Georgia Southern,Chattanooga,,,True,regular,fcs,fcs
+640,312812623,2011-10-08T19:00:00.000Z,Missouri State,Illinois State,,,True,regular,fcs,fcs
+641,312810079,2011-10-08T19:00:00.000Z,Southern Illinois,North Dakota State,,,True,regular,fcs,fcs
+642,312812630,2011-10-08T19:00:00.000Z,UT Martin,Austin Peay,,,True,regular,fcs,fcs
+643,312812617,2011-10-08T19:00:00.000Z,Stephen F. Austin,Sam Houston State,,,True,regular,fcs,fcs
+644,312812447,2011-10-08T19:00:00.000Z,Nicholls,Central Arkansas,,,True,regular,fcs,fcs
+645,312812426,2011-10-08T19:30:00.000Z,Navy,Southern Mississippi,1626.0,1571.0,False,regular,fbs,fbs
+646,312810256,2011-10-08T19:30:00.000Z,James Madison,Maine,,,True,regular,fcs,fcs
+647,312812084,2011-10-08T19:30:00.000Z,Buffalo,Ohio,1163.0,1479.0,True,regular,fbs,fbs
+648,312810213,2011-10-08T19:30:00.000Z,Penn State,Iowa,1595.0,1759.0,True,regular,fbs,fbs
+649,312810152,2011-10-08T19:30:00.000Z,NC State,Central Michigan,1568.0,1303.0,False,regular,fbs,fbs
+650,312810204,2011-10-08T19:30:00.000Z,Oregon State,Arizona,1464.0,1508.0,True,regular,fbs,fbs
+651,312810087,2011-10-08T19:30:00.000Z,Notre Dame,Air Force,1732.0,1603.0,False,regular,fbs,fbs
+652,312810099,2011-10-08T19:30:00.000Z,LSU,Florida,1894.0,1846.0,True,regular,fbs,fbs
+653,312810197,2011-10-08T19:30:00.000Z,Oklahoma State,Kansas,1871.0,1227.0,True,regular,fbs,fbs
+654,312812306,2011-10-08T19:30:00.000Z,Kansas State,Missouri,1652.0,1667.0,True,regular,fbs,fbs
+655,312810259,2011-10-08T19:30:00.000Z,Virginia Tech,Miami,1793.0,1678.0,True,regular,fbs,fbs
+656,312810254,2011-10-08T19:30:00.000Z,Utah,Arizona State,1695.0,1658.0,True,regular,fbs,fbs
+657,312810164,2011-10-08T19:30:00.000Z,Rutgers,Pittsburgh,1449.0,1720.0,True,regular,fbs,fbs
+658,312812459,2011-10-08T19:30:00.000Z,Northern Illinois,Kent State,1603.0,1265.0,True,regular,fbs,fbs
+659,312812458,2011-10-08T19:35:00.000Z,Northern Colorado,Sacramento State,,,True,regular,fcs,fcs
+660,312812241,2011-10-08T20:00:00.000Z,Gardner-Webb,Liberty,,,True,regular,fcs,fcs
+661,312812754,2011-10-08T20:00:00.000Z,Youngstown State,South Dakota State,,,True,regular,fcs,fcs
+662,312812502,2011-10-08T20:05:00.000Z,Portland State,Montana State,,,True,regular,fcs,fcs
+663,312810233,2011-10-08T21:00:00.000Z,South Dakota,Southern Utah,,,True,regular,fcs,fcs
+664,312810070,2011-10-08T21:00:00.000Z,Idaho,Louisiana Tech,1214.0,1388.0,True,regular,fbs,fbs
+665,312812460,2011-10-08T21:00:00.000Z,Northern Iowa,Indiana State,,,True,regular,fcs,fcs
+666,312812296,2011-10-08T21:00:00.000Z,Jackson State,Arkansas-Pine Bluff,,,True,regular,fcs,fcs
+667,312812636,2011-10-08T21:30:00.000Z,UT San Antonio,South Alabama,,,False,regular,fcs,
+668,312812619,2011-10-08T22:00:00.000Z,Stony Brook,Presbyterian College,,,True,regular,fcs,fcs
+669,312810113,2011-10-08T22:00:00.000Z,UMass,Central Connecticut,,,False,regular,fcs,fcs
+670,312810048,2011-10-08T22:00:00.000Z,Delaware,William & Mary,,,True,regular,fcs,fcs
+671,312810219,2011-10-08T22:00:00.000Z,Pennsylvania,Fordham,,,False,regular,fcs,fcs
+672,312810304,2011-10-08T22:00:00.000Z,Idaho State,Montana,,,True,regular,fcs,fcs
+673,312812464,2011-10-08T22:05:00.000Z,Northern Arizona,Eastern Washington,,,True,regular,fcs,fcs
+674,312812633,2011-10-08T23:00:00.000Z,Tennessee,Georgia,1669.0,1825.0,True,regular,fbs,fbs
+675,312810324,2011-10-08T23:00:00.000Z,Coastal Carolina,VMI,,,True,regular,fcs,fcs
+676,312812523,2011-10-08T23:00:00.000Z,Robert Morris,St Francis (PA),,,True,regular,fcs,fcs
+677,312812634,2011-10-08T23:00:00.000Z,Tennessee State,Southeast Missouri State,,,True,regular,fcs,fcs
+678,312810248,2011-10-08T23:00:00.000Z,Houston,East Carolina,1711.0,1345.0,True,regular,fbs,fbs
+679,312812582,2011-10-08T23:00:00.000Z,Southern,Prairie View,,,True,regular,fcs,fcs
+680,312810333,2011-10-08T23:00:00.000Z,Alabama,Vanderbilt,2118.0,1377.0,True,regular,fbs,fbs
+681,312810008,2011-10-08T23:00:00.000Z,Arkansas,Auburn,1780.0,1760.0,True,regular,fbs,fbs
+682,312810077,2011-10-08T23:00:00.000Z,Northwestern,Michigan,1435.0,1766.0,True,regular,fbs,fbs
+683,312810239,2011-10-08T23:00:00.000Z,Baylor,Iowa State,1547.0,1393.0,True,regular,fbs,fbs
+684,312810309,2011-10-08T23:00:00.000Z,Louisiana,Troy,1254.0,1452.0,True,regular,fbs,fbs
+685,312812440,2011-10-08T23:00:00.000Z,Nevada,UNLV,1543.0,1136.0,False,regular,fbs,fbs
+686,312812433,2011-10-08T23:00:00.000Z,Louisiana Monroe,Arkansas State,1220.0,1464.0,True,regular,fbs,fbs
+687,312812116,2011-10-08T23:00:00.000Z,UCF,Marshall,1640.0,1288.0,True,regular,fbs,fbs
+688,312812641,2011-10-08T23:00:00.000Z,Texas Tech,Texas A&M,1704.0,1739.0,True,regular,fbs,fbs
+689,312810013,2011-10-08T23:05:00.000Z,Cal Poly,Central Oklahoma,,,False,regular,fcs,
+690,312810249,2011-10-08T23:30:00.000Z,North Texas,Florida Atlantic,1190.0,1105.0,True,regular,fbs,fbs
+691,312810119,2011-10-08T23:30:00.000Z,Towson,Richmond,,,True,regular,fcs,fcs
+692,312810024,2011-10-08T23:30:00.000Z,Stanford,Colorado,2013.0,1410.0,True,regular,fbs,fbs
+693,312810158,2011-10-09T00:00:00.000Z,Nebraska,Ohio State,1706.0,1825.0,True,regular,fbs,fbs
+694,312812377,2011-10-09T00:00:00.000Z,McNeese,Texas State,,,False,regular,fcs,fcs
+695,312812655,2011-10-09T00:00:00.000Z,Tulane,Syracuse,1161.0,1428.0,False,regular,fbs,fbs
+696,312810328,2011-10-09T00:00:00.000Z,Utah State,Wyoming,1273.0,1404.0,False,regular,fbs,fbs
+697,312812320,2011-10-09T00:00:00.000Z,Lamar,Northwestern State,,,True,regular,fcs,fcs
+698,312810302,2011-10-09T01:00:00.000Z,UC Davis,Humboldt State,,,False,regular,fcs,
+699,312810252,2011-10-09T02:15:00.000Z,BYU,San José State,1507.0,1174.0,False,regular,fbs,fbs
+700,312810021,2011-10-09T02:30:00.000Z,San Diego State,TCU,1529.0,1864.0,True,regular,fbs,fbs
+701,312810026,2011-10-09T02:30:00.000Z,UCLA,Washington State,1383.0,1416.0,True,regular,fbs,fbs
+702,312862010,2011-10-13T23:30:00.000Z,Alabama A&M,Texas Southern,,,True,regular,fcs,fcs
+703,312862005,2011-10-14T00:00:00.000Z,Air Force,San Diego State,1551.0,1530.0,True,regular,fbs,fbs
+704,312860025,2011-10-14T01:00:00.000Z,California,USC,1498.0,1605.0,True,regular,fbs,fbs
+705,312870023,2011-10-15T01:00:00.000Z,San José State,Hawai'i,1175.0,1489.0,True,regular,fbs,fbs
+706,312882529,2011-10-15T16:00:00.000Z,Sacred Heart,St Francis (PA),,,True,regular,fcs,fcs
+707,312880189,2011-10-15T16:00:00.000Z,Bowling Green,Toledo,1232.0,1553.0,True,regular,fbs,fbs
+708,312880221,2011-10-15T16:00:00.000Z,Pittsburgh,Utah,1627.0,1637.0,False,regular,fbs,fbs
+709,312880245,2011-10-15T16:00:00.000Z,Texas A&M,Baylor,1745.0,1587.0,True,regular,fbs,fbs
+710,312880127,2011-10-15T16:00:00.000Z,Michigan State,Michigan,1696.0,1777.0,True,regular,fbs,fbs
+711,312882368,2011-10-15T16:00:00.000Z,Marist,Campbell,,,True,regular,fcs,fcs
+712,312882729,2011-10-15T16:00:00.000Z,William & Mary,New Hampshire,,,True,regular,fcs,fcs
+713,312880213,2011-10-15T16:00:00.000Z,Penn State,Purdue,1625.0,1393.0,True,regular,fbs,fbs
+714,312880275,2011-10-15T16:00:00.000Z,Wisconsin,Indiana,2056.0,1293.0,True,regular,fbs,fbs
+715,312882132,2011-10-15T16:00:00.000Z,Cincinnati,Louisville,1675.0,1543.0,True,regular,fbs,fbs
+716,312882184,2011-10-15T16:10:00.000Z,Duquesne,Central Connecticut,,,True,regular,fcs,fcs
+717,312880344,2011-10-15T16:21:00.000Z,Mississippi State,South Carolina,1673.0,1828.0,True,regular,fbs,fbs
+718,312880153,2011-10-15T16:30:00.000Z,North Carolina,Miami,1670.0,1679.0,True,regular,fbs,fbs
+719,312880225,2011-10-15T16:30:00.000Z,Brown,Princeton,,,True,regular,fcs,fcs
+720,312880399,2011-10-15T17:00:00.000Z,Albany,Robert Morris,,,True,regular,fcs,fcs
+721,312880294,2011-10-15T17:00:00.000Z,Jacksonville,Morehead State,,,True,regular,fcs,fcs
+722,312880107,2011-10-15T17:00:00.000Z,Holy Cross,Dartmouth,,,False,regular,fcs,fcs
+723,312882230,2011-10-15T17:00:00.000Z,Fordham,Lehigh,,,True,regular,fcs,fcs
+724,312880047,2011-10-15T17:00:00.000Z,Howard,Georgetown,,,False,regular,fcs,fcs
+725,312880311,2011-10-15T17:00:00.000Z,Maine,Rhode Island,,,True,regular,fcs,fcs
+726,312882803,2011-10-15T17:00:00.000Z,Bryant,Monmouth,,,True,regular,fcs,fcs
+727,312882142,2011-10-15T17:00:00.000Z,Colgate,Cornell,,,False,regular,fcs,fcs
+728,312880108,2011-10-15T17:00:00.000Z,Harvard,Bucknell,,,False,regular,fcs,fcs
+729,312882168,2011-10-15T17:00:00.000Z,Dayton,Davidson,,,True,regular,fcs,fcs
+730,312882086,2011-10-15T17:00:00.000Z,Butler,Valparaiso,,,True,regular,fcs,fcs
+731,312880218,2011-10-15T17:00:00.000Z,Temple,Buffalo,1649.0,1172.0,True,regular,fbs,fbs
+732,312882448,2011-10-15T17:30:00.000Z,North Carolina A&T,Delaware State,,,True,regular,fcs,fcs
+733,312880256,2011-10-15T17:30:00.000Z,James Madison,Villanova,,,True,regular,fcs,fcs
+734,312882569,2011-10-15T17:30:00.000Z,South Carolina State,Georgia State,,,False,regular,fcs,fcs
+735,312882747,2011-10-15T17:30:00.000Z,Wofford,UVA-Wise,,,False,regular,fcs,
+736,312880142,2011-10-15T18:00:00.000Z,Missouri,Iowa State,1657.0,1353.0,True,regular,fbs,fbs
+737,312882643,2011-10-15T18:00:00.000Z,The Citadel,Appalachian State,,,True,regular,fcs,fcs
+738,312882751,2011-10-15T18:00:00.000Z,Wyoming,UNLV,1251.0,1082.0,True,regular,fbs,fbs
+739,312882011,2011-10-15T18:00:00.000Z,Alabama State,Prairie View,,,True,regular,fcs,fcs
+740,312880164,2011-10-15T18:00:00.000Z,Rutgers,Navy,1542.0,1541.0,False,regular,fbs,fbs
+741,312882117,2011-10-15T19:00:00.000Z,Central Michigan,Eastern Michigan,1297.0,974.0,True,regular,fbs,fbs
+742,312880290,2011-10-15T19:00:00.000Z,Georgia Southern,Furman,,,True,regular,fcs,fcs
+743,312882535,2011-10-15T19:00:00.000Z,Samford,Elon,,,True,regular,fcs,fcs
+744,312882534,2011-10-15T19:00:00.000Z,Sam Houston State,Nicholls,,,True,regular,fcs,fcs
+745,312880276,2011-10-15T19:00:00.000Z,Marshall,Rice,1294.0,1227.0,True,regular,fbs,fbs
+746,312882400,2011-10-15T19:00:00.000Z,Mississippi Valley State,Jackson State,,,True,regular,fcs,fcs
+747,312882198,2011-10-15T19:00:00.000Z,Eastern Kentucky,Southeast Missouri State,,,True,regular,fcs,fcs
+748,312880150,2011-10-15T19:00:00.000Z,Duke,Florida State,1427.0,1738.0,True,regular,fbs,fbs
+749,312880282,2011-10-15T19:00:00.000Z,Indiana State,Western Illinois,,,True,regular,fcs,fcs
+750,312880079,2011-10-15T19:00:00.000Z,Southern Illinois,Youngstown State,,,True,regular,fcs,fcs
+751,312880149,2011-10-15T19:05:00.000Z,Montana,Portland State,,,True,regular,fcs,fcs
+752,312880147,2011-10-15T19:05:00.000Z,Montana State,Northern Arizona,,,True,regular,fcs,fcs
+753,312880048,2011-10-15T19:30:00.000Z,Delaware,UMass,,,True,regular,fcs,fcs
+754,312880295,2011-10-15T19:30:00.000Z,Old Dominion,Towson,,,True,regular,fcs,fcs
+755,312880006,2011-10-15T19:30:00.000Z,South Alabama,UT Martin,,,False,regular,,fcs
+756,312880171,2011-10-15T19:30:00.000Z,Columbia,Pennsylvania,,,True,regular,fcs,fcs
+757,312880264,2011-10-15T19:30:00.000Z,Washington,Colorado,1579.0,1367.0,True,regular,fbs,fbs
+758,312882459,2011-10-15T19:30:00.000Z,Northern Illinois,Western Michigan,1644.0,1582.0,True,regular,fbs,fbs
+759,312882655,2011-10-15T19:30:00.000Z,Tulane,UTEP,1172.0,1318.0,True,regular,fbs,fbs
+760,312882567,2011-10-15T19:30:00.000Z,SMU,UCF,1532.0,1634.0,True,regular,fbs,fbs
+761,312880041,2011-10-15T19:30:00.000Z,Connecticut,South Florida,1474.0,1583.0,True,regular,fbs,fbs
+762,312880195,2011-10-15T19:30:00.000Z,Ohio,Ball State,1470.0,1168.0,True,regular,fbs,fbs
+763,312882309,2011-10-15T19:30:00.000Z,Kent State,Miami (OH),1224.0,1339.0,True,regular,fbs,fbs
+764,312880251,2011-10-15T19:30:00.000Z,Texas,Oklahoma State,1657.0,1912.0,True,regular,fbs,fbs
+765,312880258,2011-10-15T19:30:00.000Z,Virginia,Georgia Tech,1385.0,1704.0,True,regular,fbs,fbs
+766,312882633,2011-10-15T19:30:00.000Z,Tennessee,LSU,1666.0,1968.0,True,regular,fbs,fbs
+767,312880356,2011-10-15T19:30:00.000Z,Illinois,Ohio State,1672.0,1808.0,True,regular,fbs,fbs
+768,312882428,2011-10-15T20:00:00.000Z,North Carolina Central,Morgan State,,,True,regular,fcs,fcs
+769,312882226,2011-10-15T20:00:00.000Z,Florida Atlantic,Western Kentucky,1084.0,1238.0,True,regular,fbs,fbs
+770,312880204,2011-10-15T20:00:00.000Z,Oregon State,BYU,1484.0,1506.0,False,regular,fbs,fbs
+771,312880093,2011-10-15T20:00:00.000Z,Murray State,Eastern Illinois,,,True,regular,fcs,fcs
+772,312882065,2011-10-15T20:00:00.000Z,Bethune-Cookman,Fort Valley State,,,False,regular,fcs,
+773,312882110,2011-10-15T20:00:00.000Z,Central Arkansas,McNeese,,,True,regular,fcs,fcs
+774,312880301,2011-10-15T20:00:00.000Z,San Diego,Drake,,,True,regular,fcs,fcs
+775,312882287,2011-10-15T20:00:00.000Z,Illinois State,South Dakota,,,False,regular,fcs,fcs
+776,312882450,2011-10-15T20:00:00.000Z,Norfolk State,Hampton,,,True,regular,fcs,fcs
+777,312882440,2011-10-15T20:05:00.000Z,Nevada,New Mexico,1597.0,983.0,False,regular,fbs,fbs
+778,312882755,2011-10-15T21:00:00.000Z,Grambling,Concordia (AL),,,False,regular,fcs,
+779,312880309,2011-10-15T21:00:00.000Z,Louisiana,North Texas,1301.0,1211.0,True,regular,fbs,fbs
+780,312880302,2011-10-15T21:00:00.000Z,UC Davis,UT San Antonio,,,False,regular,fcs,fcs
+781,312882692,2011-10-15T22:00:00.000Z,Weber State,Idaho State,,,True,regular,fcs,fcs
+782,312880236,2011-10-15T22:00:00.000Z,Chattanooga,Western Carolina,,,True,regular,fcs,fcs
+783,312880036,2011-10-15T22:00:00.000Z,Colorado State,Boise State,1163.0,2054.0,True,regular,fbs,fbs
+784,312880145,2011-10-15T22:00:00.000Z,Ole Miss,Alabama,1441.0,2128.0,True,regular,fbs,fbs
+785,312880322,2011-10-15T22:00:00.000Z,Lafayette,Yale,,,False,regular,fcs,fcs
+786,312880154,2011-10-15T22:30:00.000Z,Wake Forest,Virginia Tech,1400.0,1792.0,True,regular,fbs,fbs
+787,312882294,2011-10-15T23:00:00.000Z,Iowa,Northwestern,1729.0,1424.0,True,regular,fbs,fbs
+788,312882466,2011-10-15T23:00:00.000Z,Northwestern State,Southeastern Louisiana,,,True,regular,fcs,fcs
+789,312880238,2011-10-15T23:00:00.000Z,Vanderbilt,Georgia,1367.0,1828.0,True,regular,fbs,fbs
+790,312880120,2011-10-15T23:00:00.000Z,Maryland,Clemson,1510.0,1796.0,True,regular,fbs,fbs
+791,312880002,2011-10-15T23:00:00.000Z,Auburn,Florida,1703.0,1772.0,True,regular,fbs,fbs
+792,312882542,2011-10-15T23:00:00.000Z,Savannah State,Florida A&M,,,True,regular,fcs,fcs
+793,312882571,2011-10-15T23:00:00.000Z,South Dakota State,Northern Iowa,,,True,regular,fcs,fcs
+794,312882449,2011-10-15T23:00:00.000Z,North Dakota State,Missouri State,,,True,regular,fcs,fcs
+795,312882641,2011-10-15T23:00:00.000Z,Texas Tech,Kansas State,1698.0,1662.0,True,regular,fbs,fbs
+796,312882029,2011-10-15T23:00:00.000Z,Arkansas-Pine Bluff,Southern,,,True,regular,fcs,fcs
+797,312882046,2011-10-15T23:00:00.000Z,Austin Peay,Jacksonville State,,,True,regular,fcs,fcs
+798,312880326,2011-10-15T23:00:00.000Z,Texas State,Lamar,,,False,regular,fcs,fcs
+799,312880235,2011-10-15T23:00:00.000Z,Memphis,East Carolina,891.0,1234.0,True,regular,fbs,fbs
+800,312882653,2011-10-15T23:00:00.000Z,Troy,Louisiana Monroe,1405.0,1228.0,True,regular,fbs,fbs
+801,312880331,2011-10-15T23:05:00.000Z,Eastern Washington,Northern Colorado,,,True,regular,fcs,fcs
+802,312880265,2011-10-15T23:30:00.000Z,Washington State,Stanford,1415.0,2056.0,True,regular,fbs,fbs
+803,312880166,2011-10-16T00:00:00.000Z,New Mexico State,Idaho,1127.0,1201.0,True,regular,fbs,fbs
+804,312882635,2011-10-16T00:00:00.000Z,Tennessee Tech,Tennessee State,,,True,regular,fcs,fcs
+805,312880202,2011-10-16T00:00:00.000Z,Tulsa,UAB,1561.0,1171.0,True,regular,fbs,fbs
+806,312880013,2011-10-16T01:05:00.000Z,Cal Poly,Southern Utah,,,True,regular,fcs,fcs
+807,312882305,2011-10-16T01:15:00.000Z,Kansas,Oklahoma,1186.0,2093.0,True,regular,fbs,fbs
+808,312880278,2011-10-16T02:00:00.000Z,Fresno State,Utah State,1341.0,1426.0,True,regular,fbs,fbs
+809,312882483,2011-10-16T02:15:00.000Z,Oregon,Arizona State,2010.0,1716.0,True,regular,fbs,fbs
+810,312912032,2011-10-19T00:00:00.000Z,Arkansas State,Florida International,1456.0,1444.0,True,regular,fbs,fbs
+811,312932450,2011-10-20T23:30:00.000Z,Norfolk State,Bethune-Cookman,,,True,regular,fcs,fcs
+812,312930005,2011-10-21T00:00:00.000Z,UAB,UCF,1168.0,1573.0,True,regular,fbs,fbs
+813,312930012,2011-10-21T01:00:00.000Z,Arizona,UCLA,1488.0,1384.0,True,regular,fbs,fbs
+814,312940097,2011-10-22T00:00:00.000Z,Louisville,Rutgers,1537.0,1543.0,True,regular,fbs,fbs
+815,312940183,2011-10-22T00:00:00.000Z,Syracuse,West Virginia,1417.0,1777.0,True,regular,fbs,fbs
+816,312952523,2011-10-22T16:00:00.000Z,Robert Morris,Bryant,,,True,regular,fcs,fcs
+817,312950228,2011-10-22T16:00:00.000Z,Clemson,North Carolina,1795.0,1660.0,True,regular,fbs,fbs
+818,312952509,2011-10-22T16:00:00.000Z,Purdue,Illinois,1397.0,1663.0,True,regular,fbs,fbs
+819,312950058,2011-10-22T16:00:00.000Z,South Florida,Cincinnati,1570.0,1681.0,True,regular,fbs,fbs
+820,312952294,2011-10-22T16:00:00.000Z,Iowa,Indiana,1726.0,1236.0,True,regular,fbs,fbs
+821,312952305,2011-10-22T16:00:00.000Z,Kansas,Kansas State,1200.0,1678.0,True,regular,fbs,fbs
+822,312950219,2011-10-22T16:00:00.000Z,Pennsylvania,Yale,,,True,regular,fcs,fcs
+823,312952084,2011-10-22T16:00:00.000Z,Buffalo,Northern Illinois,1135.0,1713.0,True,regular,fbs,fbs
+824,312950096,2011-10-22T16:00:00.000Z,Kentucky,Jacksonville State,,,False,regular,fbs,fcs
+825,312950142,2011-10-22T16:00:00.000Z,Missouri,Oklahoma State,1717.0,1916.0,True,regular,fbs,fbs
+826,312952115,2011-10-22T16:00:00.000Z,Central Connecticut,Albany,,,True,regular,fcs,fcs
+827,312952184,2011-10-22T16:00:00.000Z,Duquesne,Wagner,,,True,regular,fcs,fcs
+828,312950145,2011-10-22T16:21:00.000Z,Ole Miss,Arkansas,1395.0,1837.0,True,regular,fbs,fbs
+829,312950150,2011-10-22T16:30:00.000Z,Duke,Wake Forest,1396.0,1388.0,True,regular,fbs,fbs
+830,312950172,2011-10-22T16:30:00.000Z,Cornell,Brown,,,True,regular,fcs,fcs
+831,312950227,2011-10-22T16:30:00.000Z,Rhode Island,Delaware,,,True,regular,fcs,fcs
+832,312950047,2011-10-22T17:00:00.000Z,Howard,North Carolina A&T,,,True,regular,fcs,fcs
+833,312952529,2011-10-22T17:00:00.000Z,Sacred Heart,Monmouth,,,True,regular,fcs,fcs
+834,312952097,2011-10-22T17:00:00.000Z,Campbell,San Diego,,,True,regular,fcs,fcs
+835,312950108,2011-10-22T17:00:00.000Z,Harvard,Princeton,,,True,regular,fcs,fcs
+836,312952086,2011-10-22T17:00:00.000Z,Butler,Marist,,,True,regular,fcs,fcs
+837,312950294,2011-10-22T17:00:00.000Z,Jacksonville,Davidson,,,True,regular,fcs,fcs
+838,312952199,2011-10-22T17:00:00.000Z,Eastern Michigan,Western Michigan,1015.0,1513.0,True,regular,fbs,fbs
+839,312952413,2011-10-22T17:00:00.000Z,Morehead State,Dayton,,,True,regular,fcs,fcs
+840,312952083,2011-10-22T17:00:00.000Z,Bucknell,Holy Cross,,,True,regular,fcs,fcs
+841,312950322,2011-10-22T17:00:00.000Z,Lafayette,Fordham,,,True,regular,fcs,fcs
+842,312950159,2011-10-22T17:30:00.000Z,Dartmouth,Columbia,,,True,regular,fcs,fcs
+843,312952569,2011-10-22T17:30:00.000Z,South Carolina State,Florida A&M,,,True,regular,fcs,fcs
+844,312952127,2011-10-22T17:30:00.000Z,Charleston Southern,Liberty,,,True,regular,fcs,fcs
+845,312952678,2011-10-22T17:30:00.000Z,VMI,Stony Brook,,,True,regular,fcs,fcs
+846,312952181,2011-10-22T18:00:00.000Z,Drake,Valparaiso,,,True,regular,fcs,fcs
+847,312950231,2011-10-22T18:00:00.000Z,Furman,Wofford,,,True,regular,fcs,fcs
+848,312952546,2011-10-22T18:00:00.000Z,Southeast Missouri State,Austin Peay,,,True,regular,fcs,fcs
+849,312950046,2011-10-22T18:00:00.000Z,Georgetown,Colgate,,,True,regular,fcs,fcs
+850,312952287,2011-10-22T18:00:00.000Z,Illinois State,Indiana State,,,True,regular,fcs,fcs
+851,312950290,2011-10-22T18:00:00.000Z,Georgia Southern,Presbyterian College,,,False,regular,fcs,fcs
+852,312952261,2011-10-22T18:00:00.000Z,Hampton,North Carolina Central,,,True,regular,fcs,fcs
+853,312950155,2011-10-22T18:00:00.000Z,North Dakota,Cal Poly,,,True,regular,fcs,fcs
+854,312952050,2011-10-22T18:00:00.000Z,Ball State,Central Michigan,1192.0,1256.0,True,regular,fbs,fbs
+855,312952628,2011-10-22T18:00:00.000Z,TCU,New Mexico,1863.0,938.0,True,regular,fbs,fbs
+856,312952197,2011-10-22T18:30:00.000Z,Eastern Illinois,UT Martin,,,True,regular,fcs,fcs
+857,312950259,2011-10-22T19:00:00.000Z,Virginia Tech,Boston College,1804.0,1448.0,True,regular,fbs,fbs
+858,312952755,2011-10-22T19:00:00.000Z,Grambling,Mississippi Valley State,,,True,regular,fcs,fcs
+859,312952640,2011-10-22T19:00:00.000Z,Texas Southern,Central State,,,False,regular,fcs,
+860,312952016,2011-10-22T19:00:00.000Z,Alcorn State,Concordia (AL),,,False,regular,fcs,
+861,312952717,2011-10-22T19:00:00.000Z,Western Carolina,The Citadel,,,True,regular,fcs,fcs
+862,312952210,2011-10-22T19:00:00.000Z,Elon,Chattanooga,,,True,regular,fcs,fcs
+863,312952247,2011-10-22T19:00:00.000Z,Georgia State,South Alabama,,,False,regular,fcs,
+864,312952198,2011-10-22T19:00:00.000Z,Eastern Kentucky,Tennessee State,,,True,regular,fcs,fcs
+865,312950252,2011-10-22T19:00:00.000Z,BYU,Idaho State,,,False,regular,fbs,fcs
+866,312952571,2011-10-22T19:00:00.000Z,South Dakota State,North Dakota State,,,True,regular,fcs,fcs
+867,312950328,2011-10-22T19:00:00.000Z,Utah State,Louisiana Tech,1403.0,1401.0,True,regular,fbs,fbs
+868,312952729,2011-10-22T19:30:00.000Z,William & Mary,Towson,,,True,regular,fcs,fcs
+869,312952026,2011-10-22T19:30:00.000Z,Appalachian State,Samford,,,True,regular,fcs,fcs
+870,312950222,2011-10-22T19:30:00.000Z,Villanova,Old Dominion,,,True,regular,fcs,fcs
+871,312950113,2011-10-22T19:30:00.000Z,UMass,New Hampshire,,,True,regular,fcs,fcs
+872,312950257,2011-10-22T19:30:00.000Z,Richmond,Maine,,,True,regular,fcs,fcs
+873,312950068,2011-10-22T19:30:00.000Z,Boise State,Air Force,2091.0,1517.0,True,regular,fbs,fbs
+874,312952390,2011-10-22T19:30:00.000Z,Miami,Georgia Tech,1689.0,1698.0,True,regular,fbs,fbs
+875,312950066,2011-10-22T19:30:00.000Z,Iowa State,Texas A&M,1293.0,1797.0,True,regular,fbs,fbs
+876,312950135,2011-10-22T19:30:00.000Z,Minnesota,Nebraska,1173.0,1723.0,True,regular,fbs,fbs
+877,312950099,2011-10-22T19:30:00.000Z,LSU,Auburn,2018.0,1728.0,True,regular,fbs,fbs
+878,312950038,2011-10-22T19:30:00.000Z,Colorado,Oregon,1318.0,2014.0,True,regular,fbs,fbs
+879,312950052,2011-10-22T19:30:00.000Z,Florida State,Maryland,1769.0,1511.0,True,regular,fbs,fbs
+880,312952006,2011-10-22T19:30:00.000Z,Akron,Ohio,981.0,1446.0,True,regular,fbs,fbs
+881,312952655,2011-10-22T19:30:00.000Z,Tulane,Memphis,1083.0,881.0,True,regular,fbs,fbs
+882,312950189,2011-10-22T19:30:00.000Z,Bowling Green,Temple,1242.0,1686.0,True,regular,fbs,fbs
+883,312950258,2011-10-22T19:30:00.000Z,Virginia,NC State,1391.0,1574.0,True,regular,fbs,fbs
+884,312952426,2011-10-22T19:30:00.000Z,Navy,East Carolina,1540.0,1244.0,False,regular,fbs,fbs
+885,312952458,2011-10-22T19:35:00.000Z,Northern Colorado,Montana State,,,True,regular,fcs,fcs
+886,312952460,2011-10-22T20:00:00.000Z,Northern Iowa,Southern Illinois,,,True,regular,fcs,fcs
+887,312950098,2011-10-22T20:00:00.000Z,Western Kentucky,Louisiana,1272.0,1338.0,True,regular,fbs,fbs
+888,312952320,2011-10-22T20:00:00.000Z,Lamar,Central Arkansas,,,True,regular,fcs,fcs
+889,312952754,2011-10-22T20:00:00.000Z,Youngstown State,St Francis (PA),,,False,regular,fcs,fcs
+890,312952440,2011-10-22T20:05:00.000Z,Nevada,Fresno State,1642.0,1364.0,True,regular,fbs,fbs
+891,312950248,2011-10-22T20:30:00.000Z,Houston,Marshall,1822.0,1295.0,True,regular,fbs,fbs
+892,312950233,2011-10-22T21:00:00.000Z,South Dakota,UC Davis,,,True,regular,fcs,fcs
+893,312950249,2011-10-22T21:00:00.000Z,North Texas,Louisiana Monroe,1174.0,1329.0,True,regular,fbs,fbs
+894,312952692,2011-10-22T22:00:00.000Z,Weber State,Southern Utah,,,False,regular,fcs,fcs
+895,312952464,2011-10-22T22:05:00.000Z,Northern Arizona,Montana,,,True,regular,fcs,fcs
+896,312952447,2011-10-22T22:30:00.000Z,Nicholls,Stephen F. Austin,,,True,regular,fcs,fcs
+897,312950077,2011-10-22T23:00:00.000Z,Northwestern,Penn State,1427.0,1621.0,True,regular,fbs,fbs
+898,312950324,2011-10-22T23:00:00.000Z,Coastal Carolina,Gardner-Webb,,,True,regular,fcs,fcs
+899,312952649,2011-10-22T23:00:00.000Z,Toledo,Miami (OH),1543.0,1341.0,True,regular,fbs,fbs
+900,312950242,2011-10-22T23:00:00.000Z,Rice,Tulsa,1226.0,1564.0,True,regular,fbs,fbs
+901,312950025,2011-10-22T23:00:00.000Z,California,Utah,1456.0,1662.0,True,regular,fbs,fbs
+902,312950238,2011-10-22T23:00:00.000Z,Vanderbilt,Army,1388.0,1412.0,False,regular,fbs,fbs
+903,312952710,2011-10-22T23:00:00.000Z,Western Illinois,Missouri State,,,True,regular,fcs,fcs
+904,312950333,2011-10-22T23:15:00.000Z,Alabama,Tennessee,2174.0,1616.0,True,regular,fbs,fbs
+905,312950087,2011-10-22T23:30:00.000Z,Notre Dame,USC,1784.0,1647.0,False,regular,fbs,fbs
+906,312952226,2011-10-23T00:00:00.000Z,Florida Atlantic,Middle Tennessee,1050.0,1300.0,True,regular,fbs,fbs
+907,312952638,2011-10-23T00:00:00.000Z,UTEP,Colorado State,1407.0,1126.0,False,regular,fbs,fbs
+908,312950127,2011-10-23T00:00:00.000Z,Michigan State,Wisconsin,1732.0,2113.0,True,regular,fbs,fbs
+909,312950024,2011-10-23T00:00:00.000Z,Stanford,Washington,2067.0,1628.0,True,regular,fbs,fbs
+910,312952545,2011-10-23T00:00:00.000Z,Southeastern Louisiana,Texas State,,,False,regular,fcs,fcs
+911,312950201,2011-10-23T00:00:00.000Z,Oklahoma,Texas Tech,2079.0,1682.0,True,regular,fbs,fbs
+912,312952572,2011-10-23T00:00:00.000Z,Southern Mississippi,SMU,1656.0,1593.0,True,regular,fbs,fbs
+913,312952377,2011-10-23T00:00:00.000Z,McNeese,Sam Houston State,,,True,regular,fcs,fcs
+914,312952502,2011-10-23T00:05:00.000Z,Portland State,Willamette,,,False,regular,fcs,
+915,312950016,2011-10-23T01:05:00.000Z,Sacramento State,Eastern Washington,,,True,regular,fcs,fcs
+916,312950265,2011-10-23T02:30:00.000Z,Washington State,Oregon State,1404.0,1465.0,True,regular,fbs,fbs
+917,312950062,2011-10-23T04:00:00.000Z,Hawai'i,New Mexico State,1480.0,1141.0,True,regular,fbs,fbs
+918,312982229,2011-10-26T00:00:00.000Z,Florida International,Troy,1405.0,1304.0,True,regular,fbs,fbs
+919,312990221,2011-10-27T00:00:00.000Z,Pittsburgh,Connecticut,1602.0,1487.0,True,regular,fbs,fbs
+920,313002390,2011-10-28T00:00:00.000Z,Miami,Virginia,1727.0,1376.0,True,regular,fbs,fbs
+921,313000248,2011-10-28T00:00:00.000Z,Houston,Rice,1857.0,1216.0,True,regular,fbs,fbs
+922,313012628,2011-10-29T00:00:00.000Z,TCU,BYU,1951.0,1525.0,False,regular,fbs,fbs
+923,313020052,2011-10-29T16:00:00.000Z,Florida State,NC State,1804.0,1589.0,True,regular,fbs,fbs
+924,313022368,2011-10-29T16:00:00.000Z,Marist,Drake,,,True,regular,fcs,fcs
+925,313022598,2011-10-29T16:00:00.000Z,St Francis (PA),Central Connecticut,,,True,regular,fcs,fcs
+926,313022681,2011-10-29T16:00:00.000Z,Wagner,Albany,,,True,regular,fcs,fcs
+927,313022142,2011-10-29T16:00:00.000Z,Colgate,Lehigh,,,True,regular,fcs,fcs
+928,313020295,2011-10-29T16:00:00.000Z,Old Dominion,James Madison,,,True,regular,fcs,fcs
+929,313020160,2011-10-29T16:00:00.000Z,New Hampshire,Rhode Island,,,True,regular,fcs,fcs
+930,313022523,2011-10-29T16:00:00.000Z,Robert Morris,Sacred Heart,,,True,regular,fcs,fcs
+931,313020158,2011-10-29T16:00:00.000Z,Nebraska,Michigan State,1735.0,1760.0,True,regular,fbs,fbs
+932,313020130,2011-10-29T16:00:00.000Z,Michigan,Purdue,1741.0,1423.0,True,regular,fbs,fbs
+933,313020245,2011-10-29T16:00:00.000Z,Texas A&M,Missouri,1788.0,1685.0,True,regular,fbs,fbs
+934,313020171,2011-10-29T16:00:00.000Z,Columbia,Yale,,,True,regular,fcs,fcs
+935,313020276,2011-10-29T16:00:00.000Z,Marshall,UAB,1260.0,1173.0,True,regular,fbs,fbs
+936,313020084,2011-10-29T16:00:00.000Z,Indiana,Northwestern,1233.0,1423.0,True,regular,fbs,fbs
+937,313020097,2011-10-29T16:00:00.000Z,Louisville,Syracuse,1538.0,1531.0,True,regular,fbs,fbs
+938,313022006,2011-10-29T16:00:00.000Z,Akron,Central Michigan,984.0,1251.0,True,regular,fbs,fbs
+939,313020238,2011-10-29T16:21:00.000Z,Vanderbilt,Arkansas,1447.0,1817.0,True,regular,fbs,fbs
+940,313020150,2011-10-29T16:30:00.000Z,Duke,Virginia Tech,1394.0,1807.0,True,regular,fbs,fbs
+941,313020225,2011-10-29T16:30:00.000Z,Brown,Pennsylvania,,,True,regular,fcs,fcs
+942,313022169,2011-10-29T17:00:00.000Z,Delaware State,Morgan State,,,True,regular,fcs,fcs
+943,313022643,2011-10-29T17:00:00.000Z,The Citadel,VMI,,,False,regular,fcs,fcs
+944,313022166,2011-10-29T17:00:00.000Z,Davidson,Campbell,,,True,regular,fcs,fcs
+945,313020163,2011-10-29T17:00:00.000Z,Princeton,Cornell,,,True,regular,fcs,fcs
+946,313022405,2011-10-29T17:00:00.000Z,Monmouth,Duquesne,,,True,regular,fcs,fcs
+947,313022754,2011-10-29T17:00:00.000Z,Youngstown State,Western Illinois,,,True,regular,fcs,fcs
+948,313020107,2011-10-29T17:00:00.000Z,Holy Cross,Georgetown,,,True,regular,fcs,fcs
+949,313022309,2011-10-29T17:00:00.000Z,Kent State,Bowling Green,1222.0,1250.0,True,regular,fbs,fbs
+950,313020257,2011-10-29T17:00:00.000Z,Richmond,UMass,,,True,regular,fcs,fcs
+951,313020047,2011-10-29T17:00:00.000Z,Howard,South Carolina State,,,True,regular,fcs,fcs
+952,313022241,2011-10-29T17:30:00.000Z,Gardner-Webb,Charleston Southern,,,True,regular,fcs,fcs
+953,313022636,2011-10-29T17:30:00.000Z,UT San Antonio,Georgia State,,,True,regular,fcs,fcs
+954,313022747,2011-10-29T17:30:00.000Z,Wofford,Elon,,,True,regular,fcs,fcs
+955,313020167,2011-10-29T18:00:00.000Z,New Mexico,Air Force,850.0,1536.0,True,regular,fbs,fbs
+956,313020093,2011-10-29T18:00:00.000Z,Murray State,Eastern Kentucky,,,True,regular,fcs,fcs
+957,313020236,2011-10-29T18:00:00.000Z,Chattanooga,Furman,,,True,regular,fcs,fcs
+958,313022711,2011-10-29T18:00:00.000Z,Western Michigan,Ball State,1493.0,1197.0,True,regular,fbs,fbs
+959,313022542,2011-10-29T18:00:00.000Z,Savannah State,Hampton,,,True,regular,fcs,fcs
+960,313022450,2011-10-29T18:00:00.000Z,Norfolk State,North Carolina A&T,,,True,regular,fcs,fcs
+961,313022674,2011-10-29T18:00:00.000Z,Valparaiso,Dayton,,,True,regular,fcs,fcs
+962,313022428,2011-10-29T18:00:00.000Z,North Carolina Central,Bethune-Cookman,,,True,regular,fcs,fcs
+963,313020147,2011-10-29T18:05:00.000Z,Montana State,Idaho State,,,True,regular,fcs,fcs
+964,313022026,2011-10-29T19:00:00.000Z,Appalachian State,Georgia Southern,,,True,regular,fcs,fcs
+965,313022534,2011-10-29T19:00:00.000Z,Sam Houston State,Lamar,,,True,regular,fcs,fcs
+966,313022400,2011-10-29T19:00:00.000Z,Mississippi Valley State,Texas Southern,,,True,regular,fcs,fcs
+967,313020253,2011-10-29T19:00:00.000Z,Southern Utah,UC Davis,,,True,regular,fcs,fcs
+968,313022535,2011-10-29T19:00:00.000Z,Samford,Western Carolina,,,True,regular,fcs,fcs
+969,313020149,2011-10-29T19:00:00.000Z,Montana,Weber State,,,True,regular,fcs,fcs
+970,313022483,2011-10-29T19:00:00.000Z,Oregon,Washington State,2054.0,1351.0,True,regular,fbs,fbs
+971,313020120,2011-10-29T19:00:00.000Z,Maryland,Boston College,1476.0,1445.0,True,regular,fbs,fbs
+972,313022623,2011-10-29T19:00:00.000Z,Missouri State,South Dakota State,,,True,regular,fcs,fcs
+973,313022630,2011-10-29T19:00:00.000Z,UT Martin,Southeast Missouri State,,,True,regular,fcs,fcs
+974,313020164,2011-10-29T19:30:00.000Z,Rutgers,West Virginia,1542.0,1663.0,True,regular,fbs,fbs
+975,313020213,2011-10-29T19:30:00.000Z,Penn State,Illinois,1625.0,1637.0,True,regular,fbs,fbs
+976,313022306,2011-10-29T19:30:00.000Z,Kansas State,Oklahoma,1728.0,2048.0,True,regular,fbs,fbs
+977,313020222,2011-10-29T19:30:00.000Z,Villanova,Maine,,,True,regular,fcs,fcs
+978,313020349,2011-10-29T19:30:00.000Z,Army,Fordham,,,False,regular,fbs,fcs
+979,313022029,2011-10-29T19:30:00.000Z,Arkansas-Pine Bluff,Grambling,,,True,regular,fcs,fcs
+980,313022011,2011-10-29T19:30:00.000Z,Alabama State,Alabama A&M,,,True,regular,fcs,fcs
+981,313020079,2011-10-29T19:30:00.000Z,Southern Illinois,Illinois State,,,True,regular,fcs,fcs
+982,313020057,2011-10-29T19:30:00.000Z,Florida,Georgia,1747.0,1807.0,True,regular,fbs,fbs
+983,313022335,2011-10-29T19:30:00.000Z,Liberty,Presbyterian College,,,True,regular,fcs,fcs
+984,313020153,2011-10-29T19:30:00.000Z,North Carolina,Wake Forest,1624.0,1390.0,True,regular,fbs,fbs
+985,313020151,2011-10-29T19:30:00.000Z,East Carolina,Tulane,1268.0,1023.0,True,regular,fbs,fbs
+986,313020202,2011-10-29T19:30:00.000Z,Tulsa,SMU,1574.0,1540.0,True,regular,fbs,fbs
+987,313020193,2011-10-29T19:30:00.000Z,Miami (OH),Buffalo,1312.0,1158.0,True,regular,fbs,fbs
+988,313020087,2011-10-29T19:30:00.000Z,Notre Dame,Navy,1738.0,1516.0,False,regular,fbs,fbs
+989,313020135,2011-10-29T19:30:00.000Z,Minnesota,Iowa,1161.0,1729.0,True,regular,fbs,fbs
+990,313022433,2011-10-29T19:30:00.000Z,Louisiana Monroe,Western Kentucky,1276.0,1322.0,True,regular,fbs,fbs
+991,313020197,2011-10-29T19:30:00.000Z,Oklahoma State,Baylor,1948.0,1535.0,True,regular,fbs,fbs
+992,313022458,2011-10-29T19:35:00.000Z,Northern Colorado,North Dakota,,,False,regular,fcs,fcs
+993,313022449,2011-10-29T20:00:00.000Z,North Dakota State,Northern Iowa,,,True,regular,fcs,fcs
+994,313022619,2011-10-29T20:00:00.000Z,Stony Brook,Coastal Carolina,,,True,regular,fcs,fcs
+995,313022348,2011-10-29T20:00:00.000Z,Louisiana Tech,San José State,1414.0,1184.0,True,regular,fbs,fbs
+996,313022116,2011-10-29T20:00:00.000Z,UCF,Memphis,1568.0,941.0,True,regular,fbs,fbs
+997,313020055,2011-10-29T20:00:00.000Z,Jacksonville State,Tennessee Tech,,,True,regular,fcs,fcs
+998,313022617,2011-10-29T20:00:00.000Z,Stephen F. Austin,McNeese,,,True,regular,fcs,fcs
+999,313020326,2011-10-29T20:00:00.000Z,Texas State,Northwestern State,,,False,regular,fcs,fcs
+1000,313020331,2011-10-29T20:05:00.000Z,Eastern Washington,Portland State,,,True,regular,fcs,fcs
+1001,313022504,2011-10-29T21:00:00.000Z,Prairie View,Jackson State,,,True,regular,fcs,fcs
+1002,313022046,2011-10-29T21:00:00.000Z,Austin Peay,Eastern Illinois,,,True,regular,fcs,fcs
+1003,313020070,2011-10-29T21:00:00.000Z,Idaho,Hawai'i,1187.0,1476.0,True,regular,fbs,fbs
+1004,313022439,2011-10-29T22:00:00.000Z,UNLV,Colorado State,1032.0,1121.0,True,regular,fbs,fbs
+1005,313020108,2011-10-29T22:00:00.000Z,Harvard,Dartmouth,,,True,regular,fcs,fcs
+1006,313020322,2011-10-29T22:00:00.000Z,Lafayette,Bucknell,,,True,regular,fcs,fcs
+1007,313022582,2011-10-29T22:30:00.000Z,Southern,Alcorn State,,,True,regular,fcs,fcs
+1008,313020009,2011-10-29T22:30:00.000Z,Arizona State,Colorado,1712.0,1278.0,True,regular,fbs,fbs
+1009,313022110,2011-10-29T23:00:00.000Z,Central Arkansas,Southeastern Louisiana,,,True,regular,fcs,fcs
+1010,313020254,2011-10-29T23:00:00.000Z,Utah,Oregon State,1577.0,1518.0,True,regular,fbs,fbs
+1011,313022641,2011-10-29T23:00:00.000Z,Texas Tech,Iowa State,1713.0,1302.0,True,regular,fbs,fbs
+1012,313020002,2011-10-29T23:00:00.000Z,Auburn,Ole Miss,1667.0,1415.0,True,regular,fbs,fbs
+1013,313020119,2011-10-29T23:00:00.000Z,Towson,Delaware,,,True,regular,fcs,fcs
+1014,313020096,2011-10-29T23:00:00.000Z,Kentucky,Mississippi State,1322.0,1679.0,True,regular,fbs,fbs
+1015,313020251,2011-10-29T23:00:00.000Z,Texas,Kansas,1653.0,1150.0,True,regular,fbs,fbs
+1016,313022032,2011-10-29T23:00:00.000Z,Arkansas State,North Texas,1495.0,1227.0,True,regular,fbs,fbs
+1017,313020026,2011-10-29T23:00:00.000Z,UCLA,California,1296.0,1541.0,True,regular,fbs,fbs
+1018,313022633,2011-10-29T23:15:00.000Z,Tennessee,South Carolina,1595.0,1822.0,True,regular,fbs,fbs
+1019,313022393,2011-10-29T23:30:00.000Z,Middle Tennessee,Louisiana,1335.0,1288.0,True,regular,fbs,fbs
+1020,313022638,2011-10-30T00:00:00.000Z,UTEP,Southern Mississippi,1412.0,1709.0,True,regular,fbs,fbs
+1021,313020166,2011-10-30T00:00:00.000Z,New Mexico State,Nevada,1145.0,1637.0,True,regular,fbs,fbs
+1022,313020194,2011-10-30T00:00:00.000Z,Ohio State,Wisconsin,1817.0,2085.0,True,regular,fbs,fbs
+1023,313020030,2011-10-30T00:00:00.000Z,USC,Stanford,1693.0,2138.0,True,regular,fbs,fbs
+1024,313020059,2011-10-30T00:00:00.000Z,Georgia Tech,Clemson,1660.0,1831.0,True,regular,fbs,fbs
+1025,313020016,2011-10-30T01:05:00.000Z,Sacramento State,Northern Arizona,,,True,regular,fcs,fcs
+1026,313020013,2011-10-30T01:05:00.000Z,Cal Poly,South Dakota,,,True,regular,fcs,fcs
+1027,313020021,2011-10-30T02:00:00.000Z,San Diego State,Wyoming,1564.0,1301.0,True,regular,fbs,fbs
+1028,313020264,2011-10-30T02:30:00.000Z,Washington,Arizona,1557.0,1576.0,True,regular,fbs,fbs
+1029,313052649,2011-11-01T23:00:00.000Z,Toledo,Northern Illinois,1572.0,1690.0,True,regular,fbs,fbs
+1030,313060195,2011-11-03T00:00:00.000Z,Ohio,Temple,1443.0,1678.0,True,regular,fbs,fbs
+1031,313072241,2011-11-03T22:00:00.000Z,Gardner-Webb,Virginia State,,,False,regular,fcs,
+1032,313070193,2011-11-03T23:30:00.000Z,Miami (OH),Akron,1367.0,995.0,True,regular,fbs,fbs
+1033,313070006,2011-11-03T23:30:00.000Z,South Alabama,Mississippi Valley State,,,False,regular,,fcs
+1034,313072116,2011-11-04T00:00:00.000Z,UCF,Tulsa,1608.0,1654.0,True,regular,fbs,fbs
+1035,313070103,2011-11-04T00:00:00.000Z,Boston College,Florida State,1471.0,1871.0,True,regular,fbs,fbs
+1036,313082309,2011-11-05T00:00:00.000Z,Kent State,Central Michigan,1247.0,1240.0,True,regular,fbs,fbs
+1037,313080038,2011-11-05T01:00:00.000Z,Colorado,USC,1236.0,1710.0,True,regular,fbs,fbs
+1038,313092086,2011-11-05T16:00:00.000Z,Butler,Davidson,,,True,regular,fcs,fcs
+1039,313092115,2011-11-05T16:00:00.000Z,Central Connecticut,Robert Morris,,,True,regular,fcs,fcs
+1040,313090043,2011-11-05T16:00:00.000Z,Yale,Brown,,,True,regular,fcs,fcs
+1041,313090160,2011-11-05T16:00:00.000Z,New Hampshire,James Madison,,,True,regular,fcs,fcs
+1042,313092535,2011-11-05T16:00:00.000Z,Samford,Chattanooga,,,True,regular,fcs,fcs
+1043,313090041,2011-11-05T16:00:00.000Z,Connecticut,Syracuse,1466.0,1494.0,True,regular,fbs,fbs
+1044,313092199,2011-11-05T16:00:00.000Z,Eastern Michigan,Ball State,1035.0,1200.0,True,regular,fbs,fbs
+1045,313090277,2011-11-05T16:00:00.000Z,West Virginia,Louisville,1673.0,1575.0,True,regular,fbs,fbs
+1046,313090194,2011-11-05T16:00:00.000Z,Ohio State,Indiana,1829.0,1200.0,True,regular,fbs,fbs
+1047,313090251,2011-11-05T16:00:00.000Z,Texas,Texas Tech,1714.0,1550.0,True,regular,fbs,fbs
+1048,313090127,2011-11-05T16:00:00.000Z,Michigan State,Minnesota,1707.0,1176.0,True,regular,fbs,fbs
+1049,313092294,2011-11-05T16:00:00.000Z,Iowa,Michigan,1714.0,1762.0,True,regular,fbs,fbs
+1050,313092368,2011-11-05T16:00:00.000Z,Marist,Valparaiso,,,True,regular,fcs,fcs
+1051,313090057,2011-11-05T16:21:00.000Z,Florida,Vanderbilt,1748.0,1463.0,True,regular,fbs,fbs
+1052,313090120,2011-11-05T16:30:00.000Z,Maryland,Virginia,1450.0,1419.0,True,regular,fbs,fbs
+1053,313090171,2011-11-05T16:30:00.000Z,Columbia,Harvard,,,True,regular,fcs,fcs
+1054,313090061,2011-11-05T16:30:00.000Z,Georgia,New Mexico State,1806.0,1157.0,False,regular,fbs,fbs
+1055,313090066,2011-11-05T16:30:00.000Z,Iowa State,Kansas,1465.0,1089.0,True,regular,fbs,fbs
+1056,313090152,2011-11-05T16:30:00.000Z,NC State,North Carolina,1522.0,1661.0,True,regular,fbs,fbs
+1057,313090311,2011-11-05T16:30:00.000Z,Maine,Towson,,,True,regular,fcs,fcs
+1058,313092329,2011-11-05T16:30:00.000Z,Lehigh,Holy Cross,,,True,regular,fcs,fcs
+1059,313092598,2011-11-05T17:00:00.000Z,St Francis (PA),Monmouth,,,True,regular,fcs,fcs
+1060,313090227,2011-11-05T17:00:00.000Z,Rhode Island,William & Mary,,,True,regular,fcs,fcs
+1061,313090219,2011-11-05T17:00:00.000Z,Pennsylvania,Princeton,,,True,regular,fcs,fcs
+1062,313092681,2011-11-05T17:00:00.000Z,Wagner,Sacred Heart,,,True,regular,fcs,fcs
+1063,313090046,2011-11-05T17:00:00.000Z,Georgetown,Fordham,,,True,regular,fcs,fcs
+1064,313092168,2011-11-05T17:00:00.000Z,Dayton,San Diego,,,True,regular,fcs,fcs
+1065,313090399,2011-11-05T17:00:00.000Z,Albany,Bryant,,,True,regular,fcs,fcs
+1066,313092261,2011-11-05T17:00:00.000Z,Hampton,Howard,,,True,regular,fcs,fcs
+1067,313092169,2011-11-05T17:00:00.000Z,Delaware State,North Carolina Central,,,True,regular,fcs,fcs
+1068,313092097,2011-11-05T17:00:00.000Z,Campbell,Morehead State,,,True,regular,fcs,fcs
+1069,313090231,2011-11-05T17:30:00.000Z,Furman,Appalachian State,,,True,regular,fcs,fcs
+1070,313090159,2011-11-05T17:30:00.000Z,Dartmouth,Cornell,,,True,regular,fcs,fcs
+1071,313092127,2011-11-05T17:30:00.000Z,Charleston Southern,Stony Brook,,,True,regular,fcs,fcs
+1072,313092546,2011-11-05T18:00:00.000Z,Southeast Missouri State,Central Methodist,,,False,regular,fcs,
+1073,313092287,2011-11-05T18:00:00.000Z,Illinois State,Western Illinois,,,True,regular,fcs,fcs
+1074,313092751,2011-11-05T18:00:00.000Z,Wyoming,TCU,1323.0,1943.0,True,regular,fbs,fbs
+1075,313092046,2011-11-05T18:00:00.000Z,Austin Peay,Central State,,,False,regular,fcs,
+1076,313090290,2011-11-05T18:00:00.000Z,Georgia Southern,The Citadel,,,True,regular,fcs,fcs
+1077,313092247,2011-11-05T18:00:00.000Z,Georgia State,St. Francis (IL),,,False,regular,fcs,
+1078,313090155,2011-11-05T18:00:00.000Z,North Dakota,Sioux Falls,,,False,regular,fcs,
+1079,313092181,2011-11-05T18:00:00.000Z,Drake,Jacksonville,,,True,regular,fcs,fcs
+1080,313090295,2011-11-05T18:00:00.000Z,Old Dominion,Richmond,,,True,regular,fcs,fcs
+1081,313090282,2011-11-05T18:05:00.000Z,Indiana State,North Dakota State,,,True,regular,fcs,fcs
+1082,313092635,2011-11-05T18:30:00.000Z,Tennessee Tech,Murray State,,,True,regular,fcs,fcs
+1083,313092197,2011-11-05T18:30:00.000Z,Eastern Illinois,Tennessee State,,,True,regular,fcs,fcs
+1084,313092016,2011-11-05T19:00:00.000Z,Alcorn State,Alabama A&M,,,True,regular,fcs,fcs
+1085,313092377,2011-11-05T19:00:00.000Z,McNeese,Nicholls,,,True,regular,fcs,fcs
+1086,313092296,2011-11-05T19:00:00.000Z,Jackson State,Grambling,,,True,regular,fcs,fcs
+1087,313092717,2011-11-05T19:00:00.000Z,Western Carolina,Wofford,,,True,regular,fcs,fcs
+1088,313092571,2011-11-05T19:00:00.000Z,South Dakota State,Southern Illinois,,,True,regular,fcs,fcs
+1089,313092390,2011-11-05T19:00:00.000Z,Miami,Duke,1684.0,1412.0,True,regular,fbs,fbs
+1090,313092567,2011-11-05T19:00:00.000Z,SMU,Tulane,1460.0,998.0,True,regular,fbs,fbs
+1091,313090149,2011-11-05T19:05:00.000Z,Montana,Western Oregon,,,False,regular,fcs,
+1092,313092426,2011-11-05T19:30:00.000Z,Navy,Troy,1423.0,1304.0,False,regular,fbs,fbs
+1093,313092029,2011-11-05T19:30:00.000Z,Arkansas-Pine Bluff,Alabama State,,,True,regular,fcs,fcs
+1094,313092335,2011-11-05T19:30:00.000Z,Liberty,VMI,,,True,regular,fcs,fcs
+1095,313092692,2011-11-05T19:30:00.000Z,Weber State,Montana State,,,True,regular,fcs,fcs
+1096,313090113,2011-11-05T19:30:00.000Z,UMass,Villanova,,,True,regular,fcs,fcs
+1097,313090204,2011-11-05T19:30:00.000Z,Oregon State,Stanford,1480.0,2121.0,True,regular,fbs,fbs
+1098,313090275,2011-11-05T19:30:00.000Z,Wisconsin,Purdue,2073.0,1402.0,True,regular,fbs,fbs
+1099,313090158,2011-11-05T19:30:00.000Z,Nebraska,Northwestern,1788.0,1456.0,True,regular,fbs,fbs
+1100,313090201,2011-11-05T19:30:00.000Z,Oklahoma,Texas A&M,2127.0,1767.0,True,regular,fbs,fbs
+1101,313092005,2011-11-05T19:30:00.000Z,Air Force,Army,1574.0,1353.0,False,regular,fbs,fbs
+1102,313090309,2011-11-05T19:30:00.000Z,Louisiana,Louisiana Monroe,1361.0,1274.0,True,regular,fbs,fbs
+1103,313090242,2011-11-05T19:30:00.000Z,Rice,UTEP,1183.0,1398.0,True,regular,fbs,fbs
+1104,313090096,2011-11-05T19:30:00.000Z,Kentucky,Ole Miss,1327.0,1398.0,True,regular,fbs,fbs
+1105,313092065,2011-11-05T20:00:00.000Z,Bethune-Cookman,Morgan State,,,True,regular,fcs,fcs
+1106,313090023,2011-11-05T20:00:00.000Z,San José State,Idaho,1183.0,1199.0,True,regular,fbs,fbs
+1107,313090098,2011-11-05T20:00:00.000Z,Western Kentucky,Florida International,1324.0,1405.0,True,regular,fbs,fbs
+1108,313090151,2011-11-05T20:00:00.000Z,East Carolina,Southern Mississippi,1293.0,1723.0,True,regular,fbs,fbs
+1109,313092466,2011-11-05T20:00:00.000Z,Northwestern State,Central Arkansas,,,True,regular,fcs,fcs
+1110,313092226,2011-11-05T20:00:00.000Z,Florida Atlantic,Arkansas State,1015.0,1523.0,True,regular,fbs,fbs
+1111,313090055,2011-11-05T20:00:00.000Z,Jacksonville State,Eastern Kentucky,,,True,regular,fcs,fcs
+1112,313090326,2011-11-05T20:00:00.000Z,Texas State,Prairie View,,,False,regular,fcs,fcs
+1113,313092502,2011-11-05T20:05:00.000Z,Portland State,Sacramento State,,,True,regular,fcs,fcs
+1114,313092545,2011-11-05T20:30:00.000Z,Southeastern Louisiana,Sam Houston State,,,True,regular,fcs,fcs
+1115,313092542,2011-11-05T21:00:00.000Z,Savannah State,Norfolk State,,,True,regular,fcs,fcs
+1116,313092460,2011-11-05T21:05:00.000Z,Northern Iowa,Youngstown State,,,True,regular,fcs,fcs
+1117,313090302,2011-11-05T21:05:00.000Z,UC Davis,Cal Poly,,,True,regular,fcs,fcs
+1118,313090322,2011-11-05T22:00:00.000Z,Lafayette,Colgate,,,True,regular,fcs,fcs
+1119,313090324,2011-11-05T22:00:00.000Z,Coastal Carolina,Presbyterian College,,,True,regular,fcs,fcs
+1120,313090050,2011-11-05T22:00:00.000Z,Florida A&M,North Carolina A&T,,,True,regular,fcs,fcs
+1121,313092464,2011-11-05T22:05:00.000Z,Northern Arizona,Northern Colorado,,,True,regular,fcs,fcs
+1122,313090025,2011-11-05T22:30:00.000Z,California,Washington State,1478.0,1374.0,True,regular,fbs,fbs
+1123,313090221,2011-11-05T23:00:00.000Z,Pittsburgh,Cincinnati,1623.0,1679.0,True,regular,fbs,fbs
+1124,313090239,2011-11-05T23:00:00.000Z,Baylor,Missouri,1488.0,1706.0,True,regular,fbs,fbs
+1125,313092633,2011-11-05T23:00:00.000Z,Tennessee,Middle Tennessee,1591.0,1262.0,False,regular,fbs,fbs
+1126,313090005,2011-11-05T23:00:00.000Z,UAB,Houston,1050.0,1890.0,True,regular,fbs,fbs
+1127,313092320,2011-11-05T23:00:00.000Z,Lamar,Stephen F. Austin,,,True,regular,fcs,fcs
+1128,313092640,2011-11-05T23:00:00.000Z,Texas Southern,Southern,,,True,regular,fcs,fcs
+1129,313090164,2011-11-05T23:00:00.000Z,Rutgers,South Florida,1532.0,1572.0,True,regular,fbs,fbs
+1130,313090012,2011-11-05T23:00:00.000Z,Arizona,Utah,1555.0,1615.0,True,regular,fbs,fbs
+1131,313090008,2011-11-05T23:15:00.000Z,Arkansas,South Carolina,1801.0,1826.0,True,regular,fbs,fbs
+1132,313090344,2011-11-05T23:30:00.000Z,Mississippi State,UT Martin,,,False,regular,fbs,fcs
+1133,313090026,2011-11-05T23:30:00.000Z,UCLA,Arizona State,1359.0,1754.0,True,regular,fbs,fbs
+1134,313090154,2011-11-06T00:00:00.000Z,Wake Forest,Notre Dame,1353.0,1831.0,False,regular,fbs,fbs
+1135,313090197,2011-11-06T00:00:00.000Z,Oklahoma State,Kansas State,1995.0,1649.0,True,regular,fbs,fbs
+1136,313090333,2011-11-06T00:00:00.000Z,Alabama,LSU,2195.0,2079.0,True,regular,fbs,fbs
+1137,313090021,2011-11-06T00:00:00.000Z,San Diego State,New Mexico,1542.0,812.0,True,regular,fbs,fbs
+1138,313090278,2011-11-06T02:30:00.000Z,Fresno State,Louisiana Tech,1369.0,1415.0,True,regular,fbs,fbs
+1139,313092439,2011-11-06T02:30:00.000Z,UNLV,Boise State,1034.0,2072.0,True,regular,fbs,fbs
+1140,313090264,2011-11-06T02:30:00.000Z,Washington,Oregon,1578.0,2031.0,True,regular,fbs,fbs
+1141,313090062,2011-11-06T04:00:00.000Z,Hawai'i,Utah State,1464.0,1390.0,True,regular,fbs,fbs
+1142,313122649,2011-11-09T01:00:00.000Z,Toledo,Western Michigan,1575.0,1490.0,True,regular,fbs,fbs
+1143,313120189,2011-11-09T01:00:00.000Z,Bowling Green,Northern Illinois,1225.0,1687.0,True,regular,fbs,fbs
+1144,313130218,2011-11-10T01:00:00.000Z,Temple,Miami (OH),1668.0,1410.0,True,regular,fbs,fbs
+1145,313142117,2011-11-11T00:30:00.000Z,Central Michigan,Ohio,1239.0,1453.0,True,regular,fbs,fbs
+1146,313140059,2011-11-11T01:00:00.000Z,Georgia Tech,Virginia Tech,1704.0,1789.0,True,regular,fbs,fbs
+1147,313142655,2011-11-11T01:00:00.000Z,Tulane,Houston,993.0,1914.0,True,regular,fbs,fbs
+1148,313150183,2011-11-12T01:00:00.000Z,Syracuse,South Florida,1483.0,1570.0,True,regular,fbs,fbs
+1149,313162132,2011-11-12T17:00:00.000Z,Cincinnati,West Virginia,1680.0,1662.0,True,regular,fbs,fbs
+1150,313160097,2011-11-12T17:00:00.000Z,Louisville,Pittsburgh,1586.0,1622.0,True,regular,fbs,fbs
+1151,313160077,2011-11-12T17:00:00.000Z,Northwestern,Rice,1483.0,1193.0,False,regular,fbs,fbs
+1152,313162509,2011-11-12T17:00:00.000Z,Purdue,Ohio State,1355.0,1810.0,True,regular,fbs,fbs
+1153,313160142,2011-11-12T17:00:00.000Z,Missouri,Texas,1702.0,1781.0,True,regular,fbs,fbs
+1154,313160228,2011-11-12T17:00:00.000Z,Clemson,Wake Forest,1787.0,1373.0,True,regular,fbs,fbs
+1155,313160163,2011-11-12T17:00:00.000Z,Princeton,Yale,,,True,regular,fcs,fcs
+1156,313160108,2011-11-12T17:00:00.000Z,Harvard,Pennsylvania,,,True,regular,fcs,fcs
+1157,313160294,2011-11-12T17:00:00.000Z,Jacksonville,Butler,,,True,regular,fcs,fcs
+1158,313162405,2011-11-12T17:00:00.000Z,Monmouth,Albany,,,True,regular,fcs,fcs
+1159,313162523,2011-11-12T17:00:00.000Z,Robert Morris,Wagner,,,True,regular,fcs,fcs
+1160,313162641,2011-11-12T17:00:00.000Z,Texas Tech,Oklahoma State,1483.0,1986.0,True,regular,fbs,fbs
+1161,313162529,2011-11-12T17:00:00.000Z,Sacred Heart,Duquesne,,,True,regular,fcs,fcs
+1162,313162803,2011-11-12T17:00:00.000Z,Bryant,St Francis (PA),,,True,regular,fcs,fcs
+1163,313162579,2011-11-12T17:00:00.000Z,South Carolina,Florida,1789.0,1742.0,True,regular,fbs,fbs
+1164,313160202,2011-11-12T17:00:00.000Z,Tulsa,Marshall,1664.0,1383.0,True,regular,fbs,fbs
+1165,313162729,2011-11-12T17:00:00.000Z,William & Mary,Old Dominion,,,True,regular,fcs,fcs
+1166,313160213,2011-11-12T17:00:00.000Z,Penn State,Nebraska,1626.0,1761.0,True,regular,fbs,fbs
+1167,313162294,2011-11-12T17:00:00.000Z,Iowa,Michigan State,1729.0,1690.0,True,regular,fbs,fbs
+1168,313160238,2011-11-12T17:21:00.000Z,Vanderbilt,Kentucky,1469.0,1371.0,True,regular,fbs,fbs
+1169,313160225,2011-11-12T17:30:00.000Z,Brown,Dartmouth,,,True,regular,fcs,fcs
+1170,313160103,2011-11-12T17:30:00.000Z,Boston College,NC State,1432.0,1560.0,True,regular,fbs,fbs
+1171,313162329,2011-11-12T17:30:00.000Z,Lehigh,Georgetown,,,True,regular,fcs,fcs
+1172,313160107,2011-11-12T17:30:00.000Z,Holy Cross,Lafayette,,,True,regular,fcs,fcs
+1173,313160311,2011-11-12T17:30:00.000Z,Maine,UMass,,,True,regular,fcs,fcs
+1174,313160172,2011-11-12T17:30:00.000Z,Cornell,Columbia,,,True,regular,fcs,fcs
+1175,313162199,2011-11-12T18:00:00.000Z,Eastern Michigan,Buffalo,1041.0,1103.0,True,regular,fbs,fbs
+1176,313162506,2011-11-12T18:00:00.000Z,Presbyterian College,VMI,,,True,regular,fcs,fcs
+1177,313162198,2011-11-12T18:00:00.000Z,Eastern Kentucky,Tennessee Tech,,,True,regular,fcs,fcs
+1178,313162230,2011-11-12T18:00:00.000Z,Fordham,Bucknell,,,True,regular,fcs,fcs
+1179,313162261,2011-11-12T18:00:00.000Z,Hampton,Delaware State,,,True,regular,fcs,fcs
+1180,313160233,2011-11-12T18:00:00.000Z,South Dakota,Missouri S&T,,,False,regular,fcs,
+1181,313162415,2011-11-12T18:00:00.000Z,Morgan State,Norfolk State,,,True,regular,fcs,fcs
+1182,313162747,2011-11-12T18:00:00.000Z,Wofford,Georgia Southern,,,True,regular,fcs,fcs
+1183,313162166,2011-11-12T18:00:00.000Z,Davidson,Morehead State,,,True,regular,fcs,fcs
+1184,313162653,2011-11-12T18:00:00.000Z,Troy,North Texas,1245.0,1199.0,True,regular,fbs,fbs
+1185,313162127,2011-11-12T18:30:00.000Z,Charleston Southern,Coastal Carolina,,,True,regular,fcs,fcs
+1186,313162241,2011-11-12T18:30:00.000Z,Gardner-Webb,Stony Brook,,,True,regular,fcs,fcs
+1187,313160231,2011-11-12T18:30:00.000Z,Furman,Elon,,,True,regular,fcs,fcs
+1188,313162569,2011-11-12T18:30:00.000Z,South Carolina State,North Carolina A&T,,,True,regular,fcs,fcs
+1189,313160093,2011-11-12T19:00:00.000Z,Murray State,Austin Peay,,,True,regular,fcs,fcs
+1190,313162010,2011-11-12T19:00:00.000Z,Alabama A&M,Jackson State,,,True,regular,fcs,fcs
+1191,313162011,2011-11-12T19:00:00.000Z,Alabama State,Southern,,,True,regular,fcs,fcs
+1192,313162400,2011-11-12T19:00:00.000Z,Mississippi Valley State,Arkansas-Pine Bluff,,,True,regular,fcs,fcs
+1193,313162005,2011-11-12T19:00:00.000Z,Air Force,Wyoming,1576.0,1349.0,True,regular,fbs,fbs
+1194,313162305,2011-11-12T19:00:00.000Z,Kansas,Baylor,1093.0,1492.0,True,regular,fbs,fbs
+1195,313162674,2011-11-12T19:00:00.000Z,Valparaiso,Campbell,,,True,regular,fcs,fcs
+1196,313162181,2011-11-12T19:00:00.000Z,Drake,Dayton,,,True,regular,fcs,fcs
+1197,313162428,2011-11-12T19:00:00.000Z,North Carolina Central,Florida A&M,,,True,regular,fcs,fcs
+1198,313162710,2011-11-12T19:00:00.000Z,Western Illinois,South Dakota State,,,True,regular,fcs,fcs
+1199,313162006,2011-11-12T19:00:00.000Z,Akron,Kent State,952.0,1248.0,True,regular,fbs,fbs
+1200,313162623,2011-11-12T19:00:00.000Z,Missouri State,Indiana State,,,True,regular,fcs,fcs
+1201,313162546,2011-11-12T19:00:00.000Z,Southeast Missouri State,Jacksonville State,,,True,regular,fcs,fcs
+1202,313162458,2011-11-12T19:05:00.000Z,Northern Colorado,Portland State,,,True,regular,fcs,fcs
+1203,313160038,2011-11-12T19:30:00.000Z,Colorado,Arizona,1222.0,1532.0,True,regular,fbs,fbs
+1204,313162643,2011-11-12T20:00:00.000Z,The Citadel,Samford,,,True,regular,fcs,fcs
+1205,313162755,2011-11-12T20:00:00.000Z,Grambling,Texas Southern,,,True,regular,fcs,fcs
+1206,313162016,2011-11-12T20:00:00.000Z,Alcorn State,Prairie View,,,True,regular,fcs,fcs
+1207,313160079,2011-11-12T20:00:00.000Z,Southern Illinois,Eastern Illinois,,,False,regular,fcs,fcs
+1208,313160256,2011-11-12T20:00:00.000Z,James Madison,Rhode Island,,,True,regular,fcs,fcs
+1209,313160258,2011-11-12T20:00:00.000Z,Virginia,Duke,1467.0,1349.0,True,regular,fbs,fbs
+1210,313162032,2011-11-12T20:00:00.000Z,Arkansas State,Louisiana,1518.0,1359.0,True,regular,fbs,fbs
+1211,313160328,2011-11-12T20:00:00.000Z,Utah State,San José State,1401.0,1179.0,True,regular,fbs,fbs
+1212,313160119,2011-11-12T20:30:00.000Z,Towson,New Hampshire,,,True,regular,fcs,fcs
+1213,313160135,2011-11-12T20:30:00.000Z,Minnesota,Wisconsin,1193.0,2120.0,True,regular,fbs,fbs
+1214,313160356,2011-11-12T20:30:00.000Z,Illinois,Michigan,1636.0,1747.0,True,regular,fbs,fbs
+1215,313160349,2011-11-12T20:30:00.000Z,Army,Rutgers,1351.0,1534.0,False,regular,fbs,fbs
+1216,313162567,2011-11-12T20:30:00.000Z,SMU,Navy,1465.0,1482.0,False,regular,fbs,fbs
+1217,313160052,2011-11-12T20:30:00.000Z,Florida State,Miami,1910.0,1747.0,True,regular,fbs,fbs
+1218,313160068,2011-11-12T20:30:00.000Z,Boise State,TCU,2040.0,1917.0,True,regular,fbs,fbs
+1219,313160061,2011-11-12T20:30:00.000Z,Georgia,Auburn,1861.0,1684.0,True,regular,fbs,fbs
+1220,313162306,2011-11-12T20:30:00.000Z,Kansas State,Texas A&M,1658.0,1764.0,True,regular,fbs,fbs
+1221,313162692,2011-11-12T20:30:00.000Z,Weber State,Northern Arizona,,,True,regular,fcs,fcs
+1222,313162433,2011-11-12T20:30:00.000Z,Louisiana Monroe,Middle Tennessee,1276.0,1237.0,True,regular,fbs,fbs
+1223,313162026,2011-11-12T20:30:00.000Z,Appalachian State,Western Carolina,,,True,regular,fcs,fcs
+1224,313160048,2011-11-12T20:30:00.000Z,Delaware,Richmond,,,True,regular,fcs,fcs
+1225,313160030,2011-11-12T20:45:00.000Z,USC,Washington,1724.0,1580.0,True,regular,fbs,fbs
+1226,313162449,2011-11-12T21:00:00.000Z,North Dakota State,Youngstown State,,,True,regular,fcs,fcs
+1227,313160301,2011-11-12T21:00:00.000Z,San Diego,Marist,,,True,regular,fcs,fcs
+1228,313162534,2011-11-12T21:00:00.000Z,Sam Houston State,Northwestern State,,,True,regular,fcs,fcs
+1229,313162065,2011-11-12T21:00:00.000Z,Bethune-Cookman,Savannah State,,,True,regular,fcs,fcs
+1230,313160235,2011-11-12T21:15:00.000Z,Memphis,UAB,901.0,1026.0,True,regular,fbs,fbs
+1231,313162110,2011-11-12T22:00:00.000Z,Central Arkansas,Texas State,,,False,regular,fcs,fcs
+1232,313160302,2011-11-12T22:00:00.000Z,UC Davis,North Dakota,,,True,regular,fcs,fcs
+1233,313160036,2011-11-12T23:00:00.000Z,Colorado State,San Diego State,1119.0,1539.0,True,regular,fbs,fbs
+1234,313160008,2011-11-12T23:00:00.000Z,Arkansas,Tennessee,1838.0,1616.0,True,regular,fbs,fbs
+1235,313162634,2011-11-12T23:00:00.000Z,Tennessee State,UT Martin,,,True,regular,fcs,fcs
+1236,313162229,2011-11-12T23:00:00.000Z,Florida International,Florida Atlantic,1402.0,1020.0,True,regular,fbs,fbs
+1237,313162447,2011-11-12T23:30:00.000Z,Nicholls,Lamar,,,True,regular,fcs,fcs
+1238,313160025,2011-11-12T23:30:00.000Z,California,Oregon State,1523.0,1481.0,True,regular,fbs,fbs
+1239,313160254,2011-11-12T23:30:00.000Z,Utah,UCLA,1638.0,1370.0,True,regular,fbs,fbs
+1240,313162695,2011-11-13T00:00:00.000Z,West Alabama,Georgia State,,,False,regular,,fcs
+1241,313162617,2011-11-13T00:00:00.000Z,Stephen F. Austin,Southeastern Louisiana,,,True,regular,fcs,fcs
+1242,313160099,2011-11-13T00:00:00.000Z,LSU,Western Kentucky,2091.0,1327.0,False,regular,fbs,fbs
+1243,313162460,2011-11-13T00:00:00.000Z,Northern Iowa,Southern Utah,,,False,regular,fcs,fcs
+1244,313160087,2011-11-13T00:30:00.000Z,Notre Dame,Maryland,1811.0,1402.0,False,regular,fbs,fbs
+1245,313160145,2011-11-13T00:30:00.000Z,Ole Miss,Louisiana Tech,1354.0,1460.0,False,regular,fbs,fbs
+1246,313160344,2011-11-13T00:45:00.000Z,Mississippi State,Alabama,1674.0,2183.0,True,regular,fbs,fbs
+1247,313160024,2011-11-13T01:00:00.000Z,Stanford,Oregon,2120.0,2029.0,True,regular,fbs,fbs
+1248,313162377,2011-11-13T01:00:00.000Z,McNeese,UT San Antonio,,,False,regular,fcs,fcs
+1249,313162638,2011-11-13T01:00:00.000Z,UTEP,East Carolina,1388.0,1287.0,True,regular,fbs,fbs
+1250,313162572,2011-11-13T01:00:00.000Z,Southern Mississippi,UCF,1729.0,1598.0,True,regular,fbs,fbs
+1251,313160166,2011-11-13T01:00:00.000Z,New Mexico State,Fresno State,1102.0,1324.0,True,regular,fbs,fbs
+1252,313160013,2011-11-13T02:05:00.000Z,Cal Poly,Eastern Washington,,,False,regular,fcs,fcs
+1253,313160016,2011-11-13T02:05:00.000Z,Sacramento State,Idaho State,,,True,regular,fcs,fcs
+1254,313160252,2011-11-13T02:15:00.000Z,BYU,Idaho,1533.0,1203.0,False,regular,fbs,fbs
+1255,313160167,2011-11-13T03:00:00.000Z,New Mexico,UNLV,815.0,1066.0,True,regular,fbs,fbs
+1256,313162440,2011-11-13T03:15:00.000Z,Nevada,Hawai'i,1625.0,1453.0,True,regular,fbs,fbs
+1257,313160265,2011-11-13T03:30:00.000Z,Washington State,Arizona State,1329.0,1743.0,True,regular,fbs,fbs
+1258,313192459,2011-11-16T01:00:00.000Z,Northern Illinois,Ball State,1719.0,1194.0,True,regular,fbs,fbs
+1259,313200193,2011-11-17T01:00:00.000Z,Miami (OH),Western Michigan,1412.0,1490.0,True,regular,fbs,fbs
+1260,313200189,2011-11-17T01:00:00.000Z,Bowling Green,Ohio,1193.0,1467.0,True,regular,fbs,fbs
+1261,313210235,2011-11-18T01:00:00.000Z,Memphis,Marshall,899.0,1298.0,True,regular,fbs,fbs
+1262,313210005,2011-11-18T01:00:00.000Z,UAB,Southern Mississippi,1028.0,1726.0,True,regular,fbs,fbs
+1263,313212545,2011-11-18T01:00:00.000Z,Southeastern Louisiana,Nicholls,,,True,regular,fcs,fcs
+1264,313210259,2011-11-18T01:00:00.000Z,Virginia Tech,North Carolina,1805.0,1623.0,True,regular,fbs,fbs
+1265,313220066,2011-11-19T01:00:00.000Z,Iowa State,Oklahoma State,1461.0,2104.0,True,regular,fbs,fbs
+1266,313222117,2011-11-19T01:00:00.000Z,Central Michigan,Toledo,1225.0,1575.0,True,regular,fbs,fbs
+1267,313230041,2011-11-19T17:00:00.000Z,Connecticut,Louisville,1477.0,1576.0,True,regular,fbs,fbs
+1268,313232803,2011-11-19T17:00:00.000Z,Bryant,Central Connecticut,,,True,regular,fcs,fcs
+1269,313230164,2011-11-19T17:00:00.000Z,Rutgers,Cincinnati,1545.0,1674.0,True,regular,fbs,fbs
+1270,313232287,2011-11-19T17:00:00.000Z,Illinois State,Northern Iowa,,,True,regular,fcs,fcs
+1271,313230245,2011-11-19T17:00:00.000Z,Texas A&M,Kansas,1762.0,1109.0,True,regular,fbs,fbs
+1272,313232084,2011-11-19T17:00:00.000Z,Buffalo,Akron,1072.0,898.0,True,regular,fbs,fbs
+1273,313230077,2011-11-19T17:00:00.000Z,Northwestern,Minnesota,1506.0,1211.0,True,regular,fbs,fbs
+1274,313232405,2011-11-19T17:00:00.000Z,Monmouth,Wagner,,,True,regular,fcs,fcs
+1275,313232184,2011-11-19T17:00:00.000Z,Duquesne,Robert Morris,,,True,regular,fcs,fcs
+1276,313232579,2011-11-19T17:00:00.000Z,South Carolina,The Citadel,,,False,regular,fbs,fcs
+1277,313230043,2011-11-19T17:00:00.000Z,Yale,Harvard,,,True,regular,fcs,fcs
+1278,313232509,2011-11-19T17:00:00.000Z,Purdue,Iowa,1363.0,1687.0,True,regular,fbs,fbs
+1279,313230127,2011-11-19T17:00:00.000Z,Michigan State,Indiana,1732.0,1219.0,True,regular,fbs,fbs
+1280,313230130,2011-11-19T17:00:00.000Z,Michigan,Nebraska,1777.0,1758.0,True,regular,fbs,fbs
+1281,313230356,2011-11-19T17:00:00.000Z,Illinois,Wisconsin,1606.0,2102.0,True,regular,fbs,fbs
+1282,313230257,2011-11-19T17:00:00.000Z,Richmond,William & Mary,,,True,regular,fcs,fcs
+1283,313230160,2011-11-19T17:00:00.000Z,New Hampshire,Maine,,,True,regular,fcs,fcs
+1284,313230061,2011-11-19T17:21:00.000Z,Georgia,Kentucky,1946.0,1303.0,True,regular,fbs,fbs
+1285,313230171,2011-11-19T17:30:00.000Z,Columbia,Brown,,,True,regular,fcs,fcs
+1286,313230150,2011-11-19T17:30:00.000Z,Duke,Georgia Tech,1340.0,1688.0,True,regular,fbs,fbs
+1287,313230227,2011-11-19T17:30:00.000Z,Rhode Island,Towson,,,True,regular,fcs,fcs
+1288,313232329,2011-11-19T17:30:00.000Z,Lehigh,Lafayette,,,True,regular,fcs,fcs
+1289,313230219,2011-11-19T18:00:00.000Z,Pennsylvania,Cornell,,,True,regular,fcs,fcs
+1290,313232506,2011-11-19T18:00:00.000Z,Presbyterian College,Charleston Southern,,,True,regular,fcs,fcs
+1291,313232413,2011-11-19T18:00:00.000Z,Morehead State,Butler,,,True,regular,fcs,fcs
+1292,313232166,2011-11-19T18:00:00.000Z,Davidson,Valparaiso,,,True,regular,fcs,fcs
+1293,313232754,2011-11-19T18:00:00.000Z,Youngstown State,Missouri State,,,True,regular,fcs,fcs
+1294,313230113,2011-11-19T18:00:00.000Z,UMass,James Madison,,,True,regular,fcs,fcs
+1295,313232142,2011-11-19T18:00:00.000Z,Colgate,Bucknell,,,True,regular,fcs,fcs
+1296,313232230,2011-11-19T18:00:00.000Z,Fordham,Holy Cross,,,True,regular,fcs,fcs
+1297,313230002,2011-11-19T18:00:00.000Z,Auburn,Samford,,,False,regular,fbs,fcs
+1298,313230057,2011-11-19T18:00:00.000Z,Florida,Furman,,,False,regular,fbs,fcs
+1299,313230399,2011-11-19T18:00:00.000Z,Albany,Sacred Heart,,,True,regular,fcs,fcs
+1300,313232169,2011-11-19T18:00:00.000Z,Delaware State,Howard,,,True,regular,fcs,fcs
+1301,313232261,2011-11-19T18:00:00.000Z,Hampton,Morgan State,,,True,regular,fcs,fcs
+1302,313232198,2011-11-19T18:00:00.000Z,Eastern Kentucky,UT Martin,,,True,regular,fcs,fcs
+1303,313232309,2011-11-19T18:00:00.000Z,Kent State,Eastern Michigan,1302.0,1072.0,True,regular,fbs,fbs
+1304,313230218,2011-11-19T18:00:00.000Z,Temple,Army,1666.0,1340.0,False,regular,fbs,fbs
+1305,313230159,2011-11-19T18:30:00.000Z,Dartmouth,Princeton,,,True,regular,fcs,fcs
+1306,313232678,2011-11-19T18:30:00.000Z,VMI,Gardner-Webb,,,True,regular,fcs,fcs
+1307,313232448,2011-11-19T18:30:00.000Z,North Carolina A&T,North Carolina Central,,,True,regular,fcs,fcs
+1308,313230155,2011-11-19T19:00:00.000Z,North Dakota,South Dakota,,,True,regular,fcs,fcs
+1309,313232296,2011-11-19T19:00:00.000Z,Jackson State,Alcorn State,,,True,regular,fcs,fcs
+1310,313232751,2011-11-19T19:00:00.000Z,Wyoming,New Mexico,1384.0,840.0,True,regular,fbs,fbs
+1311,313232546,2011-11-19T19:00:00.000Z,Southeast Missouri State,Murray State,,,True,regular,fcs,fcs
+1312,313232636,2011-11-19T19:00:00.000Z,UT San Antonio,Minot State,,,False,regular,fcs,
+1313,313230333,2011-11-19T19:00:00.000Z,Alabama,Georgia Southern,2176.0,1453.0,False,regular,fbs,fcs
+1314,313232710,2011-11-19T19:00:00.000Z,Western Illinois,North Dakota State,,,True,regular,fcs,fcs
+1315,313230236,2011-11-19T19:00:00.000Z,Chattanooga,Wofford,,,True,regular,fcs,fcs
+1316,313232717,2011-11-19T19:00:00.000Z,Western Carolina,Coastal Carolina,,,False,regular,fcs,fcs
+1317,313232542,2011-11-19T19:00:00.000Z,Savannah State,South Carolina State,,,True,regular,fcs,fcs
+1318,313232247,2011-11-19T19:00:00.000Z,Georgia State,Campbell,,,False,regular,fcs,fcs
+1319,313230282,2011-11-19T19:05:00.000Z,Indiana State,Southern Illinois,,,True,regular,fcs,fcs
+1320,313230147,2011-11-19T19:05:00.000Z,Montana State,Montana,,,True,regular,fcs,fcs
+1321,313232635,2011-11-19T19:30:00.000Z,Tennessee Tech,Austin Peay,,,True,regular,fcs,fcs
+1322,313232065,2011-11-19T19:30:00.000Z,Bethune-Cookman,Florida A&M,,,True,regular,fcs,fcs
+1323,313232634,2011-11-19T20:00:00.000Z,Tennessee State,Jacksonville State,,,True,regular,fcs,fcs
+1324,313232504,2011-11-19T20:00:00.000Z,Prairie View,Alabama A&M,,,True,regular,fcs,fcs
+1325,313232393,2011-11-19T20:00:00.000Z,Middle Tennessee,Arkansas State,1168.0,1522.0,True,regular,fbs,fbs
+1326,313230154,2011-11-19T20:00:00.000Z,Wake Forest,Maryland,1377.0,1378.0,True,regular,fbs,fbs
+1327,313232638,2011-11-19T20:00:00.000Z,UTEP,Tulsa,1389.0,1749.0,True,regular,fbs,fbs
+1328,313232210,2011-11-19T20:00:00.000Z,Elon,Appalachian State,,,True,regular,fcs,fcs
+1329,313230142,2011-11-19T20:30:00.000Z,Missouri,Texas Tech,1731.0,1365.0,True,regular,fbs,fbs
+1330,313232029,2011-11-19T20:30:00.000Z,Arkansas-Pine Bluff,Texas Southern,,,True,regular,fcs,fcs
+1331,313230194,2011-11-19T20:30:00.000Z,Ohio State,Penn State,1802.0,1629.0,True,regular,fbs,fbs
+1332,313232628,2011-11-19T20:30:00.000Z,TCU,Colorado State,1924.0,1138.0,True,regular,fbs,fbs
+1333,313230248,2011-11-19T20:30:00.000Z,Houston,SMU,1965.0,1453.0,True,regular,fbs,fbs
+1334,313232653,2011-11-19T20:30:00.000Z,Troy,Florida Atlantic,1233.0,972.0,True,regular,fbs,fbs
+1335,313230152,2011-11-19T20:30:00.000Z,NC State,Clemson,1553.0,1783.0,True,regular,fbs,fbs
+1336,313230008,2011-11-19T20:30:00.000Z,Arkansas,Mississippi State,1931.0,1681.0,True,regular,fbs,fbs
+1337,313230204,2011-11-19T20:30:00.000Z,Oregon State,Washington,1448.0,1539.0,True,regular,fbs,fbs
+1338,313230058,2011-11-19T20:30:00.000Z,South Florida,Miami,1611.0,1749.0,False,regular,fbs,fbs
+1339,313230242,2011-11-19T20:30:00.000Z,Rice,Tulane,1170.0,942.0,True,regular,fbs,fbs
+1340,313232619,2011-11-19T20:30:00.000Z,Stony Brook,Liberty,,,True,regular,fcs,fcs
+1341,313230222,2011-11-19T20:30:00.000Z,Villanova,Delaware,,,True,regular,fcs,fcs
+1342,313230301,2011-11-19T21:00:00.000Z,San Diego,Jacksonville,,,True,regular,fcs,fcs
+1343,313232502,2011-11-19T21:00:00.000Z,Portland State,Weber State,,,True,regular,fcs,fcs
+1344,313230023,2011-11-19T21:00:00.000Z,San José State,Navy,1185.0,1494.0,False,regular,fbs,fbs
+1345,313230326,2011-11-19T21:00:00.000Z,Texas State,Sam Houston State,,,False,regular,fcs,fcs
+1346,313230087,2011-11-19T21:00:00.000Z,Notre Dame,Boston College,1835.0,1439.0,False,regular,fbs,fbs
+1347,313232466,2011-11-19T21:00:00.000Z,Northwestern State,Stephen F. Austin,,,True,regular,fcs,fcs
+1348,313232440,2011-11-19T21:05:00.000Z,Nevada,Louisiana Tech,1639.0,1499.0,True,regular,fbs,fbs
+1349,313230016,2011-11-19T21:05:00.000Z,Sacramento State,UC Davis,,,False,regular,fcs,fcs
+1350,313230070,2011-11-19T22:00:00.000Z,Idaho,Utah State,1146.0,1395.0,True,regular,fbs,fbs
+1351,313230006,2011-11-19T22:00:00.000Z,South Alabama,Cal Poly,,,False,regular,,fcs
+1352,313232433,2011-11-19T22:00:00.000Z,Louisiana Monroe,Florida International,1345.0,1450.0,True,regular,fbs,fbs
+1353,313230265,2011-11-19T22:00:00.000Z,Washington State,Utah,1380.0,1672.0,True,regular,fbs,fbs
+1354,313232464,2011-11-19T22:05:00.000Z,Northern Arizona,Southern Utah,,,False,regular,fcs,fcs
+1355,313232005,2011-11-19T23:00:00.000Z,Air Force,UNLV,1541.0,1041.0,True,regular,fbs,fbs
+1356,313230304,2011-11-19T23:00:00.000Z,Idaho State,Eastern Washington,,,True,regular,fcs,fcs
+1357,313230151,2011-11-20T00:00:00.000Z,East Carolina,UCF,1286.0,1601.0,True,regular,fbs,fbs
+1358,313230145,2011-11-20T00:00:00.000Z,Ole Miss,LSU,1315.0,2097.0,True,regular,fbs,fbs
+1359,313232320,2011-11-20T00:00:00.000Z,Lamar,McNeese,,,True,regular,fcs,fcs
+1360,313230249,2011-11-20T00:00:00.000Z,North Texas,Western Kentucky,1211.0,1321.0,True,regular,fbs,fbs
+1361,313232633,2011-11-20T00:00:00.000Z,Tennessee,Vanderbilt,1523.0,1537.0,True,regular,fbs,fbs
+1362,313230026,2011-11-20T00:30:00.000Z,UCLA,Colorado,1336.0,1300.0,True,regular,fbs,fbs
+1363,313230052,2011-11-20T00:30:00.000Z,Florida State,Virginia,1908.0,1476.0,True,regular,fbs,fbs
+1364,313230239,2011-11-20T01:00:00.000Z,Baylor,Oklahoma,1476.0,2130.0,True,regular,fbs,fbs
+1365,313232483,2011-11-20T01:00:00.000Z,Oregon,USC,2100.0,1765.0,True,regular,fbs,fbs
+1366,313230021,2011-11-20T01:00:00.000Z,San Diego State,Boise State,1520.0,2033.0,True,regular,fbs,fbs
+1367,313230251,2011-11-20T01:00:00.000Z,Texas,Kansas State,1752.0,1660.0,True,regular,fbs,fbs
+1368,313230009,2011-11-20T02:30:00.000Z,Arizona State,Arizona,1692.0,1454.0,True,regular,fbs,fbs
+1369,313230252,2011-11-20T03:15:00.000Z,BYU,New Mexico State,1590.0,1106.0,False,regular,fbs,fbs
+1370,313230024,2011-11-20T03:15:00.000Z,Stanford,California,2049.0,1556.0,True,regular,fbs,fbs
+1371,313230062,2011-11-20T04:00:00.000Z,Hawai'i,Fresno State,1439.0,1320.0,True,regular,fbs,fbs
+1372,313260195,2011-11-23T00:00:00.000Z,Ohio,Miami (OH),1456.0,1412.0,True,regular,fbs,fbs
+1373,313282011,2011-11-24T19:00:00.000Z,Alabama State,Tuskegee,,,False,regular,fcs,
+1374,313280245,2011-11-25T01:00:00.000Z,Texas A&M,Texas,1838.0,1739.0,True,regular,fbs,fbs
+1375,313290058,2011-11-25T16:00:00.000Z,South Florida,Louisville,1615.0,1598.0,True,regular,fbs,fbs
+1376,313282459,2011-11-25T16:00:00.000Z,Northern Illinois,Eastern Michigan,1714.0,1076.0,True,regular,fbs,fbs
+1377,313292084,2011-11-25T17:00:00.000Z,Buffalo,Bowling Green,1168.0,1204.0,True,regular,fbs,fbs
+1378,313290202,2011-11-25T17:00:00.000Z,Tulsa,Houston,1786.0,1988.0,True,regular,fbs,fbs
+1379,313280218,2011-11-25T17:00:00.000Z,Temple,Kent State,1702.0,1298.0,True,regular,fbs,fbs
+1380,313290158,2011-11-25T17:00:00.000Z,Nebraska,Iowa,1687.0,1681.0,True,regular,fbs,fbs
+1381,313292711,2011-11-25T18:00:00.000Z,Western Michigan,Akron,1490.0,802.0,True,regular,fbs,fbs
+1382,313282050,2011-11-25T19:00:00.000Z,Ball State,Toledo,1199.0,1608.0,True,regular,fbs,fbs
+1383,313290099,2011-11-25T19:30:00.000Z,LSU,Arkansas,2144.0,1972.0,True,regular,fbs,fbs
+1384,313290254,2011-11-25T20:30:00.000Z,Utah,Colorado,1660.0,1192.0,True,regular,fbs,fbs
+1385,313292390,2011-11-25T20:30:00.000Z,Miami,Boston College,1745.0,1444.0,True,regular,fbs,fbs
+1386,313290277,2011-11-26T00:00:00.000Z,West Virginia,Pittsburgh,1668.0,1632.0,True,regular,fbs,fbs
+1387,313292116,2011-11-26T00:00:00.000Z,UCF,UTEP,1572.0,1352.0,True,regular,fbs,fbs
+1388,313290009,2011-11-26T03:15:00.000Z,Arizona State,California,1669.0,1561.0,True,regular,fbs,fbs
+1389,313300130,2011-11-26T17:00:00.000Z,Michigan,Ohio State,1848.0,1778.0,True,regular,fbs,fbs
+1390,313300077,2011-11-26T17:00:00.000Z,Northwestern,Michigan State,1512.0,1820.0,True,regular,fbs,fbs
+1391,313300059,2011-11-26T17:00:00.000Z,Georgia Tech,Georgia,1676.0,1923.0,False,regular,fbs,fbs
+1392,313300201,2011-11-26T17:00:00.000Z,Oklahoma,Iowa State,2076.0,1506.0,True,regular,fbs,fbs
+1393,313300041,2011-11-26T17:00:00.000Z,Connecticut,Rutgers,1455.0,1595.0,True,regular,fbs,fbs
+1394,313302567,2011-11-26T17:00:00.000Z,SMU,Rice,1430.0,1175.0,True,regular,fbs,fbs
+1395,313300183,2011-11-26T17:00:00.000Z,Syracuse,Cincinnati,1442.0,1624.0,True,regular,fbs,fbs
+1396,313302198,2011-11-26T17:00:00.000Z,Eastern Kentucky,James Madison,,,False,regular,fcs,fcs
+1397,313300096,2011-11-26T17:21:00.000Z,Kentucky,Tennessee,1326.0,1531.0,True,regular,fbs,fbs
+1398,313300098,2011-11-26T17:30:00.000Z,Western Kentucky,Troy,1332.0,1273.0,True,regular,fbs,fbs
+1399,313300152,2011-11-26T17:30:00.000Z,NC State,Maryland,1641.0,1328.0,True,regular,fbs,fbs
+1400,313300295,2011-11-26T18:30:00.000Z,Old Dominion,Norfolk State,,,False,regular,fcs,fcs
+1401,313302619,2011-11-26T19:00:00.000Z,Stony Brook,Albany,,,False,regular,fcs,fcs
+1402,313300068,2011-11-26T19:00:00.000Z,Boise State,Wyoming,2025.0,1382.0,True,regular,fbs,fbs
+1403,313300328,2011-11-26T19:00:00.000Z,Utah State,Nevada,1390.0,1623.0,True,regular,fbs,fbs
+1404,313302755,2011-11-26T19:00:00.000Z,Grambling,Southern,,,True,regular,fcs,fcs
+1405,313302635,2011-11-26T20:00:00.000Z,Tennessee Tech,Central Arkansas,,,False,regular,fcs,fcs
+1406,313300258,2011-11-26T20:30:00.000Z,Virginia,Virginia Tech,1501.0,1804.0,True,regular,fbs,fbs
+1407,313300002,2011-11-26T20:30:00.000Z,Auburn,Alabama,1599.0,2166.0,True,regular,fbs,fbs
+1408,313302483,2011-11-26T20:30:00.000Z,Oregon,Oregon State,2073.0,1494.0,True,regular,fbs,fbs
+1409,313300084,2011-11-26T20:30:00.000Z,Indiana,Purdue,1131.0,1369.0,True,regular,fbs,fbs
+1410,313300135,2011-11-26T20:30:00.000Z,Minnesota,Illinois,1205.0,1623.0,True,regular,fbs,fbs
+1411,313292393,2011-11-26T20:30:00.000Z,Middle Tennessee,Florida International,1139.0,1464.0,True,regular,fbs,fbs
+1412,313302305,2011-11-26T20:30:00.000Z,Kansas,Missouri,1033.0,1724.0,True,regular,fbs,fbs
+1413,313300153,2011-11-26T20:30:00.000Z,North Carolina,Duke,1624.0,1352.0,True,regular,fbs,fbs
+1414,313300154,2011-11-26T20:30:00.000Z,Wake Forest,Vanderbilt,1427.0,1529.0,False,regular,fbs,fbs
+1415,313300276,2011-11-26T20:30:00.000Z,Marshall,East Carolina,1282.0,1315.0,True,regular,fbs,fbs
+1416,313300275,2011-11-26T20:30:00.000Z,Wisconsin,Penn State,2085.0,1653.0,True,regular,fbs,fbs
+1417,313302226,2011-11-26T21:00:00.000Z,Florida Atlantic,UAB,932.0,1040.0,False,regular,fbs,fbs
+1418,313302572,2011-11-26T21:00:00.000Z,Southern Mississippi,Memphis,1714.0,915.0,True,regular,fbs,fbs
+1419,313300012,2011-11-26T21:00:00.000Z,Arizona,Louisiana,1477.0,1355.0,False,regular,fbs,fbs
+1420,313302348,2011-11-26T21:00:00.000Z,Louisiana Tech,New Mexico State,1515.0,1067.0,True,regular,fbs,fbs
+1421,313300036,2011-11-26T23:00:00.000Z,Colorado State,Air Force,1153.0,1560.0,True,regular,fbs,fbs
+1422,313300057,2011-11-27T00:00:00.000Z,Florida,Florida State,1739.0,1883.0,False,regular,fbs,fbs
+1423,313300239,2011-11-27T00:00:00.000Z,Baylor,Texas Tech,1530.0,1372.0,True,regular,fbs,fbs
+1424,313300344,2011-11-27T00:00:00.000Z,Mississippi State,Ole Miss,1640.0,1268.0,True,regular,fbs,fbs
+1425,313300264,2011-11-27T00:30:00.000Z,Washington,Washington State,1493.0,1392.0,True,regular,fbs,fbs
+1426,313302579,2011-11-27T00:45:00.000Z,South Carolina,Clemson,1792.0,1695.0,False,regular,fbs,fbs
+1427,313300024,2011-11-27T01:00:00.000Z,Stanford,Notre Dame,2044.0,1830.0,False,regular,fbs,fbs
+1428,313300278,2011-11-27T01:00:00.000Z,Fresno State,San José State,1332.0,1190.0,True,regular,fbs,fbs
+1429,313302439,2011-11-27T03:00:00.000Z,UNLV,San Diego State,1022.0,1528.0,True,regular,fbs,fbs
+1430,313300030,2011-11-27T03:00:00.000Z,USC,UCLA,1792.0,1444.0,True,regular,fbs,fbs
+1431,313300062,2011-11-27T04:00:00.000Z,Hawai'i,Tulane,1427.0,937.0,False,regular,fbs,fbs
+1432,313350058,2011-12-02T01:00:00.000Z,South Florida,West Virginia,1593.0,1668.0,True,regular,fbs,fbs
+1433,313362459,2011-12-03T00:00:00.000Z,Northern Illinois,Ohio,1694.0,1463.0,True,regular,fbs,fbs
+1434,313362483,2011-12-03T01:00:00.000Z,Oregon,UCLA,2084.0,1341.0,True,regular,fbs,fbs
+1435,313370248,2011-12-03T17:00:00.000Z,Houston,Southern Mississippi,2053.0,1726.0,True,regular,fbs,fbs
+1436,313370221,2011-12-03T17:00:00.000Z,Pittsburgh,Syracuse,1632.0,1420.0,True,regular,fbs,fbs
+1437,313372132,2011-12-03T17:00:00.000Z,Cincinnati,Connecticut,1646.0,1510.0,True,regular,fbs,fbs
+1438,313372306,2011-12-03T17:30:00.000Z,Kansas State,Iowa State,1673.0,1512.0,True,regular,fbs,fbs
+1439,313370290,2011-12-03T18:00:00.000Z,Georgia Southern,Old Dominion,,,False,regular,fcs,fcs
+1440,313370036,2011-12-03T19:00:00.000Z,Colorado State,Wyoming,1134.0,1390.0,True,regular,fbs,fbs
+1441,313370149,2011-12-03T19:00:00.000Z,Montana,Central Arkansas,,,False,regular,fcs,fcs
+1442,313372026,2011-12-03T19:00:00.000Z,Appalachian State,Maine,,,False,regular,fcs,fcs
+1443,313372628,2011-12-03T19:30:00.000Z,TCU,UNLV,1909.0,1029.0,True,regular,fbs,fbs
+1444,313372534,2011-12-03T20:00:00.000Z,Sam Houston State,Stony Brook,,,False,regular,fcs,fcs
+1445,313370147,2011-12-03T20:00:00.000Z,Montana State,New Hampshire,,,False,regular,fcs,fcs
+1446,313370119,2011-12-03T20:30:00.000Z,Towson,Lehigh,,,False,regular,fcs,fcs
+1447,313370166,2011-12-03T20:30:00.000Z,New Mexico State,Utah State,997.0,1400.0,True,regular,fbs,fbs
+1448,313370239,2011-12-03T20:30:00.000Z,Baylor,Texas,1580.0,1747.0,True,regular,fbs,fbs
+1449,313370099,2011-12-03T21:00:00.000Z,LSU,Georgia,2185.0,1932.0,True,regular,fbs,fbs
+1450,313372449,2011-12-03T21:00:00.000Z,North Dakota State,James Madison,,,False,regular,fcs,fcs
+1451,313362226,2011-12-03T21:00:00.000Z,Florida Atlantic,Louisiana Monroe,934.0,1331.0,True,regular,fbs,fbs
+1452,313370249,2011-12-03T21:00:00.000Z,North Texas,Middle Tennessee,1200.0,1139.0,True,regular,fbs,fbs
+1453,313372440,2011-12-03T21:05:00.000Z,Nevada,Idaho,1613.0,1151.0,True,regular,fbs,fbs
+1454,313362032,2011-12-03T21:30:00.000Z,Arkansas State,Troy,1551.0,1223.0,True,regular,fbs,fbs
+1455,313372460,2011-12-03T22:00:00.000Z,Northern Iowa,Wofford,,,False,regular,fcs,fcs
+1456,313370068,2011-12-03T23:00:00.000Z,Boise State,New Mexico,2017.0,842.0,True,regular,fbs,fbs
+1457,313370062,2011-12-04T00:30:00.000Z,Hawai'i,BYU,1414.0,1629.0,False,regular,fbs,fbs
+1458,313370197,2011-12-04T01:00:00.000Z,Oklahoma State,Oklahoma,2059.0,2070.0,True,regular,fbs,fbs
+1459,313370228,2011-12-04T01:00:00.000Z,Clemson,Virginia Tech,1655.0,1876.0,True,regular,fbs,fbs
+1460,313370021,2011-12-04T01:00:00.000Z,San Diego State,Fresno State,1521.0,1319.0,False,regular,fbs,fbs
+1461,313370127,2011-12-04T01:17:00.000Z,Michigan State,Wisconsin,1824.0,2139.0,True,regular,fbs,fbs
+1462,313442426,2011-12-10T19:30:00.000Z,Navy,Army,1489.0,1304.0,False,regular,fbs,fbs

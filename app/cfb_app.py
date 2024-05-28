@@ -134,7 +134,7 @@ def main():
     # Create year selector
     with col2:
         teams = team_info_df['team'].unique()
-        selected_team = st.selectbox('Select Team', teams, index=2)
+        selected_team = st.selectbox('Select Team', teams, index=21)
 
     # Get Team info
     team_row = team_info_df[team_info_df.team == selected_team].iloc[0]

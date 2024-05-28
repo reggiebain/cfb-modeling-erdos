@@ -1,0 +1,865 @@
+,id,date,home_team,away_team,home_pregame_elo,away_pregame_elo,conference_game,season_type,home_division,away_division
+0,401643858,2024-08-24T04:00:00.000Z,Hawai'i,Delaware State,,,False,regular,fbs,fcs
+1,401643696,2024-08-24T04:00:00.000Z,Nevada,SMU,,,False,regular,fbs,fbs
+2,401643697,2024-08-24T04:00:00.000Z,New Mexico,Montana State,,,False,regular,fbs,fcs
+3,401635525,2024-08-24T16:00:00.000Z,Georgia Tech,Florida State,,,True,regular,fbs,fbs
+4,401643698,2024-08-29T04:00:00.000Z,San José State,Sacramento State,,,False,regular,fbs,fcs
+5,401645316,2024-08-29T04:00:00.000Z,UAB,Alcorn State,,,False,regular,fbs,fcs
+6,401644730,2024-08-29T04:00:00.000Z,Central Michigan,Central Connecticut,,,False,regular,fbs,fcs
+7,401644729,2024-08-29T04:00:00.000Z,Bowling Green,Fordham,,,False,regular,fbs,fcs
+8,401644728,2024-08-29T04:00:00.000Z,Toledo,Duquesne,,,False,regular,fbs,fcs
+9,401636606,2024-08-29T04:00:00.000Z,Kansas,Lindenwood,,,False,regular,fbs,fcs
+10,401636607,2024-08-29T04:00:00.000Z,Utah,Southern Utah,,,False,regular,fbs,fcs
+11,401628448,2024-08-29T04:00:00.000Z,Minnesota,North Carolina,,,False,regular,fbs,fbs
+12,401628581,2024-08-29T04:00:00.000Z,Wake Forest,North Carolina A&T,,,False,regular,fbs,fcs
+13,401628582,2024-08-29T04:00:00.000Z,UCF,New Hampshire,,,False,regular,fbs,fcs
+14,401634299,2024-08-29T04:00:00.000Z,NC State,Western Carolina,,,False,regular,fbs,fcs
+15,401654845,2024-08-29T04:00:00.000Z,Illinois,Eastern Illinois,,,False,regular,fbs,fcs
+16,401645318,2024-08-29T04:00:00.000Z,Tulsa,Northwestern State,,,False,regular,fbs,fcs
+17,401645317,2024-08-29T04:00:00.000Z,Tulane,Southeastern Louisiana,,,False,regular,fbs,fcs
+18,401644727,2024-08-29T22:00:00.000Z,Buffalo,Lafayette,,,False,regular,fbs,fcs
+19,401628320,2024-08-29T22:30:00.000Z,Arkansas,Arkansas-Pine Bluff,,,False,regular,fbs,fcs
+20,401628327,2024-08-30T00:00:00.000Z,Missouri,Murray State,,,False,regular,fbs,fcs
+21,401634206,2024-08-30T00:00:00.000Z,Colorado,North Dakota State,,,False,regular,fbs,fcs
+22,401636387,2024-08-30T00:00:00.000Z,Louisiana Monroe,Jackson State,,,False,regular,fbs,fcs
+23,401628584,2024-08-30T04:00:00.000Z,Duke,Elon,,,False,regular,fbs,fcs
+24,401645319,2024-08-30T22:00:00.000Z,Army,Lehigh,,,False,regular,fbs,fcs
+25,401628328,2024-08-30T23:00:00.000Z,Oklahoma,Temple,,,False,regular,fbs,fbs
+26,401634300,2024-08-31T02:30:00.000Z,Stanford,TCU,,,False,regular,fbs,fbs
+27,401636608,2024-08-31T04:00:00.000Z,Arizona,New Mexico,,,False,regular,fbs,fbs
+28,401636380,2024-08-31T04:00:00.000Z,Louisiana,Grambling,,,False,regular,fbs,fcs
+29,401636363,2024-08-31T04:00:00.000Z,South Florida,Bethune-Cookman,,,False,regular,fbs,fcs
+30,401634305,2024-08-31T04:00:00.000Z,Pittsburgh,Kent State,,,False,regular,fbs,fbs
+31,401634304,2024-08-31T04:00:00.000Z,Syracuse,Ohio,,,False,regular,fbs,fbs
+32,401634303,2024-08-31T04:00:00.000Z,SMU,Houston Christian,,,False,regular,fbs,fcs
+33,401634302,2024-08-31T04:00:00.000Z,Georgia Tech,Georgia State,,,False,regular,fbs,fbs
+34,401634301,2024-08-31T04:00:00.000Z,California,UC Davis,,,False,regular,fbs,fcs
+35,401634240,2024-08-31T04:00:00.000Z,BYU,Southern Illinois,,,False,regular,fbs,fcs
+36,401634212,2024-08-31T04:00:00.000Z,Oklahoma State,South Dakota State,,,False,regular,fbs,fcs
+37,401634197,2024-08-31T04:00:00.000Z,Iowa State,North Dakota,,,False,regular,fbs,fcs
+38,401634169,2024-08-31T04:00:00.000Z,Purdue,Indiana State,,,False,regular,fbs,fcs
+39,401634133,2024-08-31T04:00:00.000Z,Appalachian State,East Tennessee State,,,False,regular,fbs,fcs
+40,401632062,2024-08-31T04:00:00.000Z,Louisville,Austin Peay,,,False,regular,fbs,fcs
+41,401629039,2024-08-31T04:00:00.000Z,UMass,Eastern Michigan,,,False,regular,fbs,fbs
+42,401628591,2024-08-31T04:00:00.000Z,Cincinnati,Towson,,,False,regular,fbs,fcs
+43,401628590,2024-08-31T04:00:00.000Z,Marshall,Stony Brook,,,False,regular,fbs,fcs
+44,401628589,2024-08-31T04:00:00.000Z,Virginia,Richmond,,,False,regular,fbs,fcs
+45,401628586,2024-08-31T04:00:00.000Z,Liberty,Campbell,,,False,regular,fbs,fcs
+46,401628461,2024-08-31T04:00:00.000Z,Wisconsin,Western Michigan,,,False,regular,fbs,fbs
+47,401628460,2024-08-31T04:00:00.000Z,Washington,Weber State,,,False,regular,fbs,fcs
+48,401628459,2024-08-31T04:00:00.000Z,Hawai'i,UCLA,,,False,regular,fbs,fbs
+49,401628458,2024-08-31T04:00:00.000Z,Rutgers,Howard,,,False,regular,fbs,fcs
+50,401628457,2024-08-31T04:00:00.000Z,West Virginia,Penn State,,,False,regular,fbs,fbs
+51,401628456,2024-08-31T04:00:00.000Z,Oregon,Idaho,,,False,regular,fbs,fcs
+52,401628455,2024-08-31T04:00:00.000Z,Ohio State,Akron,,,False,regular,fbs,fbs
+53,401628454,2024-08-31T04:00:00.000Z,Nebraska,UTEP,,,False,regular,fbs,fbs
+54,401628453,2024-08-31T04:00:00.000Z,Michigan State,Florida Atlantic,,,False,regular,fbs,fbs
+55,401628452,2024-08-31T04:00:00.000Z,Michigan,Fresno State,,,False,regular,fbs,fbs
+56,401628451,2024-08-31T04:00:00.000Z,Maryland,Connecticut,,,False,regular,fbs,fbs
+57,401628450,2024-08-31T04:00:00.000Z,Iowa,Illinois State,,,False,regular,fbs,fcs
+58,401628449,2024-08-31T04:00:00.000Z,Indiana,Florida International,,,False,regular,fbs,fbs
+59,401628333,2024-08-31T04:00:00.000Z,Vanderbilt,Virginia Tech,,,False,regular,fbs,fbs
+60,401628330,2024-08-31T04:00:00.000Z,Tennessee,Chattanooga,,,False,regular,fbs,fcs
+61,401628329,2024-08-31T04:00:00.000Z,South Carolina,Old Dominion,,,False,regular,fbs,fbs
+62,401628326,2024-08-31T04:00:00.000Z,Mississippi State,Eastern Kentucky,,,False,regular,fbs,fcs
+63,401628324,2024-08-31T04:00:00.000Z,Kentucky,Southern Mississippi,,,False,regular,fbs,fbs
+64,401628321,2024-08-31T04:00:00.000Z,Auburn,Alabama A&M,,,False,regular,fbs,fcs
+65,401628325,2024-08-31T04:00:00.000Z,Ole Miss,Furman,,,False,regular,fbs,fcs
+66,401645322,2024-08-31T04:00:00.000Z,Navy,Bucknell,,,False,regular,fbs,fcs
+67,401645321,2024-08-31T04:00:00.000Z,Memphis,North Alabama,,,False,regular,fbs,fcs
+68,401645320,2024-08-31T04:00:00.000Z,East Carolina,Norfolk State,,,False,regular,fbs,fcs
+69,401644731,2024-08-31T04:00:00.000Z,Northern Illinois,Western Illinois,,,False,regular,fbs,fcs
+70,401644683,2024-08-31T04:00:00.000Z,Northwestern,Miami (OH),,,False,regular,fbs,fbs
+71,401643776,2024-08-31T04:00:00.000Z,Texas State,Lamar,,,False,regular,fbs,fcs
+72,401643775,2024-08-31T04:00:00.000Z,South Alabama,North Texas,,,False,regular,fbs,fbs
+73,401643774,2024-08-31T04:00:00.000Z,Charlotte,James Madison,,,False,regular,fbs,fbs
+74,401643704,2024-08-31T04:00:00.000Z,Oregon State,Idaho State,,,False,regular,fbs,fcs
+75,401643703,2024-08-31T04:00:00.000Z,Utah State,Robert Morris,,,False,regular,fbs,fcs
+76,401643702,2024-08-31T04:00:00.000Z,San Diego State,Texas A&M-Commerce,,,False,regular,fbs,fcs
+77,401643701,2024-08-31T04:00:00.000Z,Troy,Nevada,,,False,regular,fbs,fbs
+78,401643700,2024-08-31T04:00:00.000Z,Georgia Southern,Boise State,,,False,regular,fbs,fbs
+79,401643699,2024-08-31T04:00:00.000Z,Air Force,Merrimack,,,False,regular,fbs,fcs
+80,401641039,2024-08-31T04:00:00.000Z,Rice,Sam Houston State,,,False,regular,fbs,fbs
+81,401641032,2024-08-31T04:00:00.000Z,New Mexico State,Southeast Missouri State,,,False,regular,fbs,fcs
+82,401641023,2024-08-31T04:00:00.000Z,Middle Tennessee,Tennessee Tech,,,False,regular,fbs,fcs
+83,401641015,2024-08-31T04:00:00.000Z,UT San Antonio,Kennesaw State,,,False,regular,fbs,fcs
+84,401641007,2024-08-31T04:00:00.000Z,Louisiana Tech,Nicholls,,,False,regular,fbs,fcs
+85,401640998,2024-08-31T04:00:00.000Z,Jacksonville State,Coastal Carolina,,,False,regular,fbs,fbs
+86,401637159,2024-08-31T04:00:00.000Z,Washington State,Portland State,,,False,regular,fbs,fcs
+87,401636613,2024-08-31T04:00:00.000Z,Texas Tech,Abilene Christian,,,False,regular,fbs,fcs
+88,401636612,2024-08-31T04:00:00.000Z,Kansas State,UT Martin,,,False,regular,fbs,fcs
+89,401636611,2024-08-31T04:00:00.000Z,Houston,UNLV,,,False,regular,fbs,fbs
+90,401636610,2024-08-31T04:00:00.000Z,Baylor,Tarleton State,,,False,regular,fbs,fcs
+91,401636609,2024-08-31T04:00:00.000Z,Arizona State,Wyoming,,,False,regular,fbs,fbs
+92,401628323,2024-08-31T16:00:00.000Z,Clemson,Georgia,,,False,regular,fbs,fbs
+93,401628322,2024-08-31T19:30:00.000Z,Florida,Miami,,,False,regular,fbs,fbs
+94,401628331,2024-08-31T19:30:00.000Z,Texas,Colorado State,,,False,regular,fbs,fbs
+95,401628319,2024-08-31T23:00:00.000Z,Alabama,Western Kentucky,,,False,regular,fbs,fbs
+96,401632064,2024-08-31T23:00:00.000Z,Arkansas State,Central Arkansas,,,False,regular,fbs,fcs
+97,401628332,2024-08-31T23:30:00.000Z,Texas A&M,Notre Dame,,,False,regular,fbs,fbs
+98,401628334,2024-09-01T23:30:00.000Z,USC,LSU,,,False,regular,fbs,fbs
+99,401634306,2024-09-02T23:30:00.000Z,Florida State,Boston College,,,True,regular,fbs,fbs
+100,401634765,2024-09-06T04:00:00.000Z,SMU,BYU,,,False,regular,fbs,fbs
+101,401645326,2024-09-07T04:00:00.000Z,Rice,Texas Southern,,,False,regular,fbs,fcs
+102,401645325,2024-09-07T04:00:00.000Z,North Texas,Stephen F. Austin,,,False,regular,fbs,fcs
+103,401645324,2024-09-07T04:00:00.000Z,Navy,Temple,,,True,regular,fbs,fbs
+104,401645323,2024-09-07T04:00:00.000Z,Florida Atlantic,Army,,,False,regular,fbs,fbs
+105,401644732,2024-09-07T04:00:00.000Z,Kent State,St Francis (PA),,,False,regular,fbs,fcs
+106,401643784,2024-09-07T04:00:00.000Z,Memphis,Troy,,,False,regular,fbs,fbs
+107,401643783,2024-09-07T04:00:00.000Z,Texas State,UT San Antonio,,,False,regular,fbs,fbs
+108,401643782,2024-09-07T04:00:00.000Z,Southern Mississippi,Southeastern Louisiana,,,False,regular,fbs,fcs
+109,401643781,2024-09-07T04:00:00.000Z,Ohio,South Alabama,,,False,regular,fbs,fbs
+110,401643780,2024-09-07T04:00:00.000Z,Louisiana Monroe,UAB,,,False,regular,fbs,fbs
+111,401643779,2024-09-07T04:00:00.000Z,Arkansas State,Tulsa,,,False,regular,fbs,fbs
+112,401643778,2024-09-07T04:00:00.000Z,Old Dominion,East Carolina,,,False,regular,fbs,fbs
+113,401643777,2024-09-07T04:00:00.000Z,James Madison,Gardner-Webb,,,False,regular,fbs,fcs
+114,401643710,2024-09-07T04:00:00.000Z,Wyoming,Idaho,,,False,regular,fbs,fcs
+115,401643709,2024-09-07T04:00:00.000Z,San Diego State,Oregon State,,,False,regular,fbs,fbs
+116,401643708,2024-09-07T04:00:00.000Z,Nevada,Georgia Southern,,,False,regular,fbs,fbs
+117,401643707,2024-09-07T04:00:00.000Z,Fresno State,Sacramento State,,,False,regular,fbs,fcs
+118,401643706,2024-09-07T04:00:00.000Z,Colorado State,Northern Colorado,,,False,regular,fbs,fcs
+119,401643705,2024-09-07T04:00:00.000Z,Air Force,San José State,,,True,regular,fbs,fbs
+120,401641016,2024-09-07T04:00:00.000Z,Kennesaw State,Louisiana,,,False,regular,fcs,fbs
+121,401640989,2024-09-07T04:00:00.000Z,New Mexico State,Liberty,,,True,regular,fbs,fbs
+122,401640979,2024-09-07T04:00:00.000Z,Florida International,Central Michigan,,,False,regular,fbs,fbs
+123,401636999,2024-09-07T04:00:00.000Z,Connecticut,Merrimack,,,False,regular,fbs,fcs
+124,401636859,2024-09-07T04:00:00.000Z,Washington State,Texas Tech,,,False,regular,fbs,fbs
+125,401636618,2024-09-07T04:00:00.000Z,Utah,Baylor,,,False,regular,fbs,fbs
+126,401636617,2024-09-07T04:00:00.000Z,UCF,Sam Houston State,,,False,regular,fbs,fbs
+127,401636616,2024-09-07T04:00:00.000Z,Tulane,Kansas State,,,False,regular,fbs,fbs
+128,401636615,2024-09-07T04:00:00.000Z,TCU,Long Island University,,,False,regular,fbs,fcs
+129,401636614,2024-09-07T04:00:00.000Z,Arizona,Northern Arizona,,,False,regular,fbs,fcs
+130,401635639,2024-09-07T04:00:00.000Z,Wake Forest,Virginia,,,True,regular,fbs,fbs
+131,401635540,2024-09-07T04:00:00.000Z,Virginia Tech,Marshall,,,False,regular,fbs,fbs
+132,401635539,2024-09-07T04:00:00.000Z,Stanford,Cal Poly,,,False,regular,fbs,fcs
+133,401635538,2024-09-07T04:00:00.000Z,Cincinnati,Pittsburgh,,,False,regular,fbs,fbs
+134,401635537,2024-09-07T04:00:00.000Z,North Carolina,Charlotte,,,False,regular,fbs,fbs
+135,401635536,2024-09-07T04:00:00.000Z,Miami,Florida A&M,,,False,regular,fbs,fcs
+136,401635535,2024-09-07T04:00:00.000Z,Louisville,Jacksonville State,,,False,regular,fbs,fbs
+137,401635534,2024-09-07T04:00:00.000Z,Syracuse,Georgia Tech,,,True,regular,fbs,fbs
+138,401635533,2024-09-07T04:00:00.000Z,Northwestern,Duke,,,False,regular,fbs,fbs
+139,401635532,2024-09-07T04:00:00.000Z,Clemson,Appalachian State,,,False,regular,fbs,fbs
+140,401635531,2024-09-07T04:00:00.000Z,Boston College,Duquesne,,,False,regular,fbs,fcs
+141,401634181,2024-09-07T04:00:00.000Z,Ball State,Missouri State,,,False,regular,fbs,fcs
+142,401632459,2024-09-07T04:00:00.000Z,Georgia State,Chattanooga,,,False,regular,fbs,fcs
+143,401632072,2024-09-07T04:00:00.000Z,UTEP,Southern Utah,,,False,regular,fbs,fcs
+144,401632071,2024-09-07T04:00:00.000Z,UNLV,Utah Tech,,,False,regular,fbs,fcs
+145,401632068,2024-09-07T04:00:00.000Z,Western Kentucky,Eastern Kentucky,,,False,regular,fbs,fcs
+146,401629040,2024-09-07T04:00:00.000Z,Toledo,UMass,,,False,regular,fbs,fbs
+147,401628977,2024-09-07T04:00:00.000Z,Notre Dame,Northern Illinois,,,False,regular,fbs,fbs
+148,401628603,2024-09-07T04:00:00.000Z,Coastal Carolina,William & Mary,,,False,regular,fbs,fcs
+149,401628593,2024-09-07T04:00:00.000Z,West Virginia,Albany,,,False,regular,fbs,fcs
+150,401628474,2024-09-07T04:00:00.000Z,Wisconsin,South Dakota,,,False,regular,fbs,fcs
+151,401628473,2024-09-07T04:00:00.000Z,Washington,Eastern Michigan,,,False,regular,fbs,fbs
+152,401628472,2024-09-07T04:00:00.000Z,USC,Utah State,,,False,regular,fbs,fbs
+153,401628471,2024-09-07T04:00:00.000Z,Rutgers,Akron,,,False,regular,fbs,fbs
+154,401628470,2024-09-07T04:00:00.000Z,Penn State,Bowling Green,,,False,regular,fbs,fbs
+155,401628469,2024-09-07T04:00:00.000Z,Oregon,Boise State,,,False,regular,fbs,fbs
+156,401628468,2024-09-07T04:00:00.000Z,Ohio State,Western Michigan,,,False,regular,fbs,fbs
+157,401628467,2024-09-07T04:00:00.000Z,Nebraska,Colorado,,,False,regular,fbs,fbs
+158,401628466,2024-09-07T04:00:00.000Z,Minnesota,Rhode Island,,,False,regular,fbs,fcs
+159,401628465,2024-09-07T04:00:00.000Z,Maryland,Michigan State,,,True,regular,fbs,fbs
+160,401628464,2024-09-07T04:00:00.000Z,Iowa,Iowa State,,,False,regular,fbs,fbs
+161,401628463,2024-09-07T04:00:00.000Z,Indiana,Western Illinois,,,False,regular,fbs,fcs
+162,401628462,2024-09-07T04:00:00.000Z,Illinois,Kansas,,,False,regular,fbs,fbs
+163,401628349,2024-09-07T04:00:00.000Z,Vanderbilt,Alcorn State,,,False,regular,fbs,fcs
+164,401628348,2024-09-07T04:00:00.000Z,Texas A&M,McNeese,,,False,regular,fbs,fcs
+165,401628347,2024-09-07T04:00:00.000Z,Michigan,Texas,,,False,regular,fbs,fbs
+166,401628345,2024-09-07T04:00:00.000Z,Oklahoma,Houston,,,True,regular,fbs,fbs
+167,401628344,2024-09-07T04:00:00.000Z,Missouri,Buffalo,,,False,regular,fbs,fbs
+168,401628336,2024-09-07T04:00:00.000Z,Oklahoma State,Arkansas,,,False,regular,fbs,fbs
+169,401628335,2024-09-07T04:00:00.000Z,Alabama,South Florida,,,False,regular,fbs,fbs
+170,401628343,2024-09-07T04:00:00.000Z,Arizona State,Mississippi State,,,False,regular,fbs,fbs
+171,401628342,2024-09-07T04:00:00.000Z,Ole Miss,Middle Tennessee,,,False,regular,fbs,fbs
+172,401628341,2024-09-07T04:00:00.000Z,LSU,Nicholls,,,False,regular,fbs,fcs
+173,401628339,2024-09-07T04:00:00.000Z,Georgia,Tennessee Tech,,,False,regular,fbs,fcs
+174,401628338,2024-09-07T04:00:00.000Z,Florida,Samford,,,False,regular,fbs,fcs
+175,401628337,2024-09-07T04:00:00.000Z,Auburn,California,,,False,regular,fbs,fbs
+176,401628340,2024-09-07T19:30:00.000Z,Kentucky,South Carolina,,,True,regular,fbs,fbs
+177,401628346,2024-09-07T23:30:00.000Z,NC State,Tennessee,,,False,regular,fbs,fbs
+178,401636867,2024-09-12T04:00:00.000Z,Texas State,Arizona State,,,False,regular,fbs,fbs
+179,401643788,2024-09-12T04:00:00.000Z,South Alabama,Northwestern State,,,False,regular,fbs,fcs
+180,401636864,2024-09-13T04:00:00.000Z,Kansas State,Arizona,,,False,regular,fbs,fbs
+181,401643786,2024-09-14T04:00:00.000Z,Temple,Coastal Carolina,,,False,regular,fbs,fbs
+182,401643785,2024-09-14T04:00:00.000Z,East Carolina,Appalachian State,,,False,regular,fbs,fbs
+183,401641040,2024-09-14T04:00:00.000Z,Sam Houston State,Hawai'i,,,False,regular,fbs,fbs
+184,401641033,2024-09-14T04:00:00.000Z,Fresno State,New Mexico State,,,False,regular,fbs,fbs
+185,401641024,2024-09-14T04:00:00.000Z,Middle Tennessee,Western Kentucky,,,True,regular,fbs,fbs
+186,401641017,2024-09-14T04:00:00.000Z,San José State,Kennesaw State,,,False,regular,fbs,fcs
+187,401640999,2024-09-14T04:00:00.000Z,Eastern Michigan,Jacksonville State,,,False,regular,fbs,fbs
+188,401640990,2024-09-14T04:00:00.000Z,Liberty,UTEP,,,True,regular,fbs,fbs
+189,401640980,2024-09-14T04:00:00.000Z,Florida Atlantic,Florida International,,,False,regular,fbs,fbs
+190,401636870,2024-09-14T04:00:00.000Z,Utah State,Utah,,,False,regular,fbs,fbs
+191,401636869,2024-09-14T04:00:00.000Z,Tulsa,Oklahoma State,,,False,regular,fbs,fbs
+192,401636868,2024-09-14T04:00:00.000Z,Texas Tech,North Texas,,,False,regular,fbs,fbs
+193,401636866,2024-09-14T04:00:00.000Z,TCU,UCF,,,True,regular,fbs,fbs
+194,401636865,2024-09-14T04:00:00.000Z,Miami (OH),Cincinnati,,,False,regular,fbs,fbs
+195,401636863,2024-09-14T04:00:00.000Z,Kansas,UNLV,,,False,regular,fbs,fbs
+196,401636862,2024-09-14T04:00:00.000Z,Houston,Rice,,,False,regular,fbs,fbs
+197,401636861,2024-09-14T04:00:00.000Z,Colorado State,Colorado,,,False,regular,fbs,fbs
+198,401636860,2024-09-14T04:00:00.000Z,Baylor,Air Force,,,False,regular,fbs,fbs
+199,401636364,2024-09-14T04:00:00.000Z,Western Michigan,Bethune-Cookman,,,False,regular,fbs,fcs
+200,401635548,2024-09-14T04:00:00.000Z,Old Dominion,Virginia Tech,,,False,regular,fbs,fbs
+201,401635547,2024-09-14T04:00:00.000Z,Pittsburgh,West Virginia,,,False,regular,fbs,fbs
+202,401635546,2024-09-14T04:00:00.000Z,NC State,Louisiana Tech,,,False,regular,fbs,fbs
+203,401635545,2024-09-14T04:00:00.000Z,North Carolina,North Carolina Central,,,False,regular,fbs,fcs
+204,401635544,2024-09-14T04:00:00.000Z,Miami,Ball State,,,False,regular,fbs,fbs
+205,401635543,2024-09-14T04:00:00.000Z,Georgia Tech,VMI,,,False,regular,fbs,fcs
+206,401635542,2024-09-14T04:00:00.000Z,Florida State,Memphis,,,False,regular,fbs,fbs
+207,401635541,2024-09-14T04:00:00.000Z,California,San Diego State,,,False,regular,fbs,fbs
+208,401629041,2024-09-14T04:00:00.000Z,Buffalo,UMass,,,False,regular,fbs,fbs
+209,401629030,2024-09-14T04:00:00.000Z,Duke,Connecticut,,,False,regular,fbs,fbs
+210,401628357,2024-09-14T04:00:00.000Z,Missouri,Boston College,,,False,regular,fbs,fbs
+211,401628356,2024-09-14T04:00:00.000Z,Mississippi State,Toledo,,,False,regular,fbs,fbs
+212,401628355,2024-09-14T04:00:00.000Z,Wake Forest,Ole Miss,,,False,regular,fbs,fbs
+213,401628352,2024-09-14T04:00:00.000Z,Auburn,New Mexico,,,False,regular,fbs,fbs
+214,401628351,2024-09-14T04:00:00.000Z,Arkansas,UAB,,,False,regular,fbs,fbs
+215,401628350,2024-09-14T04:00:00.000Z,Wisconsin,Alabama,,,False,regular,fbs,fbs
+216,401636871,2024-09-14T04:00:00.000Z,Wyoming,BYU,,,False,regular,fbs,fbs
+217,401643789,2024-09-14T04:00:00.000Z,Southern Mississippi,South Florida,,,False,regular,fbs,fbs
+218,401643787,2024-09-14T04:00:00.000Z,Georgia Southern,South Carolina State,,,False,regular,fbs,fcs
+219,401644734,2024-09-14T04:00:00.000Z,Ohio,Morgan State,,,False,regular,fbs,fcs
+220,401644733,2024-09-14T04:00:00.000Z,Akron,Colgate,,,False,regular,fbs,fcs
+221,401628480,2024-09-14T04:00:00.000Z,Michigan State,Prairie View,,,False,regular,fbs,fcs
+222,401628978,2024-09-14T04:00:00.000Z,Purdue,Notre Dame,,,False,regular,fbs,fbs
+223,401628484,2024-09-14T04:00:00.000Z,Washington State,Washington,,,True,regular,fbs,fbs
+224,401628483,2024-09-14T04:00:00.000Z,Oregon State,Oregon,,,True,regular,fbs,fbs
+225,401628482,2024-09-14T04:00:00.000Z,Nebraska,Northern Iowa,,,False,regular,fbs,fcs
+226,401628481,2024-09-14T04:00:00.000Z,Minnesota,Nevada,,,False,regular,fbs,fbs
+227,401628479,2024-09-14T04:00:00.000Z,Michigan,Arkansas State,,,False,regular,fbs,fbs
+228,401628478,2024-09-14T04:00:00.000Z,Virginia,Maryland,,,False,regular,fbs,fbs
+229,401628477,2024-09-14T04:00:00.000Z,Iowa,Troy,,,False,regular,fbs,fbs
+230,401628476,2024-09-14T04:00:00.000Z,UCLA,Indiana,,,False,regular,fbs,fbs
+231,401628475,2024-09-14T04:00:00.000Z,Illinois,Central Michigan,,,False,regular,fbs,fbs
+232,401628362,2024-09-14T04:00:00.000Z,Georgia State,Vanderbilt,,,False,regular,fbs,fbs
+233,401628361,2024-09-14T04:00:00.000Z,Texas,UT San Antonio,,,False,regular,fbs,fbs
+234,401628360,2024-09-14T04:00:00.000Z,Tennessee,Kent State,,,False,regular,fbs,fbs
+235,401628359,2024-09-14T04:00:00.000Z,South Carolina,LSU,,,True,regular,fbs,fbs
+236,401628358,2024-09-14T04:00:00.000Z,Oklahoma,Tulane,,,False,regular,fbs,fbs
+237,401655632,2024-09-14T04:00:00.000Z,Northwestern,Eastern Illinois,,,False,regular,fbs,fcs
+238,401645327,2024-09-14T04:00:00.000Z,Charlotte,Gardner-Webb,,,False,regular,fbs,fcs
+239,401628353,2024-09-14T19:30:00.000Z,Florida,Texas A&M,,,True,regular,fbs,fbs
+240,401628354,2024-09-14T23:30:00.000Z,Kentucky,Georgia,,,True,regular,fbs,fbs
+241,401643790,2024-09-19T04:00:00.000Z,Appalachian State,South Alabama,,,True,regular,fbs,fbs
+242,401634766,2024-09-20T04:00:00.000Z,Syracuse,Stanford,,,False,regular,fbs,fbs
+243,401643714,2024-09-21T02:00:00.000Z,Washington State,San José State,,,False,regular,fbs,fbs
+244,401644737,2024-09-21T04:00:00.000Z,Eastern Michigan,St Francis (PA),,,False,regular,fbs,fcs
+245,401644736,2024-09-21T04:00:00.000Z,Northern Illinois,Buffalo,,,True,regular,fbs,fbs
+246,401644735,2024-09-21T04:00:00.000Z,Central Michigan,Ball State,,,True,regular,fbs,fbs
+247,401643791,2024-09-21T04:00:00.000Z,Louisiana,Tulane,,,False,regular,fbs,fbs
+248,401643717,2024-09-21T04:00:00.000Z,Oregon State,Purdue,,,False,regular,fbs,fbs
+249,401643716,2024-09-21T04:00:00.000Z,North Texas,Wyoming,,,False,regular,fbs,fbs
+250,401643715,2024-09-21T04:00:00.000Z,Temple,Utah State,,,False,regular,fbs,fbs
+251,401643713,2024-09-21T04:00:00.000Z,Nevada,Eastern Washington,,,False,regular,fbs,fcs
+252,401643712,2024-09-21T04:00:00.000Z,Hawai'i,Northern Iowa,,,False,regular,fbs,fcs
+253,401643711,2024-09-21T04:00:00.000Z,New Mexico,Fresno State,,,True,regular,fbs,fbs
+254,401641037,2024-09-21T04:00:00.000Z,Western Kentucky,Toledo,,,False,regular,fbs,fbs
+255,401641034,2024-09-21T04:00:00.000Z,Sam Houston State,New Mexico State,,,True,regular,fbs,fbs
+256,401641028,2024-09-21T04:00:00.000Z,Colorado State,UTEP,,,False,regular,fbs,fbs
+257,401641008,2024-09-21T04:00:00.000Z,Louisiana Tech,Tulsa,,,False,regular,fbs,fbs
+258,401641000,2024-09-21T04:00:00.000Z,Jacksonville State,Southern Mississippi,,,False,regular,fbs,fbs
+259,401637162,2024-09-21T04:00:00.000Z,Boise State,Portland State,,,False,regular,fbs,fcs
+260,401640991,2024-09-21T04:00:00.000Z,Liberty,East Carolina,,,False,regular,fbs,fbs
+261,401636879,2024-09-21T04:00:00.000Z,West Virginia,Kansas,,,True,regular,fbs,fbs
+262,401636877,2024-09-21T04:00:00.000Z,Texas Tech,Arizona State,,,False,regular,fbs,fbs
+263,401636876,2024-09-21T04:00:00.000Z,Oklahoma State,Utah,,,False,regular,fbs,fbs
+264,401636875,2024-09-21T04:00:00.000Z,Iowa State,Arkansas State,,,False,regular,fbs,fbs
+265,401636874,2024-09-21T04:00:00.000Z,Colorado,Baylor,,,False,regular,fbs,fbs
+266,401636873,2024-09-21T04:00:00.000Z,Cincinnati,Houston,,,True,regular,fbs,fbs
+267,401636872,2024-09-21T04:00:00.000Z,BYU,Kansas State,,,True,regular,fbs,fbs
+268,401636374,2024-09-21T04:00:00.000Z,Troy,Florida A&M,,,False,regular,fbs,fcs
+269,401635558,2024-09-21T04:00:00.000Z,Coastal Carolina,Virginia,,,False,regular,fbs,fbs
+270,401635557,2024-09-21T04:00:00.000Z,SMU,TCU,,,False,regular,fbs,fbs
+271,401635556,2024-09-21T04:00:00.000Z,North Carolina,James Madison,,,False,regular,fbs,fbs
+272,401635555,2024-09-21T04:00:00.000Z,South Florida,Miami,,,False,regular,fbs,fbs
+273,401635554,2024-09-21T04:00:00.000Z,Louisville,Georgia Tech,,,True,regular,fbs,fbs
+274,401635553,2024-09-21T04:00:00.000Z,Middle Tennessee,Duke,,,False,regular,fbs,fbs
+275,401635552,2024-09-21T04:00:00.000Z,Clemson,NC State,,,True,regular,fbs,fbs
+276,401635551,2024-09-21T04:00:00.000Z,Florida State,California,,,False,regular,fbs,fbs
+277,401634247,2024-09-21T04:00:00.000Z,Pittsburgh,Youngstown State,,,False,regular,fbs,fcs
+278,401629042,2024-09-21T04:00:00.000Z,UMass,Wagner,,,False,regular,fbs,fcs
+279,401629031,2024-09-21T04:00:00.000Z,Connecticut,Florida Atlantic,,,False,regular,fbs,fbs
+280,401628979,2024-09-21T04:00:00.000Z,Notre Dame,Miami (OH),,,False,regular,fbs,fbs
+281,401628625,2024-09-21T04:00:00.000Z,Florida International,Monmouth,,,False,regular,fbs,fcs
+282,401628494,2024-09-21T04:00:00.000Z,Virginia Tech,Rutgers,,,False,regular,fbs,fbs
+283,401628493,2024-09-21T04:00:00.000Z,Penn State,Kent State,,,False,regular,fbs,fbs
+284,401628492,2024-09-21T04:00:00.000Z,Ohio State,Marshall,,,False,regular,fbs,fbs
+285,401628491,2024-09-21T04:00:00.000Z,Washington,Northwestern,,,False,regular,fbs,fbs
+286,401628490,2024-09-21T04:00:00.000Z,Boston College,Michigan State,,,False,regular,fbs,fbs
+287,401628489,2024-09-21T04:00:00.000Z,Michigan,USC,,,False,regular,fbs,fbs
+288,401628488,2024-09-21T04:00:00.000Z,Maryland,Villanova,,,False,regular,fbs,fcs
+289,401628487,2024-09-21T04:00:00.000Z,Minnesota,Iowa,,,True,regular,fbs,fbs
+290,401628486,2024-09-21T04:00:00.000Z,Indiana,Charlotte,,,False,regular,fbs,fbs
+291,401628485,2024-09-21T04:00:00.000Z,Nebraska,Illinois,,,True,regular,fbs,fbs
+292,401628372,2024-09-21T04:00:00.000Z,Texas A&M,Bowling Green,,,False,regular,fbs,fbs
+293,401628371,2024-09-21T04:00:00.000Z,Texas,Louisiana Monroe,,,False,regular,fbs,fbs
+294,401645330,2024-09-21T04:00:00.000Z,UT San Antonio,Houston Christian,,,False,regular,fbs,fcs
+295,401628369,2024-09-21T04:00:00.000Z,Oklahoma,Tennessee,,,False,regular,fbs,fbs
+296,401628368,2024-09-21T04:00:00.000Z,Missouri,Vanderbilt,,,True,regular,fbs,fbs
+297,401628367,2024-09-21T04:00:00.000Z,Mississippi State,Florida,,,True,regular,fbs,fbs
+298,401628366,2024-09-21T04:00:00.000Z,Ole Miss,Georgia Southern,,,False,regular,fbs,fbs
+299,401628365,2024-09-21T04:00:00.000Z,LSU,UCLA,,,False,regular,fbs,fbs
+300,401628364,2024-09-21T04:00:00.000Z,Kentucky,Ohio,,,False,regular,fbs,fbs
+301,401628363,2024-09-21T04:00:00.000Z,Auburn,Arkansas,,,True,regular,fbs,fbs
+302,401628370,2024-09-21T04:00:00.000Z,South Carolina,Akron,,,False,regular,fbs,fbs
+303,401645329,2024-09-21T04:00:00.000Z,Navy,Memphis,,,True,regular,fbs,fbs
+304,401645328,2024-09-21T04:00:00.000Z,Army,Rice,,,False,regular,fbs,fbs
+305,401645331,2024-09-26T04:00:00.000Z,Temple,Army,,,False,regular,fbs,fbs
+306,401634767,2024-09-27T04:00:00.000Z,Miami,Virginia Tech,,,True,regular,fbs,fbs
+307,401645336,2024-09-28T04:00:00.000Z,North Texas,Tulsa,,,True,regular,fbs,fbs
+308,401645335,2024-09-28T04:00:00.000Z,Florida Atlantic,Wagner,,,False,regular,fbs,fcs
+309,401645334,2024-09-28T04:00:00.000Z,East Carolina,UT San Antonio,,,True,regular,fbs,fbs
+310,401645333,2024-09-28T04:00:00.000Z,Rice,Charlotte,,,True,regular,fbs,fbs
+311,401645332,2024-09-28T04:00:00.000Z,UAB,Navy,,,True,regular,fbs,fbs
+312,401644739,2024-09-28T04:00:00.000Z,Kent State,Eastern Michigan,,,True,regular,fbs,fbs
+313,401644738,2024-09-28T04:00:00.000Z,Ohio,Akron,,,True,regular,fbs,fbs
+314,401643796,2024-09-28T04:00:00.000Z,Troy,Louisiana Monroe,,,True,regular,fbs,fbs
+315,401643795,2024-09-28T04:00:00.000Z,Bowling Green,Old Dominion,,,False,regular,fbs,fbs
+316,401643794,2024-09-28T04:00:00.000Z,Marshall,Western Michigan,,,False,regular,fbs,fbs
+317,401643793,2024-09-28T04:00:00.000Z,James Madison,Ball State,,,False,regular,fbs,fbs
+318,401643792,2024-09-28T04:00:00.000Z,Georgia State,Georgia Southern,,,True,regular,fbs,fbs
+319,401643721,2024-09-28T04:00:00.000Z,Central Michigan,San Diego State,,,False,regular,fbs,fbs
+320,401643720,2024-09-28T04:00:00.000Z,UNLV,Fresno State,,,True,regular,fbs,fbs
+321,401643719,2024-09-28T04:00:00.000Z,Boise State,Washington State,,,False,regular,fbs,fbs
+322,401643718,2024-09-28T04:00:00.000Z,Wyoming,Air Force,,,True,regular,fbs,fbs
+323,401641041,2024-09-28T04:00:00.000Z,Sam Houston State,Texas State,,,False,regular,fbs,fbs
+324,401641035,2024-09-28T04:00:00.000Z,New Mexico State,New Mexico,,,False,regular,fbs,fbs
+325,401641025,2024-09-28T04:00:00.000Z,Memphis,Middle Tennessee,,,False,regular,fbs,fbs
+326,401641018,2024-09-28T04:00:00.000Z,Kennesaw State,UT Martin,,,False,regular,fcs,fcs
+327,401640992,2024-09-28T04:00:00.000Z,Appalachian State,Liberty,,,False,regular,fbs,fbs
+328,401640981,2024-09-28T04:00:00.000Z,Florida International,Louisiana Tech,,,True,regular,fbs,fbs
+329,401635564,2024-09-28T04:00:00.000Z,NC State,Northern Illinois,,,False,regular,fbs,fbs
+330,401635563,2024-09-28T04:00:00.000Z,SMU,Florida State,,,False,regular,fbs,fbs
+331,401635562,2024-09-28T04:00:00.000Z,Duke,North Carolina,,,True,regular,fbs,fbs
+332,401635561,2024-09-28T04:00:00.000Z,Clemson,Stanford,,,False,regular,fbs,fbs
+333,401635560,2024-09-28T04:00:00.000Z,Boston College,Western Kentucky,,,False,regular,fbs,fbs
+334,401629043,2024-09-28T04:00:00.000Z,Miami (OH),UMass,,,False,regular,fbs,fbs
+335,401629032,2024-09-28T04:00:00.000Z,Connecticut,Buffalo,,,False,regular,fbs,fbs
+336,401628980,2024-09-28T04:00:00.000Z,Notre Dame,Louisville,,,False,regular,fbs,fbs
+337,401628502,2024-09-28T04:00:00.000Z,USC,Wisconsin,,,False,regular,fbs,fbs
+338,401628501,2024-09-28T04:00:00.000Z,Rutgers,Washington,,,False,regular,fbs,fbs
+339,401628375,2024-09-28T04:00:00.000Z,Auburn,Oklahoma,,,False,regular,fbs,fbs
+340,401628373,2024-09-28T04:00:00.000Z,Texas A&M,Arkansas,,,True,regular,fbs,fbs
+341,401636886,2024-09-28T04:00:00.000Z,Utah,Arizona,,,True,regular,fbs,fbs
+342,401636885,2024-09-28T04:00:00.000Z,UCF,Colorado,,,False,regular,fbs,fbs
+343,401636884,2024-09-28T04:00:00.000Z,Texas Tech,Cincinnati,,,True,regular,fbs,fbs
+344,401636883,2024-09-28T04:00:00.000Z,Kansas State,Oklahoma State,,,True,regular,fbs,fbs
+345,401636882,2024-09-28T04:00:00.000Z,Kansas,TCU,,,True,regular,fbs,fbs
+346,401636881,2024-09-28T04:00:00.000Z,Houston,Iowa State,,,True,regular,fbs,fbs
+347,401636880,2024-09-28T04:00:00.000Z,Baylor,BYU,,,True,regular,fbs,fbs
+348,401635659,2024-09-28T04:00:00.000Z,Wake Forest,Louisiana,,,False,regular,fbs,fbs
+349,401635565,2024-09-28T04:00:00.000Z,Syracuse,Holy Cross,,,False,regular,fbs,fcs
+350,401628500,2024-09-28T04:00:00.000Z,UCLA,Oregon,,,True,regular,fbs,fbs
+351,401628499,2024-09-28T04:00:00.000Z,Purdue,Nebraska,,,True,regular,fbs,fbs
+352,401628498,2024-09-28T04:00:00.000Z,Michigan State,Ohio State,,,True,regular,fbs,fbs
+353,401628497,2024-09-28T04:00:00.000Z,Michigan,Minnesota,,,True,regular,fbs,fbs
+354,401628496,2024-09-28T04:00:00.000Z,Indiana,Maryland,,,True,regular,fbs,fbs
+355,401628495,2024-09-28T04:00:00.000Z,Penn State,Illinois,,,True,regular,fbs,fbs
+356,401628378,2024-09-28T04:00:00.000Z,Texas,Mississippi State,,,False,regular,fbs,fbs
+357,401628377,2024-09-28T04:00:00.000Z,Ole Miss,Kentucky,,,True,regular,fbs,fbs
+358,401628376,2024-09-28T04:00:00.000Z,LSU,South Alabama,,,False,regular,fbs,fbs
+359,401645337,2024-09-28T04:00:00.000Z,Tulane,South Florida,,,True,regular,fbs,fbs
+360,401628374,2024-09-28T23:30:00.000Z,Alabama,Georgia,,,True,regular,fbs,fbs
+361,401641029,2024-10-03T04:00:00.000Z,UTEP,Sam Houston State,,,True,regular,fbs,fbs
+362,401643797,2024-10-03T04:00:00.000Z,Troy,Texas State,,,True,regular,fbs,fbs
+363,401641001,2024-10-04T04:00:00.000Z,Kennesaw State,Jacksonville State,,,False,regular,fcs,fbs
+364,401636891,2024-10-04T04:00:00.000Z,TCU,Houston,,,True,regular,fbs,fbs
+365,401644740,2024-10-05T04:00:00.000Z,Akron,Bowling Green,,,True,regular,fbs,fbs
+366,401644684,2024-10-05T04:00:00.000Z,Toledo,Miami (OH),,,True,regular,fbs,fbs
+367,401643802,2024-10-05T04:00:00.000Z,Southern Mississippi,Louisiana,,,True,regular,fbs,fbs
+368,401643801,2024-10-05T04:00:00.000Z,Louisiana Monroe,James Madison,,,True,regular,fbs,fbs
+369,401643800,2024-10-05T04:00:00.000Z,Arkansas State,South Alabama,,,True,regular,fbs,fbs
+370,401643799,2024-10-05T04:00:00.000Z,Marshall,Appalachian State,,,True,regular,fbs,fbs
+371,401643798,2024-10-05T04:00:00.000Z,Coastal Carolina,Old Dominion,,,True,regular,fbs,fbs
+372,401643726,2024-10-05T04:00:00.000Z,San José State,Nevada,,,True,regular,fbs,fbs
+373,401643725,2024-10-05T04:00:00.000Z,San Diego State,Hawai'i,,,True,regular,fbs,fbs
+374,401643724,2024-10-05T04:00:00.000Z,Oregon State,Colorado State,,,False,regular,fbs,fbs
+375,401643723,2024-10-05T04:00:00.000Z,Boise State,Utah State,,,True,regular,fbs,fbs
+376,401643722,2024-10-05T04:00:00.000Z,Air Force,Navy,,,False,regular,fbs,fbs
+377,401636890,2024-10-05T04:00:00.000Z,Oklahoma State,West Virginia,,,True,regular,fbs,fbs
+378,401636889,2024-10-05T04:00:00.000Z,Iowa State,Baylor,,,True,regular,fbs,fbs
+379,401636888,2024-10-05T04:00:00.000Z,Arizona State,Kansas,,,False,regular,fbs,fbs
+380,401636887,2024-10-05T04:00:00.000Z,Arizona,Texas Tech,,,False,regular,fbs,fbs
+381,401635638,2024-10-05T04:00:00.000Z,NC State,Wake Forest,,,True,regular,fbs,fbs
+382,401635573,2024-10-05T04:00:00.000Z,Stanford,Virginia Tech,,,False,regular,fbs,fbs
+383,401635572,2024-10-05T04:00:00.000Z,North Carolina,Pittsburgh,,,True,regular,fbs,fbs
+384,401635571,2024-10-05T04:00:00.000Z,Louisville,SMU,,,False,regular,fbs,fbs
+385,401635570,2024-10-05T04:00:00.000Z,Georgia Tech,Duke,,,True,regular,fbs,fbs
+386,401635569,2024-10-05T04:00:00.000Z,Florida State,Clemson,,,True,regular,fbs,fbs
+387,401635568,2024-10-05T04:00:00.000Z,California,Miami,,,False,regular,fbs,fbs
+388,401635567,2024-10-05T04:00:00.000Z,Virginia,Boston College,,,True,regular,fbs,fbs
+389,401634779,2024-10-05T04:00:00.000Z,UNLV,Syracuse,,,False,regular,fbs,fbs
+390,401629044,2024-10-05T04:00:00.000Z,Northern Illinois,UMass,,,False,regular,fbs,fbs
+391,401645340,2024-10-05T04:00:00.000Z,Charlotte,East Carolina,,,True,regular,fbs,fbs
+392,401628510,2024-10-05T04:00:00.000Z,Penn State,UCLA,,,False,regular,fbs,fbs
+393,401628509,2024-10-05T04:00:00.000Z,Wisconsin,Purdue,,,True,regular,fbs,fbs
+394,401628508,2024-10-05T04:00:00.000Z,Nebraska,Rutgers,,,True,regular,fbs,fbs
+395,401628507,2024-10-05T04:00:00.000Z,Minnesota,USC,,,False,regular,fbs,fbs
+396,401628506,2024-10-05T04:00:00.000Z,Oregon,Michigan State,,,False,regular,fbs,fbs
+397,401628505,2024-10-05T04:00:00.000Z,Washington,Michigan,,,False,regular,fbs,fbs
+398,401628504,2024-10-05T04:00:00.000Z,Ohio State,Iowa,,,True,regular,fbs,fbs
+399,401628503,2024-10-05T04:00:00.000Z,Northwestern,Indiana,,,True,regular,fbs,fbs
+400,401628384,2024-10-05T04:00:00.000Z,Vanderbilt,Alabama,,,True,regular,fbs,fbs
+401,401628383,2024-10-05T04:00:00.000Z,Texas A&M,Missouri,,,True,regular,fbs,fbs
+402,401628382,2024-10-05T04:00:00.000Z,South Carolina,Ole Miss,,,True,regular,fbs,fbs
+403,401628381,2024-10-05T04:00:00.000Z,Georgia,Auburn,,,True,regular,fbs,fbs
+404,401628380,2024-10-05T04:00:00.000Z,Florida,UCF,,,False,regular,fbs,fbs
+405,401628379,2024-10-05T04:00:00.000Z,Arkansas,Tennessee,,,True,regular,fbs,fbs
+406,401629033,2024-10-05T04:00:00.000Z,Connecticut,Temple,,,False,regular,fbs,fbs
+407,401645339,2024-10-05T04:00:00.000Z,Tulsa,Army,,,False,regular,fbs,fbs
+408,401645338,2024-10-05T04:00:00.000Z,UAB,Tulane,,,True,regular,fbs,fbs
+409,401644741,2024-10-05T04:00:00.000Z,Ball State,Western Michigan,,,True,regular,fbs,fbs
+410,401641002,2024-10-09T04:00:00.000Z,Jacksonville State,New Mexico State,,,True,regular,fbs,fbs
+411,401640982,2024-10-09T04:00:00.000Z,Liberty,Florida International,,,True,regular,fbs,fbs
+412,401641009,2024-10-10T04:00:00.000Z,Louisiana Tech,Middle Tennessee,,,True,regular,fbs,fbs
+413,401641030,2024-10-10T04:00:00.000Z,Western Kentucky,UTEP,,,True,regular,fbs,fbs
+414,401643803,2024-10-10T04:00:00.000Z,James Madison,Coastal Carolina,,,True,regular,fbs,fbs
+415,401645341,2024-10-11T04:00:00.000Z,South Florida,Memphis,,,True,regular,fbs,fbs
+416,401636892,2024-10-11T04:00:00.000Z,Arizona State,Utah,,,True,regular,fbs,fbs
+417,401644742,2024-10-12T04:00:00.000Z,Western Michigan,Akron,,,True,regular,fbs,fbs
+418,401644685,2024-10-12T04:00:00.000Z,Eastern Michigan,Miami (OH),,,True,regular,fbs,fbs
+419,401643808,2024-10-12T04:00:00.000Z,Texas State,Arkansas State,,,True,regular,fbs,fbs
+420,401643807,2024-10-12T04:00:00.000Z,Louisiana Monroe,Southern Mississippi,,,True,regular,fbs,fbs
+421,401643806,2024-10-12T04:00:00.000Z,Louisiana,Appalachian State,,,True,regular,fbs,fbs
+422,401643805,2024-10-12T04:00:00.000Z,Georgia State,Old Dominion,,,True,regular,fbs,fbs
+423,401643804,2024-10-12T04:00:00.000Z,Georgia Southern,Marshall,,,True,regular,fbs,fbs
+424,401643733,2024-10-12T04:00:00.000Z,Utah State,UNLV,,,True,regular,fbs,fbs
+425,401643732,2024-10-12T04:00:00.000Z,Wyoming,San Diego State,,,True,regular,fbs,fbs
+426,401643731,2024-10-12T04:00:00.000Z,Nevada,Oregon State,,,False,regular,fbs,fbs
+427,401643730,2024-10-12T04:00:00.000Z,Fresno State,Washington State,,,False,regular,fbs,fbs
+428,401643729,2024-10-12T04:00:00.000Z,Colorado State,San José State,,,True,regular,fbs,fbs
+429,401643728,2024-10-12T04:00:00.000Z,Hawai'i,Boise State,,,True,regular,fbs,fbs
+430,401643727,2024-10-12T04:00:00.000Z,New Mexico,Air Force,,,True,regular,fbs,fbs
+431,401636896,2024-10-12T04:00:00.000Z,West Virginia,Iowa State,,,True,regular,fbs,fbs
+432,401636895,2024-10-12T04:00:00.000Z,UCF,Cincinnati,,,True,regular,fbs,fbs
+433,401636894,2024-10-12T04:00:00.000Z,Colorado,Kansas State,,,False,regular,fbs,fbs
+434,401636893,2024-10-12T04:00:00.000Z,BYU,Arizona,,,False,regular,fbs,fbs
+435,401635578,2024-10-12T04:00:00.000Z,Virginia,Louisville,,,True,regular,fbs,fbs
+436,401635577,2024-10-12T04:00:00.000Z,North Carolina,Georgia Tech,,,True,regular,fbs,fbs
+437,401635576,2024-10-12T04:00:00.000Z,Wake Forest,Clemson,,,True,regular,fbs,fbs
+438,401635575,2024-10-12T04:00:00.000Z,Pittsburgh,California,,,False,regular,fbs,fbs
+439,401635574,2024-10-12T04:00:00.000Z,NC State,Syracuse,,,True,regular,fbs,fbs
+440,401628981,2024-10-12T04:00:00.000Z,Notre Dame,Stanford,,,False,regular,fbs,fbs
+441,401628517,2024-10-12T04:00:00.000Z,Rutgers,Wisconsin,,,True,regular,fbs,fbs
+442,401645344,2024-10-12T04:00:00.000Z,Rice,UT San Antonio,,,True,regular,fbs,fbs
+443,401628515,2024-10-12T04:00:00.000Z,Oregon,Ohio State,,,False,regular,fbs,fbs
+444,401628514,2024-10-12T04:00:00.000Z,UCLA,Minnesota,,,False,regular,fbs,fbs
+445,401628513,2024-10-12T04:00:00.000Z,Maryland,Northwestern,,,True,regular,fbs,fbs
+446,401628512,2024-10-12T04:00:00.000Z,Iowa,Washington,,,False,regular,fbs,fbs
+447,401628511,2024-10-12T04:00:00.000Z,Illinois,Purdue,,,True,regular,fbs,fbs
+448,401628391,2024-10-12T04:00:00.000Z,Tennessee,Florida,,,True,regular,fbs,fbs
+449,401628390,2024-10-12T04:00:00.000Z,Oklahoma,Texas,,,True,regular,fbs,fbs
+450,401628389,2024-10-12T04:00:00.000Z,UMass,Missouri,,,False,regular,fbs,fbs
+451,401628388,2024-10-12T04:00:00.000Z,LSU,Ole Miss,,,True,regular,fbs,fbs
+452,401628387,2024-10-12T04:00:00.000Z,Kentucky,Vanderbilt,,,True,regular,fbs,fbs
+453,401628386,2024-10-12T04:00:00.000Z,Georgia,Mississippi State,,,True,regular,fbs,fbs
+454,401628385,2024-10-12T04:00:00.000Z,Alabama,South Carolina,,,True,regular,fbs,fbs
+455,401628516,2024-10-12T04:00:00.000Z,USC,Penn State,,,False,regular,fbs,fbs
+456,401645343,2024-10-12T04:00:00.000Z,Florida Atlantic,North Texas,,,True,regular,fbs,fbs
+457,401645342,2024-10-12T04:00:00.000Z,Army,UAB,,,False,regular,fbs,fbs
+458,401644746,2024-10-12T04:00:00.000Z,Central Michigan,Ohio,,,True,regular,fbs,fbs
+459,401644745,2024-10-12T04:00:00.000Z,Buffalo,Toledo,,,True,regular,fbs,fbs
+460,401644744,2024-10-12T04:00:00.000Z,Bowling Green,Northern Illinois,,,True,regular,fbs,fbs
+461,401644743,2024-10-12T04:00:00.000Z,Kent State,Ball State,,,True,regular,fbs,fbs
+462,401643809,2024-10-15T04:00:00.000Z,South Alabama,Troy,,,True,regular,fbs,fbs
+463,401641010,2024-10-15T04:00:00.000Z,New Mexico State,Louisiana Tech,,,True,regular,fbs,fbs
+464,401641019,2024-10-15T04:00:00.000Z,Middle Tennessee,Kennesaw State,,,False,regular,fbs,fcs
+465,401641038,2024-10-16T04:00:00.000Z,Sam Houston State,Western Kentucky,,,True,regular,fbs,fbs
+466,401640983,2024-10-16T04:00:00.000Z,UTEP,Florida International,,,True,regular,fbs,fbs
+467,401634768,2024-10-17T04:00:00.000Z,Virginia Tech,Boston College,,,True,regular,fbs,fbs
+468,401643810,2024-10-17T04:00:00.000Z,Marshall,Georgia State,,,True,regular,fbs,fbs
+469,401634769,2024-10-18T04:00:00.000Z,Duke,Florida State,,,True,regular,fbs,fbs
+470,401636898,2024-10-18T04:00:00.000Z,BYU,Oklahoma State,,,True,regular,fbs,fbs
+471,401644749,2024-10-19T04:00:00.000Z,Buffalo,Western Michigan,,,True,regular,fbs,fbs
+472,401644748,2024-10-19T04:00:00.000Z,Bowling Green,Kent State,,,True,regular,fbs,fbs
+473,401644686,2024-10-19T04:00:00.000Z,Miami (OH),Ohio,,,True,regular,fbs,fbs
+474,401643814,2024-10-19T04:00:00.000Z,Southern Mississippi,Arkansas State,,,True,regular,fbs,fbs
+475,401643813,2024-10-19T04:00:00.000Z,Old Dominion,Texas State,,,True,regular,fbs,fbs
+476,401643812,2024-10-19T04:00:00.000Z,Georgia Southern,James Madison,,,True,regular,fbs,fbs
+477,401643811,2024-10-19T04:00:00.000Z,Coastal Carolina,Louisiana,,,True,regular,fbs,fbs
+478,401643739,2024-10-19T04:00:00.000Z,Oregon State,UNLV,,,False,regular,fbs,fbs
+479,401643738,2024-10-19T04:00:00.000Z,San José State,Wyoming,,,True,regular,fbs,fbs
+480,401643737,2024-10-19T04:00:00.000Z,Utah State,New Mexico,,,True,regular,fbs,fbs
+481,401643736,2024-10-19T04:00:00.000Z,Washington State,Hawai'i,,,False,regular,fbs,fbs
+482,401643735,2024-10-19T04:00:00.000Z,Nevada,Fresno State,,,True,regular,fbs,fbs
+483,401643734,2024-10-19T04:00:00.000Z,Air Force,Colorado State,,,True,regular,fbs,fbs
+484,401628519,2024-10-19T04:00:00.000Z,Indiana,Nebraska,,,True,regular,fbs,fbs
+485,401628518,2024-10-19T04:00:00.000Z,Illinois,Michigan,,,True,regular,fbs,fbs
+486,401628399,2024-10-19T04:00:00.000Z,Vanderbilt,Ball State,,,False,regular,fbs,fbs
+487,401628398,2024-10-19T04:00:00.000Z,Texas,Georgia,,,False,regular,fbs,fbs
+488,401628397,2024-10-19T04:00:00.000Z,Tennessee,Alabama,,,True,regular,fbs,fbs
+489,401628396,2024-10-19T04:00:00.000Z,Oklahoma,South Carolina,,,False,regular,fbs,fbs
+490,401628395,2024-10-19T04:00:00.000Z,Missouri,Auburn,,,True,regular,fbs,fbs
+491,401628394,2024-10-19T04:00:00.000Z,Mississippi State,Texas A&M,,,True,regular,fbs,fbs
+492,401628393,2024-10-19T04:00:00.000Z,Florida,Kentucky,,,True,regular,fbs,fbs
+493,401628392,2024-10-19T04:00:00.000Z,Arkansas,LSU,,,True,regular,fbs,fbs
+494,401636904,2024-10-19T04:00:00.000Z,West Virginia,Kansas State,,,True,regular,fbs,fbs
+495,401636903,2024-10-19T04:00:00.000Z,Utah,TCU,,,False,regular,fbs,fbs
+496,401636902,2024-10-19T04:00:00.000Z,Texas Tech,Baylor,,,True,regular,fbs,fbs
+497,401636901,2024-10-19T04:00:00.000Z,Kansas,Houston,,,True,regular,fbs,fbs
+498,401636900,2024-10-19T04:00:00.000Z,Iowa State,UCF,,,True,regular,fbs,fbs
+499,401636899,2024-10-19T04:00:00.000Z,Cincinnati,Arizona State,,,False,regular,fbs,fbs
+500,401636897,2024-10-19T04:00:00.000Z,Arizona,Colorado,,,True,regular,fbs,fbs
+501,401635590,2024-10-19T04:00:00.000Z,Stanford,SMU,,,False,regular,fbs,fbs
+502,401635589,2024-10-19T04:00:00.000Z,Louisville,Miami,,,True,regular,fbs,fbs
+503,401635588,2024-10-19T04:00:00.000Z,Clemson,Virginia,,,True,regular,fbs,fbs
+504,401635587,2024-10-19T04:00:00.000Z,California,NC State,,,False,regular,fbs,fbs
+505,401629034,2024-10-19T04:00:00.000Z,Connecticut,Wake Forest,,,False,regular,fbs,fbs
+506,401628982,2024-10-19T04:00:00.000Z,Georgia Tech,Notre Dame,,,False,regular,fbs,fbs
+507,401628524,2024-10-19T04:00:00.000Z,Rutgers,UCLA,,,False,regular,fbs,fbs
+508,401628523,2024-10-19T04:00:00.000Z,Purdue,Oregon,,,False,regular,fbs,fbs
+509,401628522,2024-10-19T04:00:00.000Z,Northwestern,Wisconsin,,,True,regular,fbs,fbs
+510,401628521,2024-10-19T04:00:00.000Z,Maryland,USC,,,False,regular,fbs,fbs
+511,401645351,2024-10-19T04:00:00.000Z,Temple,Tulsa,,,True,regular,fbs,fbs
+512,401628520,2024-10-19T04:00:00.000Z,Michigan State,Iowa,,,True,regular,fbs,fbs
+513,401645350,2024-10-19T04:00:00.000Z,Tulane,Rice,,,True,regular,fbs,fbs
+514,401645349,2024-10-19T04:00:00.000Z,Memphis,North Texas,,,True,regular,fbs,fbs
+515,401645348,2024-10-19T04:00:00.000Z,UT San Antonio,Florida Atlantic,,,True,regular,fbs,fbs
+516,401645347,2024-10-19T04:00:00.000Z,Navy,Charlotte,,,True,regular,fbs,fbs
+517,401645346,2024-10-19T04:00:00.000Z,Army,East Carolina,,,False,regular,fbs,fbs
+518,401645345,2024-10-19T04:00:00.000Z,South Florida,UAB,,,True,regular,fbs,fbs
+519,401644751,2024-10-19T04:00:00.000Z,Northern Illinois,Toledo,,,True,regular,fbs,fbs
+520,401644750,2024-10-19T04:00:00.000Z,Eastern Michigan,Central Michigan,,,True,regular,fbs,fbs
+521,401640984,2024-10-22T04:00:00.000Z,Florida International,Sam Houston State,,,True,regular,fbs,fbs
+522,401641011,2024-10-22T04:00:00.000Z,Louisiana Tech,UTEP,,,True,regular,fbs,fbs
+523,401640993,2024-10-23T04:00:00.000Z,Kennesaw State,Liberty,,,False,regular,fcs,fbs
+524,401641003,2024-10-23T04:00:00.000Z,Jacksonville State,Middle Tennessee,,,True,regular,fbs,fbs
+525,401634770,2024-10-24T04:00:00.000Z,Pittsburgh,Syracuse,,,True,regular,fbs,fbs
+526,401643815,2024-10-24T04:00:00.000Z,Old Dominion,Georgia Southern,,,True,regular,fbs,fbs
+527,401634771,2024-10-25T04:00:00.000Z,Boston College,Louisville,,,True,regular,fbs,fbs
+528,401628532,2024-10-26T04:00:00.000Z,USC,Rutgers,,,False,regular,fbs,fbs
+529,401628531,2024-10-26T04:00:00.000Z,Wisconsin,Penn State,,,True,regular,fbs,fbs
+530,401628530,2024-10-26T04:00:00.000Z,Ohio State,Nebraska,,,True,regular,fbs,fbs
+531,401628529,2024-10-26T04:00:00.000Z,Michigan,Michigan State,,,True,regular,fbs,fbs
+532,401628528,2024-10-26T04:00:00.000Z,Minnesota,Maryland,,,True,regular,fbs,fbs
+533,401628527,2024-10-26T04:00:00.000Z,Iowa,Northwestern,,,True,regular,fbs,fbs
+534,401628526,2024-10-26T04:00:00.000Z,Indiana,Washington,,,False,regular,fbs,fbs
+535,401628525,2024-10-26T04:00:00.000Z,Oregon,Illinois,,,False,regular,fbs,fbs
+536,401628405,2024-10-26T04:00:00.000Z,Vanderbilt,Texas,,,False,regular,fbs,fbs
+537,401628404,2024-10-26T04:00:00.000Z,Texas A&M,LSU,,,True,regular,fbs,fbs
+538,401628403,2024-10-26T04:00:00.000Z,Mississippi State,Arkansas,,,True,regular,fbs,fbs
+539,401628402,2024-10-26T04:00:00.000Z,Ole Miss,Oklahoma,,,False,regular,fbs,fbs
+540,401628401,2024-10-26T04:00:00.000Z,Kentucky,Auburn,,,True,regular,fbs,fbs
+541,401636909,2024-10-26T04:00:00.000Z,Kansas State,Kansas,,,True,regular,fbs,fbs
+542,401636908,2024-10-26T04:00:00.000Z,Houston,Utah,,,False,regular,fbs,fbs
+543,401636907,2024-10-26T04:00:00.000Z,Colorado,Cincinnati,,,False,regular,fbs,fbs
+544,401636906,2024-10-26T04:00:00.000Z,Baylor,Oklahoma State,,,True,regular,fbs,fbs
+545,401636905,2024-10-26T04:00:00.000Z,Arizona,West Virginia,,,False,regular,fbs,fbs
+546,401635599,2024-10-26T04:00:00.000Z,Stanford,Wake Forest,,,False,regular,fbs,fbs
+547,401635598,2024-10-26T04:00:00.000Z,Virginia,North Carolina,,,True,regular,fbs,fbs
+548,401635597,2024-10-26T04:00:00.000Z,Virginia Tech,Georgia Tech,,,True,regular,fbs,fbs
+549,401635596,2024-10-26T04:00:00.000Z,Miami,Florida State,,,True,regular,fbs,fbs
+550,401635595,2024-10-26T04:00:00.000Z,Duke,SMU,,,False,regular,fbs,fbs
+551,401628400,2024-10-26T04:00:00.000Z,Alabama,Missouri,,,True,regular,fbs,fbs
+552,401645354,2024-10-26T04:00:00.000Z,North Texas,Tulane,,,True,regular,fbs,fbs
+553,401645353,2024-10-26T04:00:00.000Z,Memphis,Charlotte,,,True,regular,fbs,fbs
+554,401645352,2024-10-26T04:00:00.000Z,East Carolina,Temple,,,True,regular,fbs,fbs
+555,401645308,2024-10-26T04:00:00.000Z,UMass,Wagner,,,False,regular,fbs,fcs
+556,401644756,2024-10-26T04:00:00.000Z,Western Michigan,Kent State,,,True,regular,fbs,fbs
+557,401644755,2024-10-26T04:00:00.000Z,Ohio,Buffalo,,,True,regular,fbs,fbs
+558,401644754,2024-10-26T04:00:00.000Z,Toledo,Bowling Green,,,True,regular,fbs,fbs
+559,401644753,2024-10-26T04:00:00.000Z,Ball State,Northern Illinois,,,True,regular,fbs,fbs
+560,401644752,2024-10-26T04:00:00.000Z,Akron,Eastern Michigan,,,True,regular,fbs,fbs
+561,401644687,2024-10-26T04:00:00.000Z,Miami (OH),Central Michigan,,,True,regular,fbs,fbs
+562,401643819,2024-10-26T04:00:00.000Z,South Alabama,Louisiana Monroe,,,True,regular,fbs,fbs
+563,401643818,2024-10-26T04:00:00.000Z,Arkansas State,Troy,,,True,regular,fbs,fbs
+564,401643817,2024-10-26T04:00:00.000Z,James Madison,Southern Mississippi,,,True,regular,fbs,fbs
+565,401643816,2024-10-26T04:00:00.000Z,Appalachian State,Georgia State,,,True,regular,fbs,fbs
+566,401643745,2024-10-26T04:00:00.000Z,Wyoming,Utah State,,,True,regular,fbs,fbs
+567,401643744,2024-10-26T04:00:00.000Z,San Diego State,Washington State,,,False,regular,fbs,fbs
+568,401643743,2024-10-26T04:00:00.000Z,Hawai'i,Nevada,,,True,regular,fbs,fbs
+569,401643742,2024-10-26T04:00:00.000Z,Fresno State,San José State,,,True,regular,fbs,fbs
+570,401645355,2024-10-26T04:00:00.000Z,Tulsa,UT San Antonio,,,True,regular,fbs,fbs
+571,401643741,2024-10-26T04:00:00.000Z,Colorado State,New Mexico,,,True,regular,fbs,fbs
+572,401643740,2024-10-26T04:00:00.000Z,UNLV,Boise State,,,True,regular,fbs,fbs
+573,401636911,2024-10-26T04:00:00.000Z,UCF,BYU,,,True,regular,fbs,fbs
+574,401636910,2024-10-26T04:00:00.000Z,TCU,Texas Tech,,,True,regular,fbs,fbs
+575,401635594,2024-10-26T04:00:00.000Z,California,Oregon State,,,True,regular,fbs,fbs
+576,401629035,2024-10-26T04:00:00.000Z,Connecticut,Rice,,,False,regular,fbs,fbs
+577,401628983,2024-10-26T04:00:00.000Z,Navy,Notre Dame,,,False,regular,fbs,fbs
+578,401640985,2024-10-29T04:00:00.000Z,Florida International,New Mexico State,,,True,regular,fbs,fbs
+579,401641012,2024-10-29T04:00:00.000Z,Sam Houston State,Louisiana Tech,,,True,regular,fbs,fbs
+580,401643820,2024-10-29T04:00:00.000Z,Texas State,Louisiana,,,True,regular,fbs,fbs
+581,401641020,2024-10-30T04:00:00.000Z,Western Kentucky,Kennesaw State,,,False,regular,fbs,fcs
+582,401640994,2024-10-30T04:00:00.000Z,Liberty,Jacksonville State,,,True,regular,fbs,fbs
+583,401645356,2024-10-31T04:00:00.000Z,Charlotte,Tulane,,,True,regular,fbs,fbs
+584,401645357,2024-11-01T04:00:00.000Z,Florida Atlantic,South Florida,,,True,regular,fbs,fbs
+585,401643823,2024-11-02T04:00:00.000Z,South Alabama,Georgia Southern,,,True,regular,fbs,fbs
+586,401643822,2024-11-02T04:00:00.000Z,Marshall,Louisiana Monroe,,,True,regular,fbs,fbs
+587,401643821,2024-11-02T04:00:00.000Z,Appalachian State,Old Dominion,,,True,regular,fbs,fbs
+588,401643750,2024-11-02T04:00:00.000Z,New Mexico,Wyoming,,,True,regular,fbs,fbs
+589,401643749,2024-11-02T04:00:00.000Z,Fresno State,Hawai'i,,,True,regular,fbs,fbs
+590,401643748,2024-11-02T04:00:00.000Z,Nevada,Colorado State,,,True,regular,fbs,fbs
+591,401643747,2024-11-02T04:00:00.000Z,Boise State,San Diego State,,,True,regular,fbs,fbs
+592,401643746,2024-11-02T04:00:00.000Z,Army,Air Force,,,False,regular,fbs,fbs
+593,401641026,2024-11-02T04:00:00.000Z,UTEP,Middle Tennessee,,,True,regular,fbs,fbs
+594,401636916,2024-11-02T04:00:00.000Z,UCF,Arizona,,,False,regular,fbs,fbs
+595,401636915,2024-11-02T04:00:00.000Z,Oklahoma State,Arizona State,,,False,regular,fbs,fbs
+596,401636914,2024-11-02T04:00:00.000Z,Iowa State,Texas Tech,,,True,regular,fbs,fbs
+597,401636913,2024-11-02T04:00:00.000Z,Houston,Kansas State,,,True,regular,fbs,fbs
+598,401636912,2024-11-02T04:00:00.000Z,Baylor,TCU,,,True,regular,fbs,fbs
+599,401635627,2024-11-02T04:00:00.000Z,SMU,Pittsburgh,,,False,regular,fbs,fbs
+600,401635604,2024-11-02T04:00:00.000Z,Syracuse,Virginia Tech,,,True,regular,fbs,fbs
+601,401635602,2024-11-02T04:00:00.000Z,Florida State,North Carolina,,,True,regular,fbs,fbs
+602,401635601,2024-11-02T04:00:00.000Z,Miami,Duke,,,True,regular,fbs,fbs
+603,401635600,2024-11-02T04:00:00.000Z,Clemson,Louisville,,,True,regular,fbs,fbs
+604,401635516,2024-11-02T04:00:00.000Z,NC State,Stanford,,,False,regular,fbs,fbs
+605,401629036,2024-11-02T04:00:00.000Z,Connecticut,Georgia State,,,False,regular,fbs,fbs
+606,401628540,2024-11-02T04:00:00.000Z,Washington,USC,,,True,regular,fbs,fbs
+607,401628539,2024-11-02T04:00:00.000Z,Penn State,Ohio State,,,True,regular,fbs,fbs
+608,401628537,2024-11-02T04:00:00.000Z,Nebraska,UCLA,,,False,regular,fbs,fbs
+609,401628536,2024-11-02T04:00:00.000Z,Michigan,Oregon,,,False,regular,fbs,fbs
+610,401628535,2024-11-02T04:00:00.000Z,Iowa,Wisconsin,,,True,regular,fbs,fbs
+611,401628534,2024-11-02T04:00:00.000Z,Michigan State,Indiana,,,True,regular,fbs,fbs
+612,401628533,2024-11-02T04:00:00.000Z,Illinois,Minnesota,,,True,regular,fbs,fbs
+613,401628412,2024-11-02T04:00:00.000Z,Tennessee,Kentucky,,,True,regular,fbs,fbs
+614,401628411,2024-11-02T04:00:00.000Z,South Carolina,Texas A&M,,,True,regular,fbs,fbs
+615,401628410,2024-11-02T04:00:00.000Z,Oklahoma,Maine,,,False,regular,fbs,fcs
+616,401628409,2024-11-02T04:00:00.000Z,Mississippi State,UMass,,,False,regular,fbs,fbs
+617,401628407,2024-11-02T04:00:00.000Z,Auburn,Vanderbilt,,,True,regular,fbs,fbs
+618,401628406,2024-11-02T04:00:00.000Z,Arkansas,Ole Miss,,,True,regular,fbs,fbs
+619,401628538,2024-11-02T04:00:00.000Z,Purdue,Northwestern,,,True,regular,fbs,fbs
+620,401645360,2024-11-02T04:00:00.000Z,Rice,Navy,,,True,regular,fbs,fbs
+621,401645359,2024-11-02T04:00:00.000Z,UT San Antonio,Memphis,,,True,regular,fbs,fbs
+622,401645358,2024-11-02T04:00:00.000Z,UAB,Tulsa,,,True,regular,fbs,fbs
+623,401644758,2024-11-02T04:00:00.000Z,Eastern Michigan,Toledo,,,True,regular,fbs,fbs
+624,401644757,2024-11-02T04:00:00.000Z,Akron,Buffalo,,,True,regular,fbs,fbs
+625,401643824,2024-11-02T04:00:00.000Z,Troy,Coastal Carolina,,,True,regular,fbs,fbs
+626,401628408,2024-11-02T19:30:00.000Z,Georgia,Florida,,,True,regular,fbs,fbs
+627,401644760,2024-11-05T05:00:00.000Z,Central Michigan,Bowling Green,,,True,regular,fbs,fbs
+628,401644688,2024-11-05T05:00:00.000Z,Ball State,Miami (OH),,,True,regular,fbs,fbs
+629,401644762,2024-11-06T05:00:00.000Z,Western Michigan,Northern Illinois,,,True,regular,fbs,fbs
+630,401644761,2024-11-06T05:00:00.000Z,Kent State,Ohio,,,True,regular,fbs,fbs
+631,401645361,2024-11-07T05:00:00.000Z,East Carolina,Florida Atlantic,,,True,regular,fbs,fbs
+632,401643825,2024-11-07T05:00:00.000Z,Coastal Carolina,Appalachian State,,,True,regular,fbs,fbs
+633,401645362,2024-11-08T05:00:00.000Z,Memphis,Rice,,,True,regular,fbs,fbs
+634,401634773,2024-11-08T05:00:00.000Z,Wake Forest,California,,,False,regular,fbs,fbs
+635,401643754,2024-11-09T05:00:00.000Z,San Diego State,New Mexico,,,True,regular,fbs,fbs
+636,401643753,2024-11-09T05:00:00.000Z,Hawai'i,UNLV,,,True,regular,fbs,fbs
+637,401643752,2024-11-09T05:00:00.000Z,Boise State,Nevada,,,True,regular,fbs,fbs
+638,401643751,2024-11-09T05:00:00.000Z,Air Force,Fresno State,,,True,regular,fbs,fbs
+639,401641036,2024-11-09T05:00:00.000Z,New Mexico State,Western Kentucky,,,True,regular,fbs,fbs
+640,401641021,2024-11-09T05:00:00.000Z,UTEP,Kennesaw State,,,False,regular,fbs,fcs
+641,401641004,2024-11-09T05:00:00.000Z,Louisiana Tech,Jacksonville State,,,True,regular,fbs,fbs
+642,401640995,2024-11-09T05:00:00.000Z,Middle Tennessee,Liberty,,,True,regular,fbs,fbs
+643,401636922,2024-11-09T05:00:00.000Z,Utah,BYU,,,False,regular,fbs,fbs
+644,401636921,2024-11-09T05:00:00.000Z,Texas Tech,Colorado,,,False,regular,fbs,fbs
+645,401636920,2024-11-09T05:00:00.000Z,TCU,Oklahoma State,,,True,regular,fbs,fbs
+646,401636919,2024-11-09T05:00:00.000Z,Kansas,Iowa State,,,True,regular,fbs,fbs
+647,401636918,2024-11-09T05:00:00.000Z,Cincinnati,West Virginia,,,True,regular,fbs,fbs
+648,401636917,2024-11-09T05:00:00.000Z,Arizona State,UCF,,,False,regular,fbs,fbs
+649,401635610,2024-11-09T05:00:00.000Z,Pittsburgh,Virginia,,,True,regular,fbs,fbs
+650,401635609,2024-11-09T05:00:00.000Z,Georgia Tech,Miami,,,True,regular,fbs,fbs
+651,401635608,2024-11-09T05:00:00.000Z,NC State,Duke,,,True,regular,fbs,fbs
+652,401635607,2024-11-09T05:00:00.000Z,Virginia Tech,Clemson,,,True,regular,fbs,fbs
+653,401635606,2024-11-09T05:00:00.000Z,Boston College,Syracuse,,,True,regular,fbs,fbs
+654,401629045,2024-11-09T05:00:00.000Z,UMass,Army,,,True,regular,fbs,fbs
+655,401629037,2024-11-09T05:00:00.000Z,UAB,Connecticut,,,False,regular,fbs,fbs
+656,401628984,2024-11-09T05:00:00.000Z,Notre Dame,Florida State,,,False,regular,fbs,fbs
+657,401628546,2024-11-09T05:00:00.000Z,Penn State,Washington,,,False,regular,fbs,fbs
+658,401645364,2024-11-09T05:00:00.000Z,Tulane,Temple,,,True,regular,fbs,fbs
+659,401628544,2024-11-09T05:00:00.000Z,Rutgers,Minnesota,,,True,regular,fbs,fbs
+660,401628543,2024-11-09T05:00:00.000Z,Oregon,Maryland,,,False,regular,fbs,fbs
+661,401628542,2024-11-09T05:00:00.000Z,UCLA,Iowa,,,False,regular,fbs,fbs
+662,401628541,2024-11-09T05:00:00.000Z,Indiana,Michigan,,,True,regular,fbs,fbs
+663,401628418,2024-11-09T05:00:00.000Z,Vanderbilt,South Carolina,,,True,regular,fbs,fbs
+664,401628417,2024-11-09T05:00:00.000Z,Texas,Florida,,,False,regular,fbs,fbs
+665,401628416,2024-11-09T05:00:00.000Z,Tennessee,Mississippi State,,,True,regular,fbs,fbs
+666,401628415,2024-11-09T05:00:00.000Z,Missouri,Oklahoma,,,False,regular,fbs,fbs
+667,401628414,2024-11-09T05:00:00.000Z,Ole Miss,Georgia,,,True,regular,fbs,fbs
+668,401628413,2024-11-09T05:00:00.000Z,LSU,Alabama,,,True,regular,fbs,fbs
+669,401628545,2024-11-09T05:00:00.000Z,Ohio State,Purdue,,,True,regular,fbs,fbs
+670,401645363,2024-11-09T05:00:00.000Z,South Florida,Navy,,,True,regular,fbs,fbs
+671,401643829,2024-11-09T05:00:00.000Z,Southern Mississippi,Marshall,,,True,regular,fbs,fbs
+672,401643828,2024-11-09T05:00:00.000Z,Louisiana Monroe,Texas State,,,True,regular,fbs,fbs
+673,401643827,2024-11-09T05:00:00.000Z,Louisiana,Arkansas State,,,True,regular,fbs,fbs
+674,401643826,2024-11-09T05:00:00.000Z,James Madison,Georgia State,,,True,regular,fbs,fbs
+675,401643756,2024-11-09T05:00:00.000Z,Washington State,Utah State,,,False,regular,fbs,fbs
+676,401643755,2024-11-09T05:00:00.000Z,Oregon State,San José State,,,False,regular,fbs,fbs
+677,401644763,2024-11-12T05:00:00.000Z,Buffalo,Ball State,,,True,regular,fbs,fbs
+678,401644765,2024-11-12T05:00:00.000Z,Toledo,Central Michigan,,,True,regular,fbs,fbs
+679,401644764,2024-11-12T05:00:00.000Z,Bowling Green,Western Michigan,,,True,regular,fbs,fbs
+680,401644766,2024-11-13T05:00:00.000Z,Northern Illinois,Akron,,,True,regular,fbs,fbs
+681,401644767,2024-11-13T05:00:00.000Z,Ohio,Eastern Michigan,,,True,regular,fbs,fbs
+682,401644689,2024-11-13T05:00:00.000Z,Miami (OH),Kent State,,,True,regular,fbs,fbs
+683,401645365,2024-11-14T05:00:00.000Z,Tulsa,East Carolina,,,True,regular,fbs,fbs
+684,401645366,2024-11-15T05:00:00.000Z,UT San Antonio,North Texas,,,True,regular,fbs,fbs
+685,401636923,2024-11-15T05:00:00.000Z,Arizona,Houston,,,False,regular,fbs,fbs
+686,401643830,2024-11-16T05:00:00.000Z,Georgia Southern,Troy,,,True,regular,fbs,fbs
+687,401643762,2024-11-16T05:00:00.000Z,UNLV,San Diego State,,,True,regular,fbs,fbs
+688,401643761,2024-11-16T05:00:00.000Z,New Mexico,Washington State,,,False,regular,fbs,fbs
+689,401643760,2024-11-16T05:00:00.000Z,Utah State,Hawai'i,,,True,regular,fbs,fbs
+690,401643759,2024-11-16T05:00:00.000Z,Colorado State,Wyoming,,,True,regular,fbs,fbs
+691,401643758,2024-11-16T05:00:00.000Z,San José State,Boise State,,,True,regular,fbs,fbs
+692,401643757,2024-11-16T05:00:00.000Z,Air Force,Oregon State,,,False,regular,fbs,fbs
+693,401641022,2024-11-16T05:00:00.000Z,Kennesaw State,Sam Houston State,,,False,regular,fcs,fbs
+694,401641013,2024-11-16T05:00:00.000Z,Western Kentucky,Louisiana Tech,,,True,regular,fbs,fbs
+695,401640986,2024-11-16T05:00:00.000Z,Jacksonville State,Florida International,,,True,regular,fbs,fbs
+696,401636929,2024-11-16T05:00:00.000Z,West Virginia,Baylor,,,True,regular,fbs,fbs
+697,401636927,2024-11-16T05:00:00.000Z,Kansas State,Arizona State,,,False,regular,fbs,fbs
+698,401636926,2024-11-16T05:00:00.000Z,Iowa State,Cincinnati,,,True,regular,fbs,fbs
+699,401636925,2024-11-16T05:00:00.000Z,Colorado,Utah,,,True,regular,fbs,fbs
+700,401636924,2024-11-16T05:00:00.000Z,BYU,Kansas,,,True,regular,fbs,fbs
+701,401635583,2024-11-16T05:00:00.000Z,North Carolina,Wake Forest,,,True,regular,fbs,fbs
+702,401635582,2024-11-16T05:00:00.000Z,Pittsburgh,Clemson,,,True,regular,fbs,fbs
+703,401635581,2024-11-16T05:00:00.000Z,California,Syracuse,,,False,regular,fbs,fbs
+704,401635580,2024-11-16T05:00:00.000Z,SMU,Boston College,,,False,regular,fbs,fbs
+705,401635517,2024-11-16T05:00:00.000Z,Stanford,Louisville,,,False,regular,fbs,fbs
+706,401629046,2024-11-16T05:00:00.000Z,UMass,Liberty,,,False,regular,fbs,fbs
+707,401628985,2024-11-16T05:00:00.000Z,Notre Dame,Virginia,,,False,regular,fbs,fbs
+708,401628553,2024-11-16T05:00:00.000Z,Washington,UCLA,,,True,regular,fbs,fbs
+709,401628552,2024-11-16T05:00:00.000Z,Purdue,Penn State,,,True,regular,fbs,fbs
+710,401645370,2024-11-16T05:00:00.000Z,Navy,Tulane,,,True,regular,fbs,fbs
+711,401628550,2024-11-16T05:00:00.000Z,Northwestern,Ohio State,,,True,regular,fbs,fbs
+712,401628549,2024-11-16T05:00:00.000Z,USC,Nebraska,,,False,regular,fbs,fbs
+713,401628548,2024-11-16T05:00:00.000Z,Maryland,Rutgers,,,True,regular,fbs,fbs
+714,401628547,2024-11-16T05:00:00.000Z,Illinois,Michigan State,,,True,regular,fbs,fbs
+715,401628426,2024-11-16T05:00:00.000Z,Auburn,Louisiana Monroe,,,False,regular,fbs,fbs
+716,401628425,2024-11-16T05:00:00.000Z,Alabama,Mercer,,,False,regular,fbs,fcs
+717,401628424,2024-11-16T05:00:00.000Z,Texas A&M,New Mexico State,,,False,regular,fbs,fbs
+718,401628423,2024-11-16T05:00:00.000Z,South Carolina,Missouri,,,True,regular,fbs,fbs
+719,401628422,2024-11-16T05:00:00.000Z,Kentucky,Murray State,,,False,regular,fbs,fcs
+720,401628421,2024-11-16T05:00:00.000Z,Georgia,Tennessee,,,True,regular,fbs,fbs
+721,401628420,2024-11-16T05:00:00.000Z,Florida,LSU,,,True,regular,fbs,fbs
+722,401628419,2024-11-16T05:00:00.000Z,Arkansas,Texas,,,False,regular,fbs,fbs
+723,401628551,2024-11-16T05:00:00.000Z,Wisconsin,Oregon,,,False,regular,fbs,fbs
+724,401645369,2024-11-16T05:00:00.000Z,Temple,Florida Atlantic,,,True,regular,fbs,fbs
+725,401645368,2024-11-16T05:00:00.000Z,Charlotte,South Florida,,,True,regular,fbs,fbs
+726,401645367,2024-11-16T05:00:00.000Z,Memphis,UAB,,,True,regular,fbs,fbs
+727,401643835,2024-11-16T05:00:00.000Z,Texas State,Southern Mississippi,,,True,regular,fbs,fbs
+728,401643834,2024-11-16T05:00:00.000Z,Louisiana,South Alabama,,,True,regular,fbs,fbs
+729,401643833,2024-11-16T05:00:00.000Z,Old Dominion,James Madison,,,True,regular,fbs,fbs
+730,401643832,2024-11-16T05:00:00.000Z,Marshall,Coastal Carolina,,,True,regular,fbs,fbs
+731,401643831,2024-11-16T05:00:00.000Z,Georgia State,Arkansas State,,,True,regular,fbs,fbs
+732,401644769,2024-11-19T05:00:00.000Z,Kent State,Akron,,,True,regular,fbs,fbs
+733,401644770,2024-11-19T05:00:00.000Z,Central Michigan,Western Michigan,,,True,regular,fbs,fbs
+734,401644690,2024-11-19T05:00:00.000Z,Miami (OH),Northern Illinois,,,True,regular,fbs,fbs
+735,401644772,2024-11-20T05:00:00.000Z,Eastern Michigan,Buffalo,,,True,regular,fbs,fbs
+736,401644773,2024-11-20T05:00:00.000Z,Toledo,Ohio,,,True,regular,fbs,fbs
+737,401634772,2024-11-21T05:00:00.000Z,Georgia Tech,NC State,,,True,regular,fbs,fbs
+738,401645374,2024-11-22T05:00:00.000Z,UT San Antonio,Temple,,,True,regular,fbs,fbs
+739,401643840,2024-11-23T05:00:00.000Z,Louisiana,Troy,,,True,regular,fbs,fbs
+740,401643839,2024-11-23T05:00:00.000Z,Arkansas State,Louisiana Monroe,,,True,regular,fbs,fbs
+741,401643838,2024-11-23T05:00:00.000Z,Old Dominion,Marshall,,,True,regular,fbs,fbs
+742,401643837,2024-11-23T05:00:00.000Z,Coastal Carolina,Georgia Southern,,,True,regular,fbs,fbs
+743,401643836,2024-11-23T05:00:00.000Z,Appalachian State,James Madison,,,True,regular,fbs,fbs
+744,401643767,2024-11-23T05:00:00.000Z,San José State,UNLV,,,True,regular,fbs,fbs
+745,401643766,2024-11-23T05:00:00.000Z,Utah State,San Diego State,,,True,regular,fbs,fbs
+746,401643765,2024-11-23T05:00:00.000Z,Fresno State,Colorado State,,,True,regular,fbs,fbs
+747,401643764,2024-11-23T05:00:00.000Z,Wyoming,Boise State,,,True,regular,fbs,fbs
+748,401643763,2024-11-23T05:00:00.000Z,Nevada,Air Force,,,True,regular,fbs,fbs
+749,401641027,2024-11-23T05:00:00.000Z,Middle Tennessee,New Mexico State,,,True,regular,fbs,fbs
+750,401641005,2024-11-23T05:00:00.000Z,Jacksonville State,Sam Houston State,,,True,regular,fbs,fbs
+751,401640996,2024-11-23T05:00:00.000Z,Liberty,Western Kentucky,,,True,regular,fbs,fbs
+752,401640987,2024-11-23T05:00:00.000Z,Kennesaw State,Florida International,,,False,regular,fcs,fbs
+753,401640959,2024-11-23T05:00:00.000Z,Notre Dame,Army,,,True,regular,fbs,fbs
+754,401636937,2024-11-23T05:00:00.000Z,West Virginia,UCF,,,True,regular,fbs,fbs
+755,401636936,2024-11-23T05:00:00.000Z,Utah,Iowa State,,,False,regular,fbs,fbs
+756,401636935,2024-11-23T05:00:00.000Z,TCU,Arizona,,,False,regular,fbs,fbs
+757,401636934,2024-11-23T05:00:00.000Z,Oklahoma State,Texas Tech,,,True,regular,fbs,fbs
+758,401636933,2024-11-23T05:00:00.000Z,Kansas State,Cincinnati,,,True,regular,fbs,fbs
+759,401636932,2024-11-23T05:00:00.000Z,Kansas,Colorado,,,False,regular,fbs,fbs
+760,401636931,2024-11-23T05:00:00.000Z,Houston,Baylor,,,True,regular,fbs,fbs
+761,401636930,2024-11-23T05:00:00.000Z,Arizona State,BYU,,,False,regular,fbs,fbs
+762,401635619,2024-11-23T05:00:00.000Z,Virginia,SMU,,,False,regular,fbs,fbs
+763,401635618,2024-11-23T05:00:00.000Z,Miami,Wake Forest,,,True,regular,fbs,fbs
+764,401635617,2024-11-23T05:00:00.000Z,Louisville,Pittsburgh,,,True,regular,fbs,fbs
+765,401635616,2024-11-23T05:00:00.000Z,Florida State,Charleston Southern,,,False,regular,fbs,fcs
+766,401635615,2024-11-23T05:00:00.000Z,Duke,Virginia Tech,,,True,regular,fbs,fbs
+767,401635614,2024-11-23T05:00:00.000Z,Clemson,The Citadel,,,False,regular,fbs,fcs
+768,401635613,2024-11-23T05:00:00.000Z,California,Stanford,,,True,regular,fbs,fbs
+769,401635612,2024-11-23T05:00:00.000Z,Boston College,North Carolina,,,True,regular,fbs,fbs
+770,401635518,2024-11-23T05:00:00.000Z,Syracuse,Connecticut,,,False,regular,fbs,fbs
+771,401628572,2024-11-23T05:00:00.000Z,Oregon State,Washington State,,,True,regular,fbs,fbs
+772,401628561,2024-11-23T05:00:00.000Z,UCLA,USC,,,True,regular,fbs,fbs
+773,401628560,2024-11-23T05:00:00.000Z,Nebraska,Wisconsin,,,True,regular,fbs,fbs
+774,401628559,2024-11-23T05:00:00.000Z,Minnesota,Penn State,,,True,regular,fbs,fbs
+775,401628558,2024-11-23T05:00:00.000Z,Michigan State,Purdue,,,True,regular,fbs,fbs
+776,401628557,2024-11-23T05:00:00.000Z,Michigan,Northwestern,,,True,regular,fbs,fbs
+777,401628556,2024-11-23T05:00:00.000Z,Maryland,Iowa,,,True,regular,fbs,fbs
+778,401628555,2024-11-23T05:00:00.000Z,Ohio State,Indiana,,,True,regular,fbs,fbs
+779,401628554,2024-11-23T05:00:00.000Z,Rutgers,Illinois,,,True,regular,fbs,fbs
+780,401628436,2024-11-23T05:00:00.000Z,Texas,Kentucky,,,False,regular,fbs,fbs
+781,401628435,2024-11-23T05:00:00.000Z,Tennessee,UTEP,,,False,regular,fbs,fbs
+782,401628434,2024-11-23T05:00:00.000Z,South Carolina,Wofford,,,False,regular,fbs,fcs
+783,401628433,2024-11-23T05:00:00.000Z,Oklahoma,Alabama,,,False,regular,fbs,fbs
+784,401628432,2024-11-23T05:00:00.000Z,Mississippi State,Missouri,,,True,regular,fbs,fbs
+785,401628431,2024-11-23T05:00:00.000Z,LSU,Vanderbilt,,,True,regular,fbs,fbs
+786,401628430,2024-11-23T05:00:00.000Z,Georgia,UMass,,,False,regular,fbs,fbs
+787,401628429,2024-11-23T05:00:00.000Z,Florida,Ole Miss,,,True,regular,fbs,fbs
+788,401645375,2024-11-23T05:00:00.000Z,South Florida,Tulsa,,,True,regular,fbs,fbs
+789,401628427,2024-11-23T05:00:00.000Z,Arkansas,Louisiana Tech,,,False,regular,fbs,fbs
+790,401628428,2024-11-23T05:00:00.000Z,Auburn,Texas A&M,,,True,regular,fbs,fbs
+791,401645373,2024-11-23T05:00:00.000Z,UAB,Rice,,,True,regular,fbs,fbs
+792,401645372,2024-11-23T05:00:00.000Z,North Texas,East Carolina,,,True,regular,fbs,fbs
+793,401645371,2024-11-23T05:00:00.000Z,Florida Atlantic,Charlotte,,,True,regular,fbs,fbs
+794,401644774,2024-11-23T05:00:00.000Z,Ball State,Bowling Green,,,True,regular,fbs,fbs
+795,401643842,2024-11-23T05:00:00.000Z,Texas State,Georgia State,,,True,regular,fbs,fbs
+796,401643841,2024-11-23T05:00:00.000Z,Southern Mississippi,South Alabama,,,True,regular,fbs,fbs
+797,401644775,2024-11-26T05:00:00.000Z,Akron,Toledo,,,True,regular,fbs,fbs
+798,401644776,2024-11-26T05:00:00.000Z,Buffalo,Kent State,,,True,regular,fbs,fbs
+799,401645376,2024-11-28T05:00:00.000Z,Tulane,Memphis,,,True,regular,fbs,fbs
+800,401643843,2024-11-29T05:00:00.000Z,South Alabama,Texas State,,,True,regular,fbs,fbs
+801,401636939,2024-11-29T05:00:00.000Z,UCF,Utah,,,False,regular,fbs,fbs
+802,401644691,2024-11-29T05:00:00.000Z,Bowling Green,Miami (OH),,,True,regular,fbs,fbs
+803,401628562,2024-11-29T05:00:00.000Z,Iowa,Nebraska,,,True,regular,fbs,fbs
+804,401644777,2024-11-29T05:00:00.000Z,Ohio,Ball State,,,True,regular,fbs,fbs
+805,401636938,2024-11-29T05:00:00.000Z,Colorado,Oklahoma State,,,False,regular,fbs,fbs
+806,401628441,2024-11-30T05:00:00.000Z,LSU,Oklahoma,,,False,regular,fbs,fbs
+807,401628440,2024-11-30T05:00:00.000Z,Kentucky,Louisville,,,False,regular,fbs,fbs
+808,401628439,2024-11-30T05:00:00.000Z,Georgia,Georgia Tech,,,False,regular,fbs,fbs
+809,401628438,2024-11-30T05:00:00.000Z,Florida State,Florida,,,False,regular,fbs,fbs
+810,401628437,2024-11-30T05:00:00.000Z,Alabama,Auburn,,,True,regular,fbs,fbs
+811,401628570,2024-11-30T05:00:00.000Z,UCLA,Fresno State,,,False,regular,fbs,fbs
+812,401628569,2024-11-30T05:00:00.000Z,Oregon,Washington,,,True,regular,fbs,fbs
+813,401628568,2024-11-30T05:00:00.000Z,Wisconsin,Minnesota,,,True,regular,fbs,fbs
+814,401628567,2024-11-30T05:00:00.000Z,Michigan State,Rutgers,,,True,regular,fbs,fbs
+815,401628566,2024-11-30T05:00:00.000Z,Ohio State,Michigan,,,True,regular,fbs,fbs
+816,401628565,2024-11-30T05:00:00.000Z,Penn State,Maryland,,,True,regular,fbs,fbs
+817,401628564,2024-11-30T05:00:00.000Z,Indiana,Purdue,,,True,regular,fbs,fbs
+818,401628563,2024-11-30T05:00:00.000Z,Northwestern,Illinois,,,True,regular,fbs,fbs
+819,401628446,2024-11-30T05:00:00.000Z,Vanderbilt,Tennessee,,,True,regular,fbs,fbs
+820,401645381,2024-11-30T05:00:00.000Z,Temple,North Texas,,,True,regular,fbs,fbs
+821,401645380,2024-11-30T05:00:00.000Z,Tulsa,Florida Atlantic,,,True,regular,fbs,fbs
+822,401645379,2024-11-30T05:00:00.000Z,East Carolina,Navy,,,True,regular,fbs,fbs
+823,401645378,2024-11-30T05:00:00.000Z,Army,UT San Antonio,,,False,regular,fbs,fbs
+824,401645377,2024-11-30T05:00:00.000Z,Charlotte,UAB,,,True,regular,fbs,fbs
+825,401644780,2024-11-30T05:00:00.000Z,Western Michigan,Eastern Michigan,,,True,regular,fbs,fbs
+826,401644779,2024-11-30T05:00:00.000Z,Northern Illinois,Central Michigan,,,True,regular,fbs,fbs
+827,401643849,2024-11-30T05:00:00.000Z,Troy,Southern Mississippi,,,True,regular,fbs,fbs
+828,401643848,2024-11-30T05:00:00.000Z,Louisiana Monroe,Louisiana,,,True,regular,fbs,fbs
+829,401643847,2024-11-30T05:00:00.000Z,Arkansas State,Old Dominion,,,True,regular,fbs,fbs
+830,401643846,2024-11-30T05:00:00.000Z,James Madison,Marshall,,,True,regular,fbs,fbs
+831,401643845,2024-11-30T05:00:00.000Z,Georgia State,Coastal Carolina,,,True,regular,fbs,fbs
+832,401643844,2024-11-30T05:00:00.000Z,Georgia Southern,Appalachian State,,,True,regular,fbs,fbs
+833,401643773,2024-11-30T05:00:00.000Z,Washington State,Wyoming,,,False,regular,fbs,fbs
+834,401643772,2024-11-30T05:00:00.000Z,UNLV,Nevada,,,True,regular,fbs,fbs
+835,401643771,2024-11-30T05:00:00.000Z,Hawai'i,New Mexico,,,True,regular,fbs,fbs
+836,401643770,2024-11-30T05:00:00.000Z,Colorado State,Utah State,,,True,regular,fbs,fbs
+837,401643769,2024-11-30T05:00:00.000Z,Boise State,Oregon State,,,False,regular,fbs,fbs
+838,401643768,2024-11-30T05:00:00.000Z,San Diego State,Air Force,,,True,regular,fbs,fbs
+839,401641031,2024-11-30T05:00:00.000Z,New Mexico State,UTEP,,,True,regular,fbs,fbs
+840,401636945,2024-11-30T05:00:00.000Z,Texas Tech,West Virginia,,,True,regular,fbs,fbs
+841,401636944,2024-11-30T05:00:00.000Z,Iowa State,Kansas State,,,True,regular,fbs,fbs
+842,401636943,2024-11-30T05:00:00.000Z,Cincinnati,TCU,,,True,regular,fbs,fbs
+843,401636942,2024-11-30T05:00:00.000Z,BYU,Houston,,,True,regular,fbs,fbs
+844,401636941,2024-11-30T05:00:00.000Z,Baylor,Kansas,,,True,regular,fbs,fbs
+845,401636940,2024-11-30T05:00:00.000Z,Arizona,Arizona State,,,True,regular,fbs,fbs
+846,401635640,2024-11-30T05:00:00.000Z,Virginia Tech,Virginia,,,True,regular,fbs,fbs
+847,401635625,2024-11-30T05:00:00.000Z,San José State,Stanford,,,False,regular,fbs,fbs
+848,401635624,2024-11-30T05:00:00.000Z,North Carolina,NC State,,,True,regular,fbs,fbs
+849,401635623,2024-11-30T05:00:00.000Z,Syracuse,Miami,,,True,regular,fbs,fbs
+850,401635622,2024-11-30T05:00:00.000Z,Wake Forest,Duke,,,True,regular,fbs,fbs
+851,401635621,2024-11-30T05:00:00.000Z,SMU,California,,,False,regular,fbs,fbs
+852,401635620,2024-11-30T05:00:00.000Z,Boston College,Pittsburgh,,,True,regular,fbs,fbs
+853,401629038,2024-11-30T05:00:00.000Z,UMass,Connecticut,,,True,regular,fbs,fbs
+854,401645382,2024-11-30T05:00:00.000Z,Rice,South Florida,,,True,regular,fbs,fbs
+855,401628571,2024-11-30T05:00:00.000Z,USC,Notre Dame,,,False,regular,fbs,fbs
+856,401641014,2024-11-30T05:00:00.000Z,Louisiana Tech,Kennesaw State,,,False,regular,fbs,fcs
+857,401641006,2024-11-30T05:00:00.000Z,Western Kentucky,Jacksonville State,,,True,regular,fbs,fbs
+858,401640997,2024-11-30T05:00:00.000Z,Sam Houston State,Liberty,,,True,regular,fbs,fbs
+859,401640988,2024-11-30T05:00:00.000Z,Florida International,Middle Tennessee,,,True,regular,fbs,fbs
+860,401628445,2024-11-30T05:00:00.000Z,Texas A&M,Texas,,,False,regular,fbs,fbs
+861,401628444,2024-11-30T05:00:00.000Z,Clemson,South Carolina,,,False,regular,fbs,fbs
+862,401628443,2024-11-30T05:00:00.000Z,Missouri,Arkansas,,,True,regular,fbs,fbs
+863,401628442,2024-11-30T05:00:00.000Z,Ole Miss,Mississippi State,,,True,regular,fbs,fbs

@@ -1,0 +1,564 @@
+,id,date,home_team,away_team,home_pregame_elo,away_pregame_elo,conference_game,season_type,home_division,away_division
+0,401218616,2020-08-30T01:00:00.000Z,Central Arkansas,Austin Peay,,,False,regular,fcs,fcs
+1,401238035,2020-09-04T00:00:00.000Z,UAB,Central Arkansas,,,False,regular,fbs,fcs
+2,401207101,2020-09-04T01:00:00.000Z,Southern Mississippi,South Alabama,1451.0,1227.0,False,regular,fbs,fbs
+3,401237353,2020-09-05T17:00:00.000Z,Marshall,Eastern Kentucky,,,False,regular,fbs,fcs
+4,401235700,2020-09-05T17:30:00.000Z,Army,Middle Tennessee,1495.0,1429.0,False,regular,fbs,fbs
+5,401212484,2020-09-05T20:30:00.000Z,Texas State,SMU,1193.0,1557.0,False,regular,fbs,fbs
+6,401207098,2020-09-05T23:30:00.000Z,North Texas,Houston Christian,,,False,regular,fbs,fcs
+7,401212553,2020-09-06T00:00:00.000Z,Memphis,Arkansas State,1698.0,1431.0,False,regular,fbs,fbs
+8,401239884,2020-09-06T01:00:00.000Z,UTEP,Stephen F. Austin,,,False,regular,fbs,fcs
+9,401234576,2020-09-08T00:00:00.000Z,Navy,BYU,1625.0,1513.0,False,regular,fbs,fbs
+10,401234559,2020-09-11T00:00:00.000Z,Miami,UAB,1528.0,1399.0,False,regular,fbs,fbs
+11,401236221,2020-09-12T16:00:00.000Z,Iowa State,Louisiana,1663.0,1651.0,False,regular,fbs,fbs
+12,401234565,2020-09-12T16:00:00.000Z,North Carolina,Syracuse,1615.0,1481.0,True,regular,fbs,fbs
+13,401236053,2020-09-12T16:00:00.000Z,Kansas State,Arkansas State,1632.0,1427.0,False,regular,fbs,fbs
+14,401236081,2020-09-12T16:00:00.000Z,Appalachian State,Charlotte,1696.0,1377.0,False,regular,fbs,fbs
+15,401236038,2020-09-12T16:00:00.000Z,West Virginia,Eastern Kentucky,,,False,regular,fbs,fcs
+16,401240113,2020-09-12T17:30:00.000Z,Army,Louisiana Monroe,1610.0,1305.0,False,regular,fbs,fbs
+17,401234574,2020-09-12T18:30:00.000Z,Notre Dame,Duke,1833.0,1411.0,True,regular,fbs,fbs
+18,401207113,2020-09-12T19:30:00.000Z,Texas State,UT San Antonio,1206.0,1222.0,False,regular,fbs,fbs
+19,401234563,2020-09-12T20:00:00.000Z,Florida State,Georgia Tech,1496.0,1341.0,True,regular,fbs,fbs
+20,401240233,2020-09-12T20:00:00.000Z,Pittsburgh,Austin Peay,,,False,regular,fbs,fcs
+21,401215298,2020-09-12T20:14:00.000Z,Georgia Southern,Campbell,,,False,regular,fbs,fcs
+22,401240039,2020-09-12T23:00:00.000Z,South Florida,The Citadel,,,False,regular,fbs,fcs
+23,401236054,2020-09-12T23:00:00.000Z,Oklahoma,Missouri State,,,False,regular,fbs,fcs
+24,401234562,2020-09-12T23:30:00.000Z,Wake Forest,Clemson,1510.0,2062.0,True,regular,fbs,fbs
+25,401239973,2020-09-12T23:30:00.000Z,South Alabama,Tulane,1272.0,1531.0,False,regular,fbs,fbs
+26,401234564,2020-09-13T00:00:00.000Z,Louisville,Western Kentucky,1437.0,1515.0,False,regular,fbs,fbs
+27,401236039,2020-09-13T00:00:00.000Z,Texas Tech,Houston Christian,,,False,regular,fbs,fcs
+28,401236222,2020-09-13T00:00:00.000Z,Texas,UTEP,1744.0,1145.0,False,regular,fbs,fbs
+29,401236658,2020-09-13T02:00:00.000Z,Kansas,Coastal Carolina,1315.0,1316.0,False,regular,fbs,fbs
+30,401240126,2020-09-18T23:30:00.000Z,Coastal Carolina,Campbell,,,False,regular,fbs,fcs
+31,401234567,2020-09-19T16:00:00.000Z,Duke,Boston College,1416.0,1465.0,True,regular,fbs,fbs
+32,401234571,2020-09-19T16:00:00.000Z,Pittsburgh,Syracuse,1503.0,1433.0,True,regular,fbs,fbs
+33,401207124,2020-09-19T16:00:00.000Z,Western Kentucky,Liberty,1480.0,1390.0,False,regular,fbs,fbs
+34,401215301,2020-09-19T16:00:00.000Z,Georgia State,Louisiana,1305.0,1693.0,True,regular,fbs,fbs
+35,401212522,2020-09-19T16:00:00.000Z,Tulane,Navy,1521.0,1438.0,True,regular,fbs,fbs
+36,401212541,2020-09-19T16:00:00.000Z,Cincinnati,Austin Peay,,,False,regular,fbs,fcs
+37,401236041,2020-09-19T16:00:00.000Z,Oklahoma State,Tulsa,1596.0,1413.0,False,regular,fbs,fbs
+38,401241282,2020-09-19T18:30:00.000Z,Notre Dame,South Florida,1828.0,1335.0,False,regular,fbs,fbs
+39,401234568,2020-09-19T19:30:00.000Z,Georgia Tech,UCF,1355.0,1757.0,False,regular,fbs,fbs
+40,401236939,2020-09-19T19:30:00.000Z,Marshall,Appalachian State,1464.0,1700.0,False,regular,fbs,fbs
+41,401240041,2020-09-19T19:30:00.000Z,UT San Antonio,Stephen F. Austin,,,False,regular,fbs,fcs
+42,401240640,2020-09-19T19:30:00.000Z,Middle Tennessee,Troy,1314.0,1388.0,False,regular,fbs,fbs
+43,401237492,2020-09-19T20:00:00.000Z,Clemson,The Citadel,,,False,regular,fbs,fcs
+44,401207120,2020-09-19T22:00:00.000Z,North Texas,SMU,1384.0,1544.0,False,regular,fbs,fbs
+45,401207106,2020-09-19T23:30:00.000Z,Southern Mississippi,Louisiana Tech,1406.0,1536.0,True,regular,fbs,fbs
+46,401215302,2020-09-19T23:30:00.000Z,Louisiana Monroe,Texas State,1261.0,1202.0,True,regular,fbs,fbs
+47,401234569,2020-09-19T23:30:00.000Z,Louisville,Miami,1472.0,1553.0,True,regular,fbs,fbs
+48,401234570,2020-09-20T00:00:00.000Z,NC State,Wake Forest,1347.0,1506.0,True,regular,fbs,fbs
+49,401239885,2020-09-20T01:00:00.000Z,UTEP,Abilene Christian,,,False,regular,fbs,fcs
+50,401207132,2020-09-24T23:30:00.000Z,South Alabama,UAB,1282.0,1374.0,False,regular,fbs,fbs
+51,401207134,2020-09-26T00:00:00.000Z,UT San Antonio,Middle Tennessee,1226.0,1229.0,False,regular,fbs,fbs
+52,401236253,2020-09-26T16:00:00.000Z,Appalachian State,Campbell,,,False,regular,fbs,fcs
+53,401212536,2020-09-26T16:00:00.000Z,East Carolina,UCF,1237.0,1787.0,True,regular,fbs,fbs
+54,401235996,2020-09-26T16:00:00.000Z,Oklahoma,Kansas State,1771.0,1611.0,True,regular,fbs,fbs
+55,401236952,2020-09-26T16:00:00.000Z,Ole Miss,Florida,1558.0,1778.0,True,regular,fbs,fbs
+56,401215303,2020-09-26T16:00:00.000Z,Louisiana,Georgia Southern,1676.0,1465.0,True,regular,fbs,fbs
+57,401234595,2020-09-26T16:00:00.000Z,Pittsburgh,Louisville,1518.0,1451.0,True,regular,fbs,fbs
+58,401234594,2020-09-26T16:00:00.000Z,Syracuse,Georgia Tech,1418.0,1325.0,True,regular,fbs,fbs
+59,401237034,2020-09-26T16:00:00.000Z,Auburn,Kentucky,1782.0,1649.0,True,regular,fbs,fbs
+60,401237493,2020-09-26T17:00:00.000Z,The Citadel,Eastern Kentucky,,,False,regular,fcs,fcs
+61,401207126,2020-09-26T17:00:00.000Z,Liberty,Florida International,1408.0,1383.0,False,regular,fbs,fbs
+62,401235994,2020-09-26T17:30:00.000Z,TCU,Iowa State,1583.0,1621.0,True,regular,fbs,fbs
+63,401237035,2020-09-26T19:30:00.000Z,LSU,Mississippi State,2061.0,1550.0,True,regular,fbs,fbs
+64,401235997,2020-09-26T19:30:00.000Z,Oklahoma State,West Virginia,1599.0,1507.0,True,regular,fbs,fbs
+65,401235995,2020-09-26T19:30:00.000Z,Texas Tech,Texas,1525.0,1833.0,True,regular,fbs,fbs
+66,401240996,2020-09-26T19:30:00.000Z,Cincinnati,Army,1673.0,1654.0,False,regular,fbs,fbs
+67,401240194,2020-09-26T19:30:00.000Z,Louisiana Monroe,UTEP,1200.0,1056.0,False,regular,fbs,fbs
+68,401234638,2020-09-26T20:00:00.000Z,Virginia,Duke,1609.0,1371.0,True,regular,fbs,fbs
+69,401237033,2020-09-26T20:00:00.000Z,Arkansas,Georgia,1307.0,1832.0,True,regular,fbs,fbs
+70,401241303,2020-09-26T22:00:00.000Z,Boston College,Texas State,1510.0,1263.0,False,regular,fbs,fbs
+71,401236951,2020-09-26T23:00:00.000Z,Missouri,Alabama,1592.0,1962.0,True,regular,fbs,fbs
+72,401234734,2020-09-26T23:00:00.000Z,Southern Mississippi,Tulane,1411.0,1511.0,False,regular,fbs,fbs
+73,401212485,2020-09-26T23:00:00.000Z,SMU,Stephen F. Austin,,,False,regular,fbs,fcs
+74,401232157,2020-09-26T23:00:00.000Z,Louisiana Tech,Houston Christian,,,False,regular,fbs,fcs
+75,401237037,2020-09-26T23:30:00.000Z,Texas A&M,Vanderbilt,1647.0,1289.0,True,regular,fbs,fbs
+76,401235993,2020-09-26T23:30:00.000Z,Baylor,Kansas,1717.0,1280.0,True,regular,fbs,fbs
+77,401237036,2020-09-26T23:30:00.000Z,South Carolina,Tennessee,1498.0,1545.0,True,regular,fbs,fbs
+78,401234593,2020-09-26T23:30:00.000Z,Miami,Florida State,1574.0,1482.0,True,regular,fbs,fbs
+79,401234566,2020-09-27T00:00:00.000Z,Virginia Tech,NC State,1623.0,1350.0,True,regular,fbs,fbs
+80,401236381,2020-09-27T00:00:00.000Z,Central Arkansas,Missouri State,,,False,regular,fcs,fcs
+81,401236223,2020-09-27T02:15:00.000Z,BYU,Troy,1700.0,1473.0,False,regular,fbs,fbs
+82,401240282,2020-10-02T23:00:00.000Z,Wake Forest,Campbell,,,False,regular,fbs,fcs
+83,401246275,2020-10-03T01:00:00.000Z,BYU,Louisiana Tech,1789.0,1531.0,False,regular,fbs,fbs
+84,401235998,2020-10-03T16:00:00.000Z,West Virginia,Baylor,1487.0,1756.0,True,regular,fbs,fbs
+85,401212547,2020-10-03T16:00:00.000Z,Georgia State,East Carolina,1322.0,1235.0,False,regular,fbs,fbs
+86,401215304,2020-10-03T16:00:00.000Z,Coastal Carolina,Arkansas State,1351.0,1448.0,True,regular,fbs,fbs
+87,401237096,2020-10-03T16:00:00.000Z,Florida,South Carolina,1794.0,1495.0,True,regular,fbs,fbs
+88,401236002,2020-10-03T16:00:00.000Z,Texas,TCU,1824.0,1581.0,True,regular,fbs,fbs
+89,401234600,2020-10-03T16:00:00.000Z,Pittsburgh,NC State,1518.0,1328.0,True,regular,fbs,fbs
+90,401237099,2020-10-03T16:00:00.000Z,Tennessee,Missouri,1548.0,1582.0,True,regular,fbs,fbs
+91,401207141,2020-10-03T16:30:00.000Z,UAB,UT San Antonio,1453.0,1227.0,True,regular,fbs,fbs
+92,401237513,2020-10-03T17:00:00.000Z,Liberty,North Alabama,,,False,regular,fbs,fcs
+93,401240040,2020-10-03T17:30:00.000Z,Army,Abilene Christian,,,False,regular,fbs,fcs
+94,401246566,2020-10-03T19:00:00.000Z,Eastern Kentucky,Houston Christian,,,False,regular,fcs,fcs
+95,401236000,2020-10-03T19:30:00.000Z,Kansas,Oklahoma State,1241.0,1619.0,True,regular,fbs,fbs
+96,401237093,2020-10-03T19:30:00.000Z,Alabama,Texas A&M,1972.0,1638.0,True,regular,fbs,fbs
+97,401212486,2020-10-03T19:30:00.000Z,SMU,Memphis,1608.0,1702.0,True,regular,fbs,fbs
+98,401212476,2020-10-03T19:30:00.000Z,Cincinnati,South Florida,1700.0,1245.0,True,regular,fbs,fbs
+99,401234597,2020-10-03T19:30:00.000Z,Boston College,North Carolina,1508.0,1663.0,True,regular,fbs,fbs
+100,401240124,2020-10-03T19:30:00.000Z,North Dakota State,Central Arkansas,,,False,regular,fcs,fcs
+101,401236001,2020-10-03T19:30:00.000Z,Kansas State,Texas Tech,1626.0,1534.0,True,regular,fbs,fbs
+102,401207136,2020-10-03T20:00:00.000Z,Florida Atlantic,Charlotte,1685.0,1373.0,True,regular,fbs,fbs
+103,401234599,2020-10-03T20:00:00.000Z,Duke,Virginia Tech,1353.0,1645.0,True,regular,fbs,fbs
+104,401237097,2020-10-03T20:00:00.000Z,Kentucky,Ole Miss,1627.0,1542.0,True,regular,fbs,fbs
+105,401238034,2020-10-03T20:00:00.000Z,Florida State,Jacksonville State,,,False,regular,fbs,fcs
+106,401207138,2020-10-03T21:00:00.000Z,Middle Tennessee,Western Kentucky,1228.0,1462.0,True,regular,fbs,fbs
+107,401240042,2020-10-03T21:00:00.000Z,Stephen F. Austin,West Texas A&M,,,False,regular,fcs,ii
+108,401212557,2020-10-03T22:00:00.000Z,Air Force,Navy,1645.0,1448.0,False,regular,fbs,fbs
+109,401215305,2020-10-03T23:00:00.000Z,Louisiana Monroe,Georgia Southern,1114.0,1467.0,True,regular,fbs,fbs
+110,401237094,2020-10-03T23:30:00.000Z,Mississippi State,Arkansas,1623.0,1292.0,True,regular,fbs,fbs
+111,401237095,2020-10-03T23:30:00.000Z,Georgia,Auburn,1847.0,1804.0,True,regular,fbs,fbs
+112,401207139,2020-10-03T23:30:00.000Z,North Texas,Southern Mississippi,1320.0,1298.0,True,regular,fbs,fbs
+113,401212531,2020-10-03T23:30:00.000Z,UCF,Tulsa,1789.0,1410.0,True,regular,fbs,fbs
+114,401237098,2020-10-03T23:30:00.000Z,Vanderbilt,LSU,1298.0,1988.0,True,regular,fbs,fbs
+115,401235999,2020-10-03T23:30:00.000Z,Iowa State,Oklahoma,1623.0,1756.0,True,regular,fbs,fbs
+116,401234598,2020-10-04T00:00:00.000Z,Clemson,Virginia,2066.0,1627.0,True,regular,fbs,fbs
+117,401212523,2020-10-08T23:30:00.000Z,Houston,Tulane,1468.0,1624.0,True,regular,fbs,fbs
+118,401234601,2020-10-09T23:00:00.000Z,Georgia Tech,Louisville,1297.0,1451.0,True,regular,fbs,fbs
+119,401237105,2020-10-10T16:00:00.000Z,LSU,Missouri,2004.0,1522.0,True,regular,fbs,fbs
+120,401234607,2020-10-10T16:00:00.000Z,North Carolina,Virginia Tech,1660.0,1637.0,True,regular,fbs,fbs
+121,401237102,2020-10-10T16:00:00.000Z,Texas A&M,Florida,1603.0,1798.0,True,regular,fbs,fbs
+122,401234608,2020-10-10T16:00:00.000Z,Virginia,NC State,1626.0,1339.0,True,regular,fbs,fbs
+123,401207215,2020-10-10T16:00:00.000Z,Liberty,Louisiana Monroe,1408.0,1128.0,False,regular,fbs,fbs
+124,401237106,2020-10-10T16:00:00.000Z,Vanderbilt,South Carolina,1282.0,1491.0,True,regular,fbs,fbs
+125,401236005,2020-10-10T16:00:00.000Z,Oklahoma,Texas,1739.0,1807.0,True,regular,fbs,fbs
+126,401234605,2020-10-10T16:30:00.000Z,Syracuse,Duke,1446.0,1361.0,True,regular,fbs,fbs
+127,401240114,2020-10-10T17:30:00.000Z,Army,The Citadel,,,False,regular,fbs,fcs
+128,401240117,2020-10-10T19:00:00.000Z,Jacksonville State,Mercer,,,False,regular,fcs,fcs
+129,401236003,2020-10-10T19:30:00.000Z,Iowa State,Texas Tech,1640.0,1523.0,True,regular,fbs,fbs
+130,401237103,2020-10-10T19:30:00.000Z,Georgia,Tennessee,1892.0,1608.0,True,regular,fbs,fbs
+131,401215308,2020-10-10T19:30:00.000Z,Troy,Texas State,1384.0,1265.0,True,regular,fbs,fbs
+132,401246425,2020-10-10T19:30:00.000Z,Arkansas State,Central Arkansas,,,False,regular,fbs,fcs
+133,401240997,2020-10-10T19:30:00.000Z,BYU,UT San Antonio,1842.0,1228.0,False,regular,fbs,fbs
+134,401236004,2020-10-10T20:00:00.000Z,TCU,Kansas State,1598.0,1637.0,True,regular,fbs,fbs
+135,401207143,2020-10-10T20:00:00.000Z,Florida International,Middle Tennessee,1383.0,1237.0,True,regular,fbs,fbs
+136,401234603,2020-10-10T20:00:00.000Z,Boston College,Pittsburgh,1511.0,1507.0,True,regular,fbs,fbs
+137,401237101,2020-10-10T20:00:00.000Z,Auburn,Arkansas,1759.0,1334.0,True,regular,fbs,fbs
+138,401212515,2020-10-10T22:00:00.000Z,Navy,Temple,1382.0,1411.0,True,regular,fbs,fbs
+139,401212477,2020-10-10T23:00:00.000Z,South Florida,East Carolina,1239.0,1197.0,True,regular,fbs,fbs
+140,401207146,2020-10-10T23:30:00.000Z,Western Kentucky,Marshall,1453.0,1499.0,True,regular,fbs,fbs
+141,401234606,2020-10-10T23:30:00.000Z,Notre Dame,Florida State,1918.0,1371.0,True,regular,fbs,fbs
+142,401234604,2020-10-10T23:30:00.000Z,Clemson,Miami,2067.0,1685.0,True,regular,fbs,fbs
+143,401207145,2020-10-10T23:30:00.000Z,Louisiana Tech,UTEP,1478.0,1142.0,True,regular,fbs,fbs
+144,401237104,2020-10-10T23:30:00.000Z,Kentucky,Mississippi State,1622.0,1581.0,True,regular,fbs,fbs
+145,401237100,2020-10-10T23:30:00.000Z,Ole Miss,Alabama,1547.0,2007.0,True,regular,fbs,fbs
+146,401207142,2020-10-11T00:00:00.000Z,North Texas,Charlotte,1297.0,1379.0,True,regular,fbs,fbs
+147,401215311,2020-10-14T23:30:00.000Z,Louisiana,Coastal Carolina,1674.0,1440.0,True,regular,fbs,fbs
+148,401215310,2020-10-15T23:30:00.000Z,Arkansas State,Georgia State,1359.0,1360.0,True,regular,fbs,fbs
+149,401212487,2020-10-16T22:00:00.000Z,Tulane,SMU,1567.0,1610.0,True,regular,fbs,fbs
+150,401212551,2020-10-17T01:30:00.000Z,Houston,BYU,1525.0,1821.0,False,regular,fbs,fbs
+151,401212478,2020-10-17T16:00:00.000Z,Temple,South Florida,1410.0,1184.0,True,regular,fbs,fbs
+152,401234615,2020-10-17T16:00:00.000Z,Syracuse,Liberty,1405.0,1464.0,False,regular,fbs,fbs
+153,401215313,2020-10-17T16:00:00.000Z,South Alabama,Texas State,1203.0,1230.0,True,regular,fbs,fbs
+154,401234610,2020-10-17T16:00:00.000Z,Georgia Tech,Clemson,1357.0,2089.0,True,regular,fbs,fbs
+155,401234614,2020-10-17T16:00:00.000Z,Miami,Pittsburgh,1663.0,1506.0,True,regular,fbs,fbs
+156,401237109,2020-10-17T16:00:00.000Z,South Carolina,Auburn,1562.0,1754.0,True,regular,fbs,fbs
+157,401237111,2020-10-17T16:00:00.000Z,Tennessee,Kentucky,1581.0,1671.0,True,regular,fbs,fbs
+158,401212548,2020-10-17T16:00:00.000Z,East Carolina,Navy,1252.0,1383.0,True,regular,fbs,fbs
+159,401236007,2020-10-17T16:00:00.000Z,West Virginia,Kansas,1509.0,1172.0,True,regular,fbs,fbs
+160,401240115,2020-10-17T17:30:00.000Z,UT San Antonio,Army,1249.0,1627.0,False,regular,fbs,fbs
+161,401207153,2020-10-17T17:30:00.000Z,UAB,Western Kentucky,1452.0,1395.0,True,regular,fbs,fbs
+162,401240034,2020-10-17T18:00:00.000Z,North Alabama,Jacksonville State,,,False,regular,fcs,fcs
+163,401234613,2020-10-17T18:30:00.000Z,Notre Dame,Louisville,1907.0,1391.0,True,regular,fbs,fbs
+164,401212537,2020-10-17T19:30:00.000Z,Memphis,UCF,1700.0,1739.0,True,regular,fbs,fbs
+165,401234611,2020-10-17T19:30:00.000Z,NC State,Duke,1413.0,1402.0,True,regular,fbs,fbs
+166,401237108,2020-10-17T19:30:00.000Z,Arkansas,Ole Miss,1339.0,1554.0,True,regular,fbs,fbs
+167,401239872,2020-10-17T19:30:00.000Z,Troy,Eastern Kentucky,,,False,regular,fbs,fcs
+168,401234616,2020-10-17T20:00:00.000Z,Wake Forest,Virginia,1503.0,1552.0,True,regular,fbs,fbs
+169,401250215,2020-10-17T20:00:00.000Z,Georgia Southern,UMass,1453.0,955.0,False,regular,fbs,fbs
+170,401237112,2020-10-17T20:00:00.000Z,Mississippi State,Texas A&M,1532.0,1607.0,True,regular,fbs,fbs
+171,401207150,2020-10-17T21:00:00.000Z,Middle Tennessee,North Texas,1251.0,1230.0,True,regular,fbs,fbs
+172,401249652,2020-10-17T21:00:00.000Z,Stephen F. Austin,Angelo State,,,False,regular,fcs,ii
+173,401207149,2020-10-17T22:00:00.000Z,Louisiana Tech,Marshall,1472.0,1557.0,True,regular,fbs,fbs
+174,401234612,2020-10-17T23:30:00.000Z,Florida State,North Carolina,1382.0,1678.0,True,regular,fbs,fbs
+175,401236382,2020-10-18T00:00:00.000Z,Missouri State,Central Arkansas,,,False,regular,fcs,fcs
+176,401234609,2020-10-18T00:00:00.000Z,Virginia Tech,Boston College,1619.0,1512.0,True,regular,fbs,fbs
+177,401237107,2020-10-18T00:00:00.000Z,Alabama,Georgia,2000.0,1919.0,True,regular,fbs,fbs
+178,401240642,2020-10-22T23:30:00.000Z,Appalachian State,Arkansas State,1665.0,1369.0,True,regular,fbs,fbs
+179,401250783,2020-10-23T23:00:00.000Z,Florida International,Jacksonville State,,,False,regular,fbs,fcs
+180,401212479,2020-10-23T23:30:00.000Z,South Florida,Tulsa,1186.0,1460.0,True,regular,fbs,fbs
+181,401247297,2020-10-24T00:00:00.000Z,Wisconsin,Illinois,1847.0,1441.0,True,regular,fbs,fbs
+182,401238036,2020-10-24T00:00:00.000Z,UAB,Louisiana,1502.0,1654.0,False,regular,fbs,fbs
+183,401234619,2020-10-24T16:00:00.000Z,Louisville,Florida State,1405.0,1387.0,True,regular,fbs,fbs
+184,401212516,2020-10-24T16:00:00.000Z,Memphis,Temple,1702.0,1408.0,True,regular,fbs,fbs
+185,401236010,2020-10-24T16:00:00.000Z,Kansas State,Kansas,1647.0,1156.0,True,regular,fbs,fbs
+186,401215316,2020-10-24T16:00:00.000Z,Coastal Carolina,Georgia Southern,1460.0,1508.0,True,regular,fbs,fbs
+187,401207154,2020-10-24T16:00:00.000Z,Charlotte,UTEP,1446.0,1148.0,True,regular,fbs,fbs
+188,401240116,2020-10-24T16:00:00.000Z,Army,Mercer,,,False,regular,fbs,fcs
+189,401247293,2020-10-24T16:00:00.000Z,Ohio State,Nebraska,2079.0,1568.0,True,regular,fbs,fbs
+190,401237115,2020-10-24T16:00:00.000Z,Ole Miss,Auburn,1513.0,1729.0,True,regular,fbs,fbs
+191,401236011,2020-10-24T16:00:00.000Z,TCU,Oklahoma,1588.0,1763.0,True,regular,fbs,fbs
+192,401234621,2020-10-24T16:00:00.000Z,North Carolina,NC State,1673.0,1432.0,True,regular,fbs,fbs
+193,401234618,2020-10-24T16:00:00.000Z,Clemson,Syracuse,2194.0,1370.0,True,regular,fbs,fbs
+194,401247299,2020-10-24T16:00:00.000Z,Michigan State,Rutgers,1551.0,1229.0,True,regular,fbs,fbs
+195,401207160,2020-10-24T17:00:00.000Z,Liberty,Southern Mississippi,1499.0,1321.0,False,regular,fbs,fbs
+196,401248039,2020-10-24T17:30:00.000Z,Stephen F. Austin,Abilene Christian,,,True,regular,fcs,fcs
+197,401212524,2020-10-24T18:00:00.000Z,UCF,Tulane,1737.0,1565.0,True,regular,fbs,fbs
+198,401207156,2020-10-24T18:30:00.000Z,Marshall,Florida Atlantic,1592.0,1679.0,True,regular,fbs,fbs
+199,401239871,2020-10-24T19:00:00.000Z,Eastern Kentucky,Central Arkansas,,,False,regular,fcs,fcs
+200,401212552,2020-10-24T19:30:00.000Z,Navy,Houston,1381.0,1513.0,True,regular,fbs,fbs
+201,401236008,2020-10-24T19:30:00.000Z,Texas,Baylor,1783.0,1734.0,True,regular,fbs,fbs
+202,401207158,2020-10-24T19:30:00.000Z,Rice,Middle Tennessee,1307.0,1208.0,True,regular,fbs,fbs
+203,401237114,2020-10-24T19:30:00.000Z,Tennessee,Alabama,1518.0,2030.0,True,regular,fbs,fbs
+204,401236009,2020-10-24T19:30:00.000Z,Oklahoma State,Iowa State,1688.0,1664.0,True,regular,fbs,fbs
+205,401247295,2020-10-24T19:30:00.000Z,Indiana,Penn State,1573.0,1827.0,True,regular,fbs,fbs
+206,401234623,2020-10-24T19:30:00.000Z,Wake Forest,Virginia Tech,1545.0,1673.0,True,regular,fbs,fbs
+207,401247296,2020-10-24T19:30:00.000Z,Purdue,Iowa,1492.0,1783.0,True,regular,fbs,fbs
+208,401234622,2020-10-24T19:41:00.000Z,Pittsburgh,Notre Dame,1496.0,1893.0,True,regular,fbs,fbs
+209,401234617,2020-10-24T20:00:00.000Z,Boston College,Georgia Tech,1458.0,1252.0,True,regular,fbs,fbs
+210,401237122,2020-10-24T20:00:00.000Z,Missouri,Kentucky,1565.0,1734.0,True,regular,fbs,fbs
+211,401215317,2020-10-24T20:00:00.000Z,Troy,Georgia State,1419.0,1350.0,True,regular,fbs,fbs
+212,401207102,2020-10-24T20:00:00.000Z,Western Kentucky,Chattanooga,,,False,regular,fbs,fcs
+213,401236012,2020-10-24T21:30:00.000Z,Texas Tech,West Virginia,1499.0,1525.0,True,regular,fbs,fbs
+214,401237118,2020-10-24T23:00:00.000Z,LSU,South Carolina,1961.0,1587.0,True,regular,fbs,fbs
+215,401248997,2020-10-24T23:00:00.000Z,Boise State,Utah State,1638.0,1428.0,True,regular,fbs,fbs
+216,401248998,2020-10-24T23:00:00.000Z,Nevada,Wyoming,1297.0,1545.0,True,regular,fbs,fbs
+217,401250784,2020-10-24T23:00:00.000Z,South Alabama,Louisiana Monroe,1222.0,1072.0,True,regular,fbs,fbs
+218,401247294,2020-10-24T23:30:00.000Z,Minnesota,Michigan,1703.0,1801.0,True,regular,fbs,fbs
+219,401248994,2020-10-24T23:30:00.000Z,Fresno State,Hawai'i,1483.0,1465.0,True,regular,fbs,fbs
+220,401247298,2020-10-24T23:30:00.000Z,Northwestern,Maryland,1495.0,1290.0,True,regular,fbs,fbs
+221,401234620,2020-10-25T00:00:00.000Z,Miami,Virginia,1673.0,1510.0,True,regular,fbs,fbs
+222,401207157,2020-10-25T00:00:00.000Z,UT San Antonio,Louisiana Tech,1255.0,1437.0,True,regular,fbs,fbs
+223,401212488,2020-10-25T01:00:00.000Z,SMU,Cincinnati,1612.0,1706.0,True,regular,fbs,fbs
+224,401240998,2020-10-25T02:15:00.000Z,BYU,Texas State,1833.0,1211.0,False,regular,fbs,fbs
+225,401248993,2020-10-25T02:30:00.000Z,San José State,Air Force,1352.0,1711.0,True,regular,fbs,fbs
+226,401248996,2020-10-25T02:30:00.000Z,San Diego State,UNLV,1579.0,1285.0,True,regular,fbs,fbs
+227,401215321,2020-10-29T23:30:00.000Z,Georgia Southern,South Alabama,1475.0,1265.0,True,regular,fbs,fbs
+228,401249000,2020-10-30T02:00:00.000Z,Fresno State,Colorado State,1446.0,1409.0,True,regular,fbs,fbs
+229,401247675,2020-10-30T23:00:00.000Z,Southern Illinois,Southeast Missouri State,,,False,regular,fcs,fcs
+230,401247302,2020-10-30T23:30:00.000Z,Maryland,Minnesota,1202.0,1648.0,True,regular,fbs,fbs
+231,401212533,2020-10-31T01:00:00.000Z,Tulsa,East Carolina,1507.0,1254.0,True,regular,fbs,fbs
+232,401249001,2020-10-31T01:45:00.000Z,Wyoming,Hawai'i,1541.0,1502.0,True,regular,fbs,fbs
+233,401207162,2020-10-31T16:00:00.000Z,Florida Atlantic,UT San Antonio,1652.0,1261.0,True,regular,fbs,fbs
+234,401234629,2020-10-31T16:00:00.000Z,Syracuse,Wake Forest,1385.0,1562.0,True,regular,fbs,fbs
+235,401215318,2020-10-31T16:00:00.000Z,Georgia State,Coastal Carolina,1357.0,1493.0,True,regular,fbs,fbs
+236,401236014,2020-10-31T16:00:00.000Z,Kansas,Iowa State,1100.0,1663.0,True,regular,fbs,fbs
+237,401234624,2020-10-31T16:00:00.000Z,Clemson,Boston College,2179.0,1487.0,True,regular,fbs,fbs
+238,401236015,2020-10-31T16:00:00.000Z,West Virginia,Kansas State,1514.0,1703.0,True,regular,fbs,fbs
+239,401212517,2020-10-31T16:00:00.000Z,Tulane,Temple,1544.0,1408.0,True,regular,fbs,fbs
+240,401237117,2020-10-31T16:00:00.000Z,Kentucky,Georgia,1704.0,1889.0,True,regular,fbs,fbs
+241,401247305,2020-10-31T16:00:00.000Z,Michigan,Michigan State,1856.0,1495.0,True,regular,fbs,fbs
+242,401247301,2020-10-31T16:00:00.000Z,Illinois,Purdue,1384.0,1504.0,True,regular,fbs,fbs
+243,401212543,2020-10-31T16:00:00.000Z,Cincinnati,Memphis,1775.0,1702.0,True,regular,fbs,fbs
+244,401212538,2020-10-31T18:00:00.000Z,Houston,UCF,1538.0,1758.0,True,regular,fbs,fbs
+245,401207166,2020-10-31T19:00:00.000Z,Southern Mississippi,Rice,1289.0,1289.0,True,regular,fbs,fbs
+246,401215320,2020-10-31T19:00:00.000Z,Arkansas State,Troy,1330.0,1412.0,True,regular,fbs,fbs
+247,401250213,2020-10-31T19:00:00.000Z,Stephen F. Austin,Western State,,,False,regular,fcs,ii
+248,401248073,2020-10-31T19:00:00.000Z,Mercer,Abilene Christian,,,False,regular,fcs,fcs
+249,401236013,2020-10-31T19:30:00.000Z,Baylor,TCU,1718.0,1559.0,True,regular,fbs,fbs
+250,401237121,2020-10-31T19:30:00.000Z,Auburn,LSU,1726.0,1992.0,True,regular,fbs,fbs
+251,401234626,2020-10-31T19:30:00.000Z,Georgia Tech,Notre Dame,1223.0,1966.0,True,regular,fbs,fbs
+252,401247300,2020-10-31T19:30:00.000Z,Rutgers,Indiana,1285.0,1581.0,True,regular,fbs,fbs
+253,401207163,2020-10-31T19:30:00.000Z,Louisiana Tech,UAB,1431.0,1505.0,True,regular,fbs,fbs
+254,401247303,2020-10-31T19:30:00.000Z,Iowa,Northwestern,1771.0,1583.0,True,regular,fbs,fbs
+255,401237123,2020-10-31T20:00:00.000Z,Vanderbilt,Ole Miss,1211.0,1516.0,True,regular,fbs,fbs
+256,401215319,2020-10-31T20:00:00.000Z,Louisiana Monroe,Appalachian State,1029.0,1704.0,True,regular,fbs,fbs
+257,401234627,2020-10-31T20:00:00.000Z,Louisville,Virginia Tech,1490.0,1656.0,True,regular,fbs,fbs
+258,401239873,2020-10-31T20:00:00.000Z,Central Arkansas,Missouri Western,,,False,regular,fcs,ii
+259,401236017,2020-10-31T20:00:00.000Z,Oklahoma State,Texas,1689.0,1799.0,True,regular,fbs,fbs
+260,401248999,2020-10-31T22:00:00.000Z,Air Force,Boise State,1661.0,1690.0,True,regular,fbs,fbs
+261,401249003,2020-10-31T23:00:00.000Z,New Mexico,San José State,1230.0,1402.0,True,regular,fbs,fbs
+262,401234625,2020-10-31T23:00:00.000Z,Duke,Charlotte,1383.0,1443.0,False,regular,fbs,fbs
+263,401237119,2020-10-31T23:00:00.000Z,Alabama,Mississippi State,2056.0,1507.0,True,regular,fbs,fbs
+264,401237120,2020-10-31T23:30:00.000Z,Texas A&M,Arkansas,1632.0,1380.0,True,regular,fbs,fbs
+265,401212489,2020-10-31T23:30:00.000Z,SMU,Navy,1543.0,1356.0,True,regular,fbs,fbs
+266,401247306,2020-10-31T23:30:00.000Z,Penn State,Ohio State,1819.0,2115.0,True,regular,fbs,fbs
+267,401237116,2020-10-31T23:30:00.000Z,Florida,Missouri,1794.0,1595.0,True,regular,fbs,fbs
+268,401234628,2020-11-01T00:00:00.000Z,Virginia,North Carolina,1511.0,1715.0,True,regular,fbs,fbs
+269,401236016,2020-11-01T00:00:00.000Z,Texas Tech,Oklahoma,1510.0,1792.0,True,regular,fbs,fbs
+270,401215322,2020-11-01T00:00:00.000Z,Texas State,Louisiana,1178.0,1651.0,True,regular,fbs,fbs
+271,401249004,2020-11-01T01:30:00.000Z,Utah State,San Diego State,1376.0,1619.0,True,regular,fbs,fbs
+272,401239887,2020-11-01T02:15:00.000Z,BYU,Western Kentucky,1866.0,1345.0,False,regular,fbs,fbs
+273,401249002,2020-11-01T02:30:00.000Z,UNLV,Nevada,1245.0,1301.0,True,regular,fbs,fbs
+274,401249856,2020-11-04T23:00:00.000Z,Kent State,Eastern Michigan,1366.0,1399.0,True,regular,fbs,fbs
+275,401249857,2020-11-04T23:00:00.000Z,Akron,Western Michigan,1004.0,1485.0,True,regular,fbs,fbs
+276,401249860,2020-11-05T00:00:00.000Z,Central Michigan,Ohio,1415.0,1575.0,True,regular,fbs,fbs
+277,401249859,2020-11-05T00:00:00.000Z,Northern Illinois,Buffalo,1316.0,1562.0,True,regular,fbs,fbs
+278,401249889,2020-11-05T00:00:00.000Z,Miami (OH),Ball State,1411.0,1433.0,True,regular,fbs,fbs
+279,401249858,2020-11-05T01:00:00.000Z,Toledo,Bowling Green,1273.0,1051.0,True,regular,fbs,fbs
+280,401249009,2020-11-06T00:00:00.000Z,Nevada,Utah State,1339.0,1319.0,True,regular,fbs,fbs
+281,401249010,2020-11-06T02:00:00.000Z,Colorado State,Wyoming,1363.0,1596.0,True,regular,fbs,fbs
+282,401234630,2020-11-07T00:30:00.000Z,NC State,Miami,1390.0,1672.0,True,regular,fbs,fbs
+283,401249008,2020-11-07T02:00:00.000Z,San Diego State,San José State,1676.0,1425.0,True,regular,fbs,fbs
+284,401249005,2020-11-07T02:45:00.000Z,Boise State,BYU,1734.0,1890.0,False,regular,fbs,fbs
+285,401215327,2020-11-07T17:00:00.000Z,Georgia State,Louisiana Monroe,1216.0,1048.0,True,regular,fbs,fbs
+286,401247307,2020-11-07T17:00:00.000Z,Northwestern,Nebraska,1594.0,1532.0,True,regular,fbs,fbs
+287,401212480,2020-11-07T17:00:00.000Z,Memphis,South Florida,1599.0,1139.0,True,regular,fbs,fbs
+288,401253924,2020-11-07T17:00:00.000Z,Louisiana,Arkansas State,1634.0,1263.0,True,regular,fbs,fbs
+289,401234636,2020-11-07T17:00:00.000Z,Virginia Tech,Liberty,1657.0,1531.0,False,regular,fbs,fbs
+290,401212525,2020-11-07T17:00:00.000Z,East Carolina,Tulane,1258.0,1624.0,True,regular,fbs,fbs
+291,401247313,2020-11-07T17:00:00.000Z,Iowa,Michigan State,1760.0,1524.0,True,regular,fbs,fbs
+292,401234633,2020-11-07T17:00:00.000Z,Duke,North Carolina,1486.0,1711.0,True,regular,fbs,fbs
+293,401247309,2020-11-07T17:00:00.000Z,Indiana,Michigan,1590.0,1827.0,True,regular,fbs,fbs
+294,401249400,2020-11-07T17:00:00.000Z,USC,Arizona State,1593.0,1549.0,True,regular,fbs,fbs
+295,401212490,2020-11-07T17:00:00.000Z,Temple,SMU,1328.0,1556.0,True,regular,fbs,fbs
+296,401236022,2020-11-07T17:00:00.000Z,Texas,West Virginia,1804.0,1608.0,True,regular,fbs,fbs
+297,401215326,2020-11-07T18:00:00.000Z,Georgia Southern,Troy,1473.0,1479.0,True,regular,fbs,fbs
+298,401234631,2020-11-07T19:00:00.000Z,Syracuse,Boston College,1342.0,1509.0,True,regular,fbs,fbs
+299,401251931,2020-11-07T19:30:00.000Z,Marshall,UMass,1619.0,900.0,False,regular,fbs,fbs
+300,401215324,2020-11-07T20:00:00.000Z,Texas State,Appalachian State,1195.0,1685.0,True,regular,fbs,fbs
+301,401239874,2020-11-07T20:00:00.000Z,Eastern Kentucky,Stephen F. Austin,,,False,regular,fcs,fcs
+302,401240035,2020-11-07T20:00:00.000Z,Southern Mississippi,North Alabama,,,False,regular,fbs,fcs
+303,401247312,2020-11-07T20:30:00.000Z,Penn State,Maryland,1817.0,1214.0,True,regular,fbs,fbs
+304,401212544,2020-11-07T20:30:00.000Z,Cincinnati,Houston,1878.0,1503.0,True,regular,fbs,fbs
+305,401237126,2020-11-07T20:30:00.000Z,Mississippi State,Vanderbilt,1458.0,1155.0,True,regular,fbs,fbs
+306,401236021,2020-11-07T20:30:00.000Z,TCU,Texas Tech,1594.0,1448.0,True,regular,fbs,fbs
+307,401237125,2020-11-07T20:30:00.000Z,Georgia,Florida,1896.0,1832.0,True,regular,fbs,fbs
+308,401249006,2020-11-07T20:30:00.000Z,UNLV,Fresno State,1207.0,1492.0,True,regular,fbs,fbs
+309,401236019,2020-11-07T20:30:00.000Z,Oklahoma,Kansas,1854.0,1082.0,True,regular,fbs,fbs
+310,401247308,2020-11-07T20:30:00.000Z,Illinois,Minnesota,1380.0,1636.0,True,regular,fbs,fbs
+311,401248273,2020-11-07T21:00:00.000Z,Abilene Christian,Angelo State,,,False,regular,fcs,ii
+312,401236020,2020-11-07T21:00:00.000Z,Kansas State,Oklahoma State,1609.0,1684.0,True,regular,fbs,fbs
+313,401234634,2020-11-07T21:00:00.000Z,Florida State,Pittsburgh,1302.0,1423.0,True,regular,fbs,fbs
+314,401207169,2020-11-07T23:00:00.000Z,Florida Atlantic,Western Kentucky,1664.0,1321.0,True,regular,fbs,fbs
+315,401249402,2020-11-08T00:00:00.000Z,Colorado,UCLA,1407.0,1415.0,True,regular,fbs,fbs
+316,401237127,2020-11-08T00:00:00.000Z,South Carolina,Texas A&M,1556.0,1634.0,True,regular,fbs,fbs
+317,401236018,2020-11-08T00:00:00.000Z,Iowa State,Baylor,1681.0,1683.0,True,regular,fbs,fbs
+318,401247310,2020-11-08T00:30:00.000Z,Ohio State,Rutgers,2117.0,1276.0,True,regular,fbs,fbs
+319,401249399,2020-11-08T00:30:00.000Z,Oregon,Stanford,1840.0,1469.0,True,regular,fbs,fbs
+320,401237124,2020-11-08T00:30:00.000Z,Arkansas,Tennessee,1378.0,1492.0,True,regular,fbs,fbs
+321,401234632,2020-11-08T00:30:00.000Z,Notre Dame,Clemson,1942.0,2157.0,True,regular,fbs,fbs
+322,401215325,2020-11-08T01:00:00.000Z,Coastal Carolina,South Alabama,1634.0,1267.0,True,regular,fbs,fbs
+323,401249397,2020-11-08T03:30:00.000Z,Oregon State,Washington State,1407.0,1605.0,True,regular,fbs,fbs
+324,401249007,2020-11-08T04:00:00.000Z,Hawai'i,New Mexico,1447.0,1207.0,True,regular,fbs,fbs
+325,401249861,2020-11-11T00:00:00.000Z,Ohio,Akron,1572.0,933.0,True,regular,fbs,fbs
+326,401249862,2020-11-11T00:30:00.000Z,Bowling Green,Kent State,981.0,1370.0,True,regular,fbs,fbs
+327,401249890,2020-11-11T01:00:00.000Z,Buffalo,Miami (OH),1583.0,1422.0,True,regular,fbs,fbs
+328,401249865,2020-11-12T00:00:00.000Z,Ball State,Eastern Michigan,1422.0,1395.0,True,regular,fbs,fbs
+329,401249864,2020-11-12T01:00:00.000Z,Northern Illinois,Central Michigan,1295.0,1418.0,True,regular,fbs,fbs
+330,401249866,2020-11-12T01:00:00.000Z,Western Michigan,Toledo,1556.0,1343.0,True,regular,fbs,fbs
+331,401249012,2020-11-13T01:00:00.000Z,Boise State,Colorado State,1657.0,1398.0,True,regular,fbs,fbs
+332,401207174,2020-11-14T00:00:00.000Z,Florida International,Florida Atlantic,1369.0,1657.0,True,regular,fbs,fbs
+333,401247317,2020-11-14T00:00:00.000Z,Minnesota,Iowa,1679.0,1851.0,True,regular,fbs,fbs
+334,401212545,2020-11-14T00:30:00.000Z,Cincinnati,East Carolina,1909.0,1253.0,True,regular,fbs,fbs
+335,401237132,2020-11-14T17:00:00.000Z,Kentucky,Vanderbilt,1697.0,1161.0,True,regular,fbs,fbs
+336,401247320,2020-11-14T17:00:00.000Z,Nebraska,Penn State,1524.0,1705.0,True,regular,fbs,fbs
+337,401207218,2020-11-14T17:00:00.000Z,Liberty,Western Carolina,,,False,regular,fbs,fcs
+338,401207176,2020-11-14T17:00:00.000Z,Marshall,Middle Tennessee,1650.0,1226.0,True,regular,fbs,fbs
+339,401234641,2020-11-14T17:00:00.000Z,Virginia Tech,Miami,1645.0,1660.0,True,regular,fbs,fbs
+340,401207200,2020-11-14T17:00:00.000Z,Tulane,Army,1629.0,1621.0,False,regular,fbs,fbs
+341,401234642,2020-11-14T17:00:00.000Z,North Carolina,Wake Forest,1773.0,1605.0,True,regular,fbs,fbs
+342,401236024,2020-11-14T17:00:00.000Z,West Virginia,TCU,1611.0,1615.0,True,regular,fbs,fbs
+343,401247316,2020-11-14T17:00:00.000Z,Michigan State,Indiana,1433.0,1652.0,True,regular,fbs,fbs
+344,401247314,2020-11-14T18:00:00.000Z,Rutgers,Illinois,1299.0,1337.0,True,regular,fbs,fbs
+345,401215332,2020-11-14T19:00:00.000Z,Louisiana,South Alabama,1624.0,1262.0,True,regular,fbs,fbs
+346,401249013,2020-11-14T19:30:00.000Z,Utah State,Fresno State,1258.0,1495.0,True,regular,fbs,fbs
+347,401215328,2020-11-14T19:30:00.000Z,Appalachian State,Georgia State,1688.0,1240.0,True,regular,fbs,fbs
+348,401207179,2020-11-14T20:00:00.000Z,UT San Antonio,UTEP,1249.0,1151.0,True,regular,fbs,fbs
+349,401249406,2020-11-14T20:30:00.000Z,Stanford,Colorado,1456.0,1415.0,True,regular,fbs,fbs
+350,401249403,2020-11-14T20:30:00.000Z,Arizona,USC,1387.0,1592.0,True,regular,fbs,fbs
+351,401234637,2020-11-14T20:30:00.000Z,Boston College,Notre Dame,1504.0,1964.0,True,regular,fbs,fbs
+352,401257934,2020-11-14T20:30:00.000Z,Virginia,Louisville,1515.0,1489.0,True,regular,fbs,fbs
+353,401215331,2020-11-14T20:30:00.000Z,Georgia Southern,Texas State,1483.0,1192.0,True,regular,fbs,fbs
+354,401207178,2020-11-14T20:30:00.000Z,Western Kentucky,Southern Mississippi,1328.0,1225.0,True,regular,fbs,fbs
+355,401212481,2020-11-14T20:30:00.000Z,Houston,South Florida,1472.0,1153.0,True,regular,fbs,fbs
+356,401249014,2020-11-14T21:00:00.000Z,San Diego State,Hawai'i,1628.0,1443.0,True,regular,fbs,fbs
+357,401248074,2020-11-14T21:00:00.000Z,Central Arkansas,Eastern Kentucky,,,False,regular,fcs,fcs
+358,401236023,2020-11-14T21:00:00.000Z,Texas Tech,Baylor,1427.0,1673.0,True,regular,fbs,fbs
+359,401247413,2020-11-14T22:00:00.000Z,Stephen F. Austin,Pittsburg State,,,False,regular,fcs,ii
+360,401247315,2020-11-14T22:00:00.000Z,Purdue,Northwestern,1508.0,1602.0,True,regular,fbs,fbs
+361,401249015,2020-11-14T23:30:00.000Z,New Mexico,Nevada,1211.0,1400.0,True,regular,fbs,fbs
+362,401249405,2020-11-15T00:00:00.000Z,Washington State,Oregon,1609.0,1853.0,True,regular,fbs,fbs
+363,401237129,2020-11-15T00:00:00.000Z,Florida,Arkansas,1869.0,1407.0,True,regular,fbs,fbs
+364,401212491,2020-11-15T00:00:00.000Z,Tulsa,SMU,1503.0,1593.0,True,regular,fbs,fbs
+365,401247319,2020-11-15T00:30:00.000Z,Michigan,Wisconsin,1765.0,1904.0,True,regular,fbs,fbs
+366,401237133,2020-11-15T00:30:00.000Z,Ole Miss,South Carolina,1572.0,1428.0,True,regular,fbs,fbs
+367,401234639,2020-11-15T00:30:00.000Z,NC State,Florida State,1402.0,1253.0,True,regular,fbs,fbs
+368,401212518,2020-11-15T00:30:00.000Z,UCF,Temple,1793.0,1291.0,True,regular,fbs,fbs
+369,401249016,2020-11-15T03:30:00.000Z,San José State,UNLV,1473.0,1204.0,True,regular,fbs,fbs
+370,401249404,2020-11-15T04:00:00.000Z,Washington,Oregon State,1760.0,1403.0,True,regular,fbs,fbs
+371,401261454,2020-11-15T17:00:00.000Z,UCLA,California,1407.0,1499.0,True,regular,fbs,fbs
+372,401249868,2020-11-18T00:00:00.000Z,Bowling Green,Buffalo,920.0,1650.0,True,regular,fbs,fbs
+373,401249867,2020-11-18T01:00:00.000Z,Kent State,Akron,1431.0,953.0,True,regular,fbs,fbs
+374,401249872,2020-11-19T00:00:00.000Z,Central Michigan,Western Michigan,1486.0,1554.0,True,regular,fbs,fbs
+375,401249871,2020-11-19T00:00:00.000Z,Eastern Michigan,Toledo,1387.0,1345.0,True,regular,fbs,fbs
+376,401249870,2020-11-19T00:00:00.000Z,Ball State,Northern Illinois,1430.0,1227.0,True,regular,fbs,fbs
+377,401212526,2020-11-20T00:30:00.000Z,Tulsa,Tulane,1509.0,1695.0,True,regular,fbs,fbs
+378,401234643,2020-11-21T00:00:00.000Z,Louisville,Syracuse,1463.0,1347.0,True,regular,fbs,fbs
+379,401247325,2020-11-21T00:30:00.000Z,Minnesota,Purdue,1623.0,1502.0,True,regular,fbs,fbs
+380,401261674,2020-11-21T01:00:00.000Z,Florida Atlantic,UMass,1674.0,869.0,False,regular,fbs,fbs
+381,401249018,2020-11-21T02:30:00.000Z,Air Force,New Mexico,1617.0,1212.0,True,regular,fbs,fbs
+382,401247321,2020-11-21T17:00:00.000Z,Nebraska,Illinois,1544.0,1339.0,True,regular,fbs,fbs
+383,401212519,2020-11-21T17:00:00.000Z,Temple,East Carolina,1280.0,1224.0,True,regular,fbs,fbs
+384,401237138,2020-11-21T17:00:00.000Z,Vanderbilt,Florida,1166.0,1891.0,True,regular,fbs,fbs
+385,401247326,2020-11-21T17:00:00.000Z,Ohio State,Indiana,2094.0,1690.0,True,regular,fbs,fbs
+386,401215334,2020-11-21T17:00:00.000Z,Texas State,Arkansas State,1195.0,1273.0,True,regular,fbs,fbs
+387,401235975,2020-11-21T17:00:00.000Z,Army,Georgia Southern,1555.0,1480.0,False,regular,fbs,fbs
+388,401247374,2020-11-21T17:00:00.000Z,Memphis,Stephen F. Austin,,,False,regular,fbs,fcs
+389,401215333,2020-11-21T17:00:00.000Z,Coastal Carolina,Appalachian State,1639.0,1679.0,True,regular,fbs,fbs
+390,401237136,2020-11-21T17:00:00.000Z,Arkansas,LSU,1385.0,1846.0,True,regular,fbs,fbs
+391,401207181,2020-11-21T19:00:00.000Z,Western Kentucky,Florida International,1328.0,1352.0,True,regular,fbs,fbs
+392,401207184,2020-11-21T19:00:00.000Z,North Texas,Rice,1273.0,1353.0,True,regular,fbs,fbs
+393,401207185,2020-11-21T20:00:00.000Z,Southern Mississippi,UT San Antonio,1225.0,1321.0,True,regular,fbs,fbs
+394,401239875,2020-11-21T20:00:00.000Z,Eastern Kentucky,Western Carolina,,,False,regular,fcs,fcs
+395,401209818,2020-11-21T20:00:00.000Z,BYU,North Alabama,,,False,regular,fbs,fcs
+396,401249019,2020-11-21T20:30:00.000Z,Nevada,San Diego State,1399.0,1668.0,True,regular,fbs,fbs
+397,401247323,2020-11-21T20:30:00.000Z,Northwestern,Wisconsin,1608.0,1997.0,True,regular,fbs,fbs
+398,401249411,2020-11-21T20:30:00.000Z,Oregon State,California,1412.0,1428.0,True,regular,fbs,fbs
+399,401212540,2020-11-21T20:30:00.000Z,UCF,Cincinnati,1804.0,1938.0,True,regular,fbs,fbs
+400,401240641,2020-11-21T20:30:00.000Z,Troy,Middle Tennessee,1469.0,1200.0,False,regular,fbs,fbs
+401,401249415,2020-11-21T20:30:00.000Z,Oregon,UCLA,1862.0,1478.0,True,regular,fbs,fbs
+402,401215335,2020-11-21T20:30:00.000Z,South Alabama,Georgia State,1229.0,1249.0,True,regular,fbs,fbs
+403,401247327,2020-11-21T20:30:00.000Z,Penn State,Iowa,1685.0,1907.0,True,regular,fbs,fbs
+404,401248275,2020-11-21T21:00:00.000Z,Virginia,Abilene Christian,,,False,regular,fbs,fcs
+405,401237135,2020-11-21T21:00:00.000Z,Alabama,Kentucky,2105.0,1692.0,True,regular,fbs,fbs
+406,401236025,2020-11-21T21:00:00.000Z,Iowa State,Kansas State,1691.0,1610.0,True,regular,fbs,fbs
+407,401234648,2020-11-21T21:00:00.000Z,Pittsburgh,Virginia Tech,1472.0,1645.0,True,regular,fbs,fbs
+408,401237137,2020-11-22T00:00:00.000Z,Auburn,Tennessee,1872.0,1463.0,True,regular,fbs,fbs
+409,401234647,2020-11-22T00:30:00.000Z,NC State,Liberty,1423.0,1543.0,False,regular,fbs,fbs
+410,401237139,2020-11-22T00:30:00.000Z,Georgia,Mississippi State,1859.0,1452.0,True,regular,fbs,fbs
+411,401247324,2020-11-22T00:30:00.000Z,Rutgers,Michigan,1297.0,1672.0,True,regular,fbs,fbs
+412,401237141,2020-11-22T00:30:00.000Z,South Carolina,Missouri,1404.0,1557.0,True,regular,fbs,fbs
+413,401236027,2020-11-22T00:30:00.000Z,Oklahoma,Oklahoma State,1912.0,1683.0,True,regular,fbs,fbs
+414,401249413,2020-11-22T01:00:00.000Z,Washington,Arizona,1751.0,1393.0,True,regular,fbs,fbs
+415,401249410,2020-11-22T03:30:00.000Z,Utah,USC,1721.0,1586.0,True,regular,fbs,fbs
+416,401249017,2020-11-22T04:00:00.000Z,Hawai'i,Boise State,1403.0,1709.0,True,regular,fbs,fbs
+417,401249025,2020-11-27T00:00:00.000Z,Utah State,New Mexico,1236.0,1184.0,True,regular,fbs,fbs
+418,401236029,2020-11-27T17:00:00.000Z,Texas,Iowa State,1801.0,1815.0,True,regular,fbs,fbs
+419,401251926,2020-11-27T17:00:00.000Z,Liberty,UMass,1539.0,890.0,False,regular,fbs,fbs
+420,401247332,2020-11-27T18:00:00.000Z,Iowa,Nebraska,1934.0,1476.0,True,regular,fbs,fbs
+421,401234650,2020-11-27T20:30:00.000Z,North Carolina,Notre Dame,1772.0,1955.0,True,regular,fbs,fbs
+422,401212483,2020-11-27T20:30:00.000Z,South Florida,UCF,1095.0,1807.0,True,regular,fbs,fbs
+423,401249028,2020-11-27T21:00:00.000Z,UNLV,Wyoming,1191.0,1561.0,True,regular,fbs,fbs
+424,401249874,2020-11-27T21:00:00.000Z,Eastern Michigan,Central Michigan,1341.0,1476.0,True,regular,fbs,fbs
+425,401249417,2020-11-27T21:30:00.000Z,California,Stanford,1425.0,1449.0,True,regular,fbs,fbs
+426,401249418,2020-11-28T00:30:00.000Z,Oregon State,Oregon,1415.0,1858.0,True,regular,fbs,fbs
+427,401234655,2020-11-28T17:00:00.000Z,Syracuse,NC State,1281.0,1427.0,True,regular,fbs,fbs
+428,401249873,2020-11-28T17:00:00.000Z,Toledo,Ball State,1391.0,1428.0,True,regular,fbs,fbs
+429,401237144,2020-11-28T17:00:00.000Z,Florida,Kentucky,1874.0,1564.0,True,regular,fbs,fbs
+430,401249876,2020-11-28T17:00:00.000Z,Ohio,Bowling Green,1552.0,930.0,True,regular,fbs,fbs
+431,401236032,2020-11-28T17:00:00.000Z,Oklahoma State,Texas Tech,1636.0,1434.0,True,regular,fbs,fbs
+432,401212513,2020-11-28T17:00:00.000Z,East Carolina,SMU,1298.0,1587.0,True,regular,fbs,fbs
+433,401215339,2020-11-28T17:00:00.000Z,Georgia State,Georgia Southern,1288.0,1481.0,True,regular,fbs,fbs
+434,401237143,2020-11-28T17:00:00.000Z,Missouri,Vanderbilt,1559.0,1183.0,True,regular,fbs,fbs
+435,401247333,2020-11-28T17:00:00.000Z,Michigan,Penn State,1657.0,1658.0,True,regular,fbs,fbs
+436,401249877,2020-11-28T17:00:00.000Z,Buffalo,Kent State,1640.0,1468.0,True,regular,fbs,fbs
+437,401247329,2020-11-28T17:00:00.000Z,Indiana,Maryland,1701.0,1326.0,True,regular,fbs,fbs
+438,401249875,2020-11-28T17:00:00.000Z,Western Michigan,Northern Illinois,1564.0,1229.0,True,regular,fbs,fbs
+439,401249892,2020-11-28T18:00:00.000Z,Akron,Miami (OH),916.0,1355.0,True,regular,fbs,fbs
+440,401207191,2020-11-28T20:00:00.000Z,UT San Antonio,North Texas,1320.0,1296.0,True,regular,fbs,fbs
+441,401215340,2020-11-28T20:00:00.000Z,Louisiana Monroe,Louisiana,1024.0,1657.0,True,regular,fbs,fbs
+442,401215338,2020-11-28T20:00:00.000Z,Texas State,Coastal Carolina,1197.0,1662.0,True,regular,fbs,fbs
+443,401215337,2020-11-28T20:00:00.000Z,Arkansas State,South Alabama,1271.0,1190.0,True,regular,fbs,fbs
+444,401247330,2020-11-28T20:30:00.000Z,Michigan State,Northwestern,1395.0,1656.0,True,regular,fbs,fbs
+445,401237142,2020-11-28T20:30:00.000Z,Alabama,Auburn,2233.0,1866.0,True,regular,fbs,fbs
+446,401234651,2020-11-28T20:30:00.000Z,Clemson,Pittsburgh,2135.0,1587.0,True,regular,fbs,fbs
+447,401215336,2020-11-28T20:30:00.000Z,Appalachian State,Troy,1656.0,1447.0,True,regular,fbs,fbs
+448,401247328,2020-11-28T21:00:00.000Z,Purdue,Rutgers,1503.0,1312.0,True,regular,fbs,fbs
+449,401234649,2020-11-28T21:00:00.000Z,Boston College,Louisville,1513.0,1529.0,True,regular,fbs,fbs
+450,401237147,2020-11-28T21:00:00.000Z,Ole Miss,Mississippi State,1596.0,1463.0,True,regular,fbs,fbs
+451,401265734,2020-11-28T22:37:00.000Z,Colorado,San Diego State,1422.0,1651.0,False,regular,fbs,fbs
+452,401236028,2020-11-29T00:00:00.000Z,Baylor,Kansas State,1666.0,1486.0,True,regular,fbs,fbs
+453,401234652,2020-11-29T00:00:00.000Z,Georgia Tech,Duke,1247.0,1424.0,True,regular,fbs,fbs
+454,401264080,2020-11-29T00:00:00.000Z,Navy,Memphis,1343.0,1585.0,True,regular,fbs,fbs
+455,401237146,2020-11-29T00:00:00.000Z,Texas A&M,LSU,1762.0,1825.0,True,regular,fbs,fbs
+456,401237145,2020-11-29T00:30:00.000Z,South Carolina,Georgia,1402.0,1848.0,True,regular,fbs,fbs
+457,401265458,2020-11-29T00:30:00.000Z,Washington,Utah,1756.0,1668.0,True,regular,fbs,fbs
+458,401236030,2020-11-29T01:00:00.000Z,Kansas,TCU,1024.0,1574.0,True,regular,fbs,fbs
+459,401249421,2020-11-29T01:00:00.000Z,UCLA,Arizona,1482.0,1388.0,True,regular,fbs,fbs
+460,401249024,2020-11-29T04:00:00.000Z,Hawai'i,Nevada,1411.0,1416.0,True,regular,fbs,fbs
+461,401265703,2020-12-03T23:00:00.000Z,North Texas,Louisiana Tech,1212.0,1433.0,True,regular,fbs,fbs
+462,401249029,2020-12-04T02:30:00.000Z,Utah State,Air Force,1260.0,1645.0,True,regular,fbs,fbs
+463,401252117,2020-12-05T01:30:00.000Z,Appalachian State,Louisiana,1734.0,1725.0,True,regular,fbs,fbs
+464,401237150,2020-12-05T17:00:00.000Z,Auburn,Texas A&M,1831.0,1793.0,True,regular,fbs,fbs
+465,401249880,2020-12-05T17:00:00.000Z,Northern Illinois,Toledo,1232.0,1389.0,True,regular,fbs,fbs
+466,401265818,2020-12-05T17:00:00.000Z,Missouri,Arkansas,1629.0,1406.0,True,regular,fbs,fbs
+467,401236036,2020-12-05T17:00:00.000Z,Kansas State,Texas,1491.0,1797.0,True,regular,fbs,fbs
+468,401247335,2020-12-05T17:00:00.000Z,Purdue,Nebraska,1474.0,1489.0,True,regular,fbs,fbs
+469,401247336,2020-12-05T17:00:00.000Z,Rutgers,Penn State,1341.0,1679.0,True,regular,fbs,fbs
+470,401236035,2020-12-05T17:00:00.000Z,Texas Tech,Kansas,1436.0,988.0,True,regular,fbs,fbs
+471,401236037,2020-12-05T17:00:00.000Z,TCU,Oklahoma State,1610.0,1634.0,True,regular,fbs,fbs
+472,401248781,2020-12-05T17:00:00.000Z,North Carolina,Western Carolina,,,False,regular,fbs,fcs
+473,401247340,2020-12-05T17:00:00.000Z,Michigan State,Ohio State,1429.0,2083.0,True,regular,fbs,fbs
+474,401257812,2020-12-05T17:00:00.000Z,Marshall,Rice,1676.0,1330.0,True,regular,fbs,fbs
+475,401264082,2020-12-05T17:00:00.000Z,Tulane,Memphis,1678.0,1576.0,True,regular,fbs,fbs
+476,401249879,2020-12-05T19:00:00.000Z,Western Michigan,Eastern Michigan,1561.0,1336.0,True,regular,fbs,fbs
+477,401249878,2020-12-05T19:00:00.000Z,Central Michigan,Ball State,1481.0,1430.0,True,regular,fbs,fbs
+478,401249881,2020-12-05T19:00:00.000Z,Akron,Bowling Green,882.0,886.0,True,regular,fbs,fbs
+479,401262494,2020-12-05T19:00:00.000Z,South Alabama,Troy,1210.0,1369.0,True,regular,fbs,fbs
+480,401234662,2020-12-05T19:30:00.000Z,Notre Dame,Syracuse,1970.0,1279.0,True,regular,fbs,fbs
+481,401262493,2020-12-05T20:00:00.000Z,Arkansas State,Louisiana Monroe,1251.0,956.0,True,regular,fbs,fbs
+482,401264083,2020-12-05T20:30:00.000Z,Navy,Tulsa,1352.0,1526.0,True,regular,fbs,fbs
+483,401237151,2020-12-05T20:30:00.000Z,Tennessee,Florida,1469.0,1901.0,True,regular,fbs,fbs
+484,401247337,2020-12-05T20:30:00.000Z,Illinois,Iowa,1407.0,1921.0,True,regular,fbs,fbs
+485,401234656,2020-12-05T20:30:00.000Z,Virginia,Boston College,1541.0,1523.0,True,regular,fbs,fbs
+486,401247338,2020-12-05T20:30:00.000Z,Wisconsin,Indiana,1949.0,1703.0,True,regular,fbs,fbs
+487,401236034,2020-12-05T20:30:00.000Z,Iowa State,West Virginia,1819.0,1652.0,True,regular,fbs,fbs
+488,401249424,2020-12-05T21:00:00.000Z,Washington,Stanford,1756.0,1449.0,True,regular,fbs,fbs
+489,401234659,2020-12-05T21:00:00.000Z,NC State,Georgia Tech,1429.0,1324.0,True,regular,fbs,fbs
+490,401237514,2020-12-05T22:30:00.000Z,Coastal Carolina,BYU,1705.0,1967.0,False,regular,fbs,fbs
+491,401249033,2020-12-05T23:00:00.000Z,San José State,Hawai'i,1486.0,1412.0,True,regular,fbs,fbs
+492,401261675,2020-12-05T23:00:00.000Z,Georgia Southern,Florida Atlantic,1464.0,1653.0,False,regular,fbs,fbs
+493,401249031,2020-12-06T00:00:00.000Z,San Diego State,Colorado State,1616.0,1346.0,True,regular,fbs,fbs
+494,401249426,2020-12-06T00:00:00.000Z,Arizona,Colorado,1360.0,1457.0,True,regular,fbs,fbs
+495,401249423,2020-12-06T00:00:00.000Z,California,Oregon,1425.0,1850.0,True,regular,fbs,fbs
+496,401237153,2020-12-06T00:30:00.000Z,Kentucky,South Carolina,1537.0,1374.0,True,regular,fbs,fbs
+497,401234657,2020-12-06T00:30:00.000Z,Virginia Tech,Clemson,1530.0,2167.0,True,regular,fbs,fbs
+498,401236033,2020-12-06T01:00:00.000Z,Oklahoma,Baylor,1959.0,1661.0,True,regular,fbs,fbs
+499,401265817,2020-12-06T01:00:00.000Z,LSU,Alabama,1794.0,2268.0,True,regular,fbs,fbs
+500,401266134,2020-12-06T01:00:00.000Z,Duke,Miami,1347.0,1660.0,True,regular,fbs,fbs
+501,401249032,2020-12-06T02:00:00.000Z,Nevada,Fresno State,1415.0,1517.0,True,regular,fbs,fbs
+502,401249422,2020-12-06T03:30:00.000Z,Utah,Oregon State,1668.0,1423.0,True,regular,fbs,fbs
+503,401249425,2020-12-06T03:30:00.000Z,Arizona State,UCLA,1550.0,1510.0,True,regular,fbs,fbs
+504,401249034,2020-12-06T03:30:00.000Z,New Mexico,Wyoming,1160.0,1603.0,True,regular,fbs,fbs
+505,401266789,2020-12-06T17:00:00.000Z,Charlotte,Western Kentucky,1340.0,1368.0,True,regular,fbs,fbs
+506,401249427,2020-12-07T00:30:00.000Z,USC,Washington State,1639.0,1600.0,True,regular,fbs,fbs
+507,401257813,2020-12-10T23:30:00.000Z,Southern Mississippi,Florida Atlantic,1226.0,1596.0,True,regular,fbs,fbs
+508,401261245,2020-12-11T00:00:00.000Z,Georgia Tech,Pittsburgh,1314.0,1555.0,True,regular,fbs,fbs
+509,401257816,2020-12-11T23:00:00.000Z,UTEP,North Texas,1079.0,1208.0,True,regular,fbs,fbs
+510,401249429,2020-12-12T00:00:00.000Z,Arizona,Arizona State,1345.0,1534.0,True,regular,fbs,fbs
+511,401249037,2020-12-12T03:00:00.000Z,San José State,Nevada,1500.0,1443.0,True,regular,fbs,fbs
+512,401247345,2020-12-12T17:00:00.000Z,Nebraska,Minnesota,1508.0,1622.0,True,regular,fbs,fbs
+513,401249428,2020-12-12T17:00:00.000Z,Colorado,Utah,1472.0,1664.0,True,regular,fbs,fbs
+514,401247346,2020-12-12T17:00:00.000Z,Penn State,Michigan State,1684.0,1393.0,True,regular,fbs,fbs
+515,401249884,2020-12-12T17:00:00.000Z,Eastern Michigan,Northern Illinois,1381.0,1207.0,True,regular,fbs,fbs
+516,401249885,2020-12-12T17:00:00.000Z,Ball State,Western Michigan,1503.0,1516.0,True,regular,fbs,fbs
+517,401247344,2020-12-12T17:00:00.000Z,Northwestern,Illinois,1622.0,1420.0,True,regular,fbs,fbs
+518,401247342,2020-12-12T17:00:00.000Z,Maryland,Rutgers,1324.0,1336.0,True,regular,fbs,fbs
+519,401266696,2020-12-12T17:00:00.000Z,Louisville,Wake Forest,1519.0,1606.0,True,regular,fbs,fbs
+520,401267164,2020-12-12T17:00:00.000Z,Arkansas,Alabama,1408.0,2319.0,True,regular,fbs,fbs
+521,401267161,2020-12-12T17:00:00.000Z,Missouri,Georgia,1627.0,1876.0,True,regular,fbs,fbs
+522,401257815,2020-12-12T18:00:00.000Z,Rice,UAB,1424.0,1503.0,True,regular,fbs,fbs
+523,401249886,2020-12-12T19:30:00.000Z,Buffalo,Akron,1696.0,956.0,True,regular,fbs,fbs
+524,401259671,2020-12-12T20:00:00.000Z,Troy,Coastal Carolina,1430.0,1722.0,True,regular,fbs,fbs
+525,401207203,2020-12-12T20:00:00.000Z,Army,Navy,1554.0,1339.0,False,regular,fbs,fbs
+526,401249883,2020-12-12T20:00:00.000Z,Toledo,Central Michigan,1414.0,1408.0,True,regular,fbs,fbs
+527,401234661,2020-12-12T20:30:00.000Z,Miami,North Carolina,1764.0,1757.0,True,regular,fbs,fbs
+528,401247347,2020-12-12T20:30:00.000Z,Iowa,Wisconsin,1908.0,1912.0,True,regular,fbs,fbs
+529,401250713,2020-12-12T20:30:00.000Z,Baylor,Oklahoma State,1659.0,1623.0,True,regular,fbs,fbs
+530,401264084,2020-12-12T20:30:00.000Z,Memphis,Houston,1556.0,1530.0,True,regular,fbs,fbs
+531,401266694,2020-12-12T21:00:00.000Z,Florida State,Duke,1232.0,1243.0,True,regular,fbs,fbs
+532,401267163,2020-12-12T21:00:00.000Z,Vanderbilt,Tennessee,1113.0,1479.0,True,regular,fbs,fbs
+533,401215309,2020-12-12T23:00:00.000Z,Georgia Southern,Appalachian State,1521.0,1729.0,True,regular,fbs,fbs
+534,401249035,2020-12-12T23:00:00.000Z,Wyoming,Boise State,1591.0,1701.0,True,regular,fbs,fbs
+535,401251100,2020-12-13T00:00:00.000Z,Florida,LSU,1891.0,1743.0,True,regular,fbs,fbs
+536,401266711,2020-12-13T00:00:00.000Z,TCU,Louisiana Tech,1621.0,1437.0,False,regular,fbs,fbs
+537,401249431,2020-12-13T00:30:00.000Z,UCLA,USC,1526.0,1698.0,True,regular,fbs,fbs
+538,401260157,2020-12-13T00:30:00.000Z,Mississippi State,Auburn,1461.0,1804.0,True,regular,fbs,fbs
+539,401234572,2020-12-13T01:00:00.000Z,Virginia Tech,Virginia,1506.0,1559.0,True,regular,fbs,fbs
+540,401249435,2020-12-13T03:00:00.000Z,BYU,San Diego State,1950.0,1618.0,False,regular,fbs,fbs
+541,401249432,2020-12-13T03:00:00.000Z,Oregon State,Stanford,1427.0,1481.0,True,regular,fbs,fbs
+542,401249036,2020-12-13T03:30:00.000Z,New Mexico,Fresno State,1172.0,1489.0,True,regular,fbs,fbs
+543,401249038,2020-12-13T04:00:00.000Z,Hawai'i,UNLV,1398.0,1149.0,True,regular,fbs,fbs
+544,401240101,2020-12-19T00:00:00.000Z,Marshall,UAB,1582.0,1506.0,True,regular,fbs,fbs
+545,401249854,2020-12-19T00:30:00.000Z,Buffalo,Ball State,1747.0,1504.0,True,regular,fbs,fbs
+546,401269382,2020-12-19T00:30:00.000Z,Rutgers,Nebraska,1340.0,1504.0,True,regular,fbs,fbs
+547,401249434,2020-12-19T01:00:00.000Z,USC,Oregon,1695.0,1833.0,True,regular,fbs,fbs
+548,401247349,2020-12-19T17:00:00.000Z,Ohio State,Northwestern,2119.0,1643.0,True,regular,fbs,fbs
+549,401260158,2020-12-19T17:00:00.000Z,Tennessee,Texas A&M,1504.0,1820.0,True,regular,fbs,fbs
+550,401262060,2020-12-19T17:00:00.000Z,Iowa State,Oklahoma,1899.0,1961.0,True,regular,fbs,fbs
+551,401269375,2020-12-19T18:30:00.000Z,Utah,Washington State,1685.0,1541.0,True,regular,fbs,fbs
+552,401265699,2020-12-19T20:00:00.000Z,Army,Air Force,1573.0,1677.0,False,regular,fbs,fbs
+553,401267166,2020-12-19T20:30:00.000Z,Mississippi State,Missouri,1460.0,1558.0,True,regular,fbs,fbs
+554,401267165,2020-12-19T20:30:00.000Z,LSU,Ole Miss,1757.0,1598.0,True,regular,fbs,fbs
+555,401256001,2020-12-19T21:00:00.000Z,Notre Dame,Clemson,1962.0,2191.0,True,regular,fbs,fbs
+556,401269384,2020-12-19T21:00:00.000Z,Wisconsin,Minnesota,1862.0,1626.0,True,regular,fbs,fbs
+557,401249043,2020-12-19T21:40:00.000Z,San José State,Boise State,1513.0,1708.0,True,regular,fbs,fbs
+558,401269381,2020-12-19T22:30:00.000Z,Penn State,Illinois,1691.0,1399.0,True,regular,fbs,fbs
+559,401269376,2020-12-20T00:00:00.000Z,UCLA,Stanford,1529.0,1482.0,True,regular,fbs,fbs
+560,401264085,2020-12-20T01:00:00.000Z,Cincinnati,Tulsa,1935.0,1539.0,True,regular,fbs,fbs
+561,401237074,2020-12-20T01:00:00.000Z,Florida,Alabama,1877.0,2351.0,True,regular,fbs,fbs
+562,401269378,2020-12-20T03:30:00.000Z,Oregon State,Arizona State,1426.0,1712.0,True,regular,fbs,fbs
