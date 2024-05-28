@@ -16,6 +16,15 @@ working_df = pd.read_csv('../data/working_df.csv')
 player_df = pd.read_csv('../data/player_recruiting.csv')
 pred_df = pd.read_csv('../data/app_data.csv')
 ratings_df = pd.read_csv('../data/team_conference_ratings.csv')
+trad_stats_df = pd.read_csv('../data/season_stats_w_totals.csv')
+
+# Display recent stats
+def show_stats(year, team):
+    #df = trad_stats_df[(trad_stats_df['year']==year)&(trad_stats_df['team']==team)]
+    cols = ['year', 'recent_win_pct', 'talent_level', 'blue_chip_ratio', 'total_tds', 'totalYards', 'off_success_rate']
+    df = working_df[(working_df['year']<=year-1) & (working_df['team']==team)][cols]
+    df['year'] = df['year'].astype(str)
+    st.dataframe(df.set_index('year'))
 
 # Create map with location of school
 def draw_map(year, team):
@@ -155,6 +164,9 @@ def main():
     with right_column:
         st.markdown(f"#### ELO Rating of {selected_team} Since {selected_year}")
         show_elo(selected_year, selected_team)
+        st.markdown("<br><br>",unsafe_allow_html=True)
+        st.markdown(f"#### Recent Stats for {selected_team} Leading Into {selected_year}")
+        show_stats(selected_year, selected_team)
 
     
     # Adding horizontal bar graph
