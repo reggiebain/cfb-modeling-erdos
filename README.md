@@ -17,7 +17,7 @@ As college football has grown exponentially in popularity since 2000 (with TV de
 - Professional and amateur sports gamblers
 ## Key Performance Indicators (KPIs)
 - Feature selection - identify key features that determine on-field outcomes
-- Predict season win totals accurately - compare to baseline model of 6 win regular season (50/50 chance of winning each game)
+- Predict season win totals accurately - compare to baseline model naive forecast (same win % as previous year)
 - Highly explainable model that allows for actionable insights
 ## EDA + Feature Engineering
 ### Advanced Metrics

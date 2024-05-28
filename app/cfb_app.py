@@ -4,25 +4,24 @@ import streamlit as st
 import folium
 import seaborn as sns
 from streamlit_folium import st_folium
+import pydeck as pdk
 
+# Set config variables
+st.set_page_config(page_title = 'CFB Data Explorer', layout='wide')
+
+# Download bunch of data
 team_info_df = pd.read_csv('../data/team_info.csv')
 recruiting_df = pd.read_csv('../data/team_recruiting_w_blue_chip_ratios.csv')
 working_df = pd.read_csv('../data/working_df.csv')
-player_recruiting_df = pd.read_csv('../data/player_recruiting.csv')
-
-# Set possible years and teams
-years = range(2014, 2023+1)
-teams = team_info_df['team'].unique()
-
-# Set year selectors on sidebar
-selected_year = st.sidebar.selectbox('Select Year', years)
-selected_team = st.sidebar.selectbox('Select Team', teams)
+player_df = pd.read_csv('../data/player_recruiting.csv')
+pred_df = pd.read_csv('../data/app_data.csv')
+ratings_df = pd.read_csv('../data/team_conference_ratings.csv')
 
 # Create map with location of school
 def draw_map(year, team):
     # Get info for the team
     team_row = team_info_df[team_info_df.team == team]
-    st.image(team_row['logo'].values[0], width=100)
+    #st.image(team_row['logo'].values[0], width=100)
     # Get location
     latitude = team_row['latitude']
     longitude = team_row['longitude']
@@ -35,18 +34,60 @@ def draw_map(year, team):
     folium.Marker(location=[latitude, longitude], popup=team).add_to(map)
     st_folium(map)
 
-# Draw the map
-draw_map(selected_year, selected_team)
-
 def show_recruits(year, team):
-    df = player_recruiting_df[(player_recruiting_df['year']==year) 
-                         & (player_recruiting_df['school']==team)]
+    df = player_df[(player_df['year']==year) & (player_df['school']==team)][['year', 'name', 'star', 'state', 'ranking', 'rating']]
     df['year'] = df['year'].astype(str)
     st.dataframe(df.set_index('year'))
-show_recruits(selected_year, selected_team)
+
+def show_recruit_heatmap(year, team):
+    # Get relavent data.
+    player_data = player_df[(player_df['year']==year) & (player_df['school']==team)]
+    team_data = team_info_df[team_info_df['team']==team]
+    
+    # Create heatmap layer for map
+    heatmap_layer = pdk.Layer(
+        'HeatmapLayer',
+        data=player_data,
+        get_position='[longitude, latitude]',
+        opacity=0.8,
+        get_weight=1
+    )
+    
+    logo_url = team_info_df[team_info_df.team == team].iloc[0]['logo']
+    logo_data = [{"url": logo_url, "width": 2000, "height": 2000, "anchorY": 242}]
+    
+    marker_layer = pdk.Layer(
+        type="IconLayer",
+        data=team_data,
+        get_position='[longitude, latitude]',
+        get_icon = logo_data,
+        get_size=4,
+        scale_size=15,
+        #get_icon=team_info_df[team_info_df.team == team].iloc[0]['logo'],
+        #scale_size=150000000000,
+        #pickable=True
+    )
+    map_layers = [heatmap_layer, marker_layer]
+
+    # Default viewing state. Pass values from dataframe here
+    view_state = pdk.ViewState(
+        latitude=team_data['latitude'].iloc[0],
+        longitude=team_data['longitude'].iloc[0],
+        zoom=3,
+        pitch=0
+    )
+    # Declare the deck
+    deck = pdk.Deck(
+        map_style='mapbox://styles/mapbox/light-v9',
+        initial_view_state=view_state,
+        layers=map_layers
+    )
+    # Render the Pydeck map in Streamlit
+    st.pydeck_chart(deck)    
 
 def show_elo(year, team):
-    fig = px.line(working_df[working_df['team']==team], 
+    df = ratings_df[(ratings_df['team']==team) & (ratings_df['year'] <= year)]
+    fig = px.line(df, 
                 x='year', 
                 y='elo', 
                 #orientation='h', 
@@ -56,45 +97,82 @@ def show_elo(year, team):
     st.plotly_chart(fig)
     #sns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo')
 
-show_elo(selected_year, selected_team)
+#def show_recent_stats(year, team):
+
+def get_current_coach(team):
+    row = pred_df[pred_df['team']==team].copy().iloc[0]
+    return row['coach']
+
+def show_predicted_records(team):
+    df = pred_df[pred_df['team']==team].copy()
+    team_row = df.iloc[0]
+    st.markdown(f"### Model Predicted 2024 Record: {int(team_row['pred_wins'])}-{int(team_row['pred_losses'])} ($\pm$ 1.908 wins)")
+
+def main():
+    # Set year selectors on sidebar
+    st.title("Explore Your Team's Data")
+    
+    # Split top of page between 2 selectors
+    col1, col2 = st.columns(2)
+
+    # Create team selector
+    with col1:
+        years = range(2014, 2024+1)
+        selected_year = st.selectbox('Select Year', years, index=10)
+    # Create year selector
+    with col2:
+        teams = team_info_df['team'].unique()
+        selected_team = st.selectbox('Select Team', teams, index=2)
+
+    # Get Team info
+    team_row = team_info_df[team_info_df.team == selected_team].iloc[0]
+    #st.markdown("# Team Information")
+
+    col1, mid, col2= st.columns([1,1, 25])
+    with col1:
+        st.image(team_row['logo'], width=60)
+    with col2:
+        st.markdown(f"## {team_row.team} {team_row.mascot}")
+
+    st.markdown('---')
+    show_predicted_records(selected_team)
+    st.write('**Note:** Record predicted using model trained on 2014-2023 data. See https://github.com/reggiebain/cfb-modeling-erdos/tree/main for more info!')
+    col1, buffer, col2 = st.columns([5, 1, 10])
+    with col1:
+        st.markdown(f"**Location:** {team_row['city']}, {team_row['state']}")
+        st.markdown(f"**Stadium Capacity:** {team_row['stadium_capacity']}")
+    with col2:
+        st.markdown(f"**Conference:** {team_row['conference']}")
+        st.markdown(f"**Current Coach:** {get_current_coach(selected_team)}")    
+
+    left_column, right_column = st.columns(2)
+    with left_column:
+        #draw_map(selected_year, selected_team)
+        st.markdown(f"#### Heatmap of {selected_year} {selected_team} Recruits")
+        show_recruit_heatmap(selected_year, selected_team)
+        st.markdown(f"#### Information on {selected_year} {selected_team} Recruits")
+        show_recruits(selected_year, selected_team)
+    with right_column:
+        st.markdown(f"#### ELO Rating of {selected_team} Since {selected_year}")
+        show_elo(selected_year, selected_team)
 
     
-# Set up columns
-#left_column, right_column = st.columns(2)
+    # Adding horizontal bar graph
+    st.subheader('Blue Chip Ratio for Each Year')
+    def draw_blue_chip_plot(year):
+        blue_chip_data = recruiting_df[(recruiting_df.year == year) & (recruiting_df.blue_chip_ratio > 0)][['team','blue_chip_ratio']].reset_index()
+        blue_chip_data_sorted = blue_chip_data.sort_values(by='blue_chip_ratio', ascending=True)
 
-# Function to create the map
-#def create_map(year):
-#    filtered_df = recruiting_df[recruiting_df['year'] == year]
-#    state_counts = filtered_df['state'].value_counts().reset_index()
-#    state_counts.columns = ['state', 'Recruits']
-#    
-#    fig = px.choropleth(locations=state_counts['State'], 
-#                        locationmode="USA-states", 
-#                        color=state_counts['Recruits'],
-#                        scope="usa",
-#                        color_continuous_scale="Viridis",
-#                        title=f"Recruits Distribution for {year}")
-#    fig.update_layout(geo=dict(bgcolor= 'rgba(0,0,0,0)', lakecolor='rgba(0,0,0,0)'), margin={"r":0,"t":0,"l":0,"b":0})
-#    st.plotly_chart(fig)
+        fig = px.bar(blue_chip_data_sorted, 
+                    x='blue_chip_ratio', 
+                    y='team', 
+                    orientation='h', 
+                    title='Blue Chip Ratio for Each Year',
+                    labels={'blue_chip_ratio': 'Blue Chip Ratio', 'Team': 'team'})
+        #fig.update_layout(yaxis=dict(rangemode=dict(visible=True), type="linear"))    
+        
+        st.plotly_chart(fig)
 
-#st.title('Recruits Distribution Map')
-
-#create_map(selected_year)
-
-# Adding horizontal bar graph
-st.subheader('Blue Chip Ratio for Each Year')
-def draw_blue_chip_plot(year):
-    blue_chip_data = recruiting_df[(recruiting_df.year == year) & (recruiting_df.blue_chip_ratio > 0)][['team','blue_chip_ratio']].reset_index()
-    blue_chip_data_sorted = blue_chip_data.sort_values(by='blue_chip_ratio', ascending=True)
-
-    fig = px.bar(blue_chip_data_sorted, 
-                x='blue_chip_ratio', 
-                y='team', 
-                orientation='h', 
-                title='Blue Chip Ratio for Each Year',
-                labels={'blue_chip_ratio': 'Blue Chip Ratio', 'Team': 'team'})
-    #fig.update_layout(yaxis=dict(rangemode=dict(visible=True), type="linear"))    
-    
-    st.plotly_chart(fig)
-
-draw_blue_chip_plot(selected_year)    
+    draw_blue_chip_plot(selected_year)    
+if __name__ == '__main__':
+    main()
