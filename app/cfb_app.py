@@ -21,7 +21,8 @@ trad_stats_df = pd.read_csv('../data/season_stats_w_totals.csv')
 # Display recent stats
 def show_stats(year, team):
     #df = trad_stats_df[(trad_stats_df['year']==year)&(trad_stats_df['team']==team)]
-    cols = ['year', 'recent_win_pct', 'talent_level', 'blue_chip_ratio', 'total_tds', 'totalYards', 'off_success_rate']
+    cols = ['year', 'recent_win_pct', 'talent_level', 'blue_chip_ratio', 
+            'total_tds', 'totalYards', 'off_success_rate', 'sos', 'sor', 'career_win_pct']
     df = working_df[(working_df['year']<=year-1) & (working_df['team']==team)][cols]
     df['year'] = df['year'].astype(str)
     st.dataframe(df.set_index('year'))
@@ -44,7 +45,9 @@ def draw_map(year, team):
     st_folium(map)
 
 def show_recruits(year, team):
-    df = player_df[(player_df['year']==year) & (player_df['school']==team)][['year', 'name', 'star', 'state', 'ranking', 'rating']]
+    df = player_df[(player_df['year']==year) 
+                   & (player_df['school']==team)][['year', 'name', 'star', 
+                                                   'state', 'ranking', 'rating', 'position', 'height', 'weight']]
     df['year'] = df['year'].astype(str)
     st.dataframe(df.set_index('year'))
 
@@ -163,9 +166,11 @@ def main():
         show_recruits(selected_year, selected_team)
     with right_column:
         st.markdown(f"#### ELO Rating of {selected_team} Since {selected_year}")
+        st.markdown("An ELO rating $R_A$ sets/updates an expectation that a team will win a given game using the formula $E_A = 1/(1+10^{(R_B-R_A)/400})$. ELO ratings were the most important factor in our model for determining wins.")
         show_elo(selected_year, selected_team)
-        st.markdown("<br><br>",unsafe_allow_html=True)
+        #st.markdown("<br>",unsafe_allow_html=True)
         st.markdown(f"#### Recent Stats for {selected_team} Leading Into {selected_year}")
+        st.markdown(f"For definitions of these terms see our writeup: https://github.com/reggiebain/cfb-modeling-erdos ")
         show_stats(selected_year, selected_team)
 
     
