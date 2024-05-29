@@ -3,3 +3,5 @@ plotly
 streamlit
 seaborn
 pydeck
+path
+sys
