@@ -4,4 +4,3 @@ streamlit
 seaborn
 pydeck
 path
-sys
