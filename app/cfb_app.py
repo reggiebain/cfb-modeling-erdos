@@ -1,5 +1,5 @@
 import pandas as pd
-import plotly.express as px
+#import plotly.express as px
 import streamlit as st
 import folium
 import seaborn as sns
@@ -190,6 +190,6 @@ def main():
         
         st.plotly_chart(fig)
 
-    draw_blue_chip_plot(selected_year)    
+    #draw_blue_chip_plot(selected_year)    
 if __name__ == '__main__':
     main()
