@@ -1,9 +1,9 @@
 import pandas as pd
 #import plotly.express as px
 import streamlit as st
-import folium
+#import folium
 import seaborn as sns
-from streamlit_folium import st_folium
+#from streamlit_folium import st_folium
 import pydeck as pdk
 
 # Set config variables
