@@ -104,15 +104,15 @@ def show_recruit_heatmap(year, team):
 
 def show_elo(year, team):
     df = ratings_df[(ratings_df['team']==team) & (ratings_df['year'] <= year)]
-    fig = px.line(df, 
-                x='year', 
-                y='elo', 
-                #orientation='h', 
-                title='ELO Rating Over Time',
-                labels={'elo': 'ELO', 'year': 'Year'}
-                )
-    st.plotly_chart(fig)
-    #sns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo')
+    #fig = px.line(df, 
+    #            x='year', 
+    #            y='elo', 
+    #            #orientation='h', 
+    #            title='ELO Rating Over Time',
+    #            labels={'elo': 'ELO', 'year': 'Year'}
+    #            )
+    #st.plotly_chart(fig)
+    sns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo')
 
 #def show_recent_stats(year, team):
 
