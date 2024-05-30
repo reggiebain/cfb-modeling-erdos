@@ -1,5 +1,6 @@
 # Jimmys and Joes vs X’s and O’s
-### *Predicting results in college sports analyzing talent accumulation and on-field success. A 2024 Erdös Institute Project.*
+#### *Predicting results in college sports analyzing talent accumulation and on-field success. A 2024 Erdös Institute Project.*
+#### Web app: https://bain-cfb-modeling-erdos.streamlit.app/ 
 ## Authors 
 - Reggie Bain &nbsp;<a href="https://www.linkedin.com/in/reggiebain/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; width:auto;"/></a> &nbsp; <a href="https://github.com/reggiebain"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="height: 1em; width: auto;"/></a>
 - Reid Harris &nbsp;<a href="https://www.linkedin.com/in/reid-harris-71233a1b0/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; width:auto;"/></a> &nbsp; <a href="https://github.com/ReidHarris"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="height: 1em; width: auto;"/></a>
@@ -77,8 +78,19 @@ As college football has grown exponentially in popularity since 2000 (with TV de
 | XGBRegressor            | 0.0382383 |   0.195546 |           20.9983 |            11.1171 |
 | LSTM                    | 0.0337128 |   0.18361  |           30.3482 |            16.5424 |
 ### Approach 2: Game by Game Time Series Approach
+- We also gathered game-by-game statistics going back to 2002. Featured included total passing yards, total rushing yards, the number of first downs, third and fourth down efficiencies, and pregame ELO ratings. 
+- For each game, we averaged these features over the last 4 games a team played, including the number of yards the team gained and the yards they allowed to the opponent. The data was split along the years 2002-2019 (training set) and 2020-2023 (test set). 
+- The model predicted probabilities that the first team would win. These were compared to the actual game results, which were given probability 1 if the first team won and 0 if the first team lost.
+- For a baseline model we simply chose the team with the higher ELO to win with probability 1. We fed this data into four additional models shown below:
+   1. Logistic regression
+   2. Decision tree classifier
+   3. Random forest classifier
+   4. Gradient boosting classifier
+### Feature Selection
+- To measure the importance of each of the features of the logistic regression (the best model), the coefficients were scaled by multiplying by the standard deviation of the feature from the training data. From this, the most important features, by far, for the logistic regression was the pregame ELO scores of the two participating teams.
+![reid-plot](images/feature-importance-reid-model.png "game-by-game")   
 ## Results
-#### Evaluating on the Test Set
+### Evaluating on the Test Set - Approach 1
 - When evalauting our best model from cross-validation (Linear Regression) on the test set we got the results shown in the table below.
 
 | model            |   test_mse |   test_rmse |   pct_improve_mse |   pct_improve_rmse |
@@ -92,6 +104,14 @@ As college football has grown exponentially in popularity since 2000 (with TV de
 - When performing cross validation for time series data, you have to take sucessive slices of the data and at some point you're predicting 2020, when the COVID-19 pandemic caused teams to play shortened seasons, have many players sit out at any given time, and many modified rules were in place.
 - In the plot below you see that our model (as measured by how much better our RMSE is than the baseline) has its worst performance when trying to predict the covid season.
 ![rmse_years](images/rmse_improvement_by_year.png "RMSE by Year") 
+### Evaluating on the Test Set - Approach 2
+- For each model, we compared the predicted probabilities with that of the baseline model. The logistic regression model was shown to predict the most accurate probabilities of the 5 models, with the following mean squared errors (measured relative to the correct outcome of the game): 
+
+| model                    |   2020 avg_mse |  2021 avg_mse  |   2022 avg_mse | 2023 avg_mse  | pct_improve_mse |
+|:------------------------|----------:|-----------:|------------------:|-------------------:|-------------------:|
+| Baseline Higher ELO        | 0.281 |   0.297 | 0.325 | 0.275 |  TBD |
+| LogisticRegression (Best Model)| 0.186 |   0.187 | 0.200 | 0.178 | TBD |
+
 ## Conclusions
 #### EDA and Feature Selection
 - We studied a wide array of features and found that ELO rating was the most important factor in modeling wins. It mattered more than any metrics related to talent or specific on-field statistics. 
