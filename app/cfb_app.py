@@ -9,7 +9,7 @@ import sys
 import path
 
 #dir = path.Path(__file__).abspath()
-sys.append.path('../data/')
+sys.path.append('../data/')
 
 # Set config variables
 st.set_page_config(page_title = 'CFB Data Explorer', layout='wide')
