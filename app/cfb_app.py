@@ -112,7 +112,7 @@ def show_elo(year, team):
     #            labels={'elo': 'ELO', 'year': 'Year'}
     #            )
     #st.plotly_chart(fig)
-    st.pyplot(st.seasns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo'))
+    st.pyplot(sns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo'))
 
 #def show_recent_stats(year, team):
 
