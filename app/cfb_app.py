@@ -10,7 +10,7 @@ import path
 
 dir = path.Path(__file__).abspath()
 #sys.path.append('../data/')
-sys.path.append(dir.parent)
+sys.path.append(dir.parent.parent)
 
 # Set config variables
 st.set_page_config(page_title = 'CFB Data Explorer', layout='wide')
