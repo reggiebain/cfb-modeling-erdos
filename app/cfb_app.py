@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit as st
 #import folium
 import seaborn as sns
+import matplotlib.pyplot as plt
 #from streamlit_folium import st_folium
 import pydeck as pdk
 import sys
@@ -112,7 +113,9 @@ def show_elo(year, team):
     #            labels={'elo': 'ELO', 'year': 'Year'}
     #            )
     #st.plotly_chart(fig)
-    st.pyplot(sns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo'))
+    fig, ax = plt.subplots()
+    ax = sns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo')
+    return fig
 
 #def show_recent_stats(year, team):
 
@@ -172,7 +175,7 @@ def main():
     with right_column:
         st.markdown(f"#### ELO Rating of {selected_team} Since {selected_year}")
         st.markdown("An ELO rating $R_A$ sets/updates an expectation that a team will win a given game using the formula $E_A = 1/(1+10^{(R_B-R_A)/400})$. ELO ratings were the most important factor in our model for determining wins.")
-        show_elo(selected_year, selected_team)
+        st.pyplot(show_elo(selected_year, selected_team))
         #st.markdown("<br>",unsafe_allow_html=True)
         st.markdown(f"#### Recent Stats for {selected_team} Leading Into {selected_year}")
         st.markdown(f"For definitions of these terms see our writeup: https://github.com/reggiebain/cfb-modeling-erdos ")
