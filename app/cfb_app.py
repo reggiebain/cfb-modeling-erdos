@@ -9,21 +9,19 @@ import sys
 import path
 
 dir = path.Path(__file__).abspath()
-#sys.path.append('../data/')
 sys.path.append(dir.parent.parent)
 
 # Set config variables
 st.set_page_config(page_title = 'CFB Data Explorer', layout='wide')
 
-# Download bunch of data
+# Download bunch of data (USE ../data and comment out dir/sys above if running locally)
 team_info_df = pd.read_csv('data/team_info.csv')
-#team_info_df = pd.read_csv('../data/team_info.csv')
-recruiting_df = pd.read_csv('../data/team_recruiting_w_blue_chip_ratios.csv')
-working_df = pd.read_csv('../data/working_df.csv')
-player_df = pd.read_csv('../data/player_recruiting.csv')
-pred_df = pd.read_csv('../data/app_data.csv')
-ratings_df = pd.read_csv('../data/team_conference_ratings.csv')
-trad_stats_df = pd.read_csv('../data/season_stats_w_totals.csv')
+recruiting_df = pd.read_csv('data/team_recruiting_w_blue_chip_ratios.csv')
+working_df = pd.read_csv('data/working_df.csv')
+player_df = pd.read_csv('data/player_recruiting.csv')
+pred_df = pd.read_csv('data/app_data.csv')
+ratings_df = pd.read_csv('data/team_conference_ratings.csv')
+trad_stats_df = pd.read_csv('data/season_stats_w_totals.csv')
 
 # Display recent stats
 def show_stats(year, team):
