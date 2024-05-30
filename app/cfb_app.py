@@ -16,7 +16,7 @@ sys.path.append(dir.parent.parent)
 st.set_page_config(page_title = 'CFB Data Explorer', layout='wide')
 
 # Download bunch of data
-team_info_df = pd.read_csv(dir + 'data/team_info.csv')
+team_info_df = pd.read_csv('data/team_info.csv')
 #team_info_df = pd.read_csv('../data/team_info.csv')
 recruiting_df = pd.read_csv('../data/team_recruiting_w_blue_chip_ratios.csv')
 working_df = pd.read_csv('../data/working_df.csv')
