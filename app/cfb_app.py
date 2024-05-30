@@ -5,11 +5,11 @@ import streamlit as st
 import seaborn as sns
 #from streamlit_folium import st_folium
 import pydeck as pdk
-import path
 import sys
+import path
 
 #dir = path.Path(__file__).abspath()
-#sys.append.path(dir.parent.parent)
+sys.append.path('../data/')
 
 # Set config variables
 st.set_page_config(page_title = 'CFB Data Explorer', layout='wide')
