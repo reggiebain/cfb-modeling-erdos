@@ -128,6 +128,12 @@ def show_predicted_records(team):
     team_row = df.iloc[0]
     st.markdown(f"### Model Predicted 2024 Record: {int(team_row['pred_wins'])}-{int(team_row['pred_losses'])} ($\pm$ 1.908 wins)")
 
+def plot_scatters(team):
+    df = working_df
+    fig, ax = plt.subplots()
+    ax = sns.scatterplot(data=working_df[working_df['team']==team], x='year', y='elo')
+    return fig
+
 def main():
     # Set year selectors on sidebar
     st.title("Explore Your Team's Data")
@@ -176,14 +182,18 @@ def main():
         st.markdown(f"#### ELO Rating of {selected_team} Since {selected_year}")
         st.markdown("An ELO rating $R_A$ sets/updates an expectation that a team will win a given game using the formula $E_A = 1/(1+10^{(R_B-R_A)/400})$. ELO ratings were the most important factor in our model for determining wins.")
         st.pyplot(show_elo(selected_year, selected_team))
-        #st.markdown("<br>",unsafe_allow_html=True)
+        ##st.markdown("<br>",unsafe_allow_html=True)
         st.markdown(f"#### Recent Stats for {selected_team} Leading Into {selected_year}")
+        #st.markdown(f"#### Plot Different Features vs. Team Win Percentage")
         st.markdown(f"For definitions of these terms see our writeup: https://github.com/reggiebain/cfb-modeling-erdos ")
+        #features = ['elo', 'recent_win_pct', 'career_win_pct', 'talent_level', 'blue_chip_ratio', 'off_success_rate']
+        #selected_year = st.selectbox('Select Feature', features, index=0)
+
         show_stats(selected_year, selected_team)
 
     
     # Adding horizontal bar graph
-    st.subheader('Blue Chip Ratio for Each Year')
+    #st.subheader('Blue Chip Ratio for Each Year')
     def draw_blue_chip_plot(year):
         blue_chip_data = recruiting_df[(recruiting_df.year == year) & (recruiting_df.blue_chip_ratio > 0)][['team','blue_chip_ratio']].reset_index()
         blue_chip_data_sorted = blue_chip_data.sort_values(by='blue_chip_ratio', ascending=True)

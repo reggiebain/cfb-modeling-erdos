@@ -106,12 +106,9 @@ As college football has grown exponentially in popularity since 2000 (with TV de
 ![rmse_years](images/rmse_improvement_by_year.png "RMSE by Year") 
 ### Evaluating on the Test Set - Approach 2
 - For each model, we compared the predicted probabilities with that of the baseline model. The logistic regression model was shown to predict the most accurate probabilities of the 5 models, with the following mean squared errors (measured relative to the correct outcome of the game): 
-
-| model                    |   2020 avg_mse |  2021 avg_mse  |   2022 avg_mse | 2023 avg_mse  | pct_improve_mse |
-|:------------------------|----------:|-----------:|------------------:|-------------------:|-------------------:|
-| Baseline Higher ELO        | 0.281 |   0.297 | 0.325 | 0.275 |  TBD |
-| LogisticRegression (Best Model)| 0.186 |   0.187 | 0.200 | 0.178 | TBD |
-
+![mses-by-year-reid](images/mses-by-year-reid.png "MSEs by Year")
+- We also calculated the percent improvement that the models made over the baseline model of choosing the team with the higher ELO score as the winner:
+![pct_improve_reid](images/pct_improve_reid.png "Pct Improve")
 ## Conclusions
 #### EDA and Feature Selection
 - We studied a wide array of features and found that ELO rating was the most important factor in modeling wins. It mattered more than any metrics related to talent or specific on-field statistics. 
