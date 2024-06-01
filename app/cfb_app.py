@@ -25,15 +25,25 @@ ratings_df = pd.read_csv('data/team_conference_ratings.csv')
 trad_stats_df = pd.read_csv('data/season_stats_w_totals.csv')
 
 # Display recent stats
-def show_stats(year, team):
+def show_stats(year, team, stat):
     #df = trad_stats_df[(trad_stats_df['year']==year)&(trad_stats_df['team']==team)]
     cols = ['year', 'recent_win_pct', 'talent_level', 'blue_chip_ratio', 
             'total_tds', 'totalYards', 'off_success_rate', 'sos', 'sor', 'career_win_pct']
     df = working_df[(working_df['year']<=year-1) & (working_df['team']==team)][cols]
-    df['year'] = df['year'].astype(str)
-    st.dataframe(df.set_index('year'))
+    #df['year'] = df['year'].astype(str)
+    #st.dataframe(df.set_index('year'))
 
-    sns.barplot(data=df, x='')
+    conference = df['conference'].iloc[0]
+    plot_df = df.copy()
+    conf_avg_stat = working_df.groupby(by=['year','conference']).stat.mean().reset_index()
+    plot_df = plot_df.merge(conf_avg_stat, on=['year', 'conference'], suffixes=('', '_conf_avg'))
+    fig, ax = plt.subplots()
+    #ax = sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo')
+    sns.barplot(data=plot_df[plot_df['team']==team], x='year', y='elo', label = team, ax=ax)
+    sns.barplot(data=plot_df, x='year', y=f"{stat}_conv_avg",  label=f"{conference} Average", ax=ax)
+    #plt.tight_layout()
+    #st.pyplot(plt.gcf())
+    st.pyplot(fig.get_figure())
 
 
 
@@ -193,9 +203,9 @@ def main():
         st.markdown(f"#### Recent Stats for {selected_team} Leading Into {selected_year}")
         #st.markdown(f"#### Plot Different Features vs. Team Win Percentage")
         st.markdown(f"For definitions of these terms see our writeup: https://github.com/reggiebain/cfb-modeling-erdos ")
-        features = ['elo', 'recent_win_pct', 'career_win_pct', 'talent_level', 'blue_chip_ratio', 'off_success_rate', 'sos']
+        features = ['recent_win_pct', 'career_win_pct', 'talent_level', 'blue_chip_ratio', 'off_success_rate', 'sos']
         selected_feature = st.selectbox('Select Feature', features, index=0)
-        show_stats(selected_year, selected_team)
+        show_stats(selected_year, selected_team, selected_feature)
 
     
     # Adding horizontal bar graph
