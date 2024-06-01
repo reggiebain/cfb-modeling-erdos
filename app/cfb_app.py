@@ -39,11 +39,8 @@ def show_stats(year, team, stat):
     conf_avg_stat = working_df.groupby(by=['year','conference'])[stat].mean().reset_index()
     plot_df = plot_df.merge(conf_avg_stat, on=['year', 'conference'], suffixes=('', '_conf_avg'))
     fig, ax = plt.subplots()
-    #ax = sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo')
-    sns.barplot(data=plot_df[plot_df['team']==team], x='year', y='elo', label = team, ax=ax)
-    sns.barplot(data=plot_df, x='year', y=f"{stat}_conv_avg",  label=f"{conference} Average", ax=ax)
-    #plt.tight_layout()
-    #st.pyplot(plt.gcf())
+    sns.barplot(data=plot_df[plot_df['team']==team], x='year', y=stat, label = team, ax=ax)
+    sns.barplot(data=plot_df, x='year', y=f"{stat}_conf_avg",  label=f"{conference} Average", ax=ax)
     st.pyplot(fig.get_figure())
 
 
