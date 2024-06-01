@@ -32,8 +32,8 @@ def show_stats(year, team, stat):
     df = working_df[(working_df['year']<=year-1) & (working_df['team']==team)][cols]
     #df['year'] = df['year'].astype(str)
     #st.dataframe(df.set_index('year'))
-
-    conference = df['conference'].iloc[0]
+    
+    conference = working_df['conference'].iloc[0]
     plot_df = df.copy()
     conf_avg_stat = working_df.groupby(by=['year','conference']).stat.mean().reset_index()
     plot_df = plot_df.merge(conf_avg_stat, on=['year', 'conference'], suffixes=('', '_conf_avg'))
