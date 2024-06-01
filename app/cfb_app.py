@@ -35,8 +35,8 @@ def show_stats(year, team, stat):
     temp = working_df.copy()
     temp = working_df[(working_df['year']<=year-1) & (working_df['team']==team)]
     conference = temp['conference'].iloc[0]
-    plot_df = df.copy()
-    conf_avg_stat = temp.groupby(by=['year','conference'])[stat].mean().reset_index()
+    plot_df = temp.copy()
+    conf_avg_stat = working_df.groupby(by=['year','conference'])[stat].mean().reset_index()
     plot_df = plot_df.merge(conf_avg_stat, on=['year', 'conference'], suffixes=('', '_conf_avg'))
     fig, ax = plt.subplots()
     #ax = sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo')
