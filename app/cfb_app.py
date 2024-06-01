@@ -33,6 +33,10 @@ def show_stats(year, team):
     df['year'] = df['year'].astype(str)
     st.dataframe(df.set_index('year'))
 
+    sns.barplot(data=df, x='')
+
+
+
 # Create map with location of school
 def draw_map(year, team):
     # Get info for the team
@@ -189,9 +193,8 @@ def main():
         st.markdown(f"#### Recent Stats for {selected_team} Leading Into {selected_year}")
         #st.markdown(f"#### Plot Different Features vs. Team Win Percentage")
         st.markdown(f"For definitions of these terms see our writeup: https://github.com/reggiebain/cfb-modeling-erdos ")
-        #features = ['elo', 'recent_win_pct', 'career_win_pct', 'talent_level', 'blue_chip_ratio', 'off_success_rate']
-        #selected_year = st.selectbox('Select Feature', features, index=0)
-
+        features = ['elo', 'recent_win_pct', 'career_win_pct', 'talent_level', 'blue_chip_ratio', 'off_success_rate', 'sos']
+        selected_feature = st.selectbox('Select Feature', features, index=0)
         show_stats(selected_year, selected_team)
 
     
