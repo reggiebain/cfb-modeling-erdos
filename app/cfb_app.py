@@ -108,13 +108,13 @@ def show_elo(year, team):
     plot_df = df.copy()
     conf_avg_elo = plot_df.groupby(by=['year','conference'])['elo'].mean().reset_index()
     plot_df = plot_df.merge(conf_avg_elo, on=['year', 'conference'], suffixes=('', '_conf_avg'))
-    fig= plt.figure()
+    fig, ax = plt.subplots()
     #ax = sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo')
-    sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo', label = team)
-    sns.lineplot(data=plot_df, x='year', y='elo_conf_avg',  label="Conference Average")
+    sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo', label = team, ax=ax)
+    sns.lineplot(data=plot_df, x='year', y='elo_conf_avg',  label="Conference Average", ax=ax)
     #plt.tight_layout()
-    st.pyplot(plt.gcf())
-    #st.pyplot(fig.get_figure())
+    #st.pyplot(plt.gcf())
+    st.pyplot(fig.get_figure())
     return None
     #return fig
 
