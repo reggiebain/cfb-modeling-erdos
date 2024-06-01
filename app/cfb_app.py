@@ -112,6 +112,8 @@ def show_elo(year, team):
     #ax = sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo')
     sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo', label = team)
     sns.lineplot(data=plot_df, x='year', y='elo_conf_avg',  label="Conference Average")
+    plt.show()
+    plt.tight_layout()
     st.pyplot(fig.get_figure())
     return None
     #return fig
