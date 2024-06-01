@@ -54,6 +54,8 @@ def pick_tier(tiers = 'all'):
         return df
     elif tiers == [1, 2]:
         return df[df['team'].isin(tier_one + tier_two)]    
+    elif tiers == [1, 2, 3]:
+        return df[df['team'].isin(tier_one + tier_two + tier_three)]        
     elif tiers == 1:
         return df[df['team'].isin(tier_one)]
     elif tiers == 2:

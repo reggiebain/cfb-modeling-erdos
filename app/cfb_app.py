@@ -105,17 +105,14 @@ def show_recruit_heatmap(year, team):
 
 def show_elo(year, team):
     df = ratings_df[(ratings_df['team']==team) & (ratings_df['year'] <= year)]
-    #fig = px.line(df, 
-    #            x='year', 
-    #            y='elo', 
-    #            #orientation='h', 
-    #            title='ELO Rating Over Time',
-    #            labels={'elo': 'ELO', 'year': 'Year'}
-    #            )
-    #st.plotly_chart(fig)
-    fig, ax = plt.subplots()
-    ax = sns.lineplot(data=working_df[working_df['team']==team], x='year', y='elo')
-    return fig
+    plot_df = df.copy()
+    conf_avg_elo = plot_df.groupby(by=['year','conference'])['elo'].mean().reset_index()
+    plot_df = plot_df.merge(conf_avg_elo, on=['year', 'conference'], suffixes=('', '_conf_avg'))
+    #fig, ax = plt.subplots()
+    #ax = sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo')
+    st.pyplot(sns.lineplot(data=plot_df[plot_df['team']==team], x='year', y='elo').get_figure())
+    return None
+    #return fig
 
 #def show_recent_stats(year, team):
 
@@ -181,7 +178,8 @@ def main():
     with right_column:
         st.markdown(f"#### ELO Rating of {selected_team} Since {selected_year}")
         st.markdown("An ELO rating $R_A$ sets/updates an expectation that a team will win a given game using the formula $E_A = 1/(1+10^{(R_B-R_A)/400})$. ELO ratings were the most important factor in our model for determining wins.")
-        st.pyplot(show_elo(selected_year, selected_team))
+        #st.pyplot(show_elo(selected_year, selected_team))
+        show_elo(selected_year, selected_team)
         ##st.markdown("<br>",unsafe_allow_html=True)
         st.markdown(f"#### Recent Stats for {selected_team} Leading Into {selected_year}")
         #st.markdown(f"#### Plot Different Features vs. Team Win Percentage")
