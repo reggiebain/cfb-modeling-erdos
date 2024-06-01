@@ -198,7 +198,7 @@ def main():
         #st.pyplot(show_elo(selected_year, selected_team))
         show_elo(selected_year, selected_team)
         ##st.markdown("<br>",unsafe_allow_html=True)
-        st.markdown(f"#### Recent Stats for {selected_team} Leading Into {selected_year}")
+        st.markdown(f"#### Stats for {selected_team} vs. Conference Average")
         #st.markdown(f"#### Plot Different Features vs. Team Win Percentage")
         st.markdown(f"For definitions of these terms see our writeup: https://github.com/reggiebain/cfb-modeling-erdos ")
         features = ['recent_win_pct', 'career_win_pct', 'talent_level', 'blue_chip_ratio', 'off_success_rate', 'sos']
