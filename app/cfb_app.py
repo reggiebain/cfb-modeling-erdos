@@ -105,7 +105,7 @@ def show_recruit_heatmap(year, team):
 
 def show_elo(year, team):
     df = ratings_df[(ratings_df['team']==team) & (ratings_df['year'] <= year)]
-    conferece = df['conference'].iloc[0]
+    conference = df['conference'].iloc[0]
     plot_df = df.copy()
     conf_avg_elo = ratings_df.groupby(by=['year','conference'])['elo'].mean().reset_index()
     plot_df = plot_df.merge(conf_avg_elo, on=['year', 'conference'], suffixes=('', '_conf_avg'))
