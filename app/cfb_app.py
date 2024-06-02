@@ -201,8 +201,13 @@ def main():
         st.markdown(f"#### Stats for {selected_team} vs. Conference Average")
         #st.markdown(f"#### Plot Different Features vs. Team Win Percentage")
         st.markdown(f"For definitions of these terms see our writeup: https://github.com/reggiebain/cfb-modeling-erdos ")
+        
+        features_dict = {"Recent Team Win Pct": 'recent_win_pct', "Coach Career Win Pct": 'career_win_pct', 
+                         "Team Talent Level": 'talent_level', "Blue Chip Ratio":'blue_chip_ratio', 
+                         "Offensive Success Rate":'off_success_rate', "Strength of Schedule":'sos'}
+        
         features = ['recent_win_pct', 'career_win_pct', 'talent_level', 'blue_chip_ratio', 'off_success_rate', 'sos']
-        selected_feature = st.selectbox('Select Feature', features, index=0)
+        selected_feature = features_dict[st.selectbox('Select Feature', list(features_dict), index=0)]
         show_stats(selected_year, selected_team, selected_feature)
 
     
