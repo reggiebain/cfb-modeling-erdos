@@ -194,7 +194,7 @@ def main():
         show_recruits(selected_year, selected_team)
     with right_column:
         st.markdown(f"#### ELO Rating of {selected_team} Since {selected_year}")
-        st.markdown("An ELO rating $R_A$ sets/updates an expectation that a team will win a given game using the formula $E_A = 1/(1+10^{(R_B-R_A)/400})$. ELO ratings were the most important factor in our model for determining wins.")
+        st.markdown("An ELO rating $R_A$ sets/updates an expectation that a team will win $E_A = 1/(1+10^{(R_B-R_A)/400})$. ELO ratings were the most important factor in our model for determining wins.")
         #st.pyplot(show_elo(selected_year, selected_team))
         show_elo(selected_year, selected_team)
         ##st.markdown("<br>",unsafe_allow_html=True)
