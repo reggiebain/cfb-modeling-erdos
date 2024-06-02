@@ -174,7 +174,7 @@ def main():
 
     st.markdown('---')
     show_predicted_records(selected_team)
-    st.write('**Note:** Record predicted using model trained on 2014-2023 data. See https://github.com/reggiebain/cfb-modeling-erdos/tree/main for more info!')
+    st.write('**Note:** Record predicted using model trained on 2014-2023 data. See https://github.com/reggiebain/cfb-modeling-erdos for more info!')
     col1, buffer, col2 = st.columns([5, 1, 10])
     with col1:
         st.markdown(f"**Location:** {team_row['city']}, {team_row['state']}")
