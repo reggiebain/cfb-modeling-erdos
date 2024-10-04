@@ -7,13 +7,9 @@ import matplotlib.pyplot as plt
 #from streamlit_folium import st_folium
 import pydeck as pdk
 import sys
-#import path
-
-#dir = path.Path(__file__).abspath()
 
 import pathlib
 dir = pathlib.Path.cwd().absolute()
-
 
 sys.path.append(dir.parent.parent)
 
